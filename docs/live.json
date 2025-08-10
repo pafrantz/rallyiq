@@ -1,10 +1,10 @@
 {
-  "ts": "2025-08-10T20:50:43.236Z",
+  "ts": "2025-08-10T20:55:58.031Z",
   "game_id": "401773026",
-  "quarter": 1,
-  "clock": "0:00",
+  "quarter": 2,
+  "clock": "13:30",
   "down": null,
   "distance": null,
   "yardline": null,
-  "note": "STATUS_END_PERIOD"
+  "note": "STATUS_IN_PROGRESS"
 }
