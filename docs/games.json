@@ -1,33 +1,6 @@
 {
-  "ts": "2025-08-10T23:12:04.219Z",
+  "ts": "2025-08-10T23:29:31.079Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401773026",
-      "shortName": "NO @ LAC",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:43",
-      "start": "2025-08-10T20:00Z",
-      "teams": [
-        {
-          "id": "24",
-          "homeAway": "home",
-          "abbreviation": "LAC",
-          "displayName": "Los Angeles Chargers",
-          "score": 27
-        },
-        {
-          "id": "18",
-          "homeAway": "away",
-          "abbreviation": "NO",
-          "displayName": "New Orleans Saints",
-          "score": 10
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "75'",
+      "clock": "90'+2'",
       "start": "2025-08-10T21:30Z",
       "teams": [
         {
@@ -51,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "SAN",
           "displayName": "Santos",
-          "score": 1
+          "score": 2
         }
       ]
     },
