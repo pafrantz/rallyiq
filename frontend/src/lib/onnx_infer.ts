@@ -2,6 +2,8 @@
 // Falls back to heuristics if model files are missing or load fails.
 import * as ort from 'onnxruntime-web'
 
+ort.env.wasm.wasmPaths = import.meta.env.BASE_URL + 'onnx/';
+
 export type Context = {
   down: number; distance: number; yardline: number; quarter: number;
   clock_secs: number; score_diff: number;

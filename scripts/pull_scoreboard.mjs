@@ -1,4 +1,5 @@
-﻿import fs from "fs/promises";
+// scripts/pull_scoreboard.mjs
+import fs from "fs/promises";
 
 const URL = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard";
 const toClock = (s) => (s && s.includes(":") ? s : null);

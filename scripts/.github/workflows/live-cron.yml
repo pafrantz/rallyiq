@@ -1,4 +1,4 @@
-name: Update games & live
+﻿name: Update live feed
 on:
   schedule:
     - cron: "*/2 * * * *"
@@ -8,21 +8,19 @@ permissions:
   contents: write
 
 jobs:
-  fetch:
+  live:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Pull games list
-        run: node scripts/pull_games.mjs
-      - name: Pull scoreboard (live)
+      - name: Pull ESPN scoreboard -> docs/live.json
         run: node scripts/pull_scoreboard.mjs
       - name: Commit & push
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/games.json docs/live.json
-          git commit -m "chore: update games & live" || echo "no changes"
+          git add docs/live.json
+          git commit -m "chore: update live.json" || echo "no changes"
           git push
