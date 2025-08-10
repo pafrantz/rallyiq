@@ -1,0 +1,389 @@
+{
+  "ts": "2025-08-10T20:09:36.926Z",
+  "games": [
+    {
+      "id": "401776564",
+      "shortName": "MIA @ CHI",
+      "status": "STATUS_IN_PROGRESS",
+      "period": 4,
+      "clock": "0:05",
+      "start": "2025-08-10T17:00Z",
+      "teams": [
+        {
+          "id": "3",
+          "homeAway": "home",
+          "abbreviation": "CHI",
+          "displayName": "Chicago Bears",
+          "score": 24
+        },
+        {
+          "id": "15",
+          "homeAway": "away",
+          "abbreviation": "MIA",
+          "displayName": "Miami Dolphins",
+          "score": 24
+        }
+      ]
+    },
+    {
+      "id": "401773026",
+      "shortName": "NO @ LAC",
+      "status": "STATUS_IN_PROGRESS",
+      "period": 1,
+      "clock": "14:20",
+      "start": "2025-08-10T20:00Z",
+      "teams": [
+        {
+          "id": "24",
+          "homeAway": "home",
+          "abbreviation": "LAC",
+          "displayName": "Los Angeles Chargers",
+          "score": 0
+        },
+        {
+          "id": "18",
+          "homeAway": "away",
+          "abbreviation": "NO",
+          "displayName": "New Orleans Saints",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "id": "401773001",
+      "shortName": "IND @ BAL",
+      "status": "STATUS_FINAL",
+      "period": 4,
+      "clock": "0:00",
+      "start": "2025-08-07T23:00Z",
+      "teams": [
+        {
+          "id": "33",
+          "homeAway": "home",
+          "abbreviation": "BAL",
+          "displayName": "Baltimore Ravens",
+          "score": 24
+        },
+        {
+          "id": "11",
+          "homeAway": "away",
+          "abbreviation": "IND",
+          "displayName": "Indianapolis Colts",
+          "score": 16
+        }
+      ]
+    },
+    {
+      "id": "401773005",
+      "shortName": "CIN @ PHI",
+      "status": "STATUS_FINAL",
+      "period": 4,
+      "clock": "0:00",
+      "start": "2025-08-07T23:30Z",
+      "teams": [
+        {
+          "id": "21",
+          "homeAway": "home",
+          "abbreviation": "PHI",
+          "displayName": "Philadelphia Eagles",
+          "score": 34
+        },
+        {
+          "id": "4",
+          "homeAway": "away",
+          "abbreviation": "CIN",
+          "displayName": "Cincinnati Bengals",
+          "score": 27
+        }
+      ]
+    },
+    {
+      "id": "401774568",
+      "shortName": "LV @ SEA",
+      "status": "STATUS_FINAL",
+      "period": 4,
+      "clock": "0:00",
+      "start": "2025-08-08T02:00Z",
+      "teams": [
+        {
+          "id": "26",
+          "homeAway": "home",
+          "abbreviation": "SEA",
+          "displayName": "Seattle Seahawks",
+          "score": 23
+        },
+        {
+          "id": "13",
+          "homeAway": "away",
+          "abbreviation": "LV",
+          "displayName": "Las Vegas Raiders",
+          "score": 23
+        }
+      ]
+    },
+    {
+      "id": "401773016",
+      "shortName": "DET @ ATL",
+      "status": "STATUS_FINAL",
+      "period": 4,
+      "clock": "0:00",
+      "start": "2025-08-08T23:00Z",
+      "teams": [
+        {
+          "id": "1",
+          "homeAway": "home",
+          "abbreviation": "ATL",
+          "displayName": "Atlanta Falcons",
+          "score": 10
+        },
+        {
+          "id": "8",
+          "homeAway": "away",
+          "abbreviation": "DET",
+          "displayName": "Detroit Lions",
+          "score": 17
+        }
+      ]
+    },
+    {
+      "id": "401773018",
+      "shortName": "CLE @ CAR",
+      "status": "STATUS_FINAL",
+      "period": 4,
+      "clock": "0:00",
+      "start": "2025-08-08T23:00Z",
+      "teams": [
+        {
+          "id": "29",
+          "homeAway": "home",
+          "abbreviation": "CAR",
+          "displayName": "Carolina Panthers",
+          "score": 10
+        },
+        {
+          "id": "5",
+          "homeAway": "away",
+          "abbreviation": "CLE",
+          "displayName": "Cleveland Browns",
+          "score": 30
+        }
+      ]
+    },
+    {
+      "id": "401772996",
+      "shortName": "WSH @ NE",
+      "status": "STATUS_FINAL",
+      "period": 4,
+      "clock": "0:00",
+      "start": "2025-08-08T23:30Z",
+      "teams": [
+        {
+          "id": "17",
+          "homeAway": "home",
+          "abbreviation": "NE",
+          "displayName": "New England Patriots",
+          "score": 48
+        },
+        {
+          "id": "28",
+          "homeAway": "away",
+          "abbreviation": "WSH",
+          "displayName": "Washington Commanders",
+          "score": 18
+        }
+      ]
+    },
+    {
+      "id": "401776263",
+      "shortName": "NYG @ BUF",
+      "status": "STATUS_FINAL",
+      "period": 4,
+      "clock": "0:00",
+      "start": "2025-08-09T17:00Z",
+      "teams": [
+        {
+          "id": "2",
+          "homeAway": "home",
+          "abbreviation": "BUF",
+          "displayName": "Buffalo Bills",
+          "score": 25
+        },
+        {
+          "id": "19",
+          "homeAway": "away",
+          "abbreviation": "NYG",
+          "displayName": "New York Giants",
+          "score": 34
+        }
+      ]
+    },
+    {
+      "id": "401773012",
+      "shortName": "HOU @ MIN",
+      "status": "STATUS_FINAL",
+      "period": 4,
+      "clock": "0:00",
+      "start": "2025-08-09T20:00Z",
+      "teams": [
+        {
+          "id": "16",
+          "homeAway": "home",
+          "abbreviation": "MIN",
+          "displayName": "Minnesota Vikings",
+          "score": 20
+        },
+        {
+          "id": "34",
+          "homeAway": "away",
+          "abbreviation": "HOU",
+          "displayName": "Houston Texans",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "id": "401773020",
+      "shortName": "DAL @ LAR",
+      "status": "STATUS_FINAL",
+      "period": 4,
+      "clock": "0:00",
+      "start": "2025-08-09T23:00Z",
+      "teams": [
+        {
+          "id": "14",
+          "homeAway": "home",
+          "abbreviation": "LAR",
+          "displayName": "Los Angeles Rams",
+          "score": 31
+        },
+        {
+          "id": "6",
+          "homeAway": "away",
+          "abbreviation": "DAL",
+          "displayName": "Dallas Cowboys",
+          "score": 21
+        }
+      ]
+    },
+    {
+      "id": "401773002",
+      "shortName": "PIT @ JAX",
+      "status": "STATUS_FINAL",
+      "period": 4,
+      "clock": "0:00",
+      "start": "2025-08-09T23:00Z",
+      "teams": [
+        {
+          "id": "30",
+          "homeAway": "home",
+          "abbreviation": "JAX",
+          "displayName": "Jacksonville Jaguars",
+          "score": 25
+        },
+        {
+          "id": "23",
+          "homeAway": "away",
+          "abbreviation": "PIT",
+          "displayName": "Pittsburgh Steelers",
+          "score": 31
+        }
+      ]
+    },
+    {
+      "id": "401774029",
+      "shortName": "TEN @ TB",
+      "status": "STATUS_FINAL",
+      "period": 4,
+      "clock": "0:00",
+      "start": "2025-08-09T23:30Z",
+      "teams": [
+        {
+          "id": "27",
+          "homeAway": "home",
+          "abbreviation": "TB",
+          "displayName": "Tampa Bay Buccaneers",
+          "score": 29
+        },
+        {
+          "id": "10",
+          "homeAway": "away",
+          "abbreviation": "TEN",
+          "displayName": "Tennessee Titans",
+          "score": 7
+        }
+      ]
+    },
+    {
+      "id": "401773010",
+      "shortName": "NYJ @ GB",
+      "status": "STATUS_FINAL",
+      "period": 4,
+      "clock": "0:00",
+      "start": "2025-08-10T00:00Z",
+      "teams": [
+        {
+          "id": "9",
+          "homeAway": "home",
+          "abbreviation": "GB",
+          "displayName": "Green Bay Packers",
+          "score": 10
+        },
+        {
+          "id": "20",
+          "homeAway": "away",
+          "abbreviation": "NYJ",
+          "displayName": "New York Jets",
+          "score": 30
+        }
+      ]
+    },
+    {
+      "id": "401774636",
+      "shortName": "KC @ ARI",
+      "status": "STATUS_FINAL",
+      "period": 4,
+      "clock": "0:00",
+      "start": "2025-08-10T00:00Z",
+      "teams": [
+        {
+          "id": "22",
+          "homeAway": "home",
+          "abbreviation": "ARI",
+          "displayName": "Arizona Cardinals",
+          "score": 20
+        },
+        {
+          "id": "12",
+          "homeAway": "away",
+          "abbreviation": "KC",
+          "displayName": "Kansas City Chiefs",
+          "score": 17
+        }
+      ]
+    },
+    {
+      "id": "401776566",
+      "shortName": "DEN @ SF",
+      "status": "STATUS_FINAL",
+      "period": 4,
+      "clock": "0:00",
+      "start": "2025-08-10T00:30Z",
+      "teams": [
+        {
+          "id": "25",
+          "homeAway": "home",
+          "abbreviation": "SF",
+          "displayName": "San Francisco 49ers",
+          "score": 9
+        },
+        {
+          "id": "7",
+          "homeAway": "away",
+          "abbreviation": "DEN",
+          "displayName": "Denver Broncos",
+          "score": 30
+        }
+      ]
+    }
+  ]
+}
