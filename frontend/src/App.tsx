@@ -1,115 +1,91 @@
-// PATCH NOTE: substitute your existing imports with the ones below
-// (keep nextPlayProb as fallback)
-import React, {useEffect, useState} from 'react'
-import { ProbChart } from './components/ProbChart'
-import { nextPlayProb } from './lib/model'
-import { predictNextPlayONNX } from './lib/onnx_infer'
+// PATCH para App.tsx — adiciona seleção de Jogo + Estatística e usa contexto ESPN
+// Requer: src/lib/dataSources.ts, src/lib/contextFromEspn.ts, src/lib/onnx_infer.ts
+import { useEffect, useState } from 'react';
+import { GAMES_URL } from './lib/dataSources';
+import { fetchContext } from './lib/contextFromEspn';
+import { predictNextPlay } from './lib/onnx_infer';
 
-type LiveFrame = {
-  ts: string
-  game_id: string
-  down?: number
-  distance?: number
-  yardline?: number
-  quarter?: number
-  clock?: string
-  note?: string
+const STATS = [
+  { id: 'next_play', name: 'Próxima jogada (Run vs Pass)' },
+  { id: 'win_prob',  name: 'Win Probability (baseline)' }
+];
+
+type Game = { id: string; shortName: string; teams?: any[] };
+
+function winProb(score_diff:number, quarter:number|null, clock_secs:number|null){
+  const q = quarter ?? 1, t = clock_secs ?? 900;
+  const timeLeft = (4-q)*900 + t;
+  const x = 0.06*score_diff - 0.0005*timeLeft; // baseline simples
+  const pHome = 1/(1+Math.exp(-x));
+  return { run: 1-pHome, pass: pHome };
 }
 
-export default function App() {
-  const [frame, setFrame] = useState<LiveFrame | null>(null)
-  const [history, setHistory] = useState<{ t: string; run: number; pass: number }[]>([])
+export default function AppPatched() {
+  const [games, setGames] = useState<Game[]>([]);
+  const [eventId, setEventId] = useState<string>('');
+  const [stat, setStat] = useState<string>('next_play');
+  const [probs, setProbs] = useState<{run:number, pass:number}|null>(null);
 
-  async function loadLive() {
-    try {
-      const res = await fetch(`${import.meta.env.BASE_URL}live.json?_=${Date.now()}`)
-      if (!res.ok) throw new Error('live.json not found')
-      const data = await res.json() as LiveFrame
-      setFrame(data)
-      // Try ML first
-      const secs = data.clock ? (parseInt(data.clock.split(':')[0])*60 + parseInt(data.clock.split(':')[1])) : 900
-      const ml = await predictNextPlayONNX({
-        down: data.down ?? 1,
-        distance: data.distance ?? 10,
-        yardline: data.yardline ?? 50,
-        quarter: data.quarter ?? 1,
-        clock_secs: isFinite(secs) ? secs : 900,
-        score_diff: 0,
-        recent_gains: [],
-        recent_clock: [],
-      })
-      const probs = ml ?? nextPlayProb(data)
-      setHistory(h => [...h.slice(-30), { t: data.ts, run: probs.run, pass: probs.pass }])
-    } catch (e) {
-      console.error(e)
+  async function loadGames() {
+    const j = await fetch(GAMES_URL + `?_=${Date.now()}`).then(r=>r.json());
+    setGames(j?.games || []);
+    if (!eventId && j?.games?.length) setEventId(j.games[0].id);
+  }
+
+  async function refresh() {
+    if (!eventId) return;
+    const ctx = await fetchContext(eventId);
+    if (!ctx) return;
+    if (stat === 'win_prob') {
+      setProbs(winProb(ctx.score_diff, ctx.quarter, ctx.clock_secs));
+    } else {
+      const p = await predictNextPlay({
+        down: ctx.down ?? 1,
+        distance: ctx.distance ?? 10,
+        yardline: ctx.yardline ?? 50,
+        quarter: ctx.quarter ?? 1,
+        clock_secs: ctx.clock_secs ?? 900,
+        score_diff: ctx.score_diff ?? 0,
+        recent_gains: ctx.recent_gains ?? [],
+        recent_clock: ctx.recent_clock ?? [],
+      });
+      setProbs(p);
     }
   }
 
-  useEffect(() => {
-    loadLive()
-    const id = setInterval(loadLive, 5000)
-    return () => clearInterval(id)
-  }, [])
-
-  const probs = frame ? (history.length ? history[history.length-1] : nextPlayProb(frame)) : { run: 0.5, pass: 0.5 }
+  useEffect(()=>{ loadGames(); }, []);
+  useEffect(()=>{
+    refresh(); const id = setInterval(refresh, 8000);
+    return ()=>clearInterval(id);
+  }, [eventId, stat]);
 
   return (
-    <div style={styles.wrap}>
-      <header style={styles.header}>
-        <h1 style={styles.title}>RallyIQ</h1>
-        <p style={styles.subtitle}>Previsões por jogada (MVP PWA)</p>
-      </header>
+    <div style={{maxWidth:920, margin:'0 auto', padding:16, color:'white', fontFamily:'system-ui'}}>
+      <h1 style={{margin:'4px 0'}}>RallyIQ</h1>
+      <p style={{margin:'0 0 10px', opacity:.8}}>Escolha um jogo e a estatística</p>
 
-      <section style={styles.card}>
-        <div style={styles.row}>
-          <div style={styles.metric}>
-            <div style={styles.metricLabel}>Próxima jogada</div>
-            <div style={styles.metricValue}>
-              🏈 {(probs as any).run > (probs as any).pass ? 'Corrida' : 'Passe'}
-            </div>
-          </div>
-          <div style={styles.metric}>
-            <div style={styles.metricLabel}>Prob. Corrida</div>
-            <div style={styles.metricValue}>{(((probs as any).run)*100).toFixed(1)}%</div>
-          </div>
-          <div style={styles.metric}>
-            <div style={styles.metricLabel}>Prob. Passe</div>
-            <div style={styles.metricValue}>{(((probs as any).pass)*100).toFixed(1)}%</div>
-          </div>
-        </div>
-        <div style={{height: 220, marginTop: 12}}>
-          <ProbChart data={history} />
-        </div>
-      </section>
+      <div style={{display:'flex', gap:8, flexWrap:'wrap', marginBottom:12}}>
+        <select value={eventId} onChange={e=>setEventId(e.target.value)}>
+          {games.map(g=>(
+            <option key={g.id} value={g.id}>
+              {g.shortName} {g.teams?.[0]?.score ?? ''}-{g.teams?.[1]?.score ?? ''}
+            </option>
+          ))}
+        </select>
 
-      <section style={styles.card}>
-        <h3 style={{margin: 0}}>Contexto do Lance</h3>
-        <p style={{marginTop: 8}}>
-          {frame
-            ? <>Q{frame.quarter} • {frame.clock} • 3rd &amp; {frame.distance} na {frame.yardline} • {frame.note}</>
-            : 'Aguardando live.json...'
-          }
-        </p>
-        <a style={styles.cta} href="#" onClick={e=>e.preventDefault()}>Aposte agora (placeholder)</a>
-      </section>
+        <select value={stat} onChange={e=>setStat(e.target.value)}>
+          {STATS.map(s=> <option key={s.id} value={s.id}>{s.name}</option>)}
+        </select>
+      </div>
 
-      <footer style={styles.footer}>
-        <small>© 2025 RallyIQ — MVP. Instalável como PWA no Android e iOS.</small>
-      </footer>
+      <div style={{background:'#0B0F19', borderRadius:16, padding:16, boxShadow:'0 6px 20px rgba(0,0,0,.2)'}}>
+        <h3 style={{marginTop:0}}>{STATS.find(s=>s.id===stat)?.name}</h3>
+        {probs
+          ? <p>Prob. Corrida: {(probs.run*100).toFixed(1)}% • Prob. Passe: {(probs.pass*100).toFixed(1)}%</p>
+          : <p>Carregando…</p>
+        }
+        <small style={{opacity:.7}}>Fonte: ESPN (não-oficial) + modelo local</small>
+      </div>
     </div>
   )
-}
-
-const styles: {[k:string]: React.CSSProperties} = {
-  wrap: { maxWidth: 920, margin: '0 auto', padding: 16, fontFamily: 'system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial' },
-  header: { padding: 12, textAlign: 'center' },
-  title: { margin: 0, fontSize: 28 },
-  subtitle: { margin: 0, opacity: 0.8 },
-  card: { background: '#0B0F19', color: 'white', borderRadius: 16, padding: 16, marginTop: 16, boxShadow: '0 6px 20px rgba(0,0,0,0.2)' },
-  row: { display: 'flex', gap: 16, flexWrap: 'wrap' },
-  metric: { flex: '1 1 180px', background: '#121826', padding: 12, borderRadius: 12 },
-  metricLabel: { opacity: 0.8 },
-  metricValue: { fontSize: 20, fontWeight: 700 },
-  footer: { textAlign: 'center', marginTop: 16, opacity: 0.7 },
-  cta: { display: 'inline-block', marginTop: 8, background: 'white', color: '#0B0F19', padding: '10px 14px', borderRadius: 10, textDecoration: 'none', fontWeight: 700 }
 }
