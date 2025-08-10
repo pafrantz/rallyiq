@@ -1,7 +1,9 @@
 // scripts/pull_scoreboard.mjs
+// scripts/pull_scoreboard.mjs
 import fs from "fs/promises";
 
 const URL = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard";
+const ALLOW = new Set(["STATUS_SCHEDULED","STATUS_IN_PROGRESS","STATUS_DELAYED","STATUS_HALFTIME"]);
 const toClock = (s) => (s && s.includes(":") ? s : null);
 
 function pickEvent(e) {
@@ -26,7 +28,11 @@ const res = await fetch(URL, { headers: { "user-agent": "Mozilla/5.0" } });
 if (!res.ok) throw new Error(`ESPN fetch failed: ${res.status}`);
 const data = await res.json();
 
-const events = data?.events || [];
+const events = (data?.events || []).filter(e => {
+  const status = e?.competitions?.[0]?.status?.type?.name;
+  return ALLOW.has(status);
+});
+
 const first = events[0]
   ? pickEvent(events[0])
   : {
@@ -37,7 +43,7 @@ const first = events[0]
       down: 1,
       distance: 10,
       yardline: 25,
-      note: "Sem jogos agora",
+      note: "Sem jogos ativos/pendentes",
     };
 
 await fs.mkdir("docs", { recursive: true });
