@@ -1,15 +1,21 @@
 // scripts/pull_scoreboard.mjs
-// scripts/pull_scoreboard.mjs
 import fs from "fs/promises";
 
 const URL = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard";
-const ALLOW = new Set(["STATUS_SCHEDULED","STATUS_IN_PROGRESS","STATUS_DELAYED","STATUS_HALFTIME"]);
 const toClock = (s) => (s && s.includes(":") ? s : null);
+
+function statusInfo(e) {
+  const t = e?.competitions?.[0]?.status?.type || {};
+  const name = String(t.name || "").toUpperCase();
+  const state = String(t.state || "").toUpperCase();
+  const completed = !!t.completed;
+  return { name, state, completed };
+}
 
 function pickEvent(e) {
   const id = e?.id;
   const comp = e?.competitions?.[0];
-  const status = comp?.status?.type?.name;
+  const status = String(comp?.status?.type?.name || "").toUpperCase();
   const quarter = comp?.status?.period ?? null;
   const displayClock = comp?.status?.displayClock ?? null;
   return {
@@ -29,8 +35,11 @@ if (!res.ok) throw new Error(`ESPN fetch failed: ${res.status}`);
 const data = await res.json();
 
 const events = (data?.events || []).filter(e => {
-  const status = e?.competitions?.[0]?.status?.type?.name;
-  return ALLOW.has(status);
+  const s = statusInfo(e);
+  if (s.completed) return false;
+  if (s.state === "PRE" || s.state === "IN") return true;
+  if (["STATUS_SCHEDULED","STATUS_IN_PROGRESS","STATUS_DELAYED","STATUS_HALFTIME"].includes(s.name)) return true;
+  return false;
 });
 
 const first = events[0]
