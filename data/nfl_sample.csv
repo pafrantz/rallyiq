@@ -1,0 +1,4 @@
+game_id,down,distance,yardline,quarter,clock,play_type
+SIM-001,1,10,35,1,15:00,run
+SIM-001,2,8,37,1,14:20,pass
+SIM-001,3,2,45,1,13:10,run
