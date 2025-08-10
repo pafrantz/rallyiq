@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-10T22:30:51.109Z",
+  "ts": "2025-08-10T22:43:57.742Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "NO @ LAC",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:58",
+      "period": 4,
+      "clock": "11:59",
       "start": "2025-08-10T20:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732771",
       "shortName": "SAN @ CRU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "47'",
       "start": "2025-08-10T21:30Z",
       "teams": [
         {
