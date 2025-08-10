@@ -1,10 +1,10 @@
 {
-  "ts": "2025-08-10T11:34:01Z",
+  "ts": "2025-08-10T11:42:57Z",
   "game_id": "SIM-001",
-  "down": 4,
+  "down": 1,
   "distance": 1,
-  "yardline": 7,
+  "yardline": 2,
   "quarter": 2,
-  "clock": "06:02",
+  "clock": "05:40",
   "note": "No-huddle"
 }
