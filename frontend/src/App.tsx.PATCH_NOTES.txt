@@ -1,0 +1,29 @@
+// PATCH - usar contexts do repositório (sem CORS) e evitar 'Carregando...' infinito
+// Troque no seu App.tsx o import e a função refresh por estes trechos:
+
+// imports:
+import { fetchContextRepo } from './lib/fetchContextRepo';
+// (mantenha os demais imports)
+
+// dentro do componente, substitua a função refresh por:
+async function refresh() {
+  if (!eventId) return;
+  const ctx = await fetchContextRepo(eventId);
+  if (!ctx) { setProbs(null); return; }
+  const statToUse = (sport !== 'football' && stat === 'next_play') ? 'win_prob' : stat;
+  if (statToUse === 'win_prob') {
+    setProbs(winProb(ctx.score_diff, ctx.quarter, ctx.clock_secs, sport));
+  } else {
+    const p = await predictNextPlay({
+      down: ctx.down ?? 1,
+      distance: ctx.distance ?? 10,
+      yardline: ctx.yardline ?? 50,
+      quarter: ctx.quarter ?? 1,
+      clock_secs: ctx.clock_secs ?? 900,
+      score_diff: ctx.score_diff ?? 0,
+      recent_gains: ctx.recent_gains ?? [],
+      recent_clock: ctx.recent_clock ?? [],
+    });
+    setProbs(p);
+  }
+}
