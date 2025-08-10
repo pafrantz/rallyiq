@@ -100,3 +100,11 @@ export async function predictNextPlayONNX(ctx: Context): Promise<{run:number, pa
   const p_cal = calib?.type==='platt' ? platt(p_raw, calib.A, calib.B) : p_raw
   return { run: 1 - p_cal, pass: p_cal }
 }
+export async function predictNextPlay(ctx: Context) {
+  const r = await predictNextPlayONNX(ctx)
+  if (r) return r
+  // fallback bobo
+  const d = ctx.distance ?? 10
+  const run = Math.max(0.1, Math.min(0.9, 0.5 + (2 - Math.min(d,10))*0.03))
+  return { run, pass: 1 - run }
+}

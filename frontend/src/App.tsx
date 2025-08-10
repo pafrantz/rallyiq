@@ -3,7 +3,7 @@
 import { useEffect, useState } from 'react';
 import { GAMES_URL } from './lib/dataSources';
 import { fetchContext } from './lib/contextFromEspn';
-import { predictNextPlay } from './lib/onnx_infer';
+import { predictNextPlayONNX as predictNextPlay } from './lib/onnx_infer'
 
 const STATS = [
   { id: 'next_play', name: 'Próxima jogada (Run vs Pass)' },
