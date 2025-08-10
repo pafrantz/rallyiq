@@ -1,6 +1,9 @@
+// PATCH NOTE: substitute your existing imports with the ones below
+// (keep nextPlayProb as fallback)
 import React, {useEffect, useState} from 'react'
 import { ProbChart } from './components/ProbChart'
 import { nextPlayProb } from './lib/model'
+import { predictNextPlayONNX } from './lib/onnx_infer'
 
 type LiveFrame = {
   ts: string
@@ -18,18 +21,29 @@ export default function App() {
   const [history, setHistory] = useState<{ t: string; run: number; pass: number }[]>([])
 
   async function loadLive() {
-  try {
-    const res = await fetch(`${import.meta.env.BASE_URL}live.json?_=${Date.now()}`);
-    if (!res.ok) throw new Error('live.json not found');
-    const data = await res.json() as LiveFrame;
-    setFrame(data);
-    const probs = nextPlayProb(data);
-    setHistory(h => [...h.slice(-30), { t: data.ts, run: probs.run, pass: probs.pass }]);
-  } catch (e) {
-    console.error(e);
+    try {
+      const res = await fetch(`${import.meta.env.BASE_URL}live.json?_=${Date.now()}`)
+      if (!res.ok) throw new Error('live.json not found')
+      const data = await res.json() as LiveFrame
+      setFrame(data)
+      // Try ML first
+      const secs = data.clock ? (parseInt(data.clock.split(':')[0])*60 + parseInt(data.clock.split(':')[1])) : 900
+      const ml = await predictNextPlayONNX({
+        down: data.down ?? 1,
+        distance: data.distance ?? 10,
+        yardline: data.yardline ?? 50,
+        quarter: data.quarter ?? 1,
+        clock_secs: isFinite(secs) ? secs : 900,
+        score_diff: 0,
+        recent_gains: [],
+        recent_clock: [],
+      })
+      const probs = ml ?? nextPlayProb(data)
+      setHistory(h => [...h.slice(-30), { t: data.ts, run: probs.run, pass: probs.pass }])
+    } catch (e) {
+      console.error(e)
+    }
   }
-}
-
 
   useEffect(() => {
     loadLive()
@@ -37,7 +51,7 @@ export default function App() {
     return () => clearInterval(id)
   }, [])
 
-  const probs = nextPlayProb(frame || {})
+  const probs = frame ? (history.length ? history[history.length-1] : nextPlayProb(frame)) : { run: 0.5, pass: 0.5 }
 
   return (
     <div style={styles.wrap}>
@@ -51,16 +65,16 @@ export default function App() {
           <div style={styles.metric}>
             <div style={styles.metricLabel}>Próxima jogada</div>
             <div style={styles.metricValue}>
-              🏈 {probs.run > probs.pass ? 'Corrida' : 'Passe'}
+              🏈 {(probs as any).run > (probs as any).pass ? 'Corrida' : 'Passe'}
             </div>
           </div>
           <div style={styles.metric}>
             <div style={styles.metricLabel}>Prob. Corrida</div>
-            <div style={styles.metricValue}>{(probs.run*100).toFixed(1)}%</div>
+            <div style={styles.metricValue}>{(((probs as any).run)*100).toFixed(1)}%</div>
           </div>
           <div style={styles.metric}>
             <div style={styles.metricLabel}>Prob. Passe</div>
-            <div style={styles.metricValue}>{(probs.pass*100).toFixed(1)}%</div>
+            <div style={styles.metricValue}>{(((probs as any).pass)*100).toFixed(1)}%</div>
           </div>
         </div>
         <div style={{height: 220, marginTop: 12}}>
