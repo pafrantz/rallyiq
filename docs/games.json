@@ -1,36 +1,12 @@
 {
-  "ts": "2025-08-10T20:09:36.926Z",
+  "ts": "2025-08-10T20:31:13.827Z",
   "games": [
-    {
-      "id": "401776564",
-      "shortName": "MIA @ CHI",
-      "status": "STATUS_IN_PROGRESS",
-      "period": 4,
-      "clock": "0:05",
-      "start": "2025-08-10T17:00Z",
-      "teams": [
-        {
-          "id": "3",
-          "homeAway": "home",
-          "abbreviation": "CHI",
-          "displayName": "Chicago Bears",
-          "score": 24
-        },
-        {
-          "id": "15",
-          "homeAway": "away",
-          "abbreviation": "MIA",
-          "displayName": "Miami Dolphins",
-          "score": 24
-        }
-      ]
-    },
     {
       "id": "401773026",
       "shortName": "NO @ LAC",
       "status": "STATUS_IN_PROGRESS",
       "period": 1,
-      "clock": "14:20",
+      "clock": "4:10",
       "start": "2025-08-10T20:00Z",
       "teams": [
         {
@@ -46,6 +22,30 @@
           "abbreviation": "NO",
           "displayName": "New Orleans Saints",
           "score": 0
+        }
+      ]
+    },
+    {
+      "id": "401776564",
+      "shortName": "MIA @ CHI",
+      "status": "STATUS_FINAL",
+      "period": 4,
+      "clock": "0:00",
+      "start": "2025-08-10T17:00Z",
+      "teams": [
+        {
+          "id": "3",
+          "homeAway": "home",
+          "abbreviation": "CHI",
+          "displayName": "Chicago Bears",
+          "score": 24
+        },
+        {
+          "id": "15",
+          "homeAway": "away",
+          "abbreviation": "MIA",
+          "displayName": "Miami Dolphins",
+          "score": 24
         }
       ]
     },
