@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-10T22:08:19.042Z",
+  "ts": "2025-08-10T22:30:51.109Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:48",
+      "clock": "0:58",
       "start": "2025-08-10T20:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "NO",
           "displayName": "New Orleans Saints",
-          "score": 3
+          "score": 10
         }
       ]
     },
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732771",
       "shortName": "SAN @ CRU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "33'",
+      "clock": "45'+5'",
       "start": "2025-08-10T21:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "CRU",
           "displayName": "Cruzeiro",
-          "score": 0
+          "score": 1
         },
         {
           "id": "2674",
