@@ -1,57 +1,59 @@
 // scripts/pull_games.mjs
 import fs from "fs/promises";
 
-const URL = "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard";
-
-function statusInfo(e) {
-  const t = e?.competitions?.[0]?.status?.type || {};
-  const name = String(t.name || "").toUpperCase();   // ex: STATUS_FINAL, STATUS_SCHEDULED, STATUS_IN_PROGRESS
-  const state = String(t.state || "").toUpperCase(); // ex: PRE, IN, POST
-  const completed = !!t.completed;                   // true quando acabou
+const LEAGUES = [
+  { sport: "football", league: "nfl",     url: "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard" },
+  { sport: "soccer",   league: "bra.1",   url: "https://site.api.espn.com/apis/site/v2/sports/soccer/bra.1/scoreboard" },
+  { sport: "soccer",   league: "eng.1",   url: "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard" },
+];
+function statusInfo(event) {
+  const t = event?.competitions?.[0]?.status?.type || {};
+  const name = String(t.name || "").toUpperCase();
+  const state = String(t.state || "").toUpperCase();
+  const completed = !!t.completed;
   return { name, state, completed };
 }
-
-function slimEvent(e) {
-  const comp = e?.competitions?.[0];
-  const { name, state } = statusInfo(e);
+function slimEvent(event, sport, league) {
+  const comp = event?.competitions?.[0];
+  const st = statusInfo(event);
   const teams = comp?.competitors?.map(c => ({
-    id: c?.id,
-    homeAway: c?.homeAway,
+    id: c?.id, homeAway: c?.homeAway,
     abbreviation: c?.team?.abbreviation,
     displayName: c?.team?.displayName,
     score: c?.score ? Number(c.score) : null,
   })) || [];
   return {
-    id: e?.id,
-    shortName: e?.shortName,
-    status: name,                                 // sempre MAIÚSCULO
+    sport, league,
+    id: event?.id,
+    shortName: event?.shortName,
+    status: st.name,
+    state: st.state,
     period: comp?.status?.period ?? null,
     clock: comp?.status?.displayClock ?? null,
-    state,                                        // PRE / IN / POST
-    start: e?.date,
+    start: event?.date,
     teams,
   };
 }
-
-const res = await fetch(URL, { headers: { "user-agent": "Mozilla/5.0" } });
-if (!res.ok) throw new Error(`ESPN fetch failed: ${res.status}`);
-const data = await res.json();
-
-const events = (data?.events || []);
-const filtered = events.filter(e => {
-  const s = statusInfo(e);
-  // corte duro: se já completou, fora
-  if (s.completed) return false;
-  // permite pré-jogo e em andamento
-  if (s.state === "PRE" || s.state === "IN") return true;
-  // fallback por nome (delays/halftime)
-  if (["STATUS_SCHEDULED","STATUS_IN_PROGRESS","STATUS_DELAYED","STATUS_HALFTIME"].includes(s.name)) return true;
-  // tudo mais (FINAL/POST) fica fora
-  return false;
-});
-
-const games = filtered.map(slimEvent);
-
+async function fetchScoreboard({sport, league, url}) {
+  const res = await fetch(url, { headers: { "user-agent": "Mozilla/5.0" } });
+  if (!res.ok) throw new Error(`Fetch failed for ${sport}/${league}: ${res.status}`);
+  const data = await res.json();
+  const events = data?.events || [];
+  const filtered = events.filter(e => {
+    const s = statusInfo(e);
+    if (s.completed) return false;
+    if (s.state === "PRE" || s.state === "IN") return true;
+    if (["STATUS_SCHEDULED","STATUS_IN_PROGRESS","STATUS_DELAYED","STATUS_HALFTIME"].includes(s.name)) return true;
+    return false;
+  });
+  return filtered.map(ev => slimEvent(ev, sport, league));
+}
+const all = [];
+for (const L of LEAGUES) {
+  try { const arr = await fetchScoreboard(L); all.push(...arr); }
+  catch (e) { console.error("Erro em", L, e); }
+}
+all.sort((a,b)=> String(a.start).localeCompare(String(b.start)));
 await fs.mkdir("docs", { recursive: true });
-await fs.writeFile("docs/games.json", JSON.stringify({ ts: new Date().toISOString(), games }, null, 2));
-console.log("docs/games.json atualizado com", games.length, "jogo(s) ativos/pendentes.");
+await fs.writeFile("docs/games.json", JSON.stringify({ ts: new Date().toISOString(), games: all }, null, 2));
+console.log("docs/games.json atualizado com", all.length, "jogo(s) de múltiplas ligas.");
