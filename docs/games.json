@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-10T21:37:14.111Z",
+  "ts": "2025-08-10T21:44:21.132Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401773026",
       "shortName": "NO @ LAC",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:05",
+      "clock": "0:00",
       "start": "2025-08-10T20:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "2'",
+      "clock": "9'",
       "start": "2025-08-10T21:30Z",
       "teams": [
         {
