@@ -1,10 +1,10 @@
 {
-  "ts": "2025-08-10T11:42:57Z",
-  "game_id": "SIM-001",
-  "down": 1,
-  "distance": 1,
-  "yardline": 2,
-  "quarter": 2,
-  "clock": "05:40",
-  "note": "No-huddle"
+  "ts": "2025-08-10T17:07:38.104Z",
+  "game_id": "401776564",
+  "quarter": 1,
+  "clock": "14:53",
+  "down": null,
+  "distance": null,
+  "yardline": null,
+  "note": "STATUS_IN_PROGRESS"
 }
