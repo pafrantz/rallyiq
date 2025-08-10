@@ -18,17 +18,18 @@ export default function App() {
   const [history, setHistory] = useState<{ t: string; run: number; pass: number }[]>([])
 
   async function loadLive() {
-    try {
-      const res = await fetch(`${import.meta.env.BASE_URL}live.json?_=' + Date.now())
-      if (!res.ok) throw new Error('live.json not found')
-      const data = await res.json() as LiveFrame
-      setFrame(data)
-      const probs = nextPlayProb(data)
-      setHistory(h => [...h.slice(-30), { t: data.ts, run: probs.run, pass: probs.pass }])
-    } catch (e) {
-      console.error(e)
-    }
+  try {
+    const res = await fetch(`${import.meta.env.BASE_URL}live.json?_=${Date.now()}`);
+    if (!res.ok) throw new Error('live.json not found');
+    const data = await res.json() as LiveFrame;
+    setFrame(data);
+    const probs = nextPlayProb(data);
+    setHistory(h => [...h.slice(-30), { t: data.ts, run: probs.run, pass: probs.pass }]);
+  } catch (e) {
+    console.error(e);
   }
+}
+
 
   useEffect(() => {
     loadLive()
