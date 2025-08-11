@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-10T23:58:14.646Z",
+  "ts": "2025-08-11T01:20:46.478Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732774",
       "shortName": "SPO @ GRE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "22'",
+      "period": 2,
+      "clock": "86'",
       "start": "2025-08-10T23:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "SPO",
           "displayName": "Sport",
-          "score": 0
+          "score": 1
         }
       ]
     },
