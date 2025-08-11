@@ -1,33 +1,6 @@
 {
-  "ts": "2025-08-11T01:20:46.478Z",
+  "ts": "2025-08-11T03:14:22.371Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732774",
-      "shortName": "SPO @ GRE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "86'",
-      "start": "2025-08-10T23:30Z",
-      "teams": [
-        {
-          "id": "6273",
-          "homeAway": "home",
-          "abbreviation": "GRE",
-          "displayName": "Grêmio",
-          "score": 0
-        },
-        {
-          "id": "7635",
-          "homeAway": "away",
-          "abbreviation": "SPO",
-          "displayName": "Sport",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
