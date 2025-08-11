@@ -1,6 +1,33 @@
 {
-  "ts": "2025-08-11T06:52:11.308Z",
+  "ts": "2025-08-11T07:13:33.830Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732775",
+      "shortName": "COR @ JUV",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-08-11T23:00Z",
+      "teams": [
+        {
+          "id": "6270",
+          "homeAway": "home",
+          "abbreviation": "JUV",
+          "displayName": "Juventude",
+          "score": 0
+        },
+        {
+          "id": "874",
+          "homeAway": "away",
+          "abbreviation": "COR",
+          "displayName": "Corinthians",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "soccer",
       "league": "eng.1",
