@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-11T22:58:39.370Z",
+  "ts": "2025-08-11T23:15:05.924Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732775",
       "shortName": "COR @ JUV",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "13'",
       "start": "2025-08-11T23:00Z",
       "teams": [
         {
