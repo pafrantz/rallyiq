@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-11T23:15:05.924Z",
+  "ts": "2025-08-11T23:30:05.792Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "13'",
+      "clock": "29'",
       "start": "2025-08-11T23:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "JUV",
           "displayName": "Juventude",
-          "score": 0
+          "score": 1
         },
         {
           "id": "874",
