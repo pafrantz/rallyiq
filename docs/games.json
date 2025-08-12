@@ -1,33 +1,6 @@
 {
-  "ts": "2025-08-11T23:56:50.119Z",
+  "ts": "2025-08-12T00:58:29.781Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732775",
-      "shortName": "COR @ JUV",
-      "status": "STATUS_HALFTIME",
-      "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
-      "start": "2025-08-11T23:00Z",
-      "teams": [
-        {
-          "id": "6270",
-          "homeAway": "home",
-          "abbreviation": "JUV",
-          "displayName": "Juventude",
-          "score": 1
-        },
-        {
-          "id": "874",
-          "homeAway": "away",
-          "abbreviation": "COR",
-          "displayName": "Corinthians",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
