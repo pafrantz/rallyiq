@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-13T04:05:52.058Z",
+  "ts": "2025-08-13T04:38:19.573Z",
   "games": [
     {
       "sport": "soccer",
@@ -24,6 +24,141 @@
           "homeAway": "away",
           "abbreviation": "BOU",
           "displayName": "AFC Bournemouth",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732781",
+      "shortName": "BRA @ CEA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-08-16T19:00Z",
+      "teams": [
+        {
+          "id": "9969",
+          "homeAway": "home",
+          "abbreviation": "CEA",
+          "displayName": "Ceará",
+          "score": 0
+        },
+        {
+          "id": "6079",
+          "homeAway": "away",
+          "abbreviation": "BRA",
+          "displayName": "Red Bull Bragantino",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732789",
+      "shortName": "FOR @ FLU",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-08-16T19:00Z",
+      "teams": [
+        {
+          "id": "3445",
+          "homeAway": "home",
+          "abbreviation": "FLU",
+          "displayName": "Fluminense",
+          "score": 0
+        },
+        {
+          "id": "6272",
+          "homeAway": "away",
+          "abbreviation": "FOR",
+          "displayName": "Fortaleza",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732788",
+      "shortName": "SAO @ SPO",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-08-16T21:30Z",
+      "teams": [
+        {
+          "id": "7635",
+          "homeAway": "home",
+          "abbreviation": "SPO",
+          "displayName": "Sport",
+          "score": 0
+        },
+        {
+          "id": "2026",
+          "homeAway": "away",
+          "abbreviation": "SAO",
+          "displayName": "São Paulo",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732784",
+      "shortName": "JUV @ VIT",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-08-16T21:30Z",
+      "teams": [
+        {
+          "id": "3457",
+          "homeAway": "home",
+          "abbreviation": "VIT",
+          "displayName": "Vitória",
+          "score": 0
+        },
+        {
+          "id": "6270",
+          "homeAway": "away",
+          "abbreviation": "JUV",
+          "displayName": "Juventude",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732780",
+      "shortName": "BAH @ COR",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-08-17T00:00Z",
+      "teams": [
+        {
+          "id": "874",
+          "homeAway": "home",
+          "abbreviation": "COR",
+          "displayName": "Corinthians",
+          "score": 0
+        },
+        {
+          "id": "9967",
+          "homeAway": "away",
+          "abbreviation": "BAH",
+          "displayName": "Bahia",
           "score": 0
         }
       ]
