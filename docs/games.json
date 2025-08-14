@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-14T03:57:27.299Z",
+  "ts": "2025-08-14T04:24:24.278Z",
   "games": [
     {
       "sport": "soccer",
@@ -24,6 +24,195 @@
           "homeAway": "away",
           "abbreviation": "BOU",
           "displayName": "AFC Bournemouth",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401773017",
+      "shortName": "TEN @ ATL",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2025-08-15T23:00Z",
+      "teams": [
+        {
+          "id": "1",
+          "homeAway": "home",
+          "abbreviation": "ATL",
+          "displayName": "Atlanta Falcons",
+          "score": 0
+        },
+        {
+          "id": "10",
+          "homeAway": "away",
+          "abbreviation": "TEN",
+          "displayName": "Tennessee Titans",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401774591",
+      "shortName": "KC @ SEA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2025-08-16T02:00Z",
+      "teams": [
+        {
+          "id": "26",
+          "homeAway": "home",
+          "abbreviation": "SEA",
+          "displayName": "Seattle Seahawks",
+          "score": 0
+        },
+        {
+          "id": "12",
+          "homeAway": "away",
+          "abbreviation": "KC",
+          "displayName": "Kansas City Chiefs",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401776264",
+      "shortName": "MIA @ DET",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2025-08-16T17:00Z",
+      "teams": [
+        {
+          "id": "8",
+          "homeAway": "home",
+          "abbreviation": "DET",
+          "displayName": "Detroit Lions",
+          "score": 0
+        },
+        {
+          "id": "15",
+          "homeAway": "away",
+          "abbreviation": "MIA",
+          "displayName": "Miami Dolphins",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401773003",
+      "shortName": "GB @ IND",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2025-08-16T17:00Z",
+      "teams": [
+        {
+          "id": "11",
+          "homeAway": "home",
+          "abbreviation": "IND",
+          "displayName": "Indianapolis Colts",
+          "score": 0
+        },
+        {
+          "id": "9",
+          "homeAway": "away",
+          "abbreviation": "GB",
+          "displayName": "Green Bay Packers",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401773013",
+      "shortName": "NE @ MIN",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2025-08-16T17:00Z",
+      "teams": [
+        {
+          "id": "16",
+          "homeAway": "home",
+          "abbreviation": "MIN",
+          "displayName": "Minnesota Vikings",
+          "score": 0
+        },
+        {
+          "id": "17",
+          "homeAway": "away",
+          "abbreviation": "NE",
+          "displayName": "New England Patriots",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401773006",
+      "shortName": "CLE @ PHI",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2025-08-16T17:00Z",
+      "teams": [
+        {
+          "id": "21",
+          "homeAway": "home",
+          "abbreviation": "PHI",
+          "displayName": "Philadelphia Eagles",
+          "score": 0
+        },
+        {
+          "id": "5",
+          "homeAway": "away",
+          "abbreviation": "CLE",
+          "displayName": "Cleveland Browns",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401773027",
+      "shortName": "CAR @ HOU",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2025-08-16T17:00Z",
+      "teams": [
+        {
+          "id": "34",
+          "homeAway": "home",
+          "abbreviation": "HOU",
+          "displayName": "Houston Texans",
+          "score": 0
+        },
+        {
+          "id": "29",
+          "homeAway": "away",
+          "abbreviation": "CAR",
+          "displayName": "Carolina Panthers",
           "score": 0
         }
       ]
@@ -83,6 +272,33 @@
       ]
     },
     {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401774569",
+      "shortName": "SF @ LV",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2025-08-16T20:00Z",
+      "teams": [
+        {
+          "id": "13",
+          "homeAway": "home",
+          "abbreviation": "LV",
+          "displayName": "Las Vegas Raiders",
+          "score": 0
+        },
+        {
+          "id": "25",
+          "homeAway": "away",
+          "abbreviation": "SF",
+          "displayName": "San Francisco 49ers",
+          "score": 0
+        }
+      ]
+    },
+    {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732788",
@@ -137,6 +353,114 @@
       ]
     },
     {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401773007",
+      "shortName": "BAL @ DAL",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2025-08-16T23:00Z",
+      "teams": [
+        {
+          "id": "6",
+          "homeAway": "home",
+          "abbreviation": "DAL",
+          "displayName": "Dallas Cowboys",
+          "score": 0
+        },
+        {
+          "id": "33",
+          "homeAway": "away",
+          "abbreviation": "BAL",
+          "displayName": "Baltimore Ravens",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401773021",
+      "shortName": "LAC @ LAR",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2025-08-16T23:00Z",
+      "teams": [
+        {
+          "id": "14",
+          "homeAway": "home",
+          "abbreviation": "LAR",
+          "displayName": "Los Angeles Rams",
+          "score": 0
+        },
+        {
+          "id": "24",
+          "homeAway": "away",
+          "abbreviation": "LAC",
+          "displayName": "Los Angeles Chargers",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401773009",
+      "shortName": "NYJ @ NYG",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2025-08-16T23:00Z",
+      "teams": [
+        {
+          "id": "19",
+          "homeAway": "home",
+          "abbreviation": "NYG",
+          "displayName": "New York Giants",
+          "score": 0
+        },
+        {
+          "id": "20",
+          "homeAway": "away",
+          "abbreviation": "NYJ",
+          "displayName": "New York Jets",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401773000",
+      "shortName": "TB @ PIT",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2025-08-16T23:00Z",
+      "teams": [
+        {
+          "id": "23",
+          "homeAway": "home",
+          "abbreviation": "PIT",
+          "displayName": "Pittsburgh Steelers",
+          "score": 0
+        },
+        {
+          "id": "27",
+          "homeAway": "away",
+          "abbreviation": "TB",
+          "displayName": "Tampa Bay Buccaneers",
+          "score": 0
+        }
+      ]
+    },
+    {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732780",
@@ -159,6 +483,114 @@
           "homeAway": "away",
           "abbreviation": "BAH",
           "displayName": "Bahia",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401774637",
+      "shortName": "ARI @ DEN",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2025-08-17T01:30Z",
+      "teams": [
+        {
+          "id": "7",
+          "homeAway": "home",
+          "abbreviation": "DEN",
+          "displayName": "Denver Broncos",
+          "score": 0
+        },
+        {
+          "id": "22",
+          "homeAway": "away",
+          "abbreviation": "ARI",
+          "displayName": "Arizona Cardinals",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401773014",
+      "shortName": "JAX @ NO",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2025-08-17T17:00Z",
+      "teams": [
+        {
+          "id": "18",
+          "homeAway": "home",
+          "abbreviation": "NO",
+          "displayName": "New Orleans Saints",
+          "score": 0
+        },
+        {
+          "id": "30",
+          "homeAway": "away",
+          "abbreviation": "JAX",
+          "displayName": "Jacksonville Jaguars",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401772972",
+      "shortName": "BUF @ CHI",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2025-08-18T00:00Z",
+      "teams": [
+        {
+          "id": "3",
+          "homeAway": "home",
+          "abbreviation": "CHI",
+          "displayName": "Chicago Bears",
+          "score": 0
+        },
+        {
+          "id": "2",
+          "homeAway": "away",
+          "abbreviation": "BUF",
+          "displayName": "Buffalo Bills",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401772973",
+      "shortName": "CIN @ WSH",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2025-08-19T00:00Z",
+      "teams": [
+        {
+          "id": "28",
+          "homeAway": "home",
+          "abbreviation": "WSH",
+          "displayName": "Washington Commanders",
+          "score": 0
+        },
+        {
+          "id": "4",
+          "homeAway": "away",
+          "abbreviation": "CIN",
+          "displayName": "Cincinnati Bengals",
           "score": 0
         }
       ]
