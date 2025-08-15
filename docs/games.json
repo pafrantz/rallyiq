@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-15T19:59:11.933Z",
+  "ts": "2025-08-15T20:18:59.713Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740596",
       "shortName": "BOU @ LIV",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "58'",
       "start": "2025-08-15T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "LIV",
           "displayName": "Liverpool",
-          "score": 1
+          "score": 2
         },
         {
           "id": "349",
