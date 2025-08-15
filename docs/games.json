@@ -1,33 +1,6 @@
 {
-  "ts": "2025-08-15T20:52:35.764Z",
+  "ts": "2025-08-15T20:57:48.834Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740596",
-      "shortName": "BOU @ LIV",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2025-08-15T19:00Z",
-      "teams": [
-        {
-          "id": "364",
-          "homeAway": "home",
-          "abbreviation": "LIV",
-          "displayName": "Liverpool",
-          "score": 3
-        },
-        {
-          "id": "349",
-          "homeAway": "away",
-          "abbreviation": "BOU",
-          "displayName": "AFC Bournemouth",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
