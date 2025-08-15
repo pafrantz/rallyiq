@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-15T22:57:31.974Z",
+  "ts": "2025-08-15T23:13:26.308Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401773017",
       "shortName": "TEN @ ATL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "9:11",
       "start": "2025-08-15T23:00Z",
       "teams": [
         {
