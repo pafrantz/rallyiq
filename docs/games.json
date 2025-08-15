@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-15T19:48:35.989Z",
+  "ts": "2025-08-15T19:54:07.324Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740596",
       "shortName": "BOU @ LIV",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+2'",
+      "clock": "45'+4'",
       "start": "2025-08-15T19:00Z",
       "teams": [
         {
