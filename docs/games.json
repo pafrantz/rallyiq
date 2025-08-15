@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-15T23:13:26.308Z",
+  "ts": "2025-08-15T23:29:22.008Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "9:11",
+      "clock": "2:29",
       "start": "2025-08-15T23:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 0
+          "score": 6
         }
       ]
     },
