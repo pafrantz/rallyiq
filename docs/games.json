@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-16T04:24:09.629Z",
+  "ts": "2025-08-16T04:43:08.935Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:16",
+      "clock": "3:03",
       "start": "2025-08-16T02:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 30
+          "score": 33
         },
         {
           "id": "12",
           "homeAway": "away",
           "abbreviation": "KC",
           "displayName": "Kansas City Chiefs",
-          "score": 10
+          "score": 16
         }
       ]
     },
