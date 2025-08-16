@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-16T13:59:52.139Z",
+  "ts": "2025-08-16T14:16:07.030Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740598",
       "shortName": "FUL @ BHA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "14'",
       "start": "2025-08-16T14:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740600",
       "shortName": "WHU @ SUN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "14'",
       "start": "2025-08-16T14:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740601",
       "shortName": "BUR @ TOT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "15'",
       "start": "2025-08-16T14:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "TOT",
           "displayName": "Tottenham Hotspur",
-          "score": 0
+          "score": 1
         },
         {
           "id": "379",
