@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-16T22:15:44.717Z",
+  "ts": "2025-08-16T22:33:00.926Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "14:04",
+      "clock": "6:17",
       "start": "2025-08-16T20:05Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 13
+          "score": 16
         }
       ]
     },
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732788",
       "shortName": "SAO @ SPO",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+3'",
       "start": "2025-08-16T21:30Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "732784",
       "shortName": "JUV @ VIT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "42'",
+      "clock": "45'+6'",
       "start": "2025-08-16T21:30Z",
       "teams": [
         {
