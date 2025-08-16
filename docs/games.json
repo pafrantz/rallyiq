@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-16T17:44:29.419Z",
+  "ts": "2025-08-16T17:50:00.165Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "52'",
+      "clock": "58'",
       "start": "2025-08-16T16:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "2:18",
+      "clock": "1:19",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "15:00",
+      "clock": "14:09",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 0
+          "score": 3
         },
         {
           "id": "9",
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:21",
+      "clock": "12:52",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:34",
+      "clock": "11:19",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -143,8 +143,8 @@
       "shortName": "CAR @ HOU",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:43",
+      "period": 2,
+      "clock": "12:54",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
