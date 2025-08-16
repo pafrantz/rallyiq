@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-16T23:38:31.358Z",
+  "ts": "2025-08-16T23:44:40.717Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "3:04",
+      "clock": "1:31",
       "start": "2025-08-16T23:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 0
+          "score": 7
         },
         {
           "id": "33",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "6:18",
+      "clock": "2:56",
       "start": "2025-08-16T23:00Z",
       "teams": [
         {
@@ -62,8 +62,8 @@
       "shortName": "NYJ @ NYG",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:39",
+      "period": 2,
+      "clock": "13:22",
       "start": "2025-08-16T23:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "4:54",
+      "clock": "2:23",
       "start": "2025-08-16T23:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "TB",
           "displayName": "Tampa Bay Buccaneers",
-          "score": 7
+          "score": 14
         }
       ]
     },
