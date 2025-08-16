@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-16T23:50:07.166Z",
+  "ts": "2025-08-16T23:55:21.201Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401773007",
       "shortName": "BAL @ DAL",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:00",
+      "period": 2,
+      "clock": "12:50",
       "start": "2025-08-16T23:00Z",
       "teams": [
         {
@@ -35,8 +35,8 @@
       "shortName": "LAC @ LAR",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:30",
+      "period": 2,
+      "clock": "13:41",
       "start": "2025-08-16T23:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:43",
+      "clock": "10:10",
       "start": "2025-08-16T23:00Z",
       "teams": [
         {
@@ -89,8 +89,8 @@
       "shortName": "TB @ PIT",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:42",
+      "period": 2,
+      "clock": "14:30",
       "start": "2025-08-16T23:00Z",
       "teams": [
         {
