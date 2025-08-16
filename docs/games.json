@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-16T17:15:15.751Z",
+  "ts": "2025-08-16T17:29:35.419Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740602",
       "shortName": "MNC @ WOL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "43'",
+      "clock": "45'+6'",
       "start": "2025-08-16T16:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "11:28",
+      "clock": "7:59",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "10:38",
+      "clock": "6:00",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "10:36",
+      "clock": "4:32",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "9:02",
+      "clock": "3:13",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "CLE",
           "displayName": "Cleveland Browns",
-          "score": 0
+          "score": 6
         }
       ]
     },
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "13:41",
+      "clock": "4:56",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
