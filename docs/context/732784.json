@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-16T23:00:16.122Z",
+  "ts": "2025-08-16T23:17:32.808Z",
   "sport": "soccer",
   "league": "bra.1",
   "eventId": "732784",
@@ -8,8 +8,8 @@
     "distance": null,
     "yardline": null,
     "quarter": 2,
-    "clock_secs": 3960,
-    "score_diff": 2,
+    "clock_secs": 4980,
+    "score_diff": 1,
     "recent_gains": [
       0,
       0,
@@ -19,12 +19,12 @@
       0
     ],
     "recent_clock": [
-      3660,
-      3660,
-      3660,
-      3900,
-      3960,
-      4020
+      4860,
+      4860,
+      4860,
+      4860,
+      4860,
+      4980
     ]
   }
 }

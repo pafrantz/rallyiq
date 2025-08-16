@@ -1,33 +1,6 @@
 {
-  "ts": "2025-08-16T23:00:14.873Z",
+  "ts": "2025-08-16T23:17:31.843Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401774569",
-      "shortName": "SF @ LV",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:13",
-      "start": "2025-08-16T20:05Z",
-      "teams": [
-        {
-          "id": "13",
-          "homeAway": "home",
-          "abbreviation": "LV",
-          "displayName": "Las Vegas Raiders",
-          "score": 19
-        },
-        {
-          "id": "25",
-          "homeAway": "away",
-          "abbreviation": "SF",
-          "displayName": "San Francisco 49ers",
-          "score": 19
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "70'",
+      "clock": "87'",
       "start": "2025-08-16T21:30Z",
       "teams": [
         {
@@ -63,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "67'",
+      "clock": "83'",
       "start": "2025-08-16T21:30Z",
       "teams": [
         {
@@ -78,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "JUV",
           "displayName": "Juventude",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -87,10 +60,10 @@
       "league": "nfl",
       "id": "401773007",
       "shortName": "BAL @ DAL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "12:34",
       "start": "2025-08-16T23:00Z",
       "teams": [
         {
@@ -114,10 +87,10 @@
       "league": "nfl",
       "id": "401773021",
       "shortName": "LAC @ LAR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "14:12",
       "start": "2025-08-16T23:00Z",
       "teams": [
         {
@@ -141,10 +114,10 @@
       "league": "nfl",
       "id": "401773009",
       "shortName": "NYJ @ NYG",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "9:46",
       "start": "2025-08-16T23:00Z",
       "teams": [
         {
@@ -168,10 +141,10 @@
       "league": "nfl",
       "id": "401773000",
       "shortName": "TB @ PIT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "11:02",
       "start": "2025-08-16T23:00Z",
       "teams": [
         {
