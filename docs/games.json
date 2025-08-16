@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-16T17:29:35.419Z",
+  "ts": "2025-08-16T17:38:40.657Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740602",
       "shortName": "MNC @ WOL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "45'",
       "start": "2025-08-16T16:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "7:59",
+      "clock": "4:08",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "6:00",
+      "clock": "2:08",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "4:32",
+      "clock": "0:21",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401773006",
       "shortName": "CLE @ PHI",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_END_PERIOD",
       "state": "IN",
       "period": 1,
-      "clock": "3:13",
+      "clock": "0:00",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "4:56",
+      "clock": "2:55",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -152,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 0
+          "score": 7
         },
         {
           "id": "29",
