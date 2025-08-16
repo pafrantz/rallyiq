@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-16T14:58:37.959Z",
+  "ts": "2025-08-16T15:14:36.551Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740598",
       "shortName": "FUL @ BHA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+1'",
+      "period": 2,
+      "clock": "55'",
       "start": "2025-08-16T14:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BHA",
           "displayName": "Brighton & Hove Albion",
-          "score": 0
+          "score": 1
         },
         {
           "id": "370",
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740600",
       "shortName": "WHU @ SUN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+1'",
+      "period": 2,
+      "clock": "57'",
       "start": "2025-08-16T14:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740601",
       "shortName": "BUR @ TOT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "56'",
       "start": "2025-08-16T14:00Z",
       "teams": [
         {
