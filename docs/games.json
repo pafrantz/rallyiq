@@ -1,33 +1,6 @@
 {
-  "ts": "2025-08-16T20:52:48.314Z",
+  "ts": "2025-08-16T20:58:10.943Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732781",
-      "shortName": "BRA @ CEA",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+1'",
-      "start": "2025-08-16T19:00Z",
-      "teams": [
-        {
-          "id": "9969",
-          "homeAway": "home",
-          "abbreviation": "CEA",
-          "displayName": "Ceará",
-          "score": 1
-        },
-        {
-          "id": "6079",
-          "homeAway": "away",
-          "abbreviation": "BRA",
-          "displayName": "Red Bull Bragantino",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "88'",
+      "clock": "90'+4'",
       "start": "2025-08-16T19:00Z",
       "teams": [
         {
@@ -63,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "9:45",
+      "clock": "7:51",
       "start": "2025-08-16T20:05Z",
       "teams": [
         {
