@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-16T18:50:49.693Z",
+  "ts": "2025-08-16T18:56:20.428Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401776264",
       "shortName": "MIA @ DET",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:28",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401773003",
       "shortName": "GB @ IND",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:51",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:42",
+      "clock": "8:17",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "MIN",
           "displayName": "Minnesota Vikings",
-          "score": 3
+          "score": 6
         },
         {
           "id": "17",
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:59",
+      "clock": "8:03",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:29",
+      "clock": "7:56",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
