@@ -1,33 +1,6 @@
 {
-  "ts": "2025-08-16T18:11:10.043Z",
+  "ts": "2025-08-16T18:37:42.972Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740602",
-      "shortName": "MNC @ WOL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "78'",
-      "start": "2025-08-16T16:30Z",
-      "teams": [
-        {
-          "id": "380",
-          "homeAway": "home",
-          "abbreviation": "WOL",
-          "displayName": "Wolverhampton Wanderers",
-          "score": 0
-        },
-        {
-          "id": "382",
-          "homeAway": "away",
-          "abbreviation": "MNC",
-          "displayName": "Manchester City",
-          "score": 3
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -36,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "7:00",
+      "clock": "0:30",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -44,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 7
+          "score": 14
         },
         {
           "id": "15",
@@ -63,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "5:00",
+      "clock": "0:36",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -71,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 10
+          "score": 13
         },
         {
           "id": "9",
@@ -87,10 +60,10 @@
       "league": "nfl",
       "id": "401773013",
       "shortName": "NE @ MIN",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "3:10",
+      "clock": "0:00",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -98,14 +71,14 @@
           "homeAway": "home",
           "abbreviation": "MIN",
           "displayName": "Minnesota Vikings",
-          "score": 0
+          "score": 3
         },
         {
           "id": "17",
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 7
+          "score": 14
         }
       ]
     },
@@ -116,8 +89,8 @@
       "shortName": "CLE @ PHI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "2:00",
+      "period": 3,
+      "clock": "15:00",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -125,14 +98,14 @@
           "homeAway": "home",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 7
+          "score": 13
         },
         {
           "id": "5",
           "homeAway": "away",
           "abbreviation": "CLE",
           "displayName": "Cleveland Browns",
-          "score": 9
+          "score": 12
         }
       ]
     },
@@ -141,10 +114,10 @@
       "league": "nfl",
       "id": "401773027",
       "shortName": "CAR @ HOU",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "3:06",
+      "clock": "0:00",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -152,14 +125,14 @@
           "homeAway": "home",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 7
+          "score": 10
         },
         {
           "id": "29",
           "homeAway": "away",
           "abbreviation": "CAR",
           "displayName": "Carolina Panthers",
-          "score": 0
+          "score": 3
         }
       ]
     },
