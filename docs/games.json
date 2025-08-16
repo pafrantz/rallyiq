@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-16T18:37:42.972Z",
+  "ts": "2025-08-16T18:50:49.693Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401776264",
       "shortName": "MIA @ DET",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:30",
+      "clock": "0:00",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401773003",
       "shortName": "GB @ IND",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:36",
+      "clock": "0:00",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401773013",
       "shortName": "NE @ MIN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "9:42",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "15:00",
+      "clock": "10:59",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "CLE",
           "displayName": "Cleveland Browns",
-          "score": 12
+          "score": 19
         }
       ]
     },
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401773027",
       "shortName": "CAR @ HOU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "10:29",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 10
+          "score": 13
         },
         {
           "id": "29",
