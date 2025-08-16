@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-15T23:57:34.272Z",
+  "ts": "2025-08-16T01:04:20.735Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "TEN @ ATL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "12:41",
+      "period": 3,
+      "clock": "11:36",
       "start": "2025-08-15T23:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 0
+          "score": 10
         },
         {
           "id": "10",
           "homeAway": "away",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 6
+          "score": 13
         }
       ]
     },
