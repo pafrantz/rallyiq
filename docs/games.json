@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-16T03:37:23.961Z",
+  "ts": "2025-08-16T03:59:42.816Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401774591",
       "shortName": "KC @ SEA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "5:13",
       "start": "2025-08-16T02:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 23
+          "score": 30
         },
         {
           "id": "12",
           "homeAway": "away",
           "abbreviation": "KC",
           "displayName": "Kansas City Chiefs",
-          "score": 7
+          "score": 10
         }
       ]
     },
