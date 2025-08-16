@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-16T20:47:26.463Z",
+  "ts": "2025-08-16T20:52:48.314Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "85'",
+      "clock": "90'+1'",
       "start": "2025-08-16T19:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "84'",
+      "clock": "88'",
       "start": "2025-08-16T19:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:08",
+      "clock": "9:45",
       "start": "2025-08-16T20:05Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 3
+          "score": 10
         }
       ]
     },
