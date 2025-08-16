@@ -1,33 +1,6 @@
 {
-  "ts": "2025-08-16T13:03:09.812Z",
+  "ts": "2025-08-16T13:31:49.897Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740597",
-      "shortName": "NEW @ AVL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "75'",
-      "start": "2025-08-16T11:30Z",
-      "teams": [
-        {
-          "id": "362",
-          "homeAway": "home",
-          "abbreviation": "AVL",
-          "displayName": "Aston Villa",
-          "score": 0
-        },
-        {
-          "id": "361",
-          "homeAway": "away",
-          "abbreviation": "NEW",
-          "displayName": "Newcastle United",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
