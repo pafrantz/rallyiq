@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-16T18:56:20.428Z",
+  "ts": "2025-08-16T19:07:58.727Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:28",
+      "clock": "10:36",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 7
+          "score": 13
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:51",
+      "clock": "6:59",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "8:17",
+      "clock": "3:48",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "8:03",
+      "clock": "3:36",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "7:56",
+      "clock": "1:49",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -141,10 +141,10 @@
       "league": "bra.1",
       "id": "732781",
       "shortName": "BRA @ CEA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "6'",
       "start": "2025-08-16T19:00Z",
       "teams": [
         {
@@ -168,10 +168,10 @@
       "league": "bra.1",
       "id": "732789",
       "shortName": "FOR @ FLU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "8'",
       "start": "2025-08-16T19:00Z",
       "teams": [
         {
