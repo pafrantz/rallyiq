@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-16T22:33:00.926Z",
+  "ts": "2025-08-16T22:43:56.773Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:17",
+      "clock": "2:00",
       "start": "2025-08-16T20:05Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "LV",
           "displayName": "Las Vegas Raiders",
-          "score": 16
+          "score": 19
         },
         {
           "id": "25",
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732788",
       "shortName": "SAO @ SPO",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "54'",
       "start": "2025-08-16T21:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "SPO",
           "displayName": "Sport",
-          "score": 1
+          "score": 2
         },
         {
           "id": "2026",
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "732784",
       "shortName": "JUV @ VIT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "50'",
       "start": "2025-08-16T21:30Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "VIT",
           "displayName": "Vitória",
-          "score": 1
+          "score": 2
         },
         {
           "id": "6270",
