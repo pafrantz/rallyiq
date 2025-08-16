@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-16T19:57:17.508Z",
+  "ts": "2025-08-16T20:12:56.509Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "8:57",
+      "clock": "1:50",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 21
+          "score": 24
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:42",
+      "clock": "0:31",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -51,34 +51,7 @@
           "homeAway": "away",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 16
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401773013",
-      "shortName": "NE @ MIN",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:00",
-      "start": "2025-08-16T17:00Z",
-      "teams": [
-        {
-          "id": "16",
-          "homeAway": "home",
-          "abbreviation": "MIN",
-          "displayName": "Minnesota Vikings",
-          "score": 12
-        },
-        {
-          "id": "17",
-          "homeAway": "away",
-          "abbreviation": "NE",
-          "displayName": "New England Patriots",
-          "score": 20
+          "score": 23
         }
       ]
     },
@@ -87,10 +60,10 @@
       "league": "bra.1",
       "id": "732781",
       "shortName": "BRA @ CEA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "50'",
       "start": "2025-08-16T19:00Z",
       "teams": [
         {
@@ -114,10 +87,10 @@
       "league": "bra.1",
       "id": "732789",
       "shortName": "FOR @ FLU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+7'",
+      "period": 2,
+      "clock": "48'",
       "start": "2025-08-16T19:00Z",
       "teams": [
         {
@@ -141,10 +114,10 @@
       "league": "nfl",
       "id": "401774569",
       "shortName": "SF @ LV",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "9:25",
       "start": "2025-08-16T20:05Z",
       "teams": [
         {
