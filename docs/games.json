@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-16T19:35:50.756Z",
+  "ts": "2025-08-16T19:41:18.516Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "MIA @ DET",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:19",
+      "period": 4,
+      "clock": "13:38",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:07",
+      "clock": "10:43",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "7:07",
+      "clock": "5:32",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 17
+          "score": 20
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:59",
+      "clock": "3:42",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:48",
+      "clock": "4:32",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "33'",
+      "clock": "39'",
       "start": "2025-08-16T19:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "35'",
+      "clock": "39'",
       "start": "2025-08-16T19:00Z",
       "teams": [
         {
