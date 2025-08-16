@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-16T11:29:09.670Z",
+  "ts": "2025-08-16T11:36:17.030Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740597",
       "shortName": "NEW @ AVL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "5'",
       "start": "2025-08-16T11:30Z",
       "teams": [
         {
