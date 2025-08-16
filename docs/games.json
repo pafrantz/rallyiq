@@ -1,60 +1,6 @@
 {
-  "ts": "2025-08-16T20:12:56.509Z",
+  "ts": "2025-08-16T20:30:38.472Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401776264",
-      "shortName": "MIA @ DET",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:50",
-      "start": "2025-08-16T17:00Z",
-      "teams": [
-        {
-          "id": "8",
-          "homeAway": "home",
-          "abbreviation": "DET",
-          "displayName": "Detroit Lions",
-          "score": 17
-        },
-        {
-          "id": "15",
-          "homeAway": "away",
-          "abbreviation": "MIA",
-          "displayName": "Miami Dolphins",
-          "score": 24
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401773003",
-      "shortName": "GB @ IND",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:31",
-      "start": "2025-08-16T17:00Z",
-      "teams": [
-        {
-          "id": "11",
-          "homeAway": "home",
-          "abbreviation": "IND",
-          "displayName": "Indianapolis Colts",
-          "score": 19
-        },
-        {
-          "id": "9",
-          "homeAway": "away",
-          "abbreviation": "GB",
-          "displayName": "Green Bay Packers",
-          "score": 23
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -63,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "50'",
+      "clock": "69'",
       "start": "2025-08-16T19:00Z",
       "teams": [
         {
@@ -90,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "48'",
+      "clock": "66'",
       "start": "2025-08-16T19:00Z",
       "teams": [
         {
@@ -98,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "FLU",
           "displayName": "Fluminense",
-          "score": 1
+          "score": 2
         },
         {
           "id": "6272",
@@ -117,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "9:25",
+      "clock": "3:36",
       "start": "2025-08-16T20:05Z",
       "teams": [
         {
@@ -125,14 +71,14 @@
           "homeAway": "home",
           "abbreviation": "LV",
           "displayName": "Las Vegas Raiders",
-          "score": 0
+          "score": 3
         },
         {
           "id": "25",
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 0
+          "score": 3
         }
       ]
     },
