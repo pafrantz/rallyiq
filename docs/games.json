@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-16T20:30:38.472Z",
+  "ts": "2025-08-16T20:40:54.309Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "69'",
+      "clock": "78'",
       "start": "2025-08-16T19:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "66'",
+      "clock": "75'",
       "start": "2025-08-16T19:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "FOR",
           "displayName": "Fortaleza",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -62,8 +62,8 @@
       "shortName": "SF @ LV",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "3:36",
+      "period": 2,
+      "clock": "13:51",
       "start": "2025-08-16T20:05Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "LV",
           "displayName": "Las Vegas Raiders",
-          "score": 3
+          "score": 10
         },
         {
           "id": "25",
