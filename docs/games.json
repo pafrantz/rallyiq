@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-16T19:07:58.727Z",
+  "ts": "2025-08-16T19:22:39.000Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:36",
+      "clock": "4:53",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 14
+          "score": 17
         },
         {
           "id": "15",
           "homeAway": "away",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 13
+          "score": 14
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:59",
+      "clock": "1:12",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -44,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 13
+          "score": 16
         },
         {
           "id": "9",
           "homeAway": "away",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 3
+          "score": 10
         }
       ]
     },
@@ -62,8 +62,8 @@
       "shortName": "NE @ MIN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "3:48",
+      "period": 4,
+      "clock": "14:11",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 14
+          "score": 17
         }
       ]
     },
@@ -89,8 +89,8 @@
       "shortName": "CLE @ PHI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "3:36",
+      "period": 4,
+      "clock": "12:18",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -116,8 +116,8 @@
       "shortName": "CAR @ HOU",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:49",
+      "period": 4,
+      "clock": "12:08",
       "start": "2025-08-16T17:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 13
+          "score": 20
         },
         {
           "id": "29",
@@ -144,7 +144,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "6'",
+      "clock": "21'",
       "start": "2025-08-16T19:00Z",
       "teams": [
         {
@@ -152,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "CEA",
           "displayName": "Ceará",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6079",
@@ -171,7 +171,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "8'",
+      "clock": "22'",
       "start": "2025-08-16T19:00Z",
       "teams": [
         {
@@ -179,7 +179,7 @@
           "homeAway": "home",
           "abbreviation": "FLU",
           "displayName": "Fluminense",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6272",
