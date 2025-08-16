@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-16T21:36:09.934Z",
+  "ts": "2025-08-16T21:42:52.144Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401774569",
       "shortName": "SF @ LV",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "11:51",
       "start": "2025-08-16T20:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "5'",
+      "clock": "12'",
       "start": "2025-08-16T21:30Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "4'",
+      "clock": "11'",
       "start": "2025-08-16T21:30Z",
       "teams": [
         {
