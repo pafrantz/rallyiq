@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-17T20:33:48.171Z",
+  "ts": "2025-08-17T20:44:31.599Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "74'",
+      "clock": "84'",
       "start": "2025-08-17T19:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "62'",
+      "clock": "74'",
       "start": "2025-08-17T19:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "VAS",
           "displayName": "Vasco da Gama",
-          "score": 5
+          "score": 6
         }
       ]
     },
