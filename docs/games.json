@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-17T17:56:46.844Z",
+  "ts": "2025-08-17T18:15:46.030Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "7:25",
+      "clock": "0:18",
       "start": "2025-08-17T17:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 7
+          "score": 14
         }
       ]
     },
