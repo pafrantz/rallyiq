@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-17T22:17:27.084Z",
+  "ts": "2025-08-17T22:35:31.209Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732785",
       "shortName": "FLA @ INT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+1'",
+      "period": 2,
+      "clock": "48'",
       "start": "2025-08-17T21:30Z",
       "teams": [
         {
