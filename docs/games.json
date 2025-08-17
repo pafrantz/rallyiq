@@ -1,33 +1,6 @@
 {
-  "ts": "2025-08-17T17:10:03.515Z",
+  "ts": "2025-08-17T17:28:33.780Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740604",
-      "shortName": "ARS @ MAN",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "82'",
-      "start": "2025-08-17T15:30Z",
-      "teams": [
-        {
-          "id": "360",
-          "homeAway": "home",
-          "abbreviation": "MAN",
-          "displayName": "Manchester United",
-          "score": 0
-        },
-        {
-          "id": "359",
-          "homeAway": "away",
-          "abbreviation": "ARS",
-          "displayName": "Arsenal",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -36,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "10:38",
+      "clock": "2:33",
       "start": "2025-08-17T17:00Z",
       "teams": [
         {
@@ -51,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 0
+          "score": 7
         }
       ]
     },
