@@ -1,12 +1,12 @@
 {
-  "ts": "2025-08-17T13:51:09.170Z",
+  "ts": "2025-08-17T13:56:39.447Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740603",
       "shortName": "CRY @ CHE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
       "clock": "45'+4'",
