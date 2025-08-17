@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-17T16:56:51.967Z",
+  "ts": "2025-08-17T17:10:03.515Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "69'",
+      "clock": "82'",
       "start": "2025-08-17T15:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401773014",
       "shortName": "JAX @ NO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "10:38",
       "start": "2025-08-17T17:00Z",
       "teams": [
         {
