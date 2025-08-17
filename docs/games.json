@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-17T13:45:30.309Z",
+  "ts": "2025-08-17T13:51:09.170Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "44'",
+      "clock": "45'+4'",
       "start": "2025-08-17T13:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740599",
       "shortName": "BRE @ NFO",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "44'",
+      "clock": "45'+5'",
       "start": "2025-08-17T13:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "NFO",
           "displayName": "Nottingham Forest",
-          "score": 2
+          "score": 3
         },
         {
           "id": "337",
