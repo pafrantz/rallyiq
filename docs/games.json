@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-17T18:53:59.457Z",
+  "ts": "2025-08-17T18:59:13.315Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "3:52",
+      "clock": "0:17",
       "start": "2025-08-17T17:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "NO",
           "displayName": "New Orleans Saints",
-          "score": 6
+          "score": 9
         },
         {
           "id": "30",
