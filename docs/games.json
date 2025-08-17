@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-17T02:46:48.187Z",
+  "ts": "2025-08-17T03:46:07.819Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "ARI @ DEN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "4:11",
+      "period": 3,
+      "clock": "6:03",
       "start": "2025-08-17T01:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 17
+          "score": 24
         },
         {
           "id": "22",
