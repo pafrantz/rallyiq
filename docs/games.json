@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-17T15:39:52.555Z",
+  "ts": "2025-08-17T15:46:24.496Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "8'",
+      "clock": "15'",
       "start": "2025-08-17T15:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "ARS",
           "displayName": "Arsenal",
-          "score": 0
+          "score": 1
         }
       ]
     },
