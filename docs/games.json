@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-17T13:34:11.995Z",
+  "ts": "2025-08-17T13:45:30.309Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "32'",
+      "clock": "44'",
       "start": "2025-08-17T13:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "33'",
+      "clock": "44'",
       "start": "2025-08-17T13:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "NFO",
           "displayName": "Nottingham Forest",
-          "score": 1
+          "score": 2
         },
         {
           "id": "337",
