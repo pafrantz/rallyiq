@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-17T15:29:59.529Z",
+  "ts": "2025-08-17T15:39:52.555Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740604",
       "shortName": "ARS @ MAN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "8'",
       "start": "2025-08-17T15:30Z",
       "teams": [
         {
