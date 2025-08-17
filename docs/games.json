@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-17T18:15:46.030Z",
+  "ts": "2025-08-17T18:42:49.188Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "JAX @ NO",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:18",
+      "period": 3,
+      "clock": "11:07",
       "start": "2025-08-17T17:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "NO",
           "displayName": "New Orleans Saints",
-          "score": 3
+          "score": 6
         },
         {
           "id": "30",
           "homeAway": "away",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 14
+          "score": 17
         }
       ]
     },
