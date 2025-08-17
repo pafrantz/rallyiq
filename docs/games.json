@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-16T23:55:21.201Z",
+  "ts": "2025-08-17T00:48:34.706Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401773007",
       "shortName": "BAL @ DAL",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "12:50",
+      "clock": "0:00",
       "start": "2025-08-16T23:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 5
+          "score": 18
         }
       ]
     },
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401773021",
       "shortName": "LAC @ LAR",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "13:41",
+      "clock": "0:00",
       "start": "2025-08-16T23:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 3
+          "score": 9
         }
       ]
     },
@@ -62,8 +62,8 @@
       "shortName": "NYJ @ NYG",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "10:10",
+      "period": 3,
+      "clock": "9:29",
       "start": "2025-08-16T23:00Z",
       "teams": [
         {
@@ -71,14 +71,14 @@
           "homeAway": "home",
           "abbreviation": "NYG",
           "displayName": "New York Giants",
-          "score": 7
+          "score": 14
         },
         {
           "id": "20",
           "homeAway": "away",
           "abbreviation": "NYJ",
           "displayName": "New York Jets",
-          "score": 3
+          "score": 6
         }
       ]
     },
@@ -89,8 +89,8 @@
       "shortName": "TB @ PIT",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "14:30",
+      "period": 3,
+      "clock": "14:15",
       "start": "2025-08-16T23:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "bra.1",
       "id": "732780",
       "shortName": "BAH @ COR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "45'+1'",
       "start": "2025-08-17T00:00Z",
       "teams": [
         {
@@ -125,14 +125,14 @@
           "homeAway": "home",
           "abbreviation": "COR",
           "displayName": "Corinthians",
-          "score": 0
+          "score": 1
         },
         {
           "id": "9967",
           "homeAway": "away",
           "abbreviation": "BAH",
           "displayName": "Bahia",
-          "score": 0
+          "score": 2
         }
       ]
     },
