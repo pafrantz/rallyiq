@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-18T22:57:59.733Z",
+  "ts": "2025-08-18T23:13:14.304Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732786",
       "shortName": "CRU @ MIR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "10'",
       "start": "2025-08-18T23:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "CRU",
           "displayName": "Cruzeiro",
-          "score": 0
+          "score": 1
         }
       ]
     },
