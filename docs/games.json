@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-18T20:35:18.017Z",
+  "ts": "2025-08-18T20:44:36.845Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "75'",
+      "clock": "85'",
       "start": "2025-08-18T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "LEE",
           "displayName": "Leeds United",
-          "score": 0
+          "score": 1
         },
         {
           "id": "368",
