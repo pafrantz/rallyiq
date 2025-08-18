@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-17T23:57:37.789Z",
+  "ts": "2025-08-18T01:12:19.250Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732782",
       "shortName": "PAL @ BOT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "25'",
+      "period": 2,
+      "clock": "81'",
       "start": "2025-08-17T23:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "PAL",
           "displayName": "Palmeiras",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772972",
       "shortName": "BUF @ CHI",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 2,
+      "clock": "9:42",
       "start": "2025-08-18T00:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 0
+          "score": 21
         },
         {
           "id": "2",
