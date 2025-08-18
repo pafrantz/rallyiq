@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-18T23:49:30.234Z",
+  "ts": "2025-08-18T23:55:06.028Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732786",
       "shortName": "CRU @ MIR",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+2'",
+      "clock": "45'+6'",
       "start": "2025-08-18T23:00Z",
       "teams": [
         {
