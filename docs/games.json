@@ -1,4 +1,59 @@
 {
-  "ts": "2025-08-19T03:58:29.735Z",
-  "games": []
+  "ts": "2025-08-19T04:18:53.515Z",
+  "games": [
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732723",
+      "shortName": "VAS @ JUV",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-08-20T22:00Z",
+      "teams": [
+        {
+          "id": "6270",
+          "homeAway": "home",
+          "abbreviation": "JUV",
+          "displayName": "Juventude",
+          "score": 0
+        },
+        {
+          "id": "3454",
+          "homeAway": "away",
+          "abbreviation": "VAS",
+          "displayName": "Vasco da Gama",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740615",
+      "shortName": "CHE @ WHU",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-08-22T19:00Z",
+      "teams": [
+        {
+          "id": "371",
+          "homeAway": "home",
+          "abbreviation": "WHU",
+          "displayName": "West Ham United",
+          "score": 0
+        },
+        {
+          "id": "363",
+          "homeAway": "away",
+          "abbreviation": "CHE",
+          "displayName": "Chelsea",
+          "score": 0
+        }
+      ]
+    }
+  ]
 }
