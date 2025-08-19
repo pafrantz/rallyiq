@@ -1,32 +1,4 @@
 {
-  "ts": "2025-08-19T03:02:19.689Z",
-  "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772973",
-      "shortName": "CIN @ WSH",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:29",
-      "start": "2025-08-19T00:00Z",
-      "teams": [
-        {
-          "id": "28",
-          "homeAway": "home",
-          "abbreviation": "WSH",
-          "displayName": "Washington Commanders",
-          "score": 17
-        },
-        {
-          "id": "4",
-          "homeAway": "away",
-          "abbreviation": "CIN",
-          "displayName": "Cincinnati Bengals",
-          "score": 31
-        }
-      ]
-    }
-  ]
+  "ts": "2025-08-19T03:43:17.098Z",
+  "games": []
 }
