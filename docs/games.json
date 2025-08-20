@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-20T21:58:59.438Z",
+  "ts": "2025-08-20T22:14:23.449Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732723",
       "shortName": "VAS @ JUV",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "12'",
       "start": "2025-08-20T22:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "JUV",
           "displayName": "Juventude",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3454",
