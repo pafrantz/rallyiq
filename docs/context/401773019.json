@@ -1,30 +1,30 @@
 {
-  "ts": "2025-08-21T23:17:05.151Z",
+  "ts": "2025-08-21T23:29:23.626Z",
   "sport": "football",
   "league": "nfl",
   "eventId": "401773019",
   "context": {
     "down": 4,
-    "distance": 6,
-    "yardline": 46,
+    "distance": 5,
+    "yardline": 75,
     "quarter": 1,
-    "clock_secs": 614,
-    "score_diff": 0,
+    "clock_secs": 260,
+    "score_diff": 3,
     "recent_gains": [
-      -8,
-      15,
-      -1,
+      12,
+      2,
+      3,
       0,
-      5,
-      10
+      0,
+      43
     ],
     "recent_clock": [
-      759,
-      731,
-      697,
-      656,
-      614,
-      571
+      383,
+      358,
+      319,
+      269,
+      260,
+      260
     ]
   }
 }
