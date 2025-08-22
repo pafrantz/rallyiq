@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-22T19:24:23.963Z",
+  "ts": "2025-08-22T19:30:04.149Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740615",
       "shortName": "CHE @ WHU",
-      "status": "STATUS_FIRST_HALF",
-      "state": "IN",
-      "period": 1,
-      "clock": "23'",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
       "start": "2025-08-22T19:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "WHU",
           "displayName": "West Ham United",
-          "score": 1
+          "score": 0
         },
         {
           "id": "363",
           "homeAway": "away",
           "abbreviation": "CHE",
           "displayName": "Chelsea",
-          "score": 2
+          "score": 0
         }
       ]
     },
