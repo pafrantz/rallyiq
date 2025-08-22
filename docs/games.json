@@ -1,33 +1,6 @@
 {
-  "ts": "2025-08-22T02:58:14.801Z",
+  "ts": "2025-08-22T03:37:51.349Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772974",
-      "shortName": "NE @ NYG",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:19",
-      "start": "2025-08-22T00:00Z",
-      "teams": [
-        {
-          "id": "19",
-          "homeAway": "home",
-          "abbreviation": "NYG",
-          "displayName": "New York Giants",
-          "score": 42
-        },
-        {
-          "id": "17",
-          "homeAway": "away",
-          "abbreviation": "NE",
-          "displayName": "New England Patriots",
-          "score": 10
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
