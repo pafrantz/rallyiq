@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-22T23:35:48.176Z",
+  "ts": "2025-08-22T23:42:24.651Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772997",
       "shortName": "PHI @ NYJ",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "11:57",
       "start": "2025-08-22T23:30Z",
       "teams": [
         {
