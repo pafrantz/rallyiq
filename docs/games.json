@@ -1,33 +1,6 @@
 {
-  "ts": "2025-08-23T15:53:25.698Z",
+  "ts": "2025-08-23T15:58:49.872Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740607",
-      "shortName": "WOL @ BOU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2025-08-23T14:00Z",
-      "teams": [
-        {
-          "id": "349",
-          "homeAway": "home",
-          "abbreviation": "BOU",
-          "displayName": "AFC Bournemouth",
-          "score": 1
-        },
-        {
-          "id": "380",
-          "homeAway": "away",
-          "abbreviation": "WOL",
-          "displayName": "Wolverhampton Wanderers",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "87'",
+      "clock": "90'+3'",
       "start": "2025-08-23T14:00Z",
       "teams": [
         {
@@ -63,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "89'",
+      "clock": "90'+3'",
       "start": "2025-08-23T14:00Z",
       "teams": [
         {
