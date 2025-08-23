@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-23T19:56:26.005Z",
+  "ts": "2025-08-23T20:10:36.913Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "3:09",
+      "clock": "0:00",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 7
+          "score": 14
         },
         {
           "id": "11",
@@ -29,68 +29,14 @@
       ]
     },
     {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772999",
-      "shortName": "LAR @ CLE",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:03",
-      "start": "2025-08-23T17:00Z",
-      "teams": [
-        {
-          "id": "5",
-          "homeAway": "home",
-          "abbreviation": "CLE",
-          "displayName": "Cleveland Browns",
-          "score": 16
-        },
-        {
-          "id": "14",
-          "homeAway": "away",
-          "abbreviation": "LAR",
-          "displayName": "Los Angeles Rams",
-          "score": 16
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401773015",
-      "shortName": "DEN @ NO",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:14",
-      "start": "2025-08-23T17:00Z",
-      "teams": [
-        {
-          "id": "18",
-          "homeAway": "home",
-          "abbreviation": "NO",
-          "displayName": "New Orleans Saints",
-          "score": 19
-        },
-        {
-          "id": "7",
-          "homeAway": "away",
-          "abbreviation": "DEN",
-          "displayName": "Denver Broncos",
-          "score": 28
-        }
-      ]
-    },
-    {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732797",
       "shortName": "FLU @ BRA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "48'",
       "start": "2025-08-23T19:00Z",
       "teams": [
         {
@@ -98,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "BRA",
           "displayName": "Red Bull Bragantino",
-          "score": 2
+          "score": 3
         },
         {
           "id": "3445",
@@ -114,10 +60,10 @@
       "league": "nfl",
       "id": "401773011",
       "shortName": "SEA @ GB",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "14:24",
       "start": "2025-08-23T20:00Z",
       "teams": [
         {
