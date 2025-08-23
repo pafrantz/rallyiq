@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-23T15:47:57.836Z",
+  "ts": "2025-08-23T15:53:25.698Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "86'",
+      "clock": "90'+2'",
       "start": "2025-08-23T14:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "82'",
+      "clock": "87'",
       "start": "2025-08-23T14:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "84'",
+      "clock": "89'",
       "start": "2025-08-23T14:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "BUR",
           "displayName": "Burnley",
-          "score": 1
+          "score": 2
         },
         {
           "id": "366",
