@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-23T19:46:15.159Z",
+  "ts": "2025-08-23T19:51:08.648Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:01",
+      "clock": "5:37",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:07",
+      "clock": "3:47",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -58,39 +58,12 @@
     {
       "sport": "football",
       "league": "nfl",
-      "id": "401776265",
-      "shortName": "HOU @ DET",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:00",
-      "start": "2025-08-23T17:00Z",
-      "teams": [
-        {
-          "id": "8",
-          "homeAway": "home",
-          "abbreviation": "DET",
-          "displayName": "Detroit Lions",
-          "score": 7
-        },
-        {
-          "id": "34",
-          "homeAway": "away",
-          "abbreviation": "HOU",
-          "displayName": "Houston Texans",
-          "score": 26
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
       "id": "401773015",
       "shortName": "DEN @ NO",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:32",
+      "clock": "2:57",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -114,10 +87,10 @@
       "league": "bra.1",
       "id": "732797",
       "shortName": "FLU @ BRA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+5'",
       "start": "2025-08-23T19:00Z",
       "teams": [
         {
@@ -132,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "FLU",
           "displayName": "Fluminense",
-          "score": 0
+          "score": 1
         }
       ]
     },
