@@ -1,33 +1,6 @@
 {
-  "ts": "2025-08-23T20:10:36.913Z",
+  "ts": "2025-08-23T20:28:19.892Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772998",
-      "shortName": "IND @ CIN",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:00",
-      "start": "2025-08-23T17:00Z",
-      "teams": [
-        {
-          "id": "4",
-          "homeAway": "home",
-          "abbreviation": "CIN",
-          "displayName": "Cincinnati Bengals",
-          "score": 14
-        },
-        {
-          "id": "11",
-          "homeAway": "away",
-          "abbreviation": "IND",
-          "displayName": "Indianapolis Colts",
-          "score": 41
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "48'",
+      "clock": "66'",
       "start": "2025-08-23T19:00Z",
       "teams": [
         {
@@ -51,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "FLU",
           "displayName": "Fluminense",
-          "score": 1
+          "score": 2
         }
       ]
     },
@@ -63,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "14:24",
+      "clock": "6:07",
       "start": "2025-08-23T20:00Z",
       "teams": [
         {
