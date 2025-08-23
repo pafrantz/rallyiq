@@ -1,69 +1,15 @@
 {
-  "ts": "2025-08-23T15:58:49.872Z",
+  "ts": "2025-08-23T16:16:56.185Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740608",
-      "shortName": "AVL @ BRE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+3'",
-      "start": "2025-08-23T14:00Z",
-      "teams": [
-        {
-          "id": "337",
-          "homeAway": "home",
-          "abbreviation": "BRE",
-          "displayName": "Brentford",
-          "score": 1
-        },
-        {
-          "id": "362",
-          "homeAway": "away",
-          "abbreviation": "AVL",
-          "displayName": "Aston Villa",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740609",
-      "shortName": "SUN @ BUR",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+3'",
-      "start": "2025-08-23T14:00Z",
-      "teams": [
-        {
-          "id": "379",
-          "homeAway": "home",
-          "abbreviation": "BUR",
-          "displayName": "Burnley",
-          "score": 2
-        },
-        {
-          "id": "366",
-          "homeAway": "away",
-          "abbreviation": "SUN",
-          "displayName": "Sunderland",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
       "id": "401777124",
       "shortName": "BAL @ WSH",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "7:18",
       "start": "2025-08-23T16:00Z",
       "teams": [
         {
