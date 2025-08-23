@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-23T17:47:31.021Z",
+  "ts": "2025-08-23T17:52:39.134Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "13:09",
+      "clock": "10:17",
       "start": "2025-08-23T16:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "56'",
+      "clock": "63'",
       "start": "2025-08-23T16:30Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:17",
+      "clock": "12:47",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 0
+          "score": 7
         },
         {
           "id": "11",
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:44",
+      "clock": "10:43",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "12:22",
+      "clock": "10:17",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "12:54",
+      "clock": "11:56",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
