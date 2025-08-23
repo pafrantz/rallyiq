@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-23T16:55:21.067Z",
+  "ts": "2025-08-23T17:01:39.224Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:43",
+      "clock": "10:56",
       "start": "2025-08-23T16:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 14
+          "score": 17
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "23'",
+      "clock": "30'",
       "start": "2025-08-23T16:30Z",
       "teams": [
         {
