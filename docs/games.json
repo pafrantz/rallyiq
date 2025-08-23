@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-23T17:42:02.754Z",
+  "ts": "2025-08-23T17:47:31.021Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401777124",
       "shortName": "BAL @ WSH",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "13:09",
       "start": "2025-08-23T16:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "51'",
+      "clock": "56'",
       "start": "2025-08-23T16:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "ARS",
           "displayName": "Arsenal",
-          "score": 3
+          "score": 4
         },
         {
           "id": "357",
@@ -62,8 +62,8 @@
       "shortName": "IND @ CIN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "1:05",
+      "period": 2,
+      "clock": "14:17",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -89,8 +89,8 @@
       "shortName": "LAR @ CLE",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "1:22",
+      "period": 2,
+      "clock": "13:44",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:49",
+      "clock": "12:22",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 3
+          "score": 10
         }
       ]
     },
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:39",
+      "clock": "12:54",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -159,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 3
+          "score": 10
         }
       ]
     },
