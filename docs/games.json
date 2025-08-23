@@ -1,6 +1,114 @@
 {
-  "ts": "2025-08-23T06:55:42.161Z",
+  "ts": "2025-08-23T07:08:12.694Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740613",
+      "shortName": "TOT @ MNC",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-08-23T11:30Z",
+      "teams": [
+        {
+          "id": "382",
+          "homeAway": "home",
+          "abbreviation": "MNC",
+          "displayName": "Manchester City",
+          "score": 0
+        },
+        {
+          "id": "367",
+          "homeAway": "away",
+          "abbreviation": "TOT",
+          "displayName": "Tottenham Hotspur",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740607",
+      "shortName": "WOL @ BOU",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-08-23T14:00Z",
+      "teams": [
+        {
+          "id": "349",
+          "homeAway": "home",
+          "abbreviation": "BOU",
+          "displayName": "AFC Bournemouth",
+          "score": 0
+        },
+        {
+          "id": "380",
+          "homeAway": "away",
+          "abbreviation": "WOL",
+          "displayName": "Wolverhampton Wanderers",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740608",
+      "shortName": "AVL @ BRE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-08-23T14:00Z",
+      "teams": [
+        {
+          "id": "337",
+          "homeAway": "home",
+          "abbreviation": "BRE",
+          "displayName": "Brentford",
+          "score": 0
+        },
+        {
+          "id": "362",
+          "homeAway": "away",
+          "abbreviation": "AVL",
+          "displayName": "Aston Villa",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740609",
+      "shortName": "SUN @ BUR",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-08-23T14:00Z",
+      "teams": [
+        {
+          "id": "379",
+          "homeAway": "home",
+          "abbreviation": "BUR",
+          "displayName": "Burnley",
+          "score": 0
+        },
+        {
+          "id": "366",
+          "homeAway": "away",
+          "abbreviation": "SUN",
+          "displayName": "Sunderland",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "football",
       "league": "nfl",
@@ -24,6 +132,33 @@
           "homeAway": "away",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740606",
+      "shortName": "LEE @ ARS",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-08-23T16:30Z",
+      "teams": [
+        {
+          "id": "359",
+          "homeAway": "home",
+          "abbreviation": "ARS",
+          "displayName": "Arsenal",
+          "score": 0
+        },
+        {
+          "id": "357",
+          "homeAway": "away",
+          "abbreviation": "LEE",
+          "displayName": "Leeds United",
           "score": 0
         }
       ]
