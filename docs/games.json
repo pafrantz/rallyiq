@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-23T20:37:24.438Z",
+  "ts": "2025-08-23T20:44:01.242Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "76'",
+      "clock": "81'",
       "start": "2025-08-23T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BRA",
           "displayName": "Red Bull Bragantino",
-          "score": 3
+          "score": 4
         },
         {
           "id": "3445",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "3:25",
+      "clock": "0:31",
       "start": "2025-08-23T20:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 7
+          "score": 10
         },
         {
           "id": "26",
