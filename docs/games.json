@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-23T11:57:40.708Z",
+  "ts": "2025-08-23T12:23:51.609Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "24'",
+      "clock": "45'+7'",
       "start": "2025-08-23T11:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "TOT",
           "displayName": "Tottenham Hotspur",
-          "score": 0
+          "score": 2
         }
       ]
     },
