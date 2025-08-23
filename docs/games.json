@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-23T13:58:30.936Z",
+  "ts": "2025-08-23T14:12:43.217Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740607",
       "shortName": "WOL @ BOU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "13'",
       "start": "2025-08-23T14:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BOU",
           "displayName": "AFC Bournemouth",
-          "score": 0
+          "score": 1
         },
         {
           "id": "380",
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740608",
       "shortName": "AVL @ BRE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "4'",
       "start": "2025-08-23T14:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740609",
       "shortName": "SUN @ BUR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "10'",
       "start": "2025-08-23T14:00Z",
       "teams": [
         {
