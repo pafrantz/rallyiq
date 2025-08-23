@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-23T19:35:15.811Z",
+  "ts": "2025-08-23T19:40:53.660Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:26",
+      "clock": "8:24",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:05",
+      "clock": "9:34",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:35",
+      "clock": "3:48",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "9:36",
+      "clock": "7:09",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "NO",
           "displayName": "New Orleans Saints",
-          "score": 16
+          "score": 19
         },
         {
           "id": "7",
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "35'",
+      "clock": "40'",
       "start": "2025-08-23T19:00Z",
       "teams": [
         {
