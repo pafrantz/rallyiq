@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-23T18:17:40.715Z",
+  "ts": "2025-08-23T18:39:32.674Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "BAL @ WSH",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:28",
+      "period": 4,
+      "clock": "5:28",
       "start": "2025-08-23T16:00Z",
       "teams": [
         {
@@ -24,34 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 27
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740606",
-      "shortName": "LEE @ ARS",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "84'",
-      "start": "2025-08-23T16:30Z",
-      "teams": [
-        {
-          "id": "359",
-          "homeAway": "home",
-          "abbreviation": "ARS",
-          "displayName": "Arsenal",
-          "score": 4
-        },
-        {
-          "id": "357",
-          "homeAway": "away",
-          "abbreviation": "LEE",
-          "displayName": "Leeds United",
-          "score": 0
+          "score": 30
         }
       ]
     },
@@ -60,10 +33,10 @@
       "league": "nfl",
       "id": "401772998",
       "shortName": "IND @ CIN",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "2:00",
+      "clock": "0:00",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -78,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 10
+          "score": 24
         }
       ]
     },
@@ -87,10 +60,10 @@
       "league": "nfl",
       "id": "401772999",
       "shortName": "LAR @ CLE",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "1:55",
+      "clock": "0:00",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -98,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "CLE",
           "displayName": "Cleveland Browns",
-          "score": 10
+          "score": 16
         },
         {
           "id": "14",
@@ -116,8 +89,8 @@
       "shortName": "HOU @ DET",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:45",
+      "period": 3,
+      "clock": "14:50",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -141,10 +114,10 @@
       "league": "nfl",
       "id": "401773015",
       "shortName": "DEN @ NO",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "1:56",
+      "clock": "0:00",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -159,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 13
+          "score": 16
         }
       ]
     },
