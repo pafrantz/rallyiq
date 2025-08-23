@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-23T16:34:08.253Z",
+  "ts": "2025-08-23T16:44:22.749Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401777124",
       "shortName": "BAL @ WSH",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:00",
+      "period": 2,
+      "clock": "13:18",
       "start": "2025-08-23T16:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 7
+          "score": 14
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "0'",
+      "clock": "14'",
       "start": "2025-08-23T16:30Z",
       "teams": [
         {
