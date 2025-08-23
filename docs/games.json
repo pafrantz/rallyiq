@@ -1,87 +1,6 @@
 {
-  "ts": "2025-08-23T02:39:21.156Z",
+  "ts": "2025-08-23T03:24:43.293Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772997",
-      "shortName": "PHI @ NYJ",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:15",
-      "start": "2025-08-22T23:30Z",
-      "teams": [
-        {
-          "id": "20",
-          "homeAway": "home",
-          "abbreviation": "NYJ",
-          "displayName": "New York Jets",
-          "score": 17
-        },
-        {
-          "id": "21",
-          "homeAway": "away",
-          "abbreviation": "PHI",
-          "displayName": "Philadelphia Eagles",
-          "score": 19
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401773008",
-      "shortName": "ATL @ DAL",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "10:53",
-      "start": "2025-08-23T00:00Z",
-      "teams": [
-        {
-          "id": "6",
-          "homeAway": "home",
-          "abbreviation": "DAL",
-          "displayName": "Dallas Cowboys",
-          "score": 24
-        },
-        {
-          "id": "1",
-          "homeAway": "away",
-          "abbreviation": "ATL",
-          "displayName": "Atlanta Falcons",
-          "score": 13
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772975",
-      "shortName": "MIN @ TEN",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "7:50",
-      "start": "2025-08-23T00:00Z",
-      "teams": [
-        {
-          "id": "10",
-          "homeAway": "home",
-          "abbreviation": "TEN",
-          "displayName": "Tennessee Titans",
-          "score": 20
-        },
-        {
-          "id": "16",
-          "homeAway": "away",
-          "abbreviation": "MIN",
-          "displayName": "Minnesota Vikings",
-          "score": 10
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -89,8 +8,8 @@
       "shortName": "CHI @ KC",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "4:03",
+      "period": 4,
+      "clock": "1:29",
       "start": "2025-08-23T00:20Z",
       "teams": [
         {
@@ -105,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 10
+          "score": 22
         }
       ]
     },
