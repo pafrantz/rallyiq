@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-23T23:46:03.138Z",
+  "ts": "2025-08-23T23:51:36.050Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:24",
+      "clock": "11:57",
       "start": "2025-08-23T23:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 0
+          "score": 8
         },
         {
           "id": "30",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "11:54",
+      "clock": "9:05",
       "start": "2025-08-23T23:30Z",
       "teams": [
         {
