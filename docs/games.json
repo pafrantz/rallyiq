@@ -1,33 +1,6 @@
 {
-  "ts": "2025-08-23T18:49:08.827Z",
+  "ts": "2025-08-23T18:54:38.753Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401777124",
-      "shortName": "BAL @ WSH",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:01",
-      "start": "2025-08-23T16:00Z",
-      "teams": [
-        {
-          "id": "28",
-          "homeAway": "home",
-          "abbreviation": "WSH",
-          "displayName": "Washington Commanders",
-          "score": 3
-        },
-        {
-          "id": "33",
-          "homeAway": "away",
-          "abbreviation": "BAL",
-          "displayName": "Baltimore Ravens",
-          "score": 30
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -36,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "15:00",
+      "clock": "12:23",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -63,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:57",
+      "clock": "10:38",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -90,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:59",
+      "clock": "8:22",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
@@ -117,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "13:20",
+      "clock": "10:08",
       "start": "2025-08-23T17:00Z",
       "teams": [
         {
