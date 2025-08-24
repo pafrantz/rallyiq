@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-24T02:52:49.255Z",
+  "ts": "2025-08-24T03:40:19.885Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "LAC @ SF",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:36",
+      "period": 4,
+      "clock": "3:12",
       "start": "2025-08-24T00:30Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 13
+          "score": 30
         },
         {
           "id": "24",
           "homeAway": "away",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 13
+          "score": 16
         }
       ]
     },
@@ -35,8 +35,8 @@
       "shortName": "LV @ ARI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "10:20",
+      "period": 3,
+      "clock": "14:18",
       "start": "2025-08-24T02:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 7
+          "score": 10
         },
         {
           "id": "13",
