@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-24T19:46:18.502Z",
+  "ts": "2025-08-24T19:51:49.307Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732793",
       "shortName": "SAN @ BAH",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+2'",
       "start": "2025-08-24T19:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732795",
       "shortName": "COR @ VAS",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+5'",
       "start": "2025-08-24T19:00Z",
       "teams": [
         {
