@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-24T20:30:29.463Z",
+  "ts": "2025-08-24T20:40:34.909Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "70'",
+      "clock": "80'",
       "start": "2025-08-24T19:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "69'",
+      "clock": "79'",
       "start": "2025-08-24T19:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "COR",
           "displayName": "Corinthians",
-          "score": 1
+          "score": 2
         }
       ]
     },
