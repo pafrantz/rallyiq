@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-24T23:11:39.613Z",
+  "ts": "2025-08-24T23:26:49.849Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "75'",
+      "clock": "90'+1'",
       "start": "2025-08-24T21:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "79'",
+      "clock": "90'+5'",
       "start": "2025-08-24T21:30Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "BOT",
           "displayName": "Botafogo",
-          "score": 1
+          "score": 3
         }
       ]
     },
