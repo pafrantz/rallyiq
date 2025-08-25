@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-25T19:49:00.850Z",
+  "ts": "2025-08-25T19:54:29.486Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740614",
       "shortName": "LIV @ NEW",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+3'",
+      "clock": "45'+6'",
       "start": "2025-08-25T19:00Z",
       "teams": [
         {
