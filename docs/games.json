@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-25T20:00:05.894Z",
+  "ts": "2025-08-25T20:20:22.735Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740614",
       "shortName": "LIV @ NEW",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "59'",
       "start": "2025-08-25T19:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "NEW",
           "displayName": "Newcastle United",
-          "score": 0
+          "score": 1
         },
         {
           "id": "364",
           "homeAway": "away",
           "abbreviation": "LIV",
           "displayName": "Liverpool",
-          "score": 1
+          "score": 2
         }
       ]
     },
