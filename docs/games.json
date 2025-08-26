@@ -1,42 +1,15 @@
 {
-  "ts": "2025-08-25T23:56:28.070Z",
+  "ts": "2025-08-26T00:52:54.490Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732798",
-      "shortName": "SPO @ PAL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+5'",
-      "start": "2025-08-25T22:00Z",
-      "teams": [
-        {
-          "id": "2029",
-          "homeAway": "home",
-          "abbreviation": "PAL",
-          "displayName": "Palmeiras",
-          "score": 3
-        },
-        {
-          "id": "7635",
-          "homeAway": "away",
-          "abbreviation": "SPO",
-          "displayName": "Sport",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732791",
       "shortName": "VIT @ FLA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_HALFTIME",
+      "state": "IN",
+      "period": 1,
+      "clock": "45'",
       "start": "2025-08-26T00:00Z",
       "teams": [
         {
@@ -44,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "FLA",
           "displayName": "Flamengo",
-          "score": 0
+          "score": 3
         },
         {
           "id": "3457",
