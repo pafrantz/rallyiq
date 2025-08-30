@@ -1,33 +1,6 @@
 {
-  "ts": "2025-08-30T18:10:42.506Z",
+  "ts": "2025-08-30T18:34:50.525Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740619",
-      "shortName": "NEW @ LEE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "77'",
-      "start": "2025-08-30T16:30Z",
-      "teams": [
-        {
-          "id": "357",
-          "homeAway": "home",
-          "abbreviation": "LEE",
-          "displayName": "Leeds United",
-          "score": 0
-        },
-        {
-          "id": "361",
-          "homeAway": "away",
-          "abbreviation": "NEW",
-          "displayName": "Newcastle United",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
