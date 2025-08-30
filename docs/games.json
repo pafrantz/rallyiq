@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-30T17:12:42.297Z",
+  "ts": "2025-08-30T17:26:28.941Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740619",
       "shortName": "NEW @ LEE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "41'",
+      "clock": "45'+4'",
       "start": "2025-08-30T16:30Z",
       "teams": [
         {
