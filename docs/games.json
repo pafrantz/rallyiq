@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-30T11:28:16.397Z",
+  "ts": "2025-08-30T11:35:30.722Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740618",
       "shortName": "FUL @ CHE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "5'",
       "start": "2025-08-30T11:30Z",
       "teams": [
         {
