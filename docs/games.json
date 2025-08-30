@@ -1,33 +1,6 @@
 {
-  "ts": "2025-08-30T20:59:47.891Z",
+  "ts": "2025-08-30T21:14:24.046Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732801",
-      "shortName": "JUV @ CEA",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+8'",
-      "start": "2025-08-30T19:00Z",
-      "teams": [
-        {
-          "id": "9969",
-          "homeAway": "home",
-          "abbreviation": "CEA",
-          "displayName": "Ceará",
-          "score": 0
-        },
-        {
-          "id": "6270",
-          "homeAway": "away",
-          "abbreviation": "JUV",
-          "displayName": "Juventude",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
