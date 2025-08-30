@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-30T14:57:49.616Z",
+  "ts": "2025-08-30T15:11:44.099Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740621",
       "shortName": "BUR @ MAN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+8'",
+      "period": 2,
+      "clock": "48'",
       "start": "2025-08-30T14:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740623",
       "shortName": "BRE @ SUN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "54'",
       "start": "2025-08-30T14:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740620",
       "shortName": "BOU @ TOT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "52'",
       "start": "2025-08-30T14:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740624",
       "shortName": "EVE @ WOL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "53'",
       "start": "2025-08-30T14:00Z",
       "teams": [
         {
