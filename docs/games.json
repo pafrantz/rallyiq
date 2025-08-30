@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-30T20:54:25.381Z",
+  "ts": "2025-08-30T20:59:47.891Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "90'+1'",
+      "clock": "90'+8'",
       "start": "2025-08-30T19:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "JUV",
           "displayName": "Juventude",
-          "score": 0
+          "score": 1
         }
       ]
     },
