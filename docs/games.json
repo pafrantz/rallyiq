@@ -1,12 +1,12 @@
 {
-  "ts": "2025-08-30T19:48:53.549Z",
+  "ts": "2025-08-30T19:54:19.543Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732801",
       "shortName": "JUV @ CEA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
       "clock": "45'+3'",
