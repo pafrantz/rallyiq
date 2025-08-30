@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-30T21:31:32.730Z",
+  "ts": "2025-08-30T21:38:00.001Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "0'",
+      "clock": "7'",
       "start": "2025-08-30T21:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BOT",
           "displayName": "Botafogo",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6079",
