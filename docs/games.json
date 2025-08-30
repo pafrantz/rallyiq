@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-30T12:21:14.282Z",
+  "ts": "2025-08-30T12:53:51.208Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740618",
       "shortName": "FUL @ CHE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "56'",
       "start": "2025-08-30T11:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CHE",
           "displayName": "Chelsea",
-          "score": 0
+          "score": 2
         },
         {
           "id": "370",
