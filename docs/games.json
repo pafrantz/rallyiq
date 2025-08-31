@@ -1,42 +1,15 @@
 {
-  "ts": "2025-08-31T19:56:04.258Z",
+  "ts": "2025-08-31T20:09:52.738Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740616",
-      "shortName": "CRY @ AVL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+5'",
-      "start": "2025-08-31T18:00Z",
-      "teams": [
-        {
-          "id": "362",
-          "homeAway": "home",
-          "abbreviation": "AVL",
-          "displayName": "Aston Villa",
-          "score": 0
-        },
-        {
-          "id": "384",
-          "homeAway": "away",
-          "abbreviation": "CRY",
-          "displayName": "Crystal Palace",
-          "score": 3
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732808",
       "shortName": "GRE @ FLA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "49'",
       "start": "2025-08-31T19:00Z",
       "teams": [
         {
@@ -60,10 +33,10 @@
       "league": "bra.1",
       "id": "732805",
       "shortName": "FLU @ SAN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "47'",
       "start": "2025-08-31T19:00Z",
       "teams": [
         {
