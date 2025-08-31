@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-31T16:31:28.080Z",
+  "ts": "2025-08-31T16:43:08.359Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740625",
       "shortName": "ARS @ LIV",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+1'",
+      "period": 2,
+      "clock": "55'",
       "start": "2025-08-31T15:30Z",
       "teams": [
         {
