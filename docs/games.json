@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-31T20:43:31.621Z",
+  "ts": "2025-08-31T20:49:14.047Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "83'",
+      "clock": "88'",
       "start": "2025-08-31T19:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "GRE",
           "displayName": "Grêmio",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "80'",
+      "clock": "85'",
       "start": "2025-08-31T19:00Z",
       "teams": [
         {
