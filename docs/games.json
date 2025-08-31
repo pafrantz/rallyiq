@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-31T23:51:56.107Z",
+  "ts": "2025-08-31T23:57:28.588Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "20'",
+      "clock": "25'",
       "start": "2025-08-31T23:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "INT",
           "displayName": "Internacional",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6272",
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "22'",
+      "clock": "26'",
       "start": "2025-08-31T23:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "SPO",
           "displayName": "Sport",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3454",
