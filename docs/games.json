@@ -1,5 +1,5 @@
 {
-  "ts": "2025-08-31T19:50:52.154Z",
+  "ts": "2025-08-31T19:56:04.258Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "89'",
+      "clock": "90'+5'",
       "start": "2025-08-31T18:00Z",
       "teams": [
         {
@@ -60,7 +60,7 @@
       "league": "bra.1",
       "id": "732805",
       "shortName": "FLU @ SAN",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
       "clock": "45'+4'",
