@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-31T18:58:47.383Z",
+  "ts": "2025-08-31T19:11:40.924Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740616",
       "shortName": "CRY @ AVL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "50'",
       "start": "2025-08-31T18:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732808",
       "shortName": "GRE @ FLA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "11'",
       "start": "2025-08-31T19:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "732805",
       "shortName": "FLU @ SAN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "9'",
       "start": "2025-08-31T19:00Z",
       "teams": [
         {
