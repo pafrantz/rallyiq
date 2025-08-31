@@ -1,33 +1,6 @@
 {
-  "ts": "2025-08-31T17:14:01.370Z",
+  "ts": "2025-08-31T17:27:24.277Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740625",
-      "shortName": "ARS @ LIV",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "83'",
-      "start": "2025-08-31T15:30Z",
-      "teams": [
-        {
-          "id": "364",
-          "homeAway": "home",
-          "abbreviation": "LIV",
-          "displayName": "Liverpool",
-          "score": 1
-        },
-        {
-          "id": "359",
-          "homeAway": "away",
-          "abbreviation": "ARS",
-          "displayName": "Arsenal",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
