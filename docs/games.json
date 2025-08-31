@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-31T12:52:21.245Z",
+  "ts": "2025-08-31T13:12:51.074Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740617",
       "shortName": "MNC @ BHA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "12'",
       "start": "2025-08-31T13:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740622",
       "shortName": "WHU @ NFO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "11'",
       "start": "2025-08-31T13:00Z",
       "teams": [
         {
