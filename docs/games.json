@@ -1,15 +1,15 @@
 {
-  "ts": "2025-08-30T23:56:53.225Z",
+  "ts": "2025-08-31T00:58:40.817Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732803",
       "shortName": "SAO @ CRU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_HALFTIME",
+      "state": "IN",
+      "period": 1,
+      "clock": "45'+3'",
       "start": "2025-08-31T00:00Z",
       "teams": [
         {
