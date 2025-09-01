@@ -1,60 +1,6 @@
 {
-  "ts": "2025-09-01T01:10:37.127Z",
+  "ts": "2025-09-01T02:58:23.747Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732807",
-      "shortName": "FOR @ INT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "80'",
-      "start": "2025-08-31T23:30Z",
-      "teams": [
-        {
-          "id": "1936",
-          "homeAway": "home",
-          "abbreviation": "INT",
-          "displayName": "Internacional",
-          "score": 2
-        },
-        {
-          "id": "6272",
-          "homeAway": "away",
-          "abbreviation": "FOR",
-          "displayName": "Fortaleza",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732809",
-      "shortName": "VAS @ SPO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "78'",
-      "start": "2025-08-31T23:30Z",
-      "teams": [
-        {
-          "id": "7635",
-          "homeAway": "home",
-          "abbreviation": "SPO",
-          "displayName": "Sport",
-          "score": 2
-        },
-        {
-          "id": "3454",
-          "homeAway": "away",
-          "abbreviation": "VAS",
-          "displayName": "Vasco da Gama",
-          "score": 3
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
