@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-05T03:34:35.965Z",
+  "ts": "2025-09-05T03:49:00.726Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "DAL @ PHI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:46",
+      "period": 4,
+      "clock": "8:26",
       "start": "2025-09-05T00:20Z",
       "teams": [
         {
