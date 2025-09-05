@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-05T03:05:14.339Z",
+  "ts": "2025-09-05T03:34:35.965Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772510",
       "shortName": "DAL @ PHI",
-      "status": "STATUS_DELAYED",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "4:44",
+      "clock": "1:46",
       "start": "2025-09-05T00:20Z",
       "teams": [
         {
