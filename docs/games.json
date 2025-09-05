@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-05T00:41:59.081Z",
+  "ts": "2025-09-05T02:12:12.017Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "DAL @ PHI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "6:41",
+      "period": 3,
+      "clock": "8:30",
       "start": "2025-09-05T00:20Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 0
+          "score": 24
         },
         {
           "id": "6",
           "homeAway": "away",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 7
+          "score": 20
         }
       ]
     },
