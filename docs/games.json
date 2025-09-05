@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-04T23:55:41.464Z",
+  "ts": "2025-09-05T00:41:59.081Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772510",
       "shortName": "DAL @ PHI",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "6:41",
       "start": "2025-09-05T00:20Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 0
+          "score": 7
         }
       ]
     },
