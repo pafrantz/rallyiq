@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-06T00:50:12.979Z",
+  "ts": "2025-09-06T02:10:06.154Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772714",
       "shortName": "KC VS LAC",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "8:05",
       "start": "2025-09-06T00:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 7
+          "score": 13
         },
         {
           "id": "12",
           "homeAway": "away",
           "abbreviation": "KC",
           "displayName": "Kansas City Chiefs",
-          "score": 0
+          "score": 12
         }
       ]
     },
