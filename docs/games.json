@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-07T18:51:22.407Z",
+  "ts": "2025-09-07T18:56:52.948Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:02",
+      "clock": "11:13",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "7:20",
+      "clock": "5:37",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "7:30",
+      "clock": "4:39",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:14",
+      "clock": "9:39",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "LV",
           "displayName": "Las Vegas Raiders",
-          "score": 7
+          "score": 13
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:09",
+      "clock": "5:10",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:27",
+      "clock": "10:56",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:24",
+      "clock": "9:33",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
