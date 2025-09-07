@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-07T17:48:25.797Z",
+  "ts": "2025-09-07T17:53:54.953Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "10:25",
+      "clock": "10:10",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "TB",
           "displayName": "Tampa Bay Buccaneers",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:02",
+      "clock": "8:50",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:57",
+      "clock": "8:21",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:09",
+      "clock": "11:09",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "10:56",
+      "clock": "9:57",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 3
+          "score": 10
         }
       ]
     },
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "10:03",
+      "clock": "8:32",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -152,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "NYJ",
           "displayName": "New York Jets",
-          "score": 15
+          "score": 16
         },
         {
           "id": "23",
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:57",
+      "clock": "13:07",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -198,7 +198,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "12:00",
+      "clock": "8:32",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -206,7 +206,7 @@
           "homeAway": "home",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 3
+          "score": 10
         },
         {
           "id": "29",
