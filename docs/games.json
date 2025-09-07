@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-07T20:35:33.292Z",
+  "ts": "2025-09-07T20:41:36.543Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:08",
+      "clock": "8:34",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "5:29",
+      "clock": "3:11",
       "start": "2025-09-07T20:05Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772831",
       "shortName": "SF @ SEA",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_END_PERIOD",
       "state": "IN",
       "period": 1,
-      "clock": "2:06",
+      "clock": "0:00",
       "start": "2025-09-07T20:05Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "9:37",
+      "clock": "8:39",
       "start": "2025-09-07T20:25Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 0
+          "score": 7
         },
         {
           "id": "8",
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "11:13",
+      "clock": "8:27",
       "start": "2025-09-07T20:25Z",
       "teams": [
         {
