@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-07T21:45:46.391Z",
+  "ts": "2025-09-07T21:51:24.059Z",
   "games": [
     {
       "sport": "football",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "15:00",
+      "clock": "12:06",
       "start": "2025-09-07T20:05Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772723",
       "shortName": "HOU @ LAR",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:10",
+      "clock": "0:00",
       "start": "2025-09-07T20:25Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 6
+          "score": 9
         }
       ]
     },
