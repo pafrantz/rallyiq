@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-07T22:27:15.997Z",
+  "ts": "2025-09-07T22:35:37.521Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772832",
       "shortName": "TEN @ DEN",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_END_PERIOD",
       "state": "IN",
       "period": 3,
-      "clock": "2:27",
+      "clock": "0:00",
       "start": "2025-09-07T20:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "9:42",
+      "clock": "8:10",
       "start": "2025-09-07T20:05Z",
       "teams": [
         {
@@ -62,8 +62,8 @@
       "shortName": "DET @ GB",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:09",
+      "period": 4,
+      "clock": "12:40",
       "start": "2025-09-07T20:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "5:12",
+      "clock": "0:40",
       "start": "2025-09-07T20:25Z",
       "teams": [
         {
