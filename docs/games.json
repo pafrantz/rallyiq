@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-07T19:47:52.440Z",
+  "ts": "2025-09-07T19:52:57.758Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:17",
+      "clock": "2:54",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:00",
+      "clock": "1:24",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -58,39 +58,12 @@
     {
       "sport": "football",
       "league": "nfl",
-      "id": "401772719",
-      "shortName": "MIA @ IND",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:37",
-      "start": "2025-09-07T17:00Z",
-      "teams": [
-        {
-          "id": "11",
-          "homeAway": "home",
-          "abbreviation": "IND",
-          "displayName": "Indianapolis Colts",
-          "score": 33
-        },
-        {
-          "id": "15",
-          "homeAway": "away",
-          "abbreviation": "MIA",
-          "displayName": "Miami Dolphins",
-          "score": 8
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
       "id": "401772720",
       "shortName": "LV @ NE",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:47",
+      "clock": "2:00",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -117,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:42",
+      "clock": "2:00",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -144,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:53",
+      "clock": "4:43",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -171,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "8:10",
+      "clock": "7:09",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -179,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "WSH",
           "displayName": "Washington Commanders",
-          "score": 14
+          "score": 21
         },
         {
           "id": "19",
