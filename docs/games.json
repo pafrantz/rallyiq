@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-07T16:59:29.569Z",
+  "ts": "2025-09-07T17:12:47.311Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772830",
       "shortName": "TB @ ATL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "12:25",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 0
+          "score": 7
         },
         {
           "id": "27",
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772829",
       "shortName": "CIN @ CLE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "8:14",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772719",
       "shortName": "MIA @ IND",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "10:37",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 0
+          "score": 3
         },
         {
           "id": "15",
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772720",
       "shortName": "LV @ NE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "11:58",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "LV",
           "displayName": "Las Vegas Raiders",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401772718",
       "shortName": "ARI @ NO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "10:34",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -141,10 +141,10 @@
       "league": "nfl",
       "id": "401772721",
       "shortName": "PIT @ NYJ",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "9:15",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -152,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "NYJ",
           "displayName": "New York Jets",
-          "score": 0
+          "score": 3
         },
         {
           "id": "23",
@@ -168,10 +168,10 @@
       "league": "nfl",
       "id": "401772827",
       "shortName": "NYG @ WSH",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "12:31",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -195,10 +195,10 @@
       "league": "nfl",
       "id": "401772828",
       "shortName": "CAR @ JAX",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "11:00",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
