@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-07T22:35:37.521Z",
+  "ts": "2025-09-07T22:41:53.890Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772832",
       "shortName": "TEN @ DEN",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:00",
+      "period": 4,
+      "clock": "11:43",
       "start": "2025-09-07T20:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "8:10",
+      "clock": "7:06",
       "start": "2025-09-07T20:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:40",
+      "clock": "7:57",
       "start": "2025-09-07T20:25Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 17
+          "score": 23
         },
         {
           "id": "8",
@@ -89,8 +89,8 @@
       "shortName": "HOU @ LAR",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:40",
+      "period": 4,
+      "clock": "14:18",
       "start": "2025-09-07T20:25Z",
       "teams": [
         {
