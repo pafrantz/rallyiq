@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-07T18:56:52.948Z",
+  "ts": "2025-09-07T19:08:01.327Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:13",
+      "clock": "7:26",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "TB",
           "displayName": "Tampa Bay Buccaneers",
-          "score": 10
+          "score": 17
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "5:37",
+      "clock": "2:48",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 14
+          "score": 17
         }
       ]
     },
@@ -62,8 +62,8 @@
       "shortName": "MIA @ IND",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "4:39",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:39",
+      "clock": "7:12",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "LV",
           "displayName": "Las Vegas Raiders",
-          "score": 13
+          "score": 14
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "5:10",
+      "clock": "0:53",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:56",
+      "clock": "4:19",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:33",
+      "clock": "8:30",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
