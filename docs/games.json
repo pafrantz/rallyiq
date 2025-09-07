@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-07T21:35:06.499Z",
+  "ts": "2025-09-07T21:40:12.761Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772832",
       "shortName": "TEN @ DEN",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:02",
+      "clock": "0:00",
       "start": "2025-09-07T20:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "1:08",
+      "clock": "0:05",
       "start": "2025-09-07T20:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "1:52",
+      "clock": "0:53",
       "start": "2025-09-07T20:25Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 0
+          "score": 7
         },
         {
           "id": "34",
