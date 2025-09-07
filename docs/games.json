@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-07T20:28:08.541Z",
+  "ts": "2025-09-07T20:35:33.292Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "CAR @ JAX",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:06",
+      "period": 4,
+      "clock": "12:08",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "8:35",
+      "clock": "5:29",
       "start": "2025-09-07T20:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "4:26",
+      "clock": "2:06",
       "start": "2025-09-07T20:05Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "14:54",
+      "clock": "9:37",
       "start": "2025-09-07T20:25Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "13:57",
+      "clock": "11:13",
       "start": "2025-09-07T20:25Z",
       "teams": [
         {
