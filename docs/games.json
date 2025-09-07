@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-07T22:41:53.890Z",
+  "ts": "2025-09-07T22:47:17.105Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:43",
+      "clock": "9:22",
       "start": "2025-09-07T20:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "7:06",
+      "clock": "3:24",
       "start": "2025-09-07T20:05Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 10
+          "score": 13
         },
         {
           "id": "25",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "7:57",
+      "clock": "6:46",
       "start": "2025-09-07T20:25Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 23
+          "score": 24
         },
         {
           "id": "8",
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "14:18",
+      "clock": "12:17",
       "start": "2025-09-07T20:25Z",
       "teams": [
         {
