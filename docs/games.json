@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-07T21:56:50.930Z",
+  "ts": "2025-09-07T22:09:53.763Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:04",
+      "clock": "6:22",
       "start": "2025-09-07T20:05Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 9
+          "score": 12
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:35",
+      "clock": "2:14",
       "start": "2025-09-07T20:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:23",
+      "clock": "7:39",
       "start": "2025-09-07T20:25Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 3
+          "score": 6
         }
       ]
     },
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772723",
       "shortName": "HOU @ LAR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "12:28",
       "start": "2025-09-07T20:25Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 7
+          "score": 14
         },
         {
           "id": "34",
