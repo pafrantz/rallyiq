@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-07T22:58:11.452Z",
+  "ts": "2025-09-07T23:12:02.615Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "7:12",
+      "clock": "3:50",
       "start": "2025-09-07T20:05Z",
       "teams": [
         {
@@ -31,39 +31,12 @@
     {
       "sport": "football",
       "league": "nfl",
-      "id": "401772831",
-      "shortName": "SF @ SEA",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:34",
-      "start": "2025-09-07T20:05Z",
-      "teams": [
-        {
-          "id": "26",
-          "homeAway": "home",
-          "abbreviation": "SEA",
-          "displayName": "Seattle Seahawks",
-          "score": 13
-        },
-        {
-          "id": "25",
-          "homeAway": "away",
-          "abbreviation": "SF",
-          "displayName": "San Francisco 49ers",
-          "score": 17
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
       "id": "401772722",
       "shortName": "DET @ GB",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "3:26",
+      "clock": "0:55",
       "start": "2025-09-07T20:25Z",
       "teams": [
         {
@@ -78,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 6
+          "score": 13
         }
       ]
     },
@@ -90,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:26",
+      "clock": "1:57",
       "start": "2025-09-07T20:25Z",
       "teams": [
         {
