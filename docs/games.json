@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-07T22:09:53.763Z",
+  "ts": "2025-09-07T22:27:15.997Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:22",
+      "clock": "2:27",
       "start": "2025-09-07T20:05Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 10
+          "score": 13
         },
         {
           "id": "10",
@@ -35,8 +35,8 @@
       "shortName": "SF @ SEA",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "2:14",
+      "period": 4,
+      "clock": "9:42",
       "start": "2025-09-07T20:05Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 7
+          "score": 10
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "7:39",
+      "clock": "0:09",
       "start": "2025-09-07T20:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:28",
+      "clock": "5:12",
       "start": "2025-09-07T20:25Z",
       "teams": [
         {
