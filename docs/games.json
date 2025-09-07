@@ -1,60 +1,6 @@
 {
-  "ts": "2025-09-07T20:13:57.951Z",
+  "ts": "2025-09-07T20:28:08.541Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772830",
-      "shortName": "TB @ ATL",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:10",
-      "start": "2025-09-07T17:00Z",
-      "teams": [
-        {
-          "id": "1",
-          "homeAway": "home",
-          "abbreviation": "ATL",
-          "displayName": "Atlanta Falcons",
-          "score": 20
-        },
-        {
-          "id": "27",
-          "homeAway": "away",
-          "abbreviation": "TB",
-          "displayName": "Tampa Bay Buccaneers",
-          "score": 17
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772827",
-      "shortName": "NYG @ WSH",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:18",
-      "start": "2025-09-07T17:00Z",
-      "teams": [
-        {
-          "id": "28",
-          "homeAway": "home",
-          "abbreviation": "WSH",
-          "displayName": "Washington Commanders",
-          "score": 21
-        },
-        {
-          "id": "19",
-          "homeAway": "away",
-          "abbreviation": "NYG",
-          "displayName": "New York Giants",
-          "score": 6
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -63,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:45",
+      "clock": "1:06",
       "start": "2025-09-07T17:00Z",
       "teams": [
         {
@@ -90,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "12:43",
+      "clock": "8:35",
       "start": "2025-09-07T20:05Z",
       "teams": [
         {
@@ -98,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 0
+          "score": 3
         },
         {
           "id": "10",
           "homeAway": "away",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -117,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "12:05",
+      "clock": "4:26",
       "start": "2025-09-07T20:05Z",
       "teams": [
         {
@@ -141,10 +87,10 @@
       "league": "nfl",
       "id": "401772722",
       "shortName": "DET @ GB",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "14:54",
       "start": "2025-09-07T20:25Z",
       "teams": [
         {
@@ -168,10 +114,10 @@
       "league": "nfl",
       "id": "401772723",
       "shortName": "HOU @ LAR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "13:57",
       "start": "2025-09-07T20:25Z",
       "teams": [
         {
