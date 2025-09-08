@@ -1,33 +1,6 @@
 {
-  "ts": "2025-09-08T03:29:05.381Z",
+  "ts": "2025-09-08T03:50:07.555Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772918",
-      "shortName": "BAL @ BUF",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:33",
-      "start": "2025-09-08T00:20Z",
-      "teams": [
-        {
-          "id": "2",
-          "homeAway": "home",
-          "abbreviation": "BUF",
-          "displayName": "Buffalo Bills",
-          "score": 38
-        },
-        {
-          "id": "33",
-          "homeAway": "away",
-          "abbreviation": "BAL",
-          "displayName": "Baltimore Ravens",
-          "score": 40
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
