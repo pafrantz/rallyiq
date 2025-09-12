@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-11T23:55:29.085Z",
+  "ts": "2025-09-12T00:39:29.604Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772936",
       "shortName": "WSH @ GB",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "5:14",
       "start": "2025-09-12T00:15Z",
       "teams": [
         {
