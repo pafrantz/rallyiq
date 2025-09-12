@@ -1,33 +1,6 @@
 {
-  "ts": "2025-09-12T03:27:15.003Z",
+  "ts": "2025-09-12T03:41:55.337Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772936",
-      "shortName": "WSH @ GB",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:52",
-      "start": "2025-09-12T00:15Z",
-      "teams": [
-        {
-          "id": "9",
-          "homeAway": "home",
-          "abbreviation": "GB",
-          "displayName": "Green Bay Packers",
-          "score": 27
-        },
-        {
-          "id": "28",
-          "homeAway": "away",
-          "abbreviation": "WSH",
-          "displayName": "Washington Commanders",
-          "score": 18
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
