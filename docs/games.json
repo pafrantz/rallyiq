@@ -1,33 +1,6 @@
 {
-  "ts": "2025-09-13T18:14:57.907Z",
+  "ts": "2025-09-13T18:33:43.470Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740626",
-      "shortName": "TOT @ WHU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "85'",
-      "start": "2025-09-13T16:30Z",
-      "teams": [
-        {
-          "id": "371",
-          "homeAway": "home",
-          "abbreviation": "WHU",
-          "displayName": "West Ham United",
-          "score": 0
-        },
-        {
-          "id": "367",
-          "homeAway": "away",
-          "abbreviation": "TOT",
-          "displayName": "Tottenham Hotspur",
-          "score": 3
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
