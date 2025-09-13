@@ -1,33 +1,6 @@
 {
-  "ts": "2025-09-13T13:25:11.664Z",
+  "ts": "2025-09-13T13:31:59.553Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740627",
-      "shortName": "NFO @ ARS",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2025-09-13T11:30Z",
-      "teams": [
-        {
-          "id": "359",
-          "homeAway": "home",
-          "abbreviation": "ARS",
-          "displayName": "Arsenal",
-          "score": 3
-        },
-        {
-          "id": "393",
-          "homeAway": "away",
-          "abbreviation": "NFO",
-          "displayName": "Nottingham Forest",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
