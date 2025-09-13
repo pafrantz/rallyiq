@@ -1,33 +1,6 @@
 {
-  "ts": "2025-09-13T15:57:26.349Z",
+  "ts": "2025-09-13T16:12:37.537Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740629",
-      "shortName": "WOL @ NEW",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+5'",
-      "start": "2025-09-13T14:00Z",
-      "teams": [
-        {
-          "id": "361",
-          "homeAway": "home",
-          "abbreviation": "NEW",
-          "displayName": "Newcastle United",
-          "score": 1
-        },
-        {
-          "id": "380",
-          "homeAway": "away",
-          "abbreviation": "WOL",
-          "displayName": "Wolverhampton Wanderers",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
