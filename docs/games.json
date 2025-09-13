@@ -1,33 +1,6 @@
 {
-  "ts": "2025-09-13T23:08:22.346Z",
+  "ts": "2025-09-13T23:22:31.859Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732816",
-      "shortName": "INT @ PAL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "80'",
-      "start": "2025-09-13T21:30Z",
-      "teams": [
-        {
-          "id": "2029",
-          "homeAway": "home",
-          "abbreviation": "PAL",
-          "displayName": "Palmeiras",
-          "score": 4
-        },
-        {
-          "id": "1936",
-          "homeAway": "away",
-          "abbreviation": "INT",
-          "displayName": "Internacional",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
