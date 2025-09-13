@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-13T19:47:04.711Z",
+  "ts": "2025-09-13T19:52:40.240Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732810",
       "shortName": "VIT @ FOR",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+6'",
       "start": "2025-09-13T19:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732819",
       "shortName": "MIR @ GRE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+1'",
+      "clock": "45'+7'",
       "start": "2025-09-13T19:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "MIR",
           "displayName": "Mirassol",
-          "score": 0
+          "score": 1
         }
       ]
     },
