@@ -1,14 +1,14 @@
 {
-  "ts": "2025-09-13T13:54:50.599Z",
+  "ts": "2025-09-13T14:01:00.800Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740635",
       "shortName": "BHA @ BOU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2025-09-13T14:00Z",
       "teams": [
@@ -60,8 +60,8 @@
       "league": "eng.1",
       "id": "740632",
       "shortName": "AVL @ EVE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
       "period": null,
       "clock": "0'",
       "start": "2025-09-13T14:00Z",
@@ -114,9 +114,9 @@
       "league": "eng.1",
       "id": "740629",
       "shortName": "WOL @ NEW",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2025-09-13T14:00Z",
       "teams": [
