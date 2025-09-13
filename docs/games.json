@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-13T11:55:39.285Z",
+  "ts": "2025-09-13T12:14:29.994Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "25'",
+      "clock": "44'",
       "start": "2025-09-13T11:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "ARS",
           "displayName": "Arsenal",
-          "score": 0
+          "score": 1
         },
         {
           "id": "393",
