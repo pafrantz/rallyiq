@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-13T20:50:05.317Z",
+  "ts": "2025-09-13T20:55:10.226Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "86'",
+      "clock": "90'+2'",
       "start": "2025-09-13T19:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "86'",
+      "clock": "90'+2'",
       "start": "2025-09-13T19:00Z",
       "teams": [
         {
@@ -52,33 +52,6 @@
           "abbreviation": "MIR",
           "displayName": "Mirassol",
           "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740634",
-      "shortName": "CHE @ BRE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+3'",
-      "start": "2025-09-13T19:00Z",
-      "teams": [
-        {
-          "id": "337",
-          "homeAway": "home",
-          "abbreviation": "BRE",
-          "displayName": "Brentford",
-          "score": 1
-        },
-        {
-          "id": "363",
-          "homeAway": "away",
-          "abbreviation": "CHE",
-          "displayName": "Chelsea",
-          "score": 2
         }
       ]
     },
