@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-13T19:29:42.287Z",
+  "ts": "2025-09-13T19:36:13.723Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "27'",
+      "clock": "35'",
       "start": "2025-09-13T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "FOR",
           "displayName": "Fortaleza",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3457",
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "28'",
+      "clock": "36'",
       "start": "2025-09-13T19:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "23'",
+      "clock": "35'",
       "start": "2025-09-13T19:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "BRE",
           "displayName": "Brentford",
-          "score": 0
+          "score": 1
         },
         {
           "id": "363",
