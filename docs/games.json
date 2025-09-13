@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-13T19:57:49.294Z",
+  "ts": "2025-09-13T20:12:37.923Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732810",
       "shortName": "VIT @ FOR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "47'",
       "start": "2025-09-13T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "FOR",
           "displayName": "Fortaleza",
-          "score": 1
+          "score": 2
         },
         {
           "id": "3457",
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732819",
       "shortName": "MIR @ GRE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+7'",
+      "period": 2,
+      "clock": "47'",
       "start": "2025-09-13T19:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740634",
       "shortName": "CHE @ BRE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "55'",
       "start": "2025-09-13T19:00Z",
       "teams": [
         {
