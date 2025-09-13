@@ -1,114 +1,6 @@
 {
-  "ts": "2025-09-13T15:52:17.658Z",
+  "ts": "2025-09-13T15:57:26.349Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740635",
-      "shortName": "BHA @ BOU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2025-09-13T14:00Z",
-      "teams": [
-        {
-          "id": "349",
-          "homeAway": "home",
-          "abbreviation": "BOU",
-          "displayName": "AFC Bournemouth",
-          "score": 2
-        },
-        {
-          "id": "331",
-          "homeAway": "away",
-          "abbreviation": "BHA",
-          "displayName": "Brighton & Hove Albion",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740628",
-      "shortName": "SUN @ CRY",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2025-09-13T14:00Z",
-      "teams": [
-        {
-          "id": "384",
-          "homeAway": "home",
-          "abbreviation": "CRY",
-          "displayName": "Crystal Palace",
-          "score": 0
-        },
-        {
-          "id": "366",
-          "homeAway": "away",
-          "abbreviation": "SUN",
-          "displayName": "Sunderland",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740632",
-      "shortName": "AVL @ EVE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2025-09-13T14:00Z",
-      "teams": [
-        {
-          "id": "368",
-          "homeAway": "home",
-          "abbreviation": "EVE",
-          "displayName": "Everton",
-          "score": 0
-        },
-        {
-          "id": "362",
-          "homeAway": "away",
-          "abbreviation": "AVL",
-          "displayName": "Aston Villa",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740631",
-      "shortName": "LEE @ FUL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2025-09-13T14:00Z",
-      "teams": [
-        {
-          "id": "370",
-          "homeAway": "home",
-          "abbreviation": "FUL",
-          "displayName": "Fulham",
-          "score": 0
-        },
-        {
-          "id": "357",
-          "homeAway": "away",
-          "abbreviation": "LEE",
-          "displayName": "Leeds United",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
@@ -117,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "89'",
+      "clock": "90'+5'",
       "start": "2025-09-13T14:00Z",
       "teams": [
         {
