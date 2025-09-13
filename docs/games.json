@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-13T14:48:44.432Z",
+  "ts": "2025-09-13T14:53:50.317Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740635",
       "shortName": "BHA @ BOU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+3'",
+      "clock": "45'+5'",
       "start": "2025-09-13T14:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740628",
       "shortName": "SUN @ CRY",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+3'",
+      "clock": "45'+5'",
       "start": "2025-09-13T14:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "eng.1",
       "id": "740629",
       "shortName": "WOL @ NEW",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+2'",
+      "clock": "45'+6'",
       "start": "2025-09-13T14:00Z",
       "teams": [
         {
