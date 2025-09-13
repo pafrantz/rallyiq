@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-13T20:39:13.885Z",
+  "ts": "2025-09-13T20:44:26.527Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "75'",
+      "clock": "80'",
       "start": "2025-09-13T19:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "76'",
+      "clock": "81'",
       "start": "2025-09-13T19:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "82'",
+      "clock": "87'",
       "start": "2025-09-13T19:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "CHE",
           "displayName": "Chelsea",
-          "score": 1
+          "score": 2
         }
       ]
     },
