@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-13T22:56:06.881Z",
+  "ts": "2025-09-13T23:08:22.346Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "66'",
+      "clock": "80'",
       "start": "2025-09-13T21:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "INT",
           "displayName": "Internacional",
-          "score": 0
+          "score": 1
         }
       ]
     },
