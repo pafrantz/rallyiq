@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-14T21:45:57.147Z",
+  "ts": "2025-09-14T21:51:31.022Z",
   "games": [
     {
       "sport": "football",
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772730",
       "shortName": "CAR @ ARI",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "12:46",
       "start": "2025-09-14T20:05Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "52'",
+      "clock": "57'",
       "start": "2025-09-14T20:30Z",
       "teams": [
         {
