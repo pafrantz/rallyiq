@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-14T19:12:06.609Z",
+  "ts": "2025-09-14T19:20:31.280Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "4:08",
+      "clock": "1:54",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 17
+          "score": 24
         },
         {
           "id": "30",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "5:38",
+      "clock": "1:07",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:04",
+      "clock": "6:22",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 31
+          "score": 37
         },
         {
           "id": "3",
@@ -89,8 +89,8 @@
       "shortName": "LAR @ TEN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:46",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 19
+          "score": 20
         }
       ]
     },
@@ -116,8 +116,8 @@
       "shortName": "NE @ MIA",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "2:36",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 15
+          "score": 23
         }
       ]
     },
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "3:20",
+      "clock": "1:44",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -170,8 +170,8 @@
       "shortName": "BUF @ NYJ",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:18",
+      "period": 4,
+      "clock": "14:57",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -186,7 +186,7 @@
           "homeAway": "away",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 23
+          "score": 30
         }
       ]
     },
@@ -198,7 +198,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "15:00",
+      "clock": "12:46",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -213,7 +213,7 @@
           "homeAway": "away",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 14
+          "score": 17
         }
       ]
     },
@@ -225,7 +225,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "5:33",
+      "clock": "4:56",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -240,7 +240,7 @@
           "homeAway": "away",
           "abbreviation": "CLE",
           "displayName": "Cleveland Browns",
-          "score": 3
+          "score": 10
         }
       ]
     },
@@ -252,7 +252,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "10'",
+      "clock": "18'",
       "start": "2025-09-14T19:00Z",
       "teams": [
         {
@@ -279,7 +279,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "10'",
+      "clock": "18'",
       "start": "2025-09-14T19:00Z",
       "teams": [
         {
