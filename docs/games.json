@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-14T23:46:36.970Z",
+  "ts": "2025-09-14T23:51:49.445Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "16'",
+      "clock": "21'",
       "start": "2025-09-14T23:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "CEA",
           "displayName": "Ceará",
-          "score": 0
+          "score": 1
         }
       ]
     },
