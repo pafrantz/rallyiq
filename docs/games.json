@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-14T22:26:36.471Z",
+  "ts": "2025-09-14T22:34:34.275Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "15:00",
+      "clock": "12:55",
       "start": "2025-09-14T20:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:32",
+      "clock": "8:43",
       "start": "2025-09-14T20:05Z",
       "teams": [
         {
@@ -62,8 +62,8 @@
       "shortName": "PHI @ KC",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:49",
+      "period": 4,
+      "clock": "13:50",
       "start": "2025-09-14T20:25Z",
       "teams": [
         {
@@ -79,33 +79,6 @@
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
           "score": 13
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732818",
-      "shortName": "BOT @ SAO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2025-09-14T20:30Z",
-      "teams": [
-        {
-          "id": "2026",
-          "homeAway": "home",
-          "abbreviation": "SAO",
-          "displayName": "São Paulo",
-          "score": 1
-        },
-        {
-          "id": "6086",
-          "homeAway": "away",
-          "abbreviation": "BOT",
-          "displayName": "Botafogo",
-          "score": 0
         }
       ]
     },
