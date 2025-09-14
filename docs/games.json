@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-14T12:52:05.345Z",
+  "ts": "2025-09-14T13:09:56.887Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740633",
       "shortName": "LIV @ BUR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "9'",
       "start": "2025-09-14T13:00Z",
       "teams": [
         {
