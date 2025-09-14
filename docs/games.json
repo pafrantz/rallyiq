@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-14T17:12:54.925Z",
+  "ts": "2025-09-14T17:24:58.215Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "82'",
+      "clock": "90'+4'",
       "start": "2025-09-14T15:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "10:51",
+      "clock": "6:25",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "8:47",
+      "clock": "6:11",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "NYG",
           "displayName": "New York Giants",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "10:50",
+      "clock": "6:52",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "11:13",
+      "clock": "4:04",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "9:29",
+      "clock": "7:54",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "13:05",
+      "clock": "11:21",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -198,7 +198,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "10:19",
+      "clock": "7:24",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -213,7 +213,7 @@
           "homeAway": "away",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -225,7 +225,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "10:29",
+      "clock": "4:33",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -233,7 +233,7 @@
           "homeAway": "home",
           "abbreviation": "PIT",
           "displayName": "Pittsburgh Steelers",
-          "score": 0
+          "score": 3
         },
         {
           "id": "26",
@@ -252,7 +252,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "10:21",
+      "clock": "5:55",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
