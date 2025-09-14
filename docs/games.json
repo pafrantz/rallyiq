@@ -1,33 +1,6 @@
 {
-  "ts": "2025-09-14T22:56:59.207Z",
+  "ts": "2025-09-14T23:09:41.168Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772729",
-      "shortName": "DEN @ IND",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:38",
-      "start": "2025-09-14T20:05Z",
-      "teams": [
-        {
-          "id": "11",
-          "homeAway": "home",
-          "abbreviation": "IND",
-          "displayName": "Indianapolis Colts",
-          "score": 26
-        },
-        {
-          "id": "7",
-          "homeAway": "away",
-          "abbreviation": "DEN",
-          "displayName": "Denver Broncos",
-          "score": 28
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -36,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:53",
+      "clock": "1:58",
       "start": "2025-09-14T20:05Z",
       "teams": [
         {
@@ -51,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "CAR",
           "displayName": "Carolina Panthers",
-          "score": 15
+          "score": 22
         }
       ]
     },
@@ -63,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:57",
+      "clock": "3:14",
       "start": "2025-09-14T20:25Z",
       "teams": [
         {
