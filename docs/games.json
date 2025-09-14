@@ -1,33 +1,6 @@
 {
-  "ts": "2025-09-14T20:40:42.405Z",
+  "ts": "2025-09-14T20:46:28.162Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772834",
-      "shortName": "NYG @ DAL",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 5,
-      "clock": "2:00",
-      "start": "2025-09-14T17:00Z",
-      "teams": [
-        {
-          "id": "6",
-          "homeAway": "home",
-          "abbreviation": "DAL",
-          "displayName": "Dallas Cowboys",
-          "score": 37
-        },
-        {
-          "id": "19",
-          "homeAway": "away",
-          "abbreviation": "NYG",
-          "displayName": "New York Giants",
-          "score": 37
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "82'",
       "start": "2025-09-14T19:00Z",
       "teams": [
         {
@@ -63,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "79'",
+      "clock": "83'",
       "start": "2025-09-14T19:00Z",
       "teams": [
         {
@@ -89,8 +62,8 @@
       "shortName": "DEN @ IND",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "2:42",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-09-14T20:05Z",
       "teams": [
         {
@@ -116,8 +89,8 @@
       "shortName": "CAR @ ARI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:59",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-09-14T20:05Z",
       "teams": [
         {
@@ -132,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "CAR",
           "displayName": "Carolina Panthers",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -144,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "7:46",
+      "clock": "4:22",
       "start": "2025-09-14T20:25Z",
       "teams": [
         {
@@ -171,7 +144,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "7'",
+      "clock": "14'",
       "start": "2025-09-14T20:30Z",
       "teams": [
         {
