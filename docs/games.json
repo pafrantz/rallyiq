@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-14T21:56:42.286Z",
+  "ts": "2025-09-14T22:09:45.513Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:35",
+      "clock": "6:23",
       "start": "2025-09-14T20:05Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 21
+          "score": 28
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:23",
+      "clock": "3:31",
       "start": "2025-09-14T20:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:56",
+      "clock": "10:38",
       "start": "2025-09-14T20:25Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 10
+          "score": 13
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "63'",
+      "clock": "75'",
       "start": "2025-09-14T20:30Z",
       "teams": [
         {
