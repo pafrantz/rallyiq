@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-14T20:35:26.577Z",
+  "ts": "2025-09-14T20:40:42.405Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 5,
-      "clock": "3:52",
+      "clock": "2:00",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "71'",
+      "clock": "77'",
       "start": "2025-09-14T19:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "73'",
+      "clock": "79'",
       "start": "2025-09-14T19:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "4:19",
+      "clock": "2:42",
       "start": "2025-09-14T20:05Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "4:10",
+      "clock": "0:59",
       "start": "2025-09-14T20:05Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "9:48",
+      "clock": "7:46",
       "start": "2025-09-14T20:25Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "2'",
+      "clock": "7'",
       "start": "2025-09-14T20:30Z",
       "teams": [
         {
@@ -179,7 +179,7 @@
           "homeAway": "home",
           "abbreviation": "SAO",
           "displayName": "São Paulo",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6086",
