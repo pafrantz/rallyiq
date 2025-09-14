@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-14T15:51:36.224Z",
+  "ts": "2025-09-14T15:56:41.740Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "90'",
+      "clock": "90'+5'",
       "start": "2025-09-14T14:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "SPO",
           "displayName": "Sport",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "18'",
+      "clock": "24'",
       "start": "2025-09-14T15:30Z",
       "teams": [
         {
