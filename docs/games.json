@@ -1,33 +1,6 @@
 {
-  "ts": "2025-09-14T15:56:41.740Z",
+  "ts": "2025-09-14T16:10:57.881Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732817",
-      "shortName": "SPO @ BRA",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+5'",
-      "start": "2025-09-14T14:00Z",
-      "teams": [
-        {
-          "id": "6079",
-          "homeAway": "home",
-          "abbreviation": "BRA",
-          "displayName": "Red Bull Bragantino",
-          "score": 1
-        },
-        {
-          "id": "7635",
-          "homeAway": "away",
-          "abbreviation": "SPO",
-          "displayName": "Sport",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "24'",
+      "clock": "36'",
       "start": "2025-09-14T15:30Z",
       "teams": [
         {
