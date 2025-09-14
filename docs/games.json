@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-14T18:59:45.219Z",
+  "ts": "2025-09-14T19:12:06.609Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:19",
+      "clock": "4:08",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 17
+          "score": 24
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:11",
+      "clock": "5:38",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -44,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 10
+          "score": 17
         },
         {
           "id": "19",
           "homeAway": "away",
           "abbreviation": "NYG",
           "displayName": "New York Giants",
-          "score": 13
+          "score": 16
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:32",
+      "clock": "10:04",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 28
+          "score": 31
         },
         {
           "id": "3",
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:28",
+      "clock": "0:46",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -98,14 +98,14 @@
           "homeAway": "home",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 13
+          "score": 16
         },
         {
           "id": "14",
           "homeAway": "away",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 13
+          "score": 19
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:06",
+      "clock": "2:36",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 17
+          "score": 20
         },
         {
           "id": "17",
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:32",
+      "clock": "3:20",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -152,14 +152,14 @@
           "homeAway": "home",
           "abbreviation": "NO",
           "displayName": "New Orleans Saints",
-          "score": 7
+          "score": 14
         },
         {
           "id": "25",
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 16
+          "score": 19
         }
       ]
     },
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "7:33",
+      "clock": "1:18",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -197,8 +197,8 @@
       "shortName": "SEA @ PIT",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "4:12",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -225,7 +225,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:09",
+      "clock": "5:33",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -249,10 +249,10 @@
       "league": "bra.1",
       "id": "732813",
       "shortName": "SAN @ CAM",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "10'",
       "start": "2025-09-14T19:00Z",
       "teams": [
         {
@@ -276,10 +276,10 @@
       "league": "bra.1",
       "id": "732815",
       "shortName": "FLA @ JUV",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "10'",
       "start": "2025-09-14T19:00Z",
       "teams": [
         {
