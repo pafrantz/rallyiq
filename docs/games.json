@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-14T21:51:31.022Z",
+  "ts": "2025-09-14T21:56:42.286Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772729",
       "shortName": "DEN @ IND",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "12:35",
       "start": "2025-09-14T20:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:46",
+      "clock": "9:23",
       "start": "2025-09-14T20:05Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 20
+          "score": 27
         },
         {
           "id": "29",
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772837",
       "shortName": "PHI @ KC",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "12:56",
       "start": "2025-09-14T20:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "57'",
+      "clock": "63'",
       "start": "2025-09-14T20:30Z",
       "teams": [
         {
