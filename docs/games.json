@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-14T17:57:34.728Z",
+  "ts": "2025-09-14T18:15:22.153Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "9:53",
+      "clock": "3:28",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 7
+          "score": 10
         },
         {
           "id": "30",
@@ -35,8 +35,8 @@
       "shortName": "NYG @ DAL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "1:05",
+      "period": 2,
+      "clock": "2:24",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -44,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 0
+          "score": 3
         },
         {
           "id": "19",
           "homeAway": "away",
           "abbreviation": "NYG",
           "displayName": "New York Giants",
-          "score": 6
+          "score": 13
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "12:37",
+      "clock": "6:14",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "7:18",
+      "clock": "1:54",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "3:34",
+      "clock": "0:33",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -125,14 +125,14 @@
           "homeAway": "home",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 7
+          "score": 13
         },
         {
           "id": "17",
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 12
+          "score": 15
         }
       ]
     },
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:23",
+      "clock": "2:00",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:45",
+      "clock": "3:34",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -179,14 +179,14 @@
           "homeAway": "home",
           "abbreviation": "NYJ",
           "displayName": "New York Jets",
-          "score": 0
+          "score": 3
         },
         {
           "id": "2",
           "homeAway": "away",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 13
+          "score": 20
         }
       ]
     },
@@ -198,7 +198,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "7:03",
+      "clock": "1:09",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
@@ -206,7 +206,7 @@
           "homeAway": "home",
           "abbreviation": "PIT",
           "displayName": "Pittsburgh Steelers",
-          "score": 6
+          "score": 14
         },
         {
           "id": "26",
@@ -225,7 +225,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "8:03",
+      "clock": "2:00",
       "start": "2025-09-14T17:00Z",
       "teams": [
         {
