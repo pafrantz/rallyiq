@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-14T16:29:32.612Z",
+  "ts": "2025-09-14T16:38:31.525Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740630",
       "shortName": "MAN @ MNC",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "47'",
       "start": "2025-09-14T15:30Z",
       "teams": [
         {
