@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-14T15:29:50.402Z",
+  "ts": "2025-09-14T15:35:47.797Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "69'",
+      "clock": "74'",
       "start": "2025-09-14T14:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740630",
       "shortName": "MAN @ MNC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "4'",
       "start": "2025-09-14T15:30Z",
       "teams": [
         {
