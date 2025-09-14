@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-14T21:28:11.456Z",
+  "ts": "2025-09-14T21:34:49.949Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "2:00",
+      "clock": "1:31",
       "start": "2025-09-14T20:05Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 13
+          "score": 20
         },
         {
           "id": "7",
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772730",
       "shortName": "CAR @ ARI",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:15",
+      "clock": "0:00",
       "start": "2025-09-14T20:05Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 13
+          "score": 20
         },
         {
           "id": "29",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "2:00",
+      "clock": "0:50",
       "start": "2025-09-14T20:25Z",
       "teams": [
         {
