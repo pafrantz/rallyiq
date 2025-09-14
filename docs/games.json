@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-14T20:51:57.921Z",
+  "ts": "2025-09-14T20:57:20.700Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "87'",
+      "clock": "90'+3'",
       "start": "2025-09-14T19:00Z",
       "teams": [
         {
@@ -29,33 +29,6 @@
       ]
     },
     {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732815",
-      "shortName": "FLA @ JUV",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "89'",
-      "start": "2025-09-14T19:00Z",
-      "teams": [
-        {
-          "id": "6270",
-          "homeAway": "home",
-          "abbreviation": "JUV",
-          "displayName": "Juventude",
-          "score": 0
-        },
-        {
-          "id": "819",
-          "homeAway": "away",
-          "abbreviation": "FLA",
-          "displayName": "Flamengo",
-          "score": 2
-        }
-      ]
-    },
-    {
       "sport": "football",
       "league": "nfl",
       "id": "401772729",
@@ -63,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:05",
+      "clock": "10:42",
       "start": "2025-09-14T20:05Z",
       "teams": [
         {
@@ -78,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 7
+          "score": 14
         }
       ]
     },
@@ -90,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "12:01",
+      "clock": "9:31",
       "start": "2025-09-14T20:05Z",
       "teams": [
         {
@@ -116,8 +89,8 @@
       "shortName": "PHI @ KC",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:46",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-09-14T20:25Z",
       "teams": [
         {
@@ -144,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "18'",
+      "clock": "24'",
       "start": "2025-09-14T20:30Z",
       "teams": [
         {
