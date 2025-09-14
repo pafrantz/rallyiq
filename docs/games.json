@@ -1,60 +1,6 @@
 {
-  "ts": "2025-09-14T23:09:41.168Z",
+  "ts": "2025-09-14T23:23:17.011Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772730",
-      "shortName": "CAR @ ARI",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:58",
-      "start": "2025-09-14T20:05Z",
-      "teams": [
-        {
-          "id": "22",
-          "homeAway": "home",
-          "abbreviation": "ARI",
-          "displayName": "Arizona Cardinals",
-          "score": 27
-        },
-        {
-          "id": "29",
-          "homeAway": "away",
-          "abbreviation": "CAR",
-          "displayName": "Carolina Panthers",
-          "score": 22
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772837",
-      "shortName": "PHI @ KC",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "3:14",
-      "start": "2025-09-14T20:25Z",
-      "teams": [
-        {
-          "id": "12",
-          "homeAway": "home",
-          "abbreviation": "KC",
-          "displayName": "Kansas City Chiefs",
-          "score": 10
-        },
-        {
-          "id": "21",
-          "homeAway": "away",
-          "abbreviation": "PHI",
-          "displayName": "Philadelphia Eagles",
-          "score": 20
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
