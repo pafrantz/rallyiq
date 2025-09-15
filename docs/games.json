@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-15T23:32:16.330Z",
+  "ts": "2025-09-15T23:39:16.263Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772715",
       "shortName": "TB @ HOU",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_END_PERIOD",
       "state": "IN",
       "period": 1,
-      "clock": "3:25",
+      "clock": "0:00",
       "start": "2025-09-15T23:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "26'",
+      "clock": "36'",
       "start": "2025-09-15T23:00Z",
       "teams": [
         {
