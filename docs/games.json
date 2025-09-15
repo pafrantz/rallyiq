@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-14T23:57:14.753Z",
+  "ts": "2025-09-15T01:00:45.450Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732814",
       "shortName": "CEA @ VAS",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "27'",
+      "period": 2,
+      "clock": "69'",
       "start": "2025-09-14T23:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772919",
       "shortName": "ATL @ MIN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "1:28",
       "start": "2025-09-15T00:20Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 0
+          "score": 6
         }
       ]
     },
