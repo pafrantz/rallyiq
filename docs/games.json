@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-15T23:25:58.579Z",
+  "ts": "2025-09-15T23:32:16.330Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "7:04",
+      "clock": "3:25",
       "start": "2025-09-15T23:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 7
+          "score": 10
         },
         {
           "id": "27",
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "22'",
+      "clock": "26'",
       "start": "2025-09-15T23:00Z",
       "teams": [
         {
