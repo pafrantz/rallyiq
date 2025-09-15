@@ -1,33 +1,6 @@
 {
-  "ts": "2025-09-15T02:38:48.786Z",
+  "ts": "2025-09-15T03:29:25.217Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772919",
-      "shortName": "ATL @ MIN",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "11:16",
-      "start": "2025-09-15T00:20Z",
-      "teams": [
-        {
-          "id": "16",
-          "homeAway": "home",
-          "abbreviation": "MIN",
-          "displayName": "Minnesota Vikings",
-          "score": 6
-        },
-        {
-          "id": "1",
-          "homeAway": "away",
-          "abbreviation": "ATL",
-          "displayName": "Atlanta Falcons",
-          "score": 15
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
