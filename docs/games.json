@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-15T06:56:10.637Z",
+  "ts": "2025-09-15T07:11:08.015Z",
   "games": [
     {
       "sport": "football",
@@ -24,6 +24,33 @@
           "homeAway": "away",
           "abbreviation": "TB",
           "displayName": "Tampa Bay Buccaneers",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732812",
+      "shortName": "CRU @ BAH",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-09-15T23:00Z",
+      "teams": [
+        {
+          "id": "9967",
+          "homeAway": "home",
+          "abbreviation": "BAH",
+          "displayName": "Bahia",
+          "score": 0
+        },
+        {
+          "id": "2022",
+          "homeAway": "away",
+          "abbreviation": "CRU",
+          "displayName": "Cruzeiro",
           "score": 0
         }
       ]
