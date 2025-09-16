@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-16T03:51:43.513Z",
+  "ts": "2025-09-16T03:56:51.584Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:24",
+      "clock": "7:30",
       "start": "2025-09-16T02:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 17
+          "score": 20
         }
       ]
     }
