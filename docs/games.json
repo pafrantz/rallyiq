@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-16T03:56:51.584Z",
+  "ts": "2025-09-16T04:14:06.796Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "LAC @ LV",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "7:30",
+      "period": 4,
+      "clock": "13:28",
       "start": "2025-09-16T02:00Z",
       "teams": [
         {
@@ -25,6 +25,33 @@
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
           "score": 20
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732701",
+      "shortName": "MIR @ BOT",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-09-17T22:30Z",
+      "teams": [
+        {
+          "id": "6086",
+          "homeAway": "home",
+          "abbreviation": "BOT",
+          "displayName": "Botafogo",
+          "score": 0
+        },
+        {
+          "id": "9169",
+          "homeAway": "away",
+          "abbreviation": "MIR",
+          "displayName": "Mirassol",
+          "score": 0
         }
       ]
     }
