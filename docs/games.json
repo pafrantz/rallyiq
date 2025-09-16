@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-16T02:09:02.344Z",
+  "ts": "2025-09-16T03:02:07.329Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "LAC @ LV",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "14:38",
+      "period": 2,
+      "clock": "9:54",
       "start": "2025-09-16T02:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "LV",
           "displayName": "Las Vegas Raiders",
-          "score": 0
+          "score": 6
         },
         {
           "id": "24",
           "homeAway": "away",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 0
+          "score": 10
         }
       ]
     }
