@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-17T23:45:09.012Z",
+  "ts": "2025-09-17T23:50:49.982Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "55'",
+      "clock": "61'",
       "start": "2025-09-17T22:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "MIR",
           "displayName": "Mirassol",
-          "score": 1
+          "score": 2
         }
       ]
     },
