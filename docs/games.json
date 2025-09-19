@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-18T23:59:48.502Z",
+  "ts": "2025-09-19T01:20:37.582Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772937",
       "shortName": "MIA @ BUF",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 2,
+      "clock": "2:00",
       "start": "2025-09-19T00:15Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 0
+          "score": 14
         },
         {
           "id": "15",
           "homeAway": "away",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 0
+          "score": 7
         }
       ]
     },
