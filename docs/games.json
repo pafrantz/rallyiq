@@ -1,87 +1,6 @@
 {
-  "ts": "2025-09-20T15:50:00.967Z",
+  "ts": "2025-09-20T15:55:18.211Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740636",
-      "shortName": "TOT @ BHA",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'",
-      "start": "2025-09-20T14:00Z",
-      "teams": [
-        {
-          "id": "331",
-          "homeAway": "home",
-          "abbreviation": "BHA",
-          "displayName": "Brighton & Hove Albion",
-          "score": 2
-        },
-        {
-          "id": "367",
-          "homeAway": "away",
-          "abbreviation": "TOT",
-          "displayName": "Tottenham Hotspur",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740637",
-      "shortName": "NFO @ BUR",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+1'",
-      "start": "2025-09-20T14:00Z",
-      "teams": [
-        {
-          "id": "379",
-          "homeAway": "home",
-          "abbreviation": "BUR",
-          "displayName": "Burnley",
-          "score": 1
-        },
-        {
-          "id": "393",
-          "homeAway": "away",
-          "abbreviation": "NFO",
-          "displayName": "Nottingham Forest",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740638",
-      "shortName": "CRY @ WHU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2025-09-20T14:00Z",
-      "teams": [
-        {
-          "id": "371",
-          "homeAway": "home",
-          "abbreviation": "WHU",
-          "displayName": "West Ham United",
-          "score": 1
-        },
-        {
-          "id": "384",
-          "homeAway": "away",
-          "abbreviation": "CRY",
-          "displayName": "Crystal Palace",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
@@ -90,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "88'",
+      "clock": "90'+4'",
       "start": "2025-09-20T14:00Z",
       "teams": [
         {
