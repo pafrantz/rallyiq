@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-20T17:19:22.893Z",
+  "ts": "2025-09-20T17:27:33.040Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740645",
       "shortName": "CHE @ MAN",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+4'",
+      "clock": "45'+10'",
       "start": "2025-09-20T16:30Z",
       "teams": [
         {
