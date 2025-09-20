@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-20T11:40:18.895Z",
+  "ts": "2025-09-20T11:45:52.818Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "8'",
+      "clock": "12'",
       "start": "2025-09-20T11:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "LIV",
           "displayName": "Liverpool",
-          "score": 0
+          "score": 1
         },
         {
           "id": "368",
