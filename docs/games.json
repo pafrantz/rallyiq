@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-20T22:11:45.999Z",
+  "ts": "2025-09-20T22:27:19.589Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732823",
       "shortName": "CAM @ BOT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "40'",
+      "clock": "45'+5'",
       "start": "2025-09-20T21:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732822",
       "shortName": "BAH @ CEA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "41'",
+      "clock": "45'+7'",
       "start": "2025-09-20T21:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "CEA",
           "displayName": "Ceará",
-          "score": 0
+          "score": 1
         },
         {
           "id": "9967",
