@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-20T14:58:12.954Z",
+  "ts": "2025-09-20T15:12:18.417Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740636",
       "shortName": "TOT @ BHA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "53'",
       "start": "2025-09-20T14:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740637",
       "shortName": "NFO @ BUR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "52'",
       "start": "2025-09-20T14:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740638",
       "shortName": "CRY @ WHU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "55'",
       "start": "2025-09-20T14:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "WHU",
           "displayName": "West Ham United",
-          "score": 0
+          "score": 1
         },
         {
           "id": "384",
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740640",
       "shortName": "LEE @ WOL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "51'",
       "start": "2025-09-20T14:00Z",
       "teams": [
         {
