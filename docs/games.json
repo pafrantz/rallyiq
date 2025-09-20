@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-20T12:16:59.171Z",
+  "ts": "2025-09-20T12:52:48.568Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740641",
       "shortName": "EVE @ LIV",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+1'",
+      "period": 2,
+      "clock": "64'",
       "start": "2025-09-20T11:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "EVE",
           "displayName": "Everton",
-          "score": 0
+          "score": 1
         }
       ]
     },
