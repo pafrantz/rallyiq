@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-20T20:07:43.122Z",
+  "ts": "2025-09-20T20:25:28.899Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732825",
       "shortName": "FLU @ VIT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+7'",
+      "period": 2,
+      "clock": "62'",
       "start": "2025-09-20T19:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740642",
       "shortName": "BRE @ FUL",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "45'",
+      "clock": "63'",
       "start": "2025-09-20T19:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "FUL",
           "displayName": "Fulham",
-          "score": 2
+          "score": 3
         },
         {
           "id": "337",
