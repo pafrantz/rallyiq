@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-20T19:50:23.299Z",
+  "ts": "2025-09-20T19:55:28.793Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732825",
       "shortName": "FLU @ VIT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+4'",
+      "clock": "45'+7'",
       "start": "2025-09-20T19:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740642",
       "shortName": "BRE @ FUL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+4'",
+      "clock": "45'+6'",
       "start": "2025-09-20T19:00Z",
       "teams": [
         {
