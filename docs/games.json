@@ -1,33 +1,6 @@
 {
-  "ts": "2025-09-20T15:55:18.211Z",
+  "ts": "2025-09-20T16:08:29.851Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740640",
-      "shortName": "LEE @ WOL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2025-09-20T14:00Z",
-      "teams": [
-        {
-          "id": "380",
-          "homeAway": "home",
-          "abbreviation": "WOL",
-          "displayName": "Wolverhampton Wanderers",
-          "score": 1
-        },
-        {
-          "id": "357",
-          "homeAway": "away",
-          "abbreviation": "LEE",
-          "displayName": "Leeds United",
-          "score": 3
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
