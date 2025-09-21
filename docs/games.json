@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-21T17:50:00.970Z",
+  "ts": "2025-09-21T17:55:21.243Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "10:52",
+      "clock": "9:40",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:28",
+      "clock": "10:50",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "15:00",
+      "clock": "13:48",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "10:56",
+      "clock": "9:01",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 0
+          "score": 7
         },
         {
           "id": "23",
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "12:18",
+      "clock": "9:15",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:15",
+      "clock": "9:09",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -168,10 +168,10 @@
       "league": "nfl",
       "id": "401772841",
       "shortName": "LV @ WSH",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:00",
+      "period": 2,
+      "clock": "11:05",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -198,7 +198,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "10:45",
+      "clock": "8:43",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -225,7 +225,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "12:52",
+      "clock": "11:46",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
