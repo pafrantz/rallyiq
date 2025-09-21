@@ -1,33 +1,6 @@
 {
-  "ts": "2025-09-21T17:25:56.294Z",
+  "ts": "2025-09-21T17:32:56.201Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740643",
-      "shortName": "MNC @ ARS",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+1'",
-      "start": "2025-09-21T15:30Z",
-      "teams": [
-        {
-          "id": "359",
-          "homeAway": "home",
-          "abbreviation": "ARS",
-          "displayName": "Arsenal",
-          "score": 0
-        },
-        {
-          "id": "382",
-          "homeAway": "away",
-          "abbreviation": "MNC",
-          "displayName": "Manchester City",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -36,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "7:16",
+      "clock": "2:48",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -63,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "7:37",
+      "clock": "5:16",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -90,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "8:15",
+      "clock": "5:25",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -98,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "MIN",
           "displayName": "Minnesota Vikings",
-          "score": 7
+          "score": 14
         },
         {
           "id": "4",
@@ -117,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "5:12",
+      "clock": "2:13",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -144,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "4:00",
+      "clock": "2:15",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -171,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "4:43",
+      "clock": "1:43",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -179,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "TB",
           "displayName": "Tampa Bay Buccaneers",
-          "score": 0
+          "score": 3
         },
         {
           "id": "20",
@@ -198,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "7:08",
+      "clock": "3:56",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -225,7 +198,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "5:56",
+      "clock": "3:28",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -252,7 +225,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "2:21",
+      "clock": "1:18",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -260,7 +233,7 @@
           "homeAway": "home",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 0
+          "score": 7
         },
         {
           "id": "34",
