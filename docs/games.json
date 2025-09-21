@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-21T23:54:10.149Z",
+  "ts": "2025-09-21T23:59:35.599Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "21'",
+      "clock": "26'",
       "start": "2025-09-21T23:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BRA",
           "displayName": "Red Bull Bragantino",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "21'",
+      "clock": "26'",
       "start": "2025-09-21T23:30Z",
       "teams": [
         {
