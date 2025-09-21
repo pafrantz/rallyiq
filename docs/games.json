@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-21T22:58:43.633Z",
+  "ts": "2025-09-21T23:13:29.169Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:18",
+      "clock": "0:38",
       "start": "2025-09-21T20:05Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 13
+          "score": 20
         },
         {
           "id": "7",
@@ -31,39 +31,12 @@
     {
       "sport": "football",
       "league": "nfl",
-      "id": "401772736",
-      "shortName": "NO @ SEA",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "3:31",
-      "start": "2025-09-21T20:05Z",
-      "teams": [
-        {
-          "id": "26",
-          "homeAway": "home",
-          "abbreviation": "SEA",
-          "displayName": "Seattle Seahawks",
-          "score": 44
-        },
-        {
-          "id": "18",
-          "homeAway": "away",
-          "abbreviation": "NO",
-          "displayName": "New Orleans Saints",
-          "score": 13
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
       "id": "401772844",
       "shortName": "DAL @ CHI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "5:26",
+      "clock": "2:00",
       "start": "2025-09-21T20:25Z",
       "teams": [
         {
@@ -90,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:35",
+      "clock": "2:00",
       "start": "2025-09-21T20:25Z",
       "teams": [
         {
@@ -105,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 13
+          "score": 15
         }
       ]
     },
