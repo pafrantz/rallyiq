@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-21T19:54:22.104Z",
+  "ts": "2025-09-21T19:59:31.563Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:00",
+      "clock": "1:12",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:35",
+      "clock": "2:00",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:13",
+      "clock": "7:57",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -85,39 +85,12 @@
     {
       "sport": "football",
       "league": "nfl",
-      "id": "401772732",
-      "shortName": "PIT @ NE",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:03",
-      "start": "2025-09-21T17:00Z",
-      "teams": [
-        {
-          "id": "17",
-          "homeAway": "home",
-          "abbreviation": "NE",
-          "displayName": "New England Patriots",
-          "score": 14
-        },
-        {
-          "id": "23",
-          "homeAway": "away",
-          "abbreviation": "PIT",
-          "displayName": "Pittsburgh Steelers",
-          "score": 21
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
       "id": "401772839",
       "shortName": "LAR @ PHI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:00",
+      "clock": "1:48",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -125,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 21
+          "score": 27
         },
         {
           "id": "14",
@@ -144,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "3:59",
+      "clock": "3:40",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -159,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "NYJ",
           "displayName": "New York Jets",
-          "score": 13
+          "score": 20
         }
       ]
     },
@@ -171,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:31",
+      "clock": "3:42",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -186,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "LV",
           "displayName": "Las Vegas Raiders",
-          "score": 16
+          "score": 24
         }
       ]
     },
@@ -198,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "3:44",
+      "clock": "2:00",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
