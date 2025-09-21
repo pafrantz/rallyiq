@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-21T21:55:42.276Z",
+  "ts": "2025-09-21T22:07:45.190Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "13:40",
+      "clock": "9:27",
       "start": "2025-09-21T20:05Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 14
+          "score": 17
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:30",
+      "clock": "9:51",
       "start": "2025-09-21T20:05Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 38
+          "score": 41
         },
         {
           "id": "18",
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772844",
       "shortName": "DAL @ CHI",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_END_PERIOD",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "15:00",
       "start": "2025-09-21T20:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:08",
+      "clock": "12:07",
       "start": "2025-09-21T20:25Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "62'",
+      "clock": "74'",
       "start": "2025-09-21T20:30Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "51'",
+      "clock": "64'",
       "start": "2025-09-21T20:30Z",
       "teams": [
         {
@@ -159,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "GRE",
           "displayName": "Grêmio",
-          "score": 2
+          "score": 3
         }
       ]
     },
@@ -171,7 +171,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "63'",
+      "clock": "76'",
       "start": "2025-09-21T20:30Z",
       "teams": [
         {
