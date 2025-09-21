@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-21T18:51:26.078Z",
+  "ts": "2025-09-21T18:57:03.933Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "5:18",
+      "clock": "3:23",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 3
+          "score": 10
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:08",
+      "clock": "8:56",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:24",
+      "clock": "10:08",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:38",
+      "clock": "8:43",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:43",
+      "clock": "10:53",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -198,7 +198,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:10",
+      "clock": "9:24",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -225,7 +225,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:26",
+      "clock": "9:56",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
