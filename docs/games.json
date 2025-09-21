@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-21T21:26:48.899Z",
+  "ts": "2025-09-21T21:33:15.611Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "0:53",
+      "clock": "0:22",
       "start": "2025-09-21T20:05Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "2:00",
+      "clock": "1:29",
       "start": "2025-09-21T20:05Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 35
+          "score": 38
         },
         {
           "id": "18",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "7:57",
+      "clock": "5:01",
       "start": "2025-09-21T20:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "2:00",
+      "clock": "0:36",
       "start": "2025-09-21T20:25Z",
       "teams": [
         {
@@ -141,10 +141,10 @@
       "league": "bra.1",
       "id": "732824",
       "shortName": "GRE @ INT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+8'",
+      "clock": "45'+13'",
       "start": "2025-09-21T20:30Z",
       "teams": [
         {
@@ -159,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "GRE",
           "displayName": "Grêmio",
-          "score": 1
+          "score": 2
         }
       ]
     },
