@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-21T14:13:14.819Z",
+  "ts": "2025-09-21T14:28:05.380Z",
   "sport": "soccer",
   "league": "eng.1",
   "eventId": "740639",
@@ -8,8 +8,8 @@
     "distance": null,
     "yardline": null,
     "quarter": 2,
-    "clock_secs": 3180,
-    "score_diff": 0,
+    "clock_secs": 4080,
+    "score_diff": -1,
     "recent_gains": [
       0,
       0,
@@ -19,12 +19,12 @@
       0
     ],
     "recent_clock": [
-      3060,
-      3060,
-      3060,
-      3060,
-      3180,
-      3180
+      3840,
+      3900,
+      3900,
+      3960,
+      4020,
+      4020
     ]
   }
 }
