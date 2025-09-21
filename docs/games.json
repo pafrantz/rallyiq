@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-21T19:08:36.556Z",
+  "ts": "2025-09-21T19:20:00.708Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772842",
       "shortName": "GB @ CLE",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:00",
+      "period": 4,
+      "clock": "11:29",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "5:09",
+      "clock": "1:21",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 27
+          "score": 34
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:59",
+      "clock": "6:00",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "MIN",
           "displayName": "Minnesota Vikings",
-          "score": 34
+          "score": 41
         },
         {
           "id": "4",
@@ -89,8 +89,8 @@
       "shortName": "PIT @ NE",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:11",
+      "period": 4,
+      "clock": "13:18",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 7
+          "score": 14
         },
         {
           "id": "23",
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "2:16",
+      "clock": "0:44",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -143,8 +143,8 @@
       "shortName": "NYJ @ TB",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "5:46",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "8:06",
+      "clock": "3:03",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -179,7 +179,7 @@
           "homeAway": "home",
           "abbreviation": "WSH",
           "displayName": "Washington Commanders",
-          "score": 27
+          "score": 34
         },
         {
           "id": "13",
@@ -197,8 +197,8 @@
       "shortName": "ATL @ CAR",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "4:43",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -224,8 +224,8 @@
       "shortName": "HOU @ JAX",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "5:22",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -252,7 +252,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "8'",
+      "clock": "19'",
       "start": "2025-09-21T19:00Z",
       "teams": [
         {
