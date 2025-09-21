@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-21T22:42:17.492Z",
+  "ts": "2025-09-21T22:48:03.377Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:36",
+      "clock": "9:52",
       "start": "2025-09-21T20:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:14",
+      "clock": "9:44",
       "start": "2025-09-21T20:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "13:32",
+      "clock": "9:57",
       "start": "2025-09-21T20:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:40",
+      "clock": "10:50",
       "start": "2025-09-21T20:25Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 6
+          "score": 13
         },
         {
           "id": "22",
@@ -106,33 +106,6 @@
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
           "score": 6
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732824",
-      "shortName": "GRE @ INT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+7'",
-      "start": "2025-09-21T20:30Z",
-      "teams": [
-        {
-          "id": "1936",
-          "homeAway": "home",
-          "abbreviation": "INT",
-          "displayName": "Internacional",
-          "score": 2
-        },
-        {
-          "id": "6273",
-          "homeAway": "away",
-          "abbreviation": "GRE",
-          "displayName": "Grêmio",
-          "score": 3
         }
       ]
     },
