@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-21T19:20:00.708Z",
+  "ts": "2025-09-21T19:25:19.259Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:29",
+      "clock": "9:26",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -35,8 +35,8 @@
       "shortName": "IND @ TEN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:21",
+      "period": 4,
+      "clock": "14:54",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:00",
+      "clock": "3:55",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "13:18",
+      "clock": "12:22",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -116,8 +116,8 @@
       "shortName": "LAR @ PHI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:44",
+      "period": 4,
+      "clock": "14:59",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "15:00",
+      "clock": "14:06",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -170,8 +170,8 @@
       "shortName": "LV @ WSH",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "3:03",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -198,7 +198,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "15:00",
+      "clock": "10:51",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -225,7 +225,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "15:00",
+      "clock": "13:48",
       "start": "2025-09-21T17:00Z",
       "teams": [
         {
@@ -252,7 +252,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "19'",
+      "clock": "24'",
       "start": "2025-09-21T19:00Z",
       "teams": [
         {
