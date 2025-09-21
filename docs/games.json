@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-21T22:35:45.443Z",
+  "ts": "2025-09-21T22:42:17.492Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "13:19",
+      "clock": "11:36",
       "start": "2025-09-21T20:05Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 17
+          "score": 20
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "14:52",
+      "clock": "11:14",
       "start": "2025-09-21T20:05Z",
       "teams": [
         {
@@ -62,8 +62,8 @@
       "shortName": "DAL @ CHI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:03",
+      "period": 4,
+      "clock": "13:32",
       "start": "2025-09-21T20:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "15:00",
+      "clock": "12:40",
       "start": "2025-09-21T20:25Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "90'+2'",
+      "clock": "90'+7'",
       "start": "2025-09-21T20:30Z",
       "teams": [
         {
