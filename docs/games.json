@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-21T15:39:34.165Z",
+  "ts": "2025-09-21T15:45:15.682Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "5'",
+      "clock": "9'",
       "start": "2025-09-21T15:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "MNC",
           "displayName": "Manchester City",
-          "score": 0
+          "score": 1
         }
       ]
     },
