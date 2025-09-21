@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-20T23:58:02.465Z",
+  "ts": "2025-09-21T01:10:04.251Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732828",
       "shortName": "FOR @ PAL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "50'",
       "start": "2025-09-21T00:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "PAL",
           "displayName": "Palmeiras",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6272",
           "homeAway": "away",
           "abbreviation": "FOR",
           "displayName": "Fortaleza",
-          "score": 0
+          "score": 1
         }
       ]
     },
