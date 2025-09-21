@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-21T21:45:00.091Z",
+  "ts": "2025-09-21T21:50:31.859Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772735",
       "shortName": "DEN @ LAC",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:29",
       "start": "2025-09-21T20:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "2:00",
+      "clock": "0:25",
       "start": "2025-09-21T20:25Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 17
+          "score": 23
         },
         {
           "id": "6",
@@ -117,7 +117,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "51'",
+      "clock": "56'",
       "start": "2025-09-21T20:30Z",
       "teams": [
         {
@@ -141,10 +141,10 @@
       "league": "bra.1",
       "id": "732824",
       "shortName": "GRE @ INT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+13'",
+      "period": 2,
+      "clock": "47'",
       "start": "2025-09-21T20:30Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "53'",
+      "clock": "59'",
       "start": "2025-09-21T20:30Z",
       "teams": [
         {
