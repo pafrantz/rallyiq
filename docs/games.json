@@ -1,33 +1,6 @@
 {
-  "ts": "2025-09-22T02:47:29.475Z",
+  "ts": "2025-09-22T03:29:58.219Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772920",
-      "shortName": "KC @ NYG",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "14:01",
-      "start": "2025-09-22T00:20Z",
-      "teams": [
-        {
-          "id": "19",
-          "homeAway": "home",
-          "abbreviation": "NYG",
-          "displayName": "New York Giants",
-          "score": 6
-        },
-        {
-          "id": "12",
-          "homeAway": "away",
-          "abbreviation": "KC",
-          "displayName": "Kansas City Chiefs",
-          "score": 16
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
