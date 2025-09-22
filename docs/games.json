@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-22T03:57:53.361Z",
+  "ts": "2025-09-22T04:16:46.226Z",
   "games": [
     {
       "sport": "football",
@@ -24,6 +24,60 @@
           "homeAway": "away",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732747",
+      "shortName": "BOT @ GRE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-09-24T22:30Z",
+      "teams": [
+        {
+          "id": "6273",
+          "homeAway": "home",
+          "abbreviation": "GRE",
+          "displayName": "Grêmio",
+          "score": 0
+        },
+        {
+          "id": "6086",
+          "homeAway": "away",
+          "abbreviation": "BOT",
+          "displayName": "Botafogo",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732743",
+      "shortName": "BAH @ VAS",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-09-24T22:30Z",
+      "teams": [
+        {
+          "id": "3454",
+          "homeAway": "home",
+          "abbreviation": "VAS",
+          "displayName": "Vasco da Gama",
+          "score": 0
+        },
+        {
+          "id": "9967",
+          "homeAway": "away",
+          "abbreviation": "BAH",
+          "displayName": "Bahia",
           "score": 0
         }
       ]
