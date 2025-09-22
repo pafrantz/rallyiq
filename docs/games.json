@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-21T23:59:35.599Z",
+  "ts": "2025-09-22T01:24:09.746Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732821",
       "shortName": "BRA @ CRU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "26'",
+      "period": 2,
+      "clock": "90'+1'",
       "start": "2025-09-21T23:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CRU",
           "displayName": "Cruzeiro",
-          "score": 0
+          "score": 2
         },
         {
           "id": "6079",
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732827",
       "shortName": "SAO @ SAN",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "26'",
+      "period": 2,
+      "clock": "90'",
       "start": "2025-09-21T23:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "SAN",
           "displayName": "Santos",
-          "score": 0
+          "score": 1
         },
         {
           "id": "2026",
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772920",
       "shortName": "KC @ NYG",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 2,
+      "clock": "5:24",
       "start": "2025-09-22T00:20Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "KC",
           "displayName": "Kansas City Chiefs",
-          "score": 0
+          "score": 6
         }
       ]
     },
