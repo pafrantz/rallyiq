@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-23T00:47:38.253Z",
+  "ts": "2025-09-23T02:11:45.880Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "DET @ BAL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "1:43",
+      "period": 3,
+      "clock": "5:13",
       "start": "2025-09-23T00:15Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 7
+          "score": 21
         },
         {
           "id": "8",
           "homeAway": "away",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 7
+          "score": 21
         }
       ]
     },
