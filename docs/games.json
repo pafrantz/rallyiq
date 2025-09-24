@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-24T22:30:31.714Z",
+  "ts": "2025-09-24T22:37:33.022Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732747",
       "shortName": "BOT @ GRE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "7'",
       "start": "2025-09-24T22:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732743",
       "shortName": "BAH @ VAS",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "6'",
       "start": "2025-09-24T22:30Z",
       "teams": [
         {
