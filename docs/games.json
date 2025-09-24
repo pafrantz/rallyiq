@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-24T23:14:43.317Z",
+  "ts": "2025-09-24T23:26:23.282Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732747",
       "shortName": "BOT @ GRE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+3'",
       "start": "2025-09-24T22:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732743",
       "shortName": "BAH @ VAS",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "43'",
+      "clock": "45'+8'",
       "start": "2025-09-24T22:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "VAS",
           "displayName": "Vasco da Gama",
-          "score": 0
+          "score": 1
         },
         {
           "id": "9967",
