@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-24T23:39:20.235Z",
+  "ts": "2025-09-24T23:44:50.031Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "51'",
+      "clock": "56'",
       "start": "2025-09-24T22:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BOT",
           "displayName": "Botafogo",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732743",
       "shortName": "BAH @ VAS",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+8'",
+      "period": 2,
+      "clock": "49'",
       "start": "2025-09-24T22:30Z",
       "teams": [
         {
