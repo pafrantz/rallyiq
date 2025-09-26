@@ -1,33 +1,6 @@
 {
-  "ts": "2025-09-26T03:06:51.526Z",
+  "ts": "2025-09-26T03:35:53.107Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772938",
-      "shortName": "SEA @ ARI",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:21",
-      "start": "2025-09-26T00:15Z",
-      "teams": [
-        {
-          "id": "22",
-          "homeAway": "home",
-          "abbreviation": "ARI",
-          "displayName": "Arizona Cardinals",
-          "score": 13
-        },
-        {
-          "id": "26",
-          "homeAway": "away",
-          "abbreviation": "SEA",
-          "displayName": "Seattle Seahawks",
-          "score": 20
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
