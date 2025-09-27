@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-27T15:30:28.888Z",
+  "ts": "2025-09-27T15:36:57.530Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "71'",
+      "clock": "77'",
       "start": "2025-09-27T14:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BHA",
           "displayName": "Brighton & Hove Albion",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "64'",
+      "clock": "70'",
       "start": "2025-09-27T14:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "71'",
+      "clock": "78'",
       "start": "2025-09-27T14:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "70'",
+      "clock": "76'",
       "start": "2025-09-27T14:00Z",
       "teams": [
         {
