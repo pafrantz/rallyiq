@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-27T20:00:00.906Z",
+  "ts": "2025-09-27T20:18:18.924Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732838",
       "shortName": "SPO @ FOR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "57'",
       "start": "2025-09-27T19:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740646",
       "shortName": "WOL @ TOT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "58'",
       "start": "2025-09-27T19:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "WOL",
           "displayName": "Wolverhampton Wanderers",
-          "score": 0
+          "score": 1
         }
       ]
     },
