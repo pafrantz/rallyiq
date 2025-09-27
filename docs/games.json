@@ -1,14 +1,14 @@
 {
-  "ts": "2025-09-27T11:28:11.415Z",
+  "ts": "2025-09-27T11:35:15.566Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740649",
       "shortName": "MAN @ BRE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2025-09-27T11:30Z",
       "teams": [
