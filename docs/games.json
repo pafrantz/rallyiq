@@ -1,33 +1,6 @@
 {
-  "ts": "2025-09-27T18:23:02.367Z",
+  "ts": "2025-09-27T18:40:00.221Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740651",
-      "shortName": "SUN @ NFO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2025-09-27T16:30Z",
-      "teams": [
-        {
-          "id": "393",
-          "homeAway": "home",
-          "abbreviation": "NFO",
-          "displayName": "Nottingham Forest",
-          "score": 0
-        },
-        {
-          "id": "366",
-          "homeAway": "away",
-          "abbreviation": "SUN",
-          "displayName": "Sunderland",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
