@@ -1,12 +1,12 @@
 {
-  "ts": "2025-09-27T19:49:20.429Z",
+  "ts": "2025-09-27T19:54:18.569Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732838",
       "shortName": "SPO @ FOR",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
       "clock": "45'+3'",
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740646",
       "shortName": "WOL @ TOT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+3'",
+      "clock": "45'+5'",
       "start": "2025-09-27T19:00Z",
       "teams": [
         {
