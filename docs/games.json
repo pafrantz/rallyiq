@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-28T20:53:01.258Z",
+  "ts": "2025-09-28T20:58:16.030Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "87'",
+      "clock": "90'+1'",
       "start": "2025-09-28T19:00Z",
       "teams": [
         {
@@ -29,41 +29,14 @@
       ]
     },
     {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732833",
-      "shortName": "BOT @ FLU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+3'",
-      "start": "2025-09-28T19:00Z",
-      "teams": [
-        {
-          "id": "3445",
-          "homeAway": "home",
-          "abbreviation": "FLU",
-          "displayName": "Fluminense",
-          "score": 2
-        },
-        {
-          "id": "6086",
-          "homeAway": "away",
-          "abbreviation": "BOT",
-          "displayName": "Botafogo",
-          "score": 0
-        }
-      ]
-    },
-    {
       "sport": "football",
       "league": "nfl",
       "id": "401772849",
       "shortName": "IND @ LAR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:42",
+      "clock": "6:05",
       "start": "2025-09-28T20:05Z",
       "teams": [
         {
@@ -78,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 3
+          "score": 10
         }
       ]
     },
@@ -90,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:58",
+      "clock": "11:21",
       "start": "2025-09-28T20:05Z",
       "teams": [
         {
@@ -117,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "1:49",
+      "clock": "0:23",
       "start": "2025-09-28T20:25Z",
       "teams": [
         {
@@ -144,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "4:16",
+      "clock": "0:18",
       "start": "2025-09-28T20:25Z",
       "teams": [
         {
