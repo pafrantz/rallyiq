@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-27T23:59:20.773Z",
+  "ts": "2025-09-28T01:22:35.068Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732830",
       "shortName": "MIR @ CAM",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "59'",
       "start": "2025-09-28T00:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CAM",
           "displayName": "Atlético-MG",
-          "score": 0
+          "score": 1
         },
         {
           "id": "9169",
