@@ -1,114 +1,6 @@
 {
-  "ts": "2025-09-28T19:58:22.624Z",
+  "ts": "2025-09-28T20:14:18.990Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772739",
-      "shortName": "WSH @ ATL",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:29",
-      "start": "2025-09-28T17:00Z",
-      "teams": [
-        {
-          "id": "1",
-          "homeAway": "home",
-          "abbreviation": "ATL",
-          "displayName": "Atlanta Falcons",
-          "score": 34
-        },
-        {
-          "id": "28",
-          "homeAway": "away",
-          "abbreviation": "WSH",
-          "displayName": "Washington Commanders",
-          "score": 27
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772740",
-      "shortName": "NO @ BUF",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "3:42",
-      "start": "2025-09-28T17:00Z",
-      "teams": [
-        {
-          "id": "2",
-          "homeAway": "home",
-          "abbreviation": "BUF",
-          "displayName": "Buffalo Bills",
-          "score": 28
-        },
-        {
-          "id": "18",
-          "homeAway": "away",
-          "abbreviation": "NO",
-          "displayName": "New Orleans Saints",
-          "score": 19
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772846",
-      "shortName": "CLE @ DET",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "4:04",
-      "start": "2025-09-28T17:00Z",
-      "teams": [
-        {
-          "id": "8",
-          "homeAway": "home",
-          "abbreviation": "DET",
-          "displayName": "Detroit Lions",
-          "score": 34
-        },
-        {
-          "id": "5",
-          "homeAway": "away",
-          "abbreviation": "CLE",
-          "displayName": "Cleveland Browns",
-          "score": 10
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772847",
-      "shortName": "CAR @ NE",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:56",
-      "start": "2025-09-28T17:00Z",
-      "teams": [
-        {
-          "id": "17",
-          "homeAway": "home",
-          "abbreviation": "NE",
-          "displayName": "New England Patriots",
-          "score": 42
-        },
-        {
-          "id": "29",
-          "homeAway": "away",
-          "abbreviation": "CAR",
-          "displayName": "Carolina Panthers",
-          "score": 13
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -117,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:43",
+      "clock": "0:13",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -144,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "7:48",
+      "clock": "0:53",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -168,10 +60,10 @@
       "league": "bra.1",
       "id": "732831",
       "shortName": "PAL @ BAH",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "49'",
       "start": "2025-09-28T19:00Z",
       "teams": [
         {
@@ -195,10 +87,10 @@
       "league": "bra.1",
       "id": "732833",
       "shortName": "BOT @ FLU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "54'",
       "start": "2025-09-28T19:00Z",
       "teams": [
         {
@@ -222,10 +114,10 @@
       "league": "nfl",
       "id": "401772849",
       "shortName": "IND @ LAR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "10:12",
       "start": "2025-09-28T20:05Z",
       "teams": [
         {
@@ -249,10 +141,10 @@
       "league": "nfl",
       "id": "401772848",
       "shortName": "JAX @ SF",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "10:40",
       "start": "2025-09-28T20:05Z",
       "teams": [
         {
