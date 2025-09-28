@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-28T13:46:51.561Z",
+  "ts": "2025-09-28T13:52:26.789Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "45'+1'",
+      "clock": "45'+5'",
       "start": "2025-09-28T13:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "7:44",
+      "clock": "6:18",
       "start": "2025-09-28T13:30Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "MIN",
           "displayName": "Minnesota Vikings",
-          "score": 0
+          "score": 3
         }
       ]
     },
