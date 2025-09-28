@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-28T21:23:31.505Z",
+  "ts": "2025-09-28T21:29:07.406Z",
   "games": [
     {
       "sport": "football",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "1:59",
+      "clock": "0:53",
       "start": "2025-09-28T20:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "4:00",
+      "clock": "3:48",
       "start": "2025-09-28T20:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "7:35",
+      "clock": "4:22",
       "start": "2025-09-28T20:25Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 3
+          "score": 6
         }
       ]
     },
