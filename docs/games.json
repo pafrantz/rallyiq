@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-28T19:18:47.306Z",
+  "ts": "2025-09-28T19:24:00.328Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "WSH @ ATL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:14",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 30
+          "score": 31
         },
         {
           "id": "28",
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772740",
       "shortName": "NO @ BUF",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:00",
+      "period": 4,
+      "clock": "12:52",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -62,8 +62,8 @@
       "shortName": "CLE @ DET",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:25",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "4:21",
+      "clock": "1:37",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "4:26",
+      "clock": "2:49",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "NYG",
           "displayName": "New York Giants",
-          "score": 13
+          "score": 21
         },
         {
           "id": "24",
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "4:40",
+      "clock": "3:42",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -159,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 24
+          "score": 31
         }
       ]
     },
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:50",
+      "clock": "9:26",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -179,7 +179,7 @@
           "homeAway": "home",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 12
+          "score": 19
         },
         {
           "id": "10",
@@ -198,7 +198,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "16'",
+      "clock": "21'",
       "start": "2025-09-28T19:00Z",
       "teams": [
         {
@@ -225,7 +225,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "17'",
+      "clock": "23'",
       "start": "2025-09-28T19:00Z",
       "teams": [
         {
