@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-28T13:57:48.006Z",
+  "ts": "2025-09-28T14:10:14.865Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740650",
       "shortName": "FUL @ AVL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+9'",
+      "period": 2,
+      "clock": "45'",
       "start": "2025-09-28T13:00Z",
       "teams": [
         {
@@ -35,8 +35,8 @@
       "shortName": "MIN VS PIT",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:57",
+      "period": 2,
+      "clock": "12:28",
       "start": "2025-09-28T13:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "PIT",
           "displayName": "Pittsburgh Steelers",
-          "score": 0
+          "score": 7
         },
         {
           "id": "16",
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "732837",
       "shortName": "VIT @ GRE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "10'",
       "start": "2025-09-28T14:00Z",
       "teams": [
         {
