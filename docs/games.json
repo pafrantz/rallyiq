@@ -1,60 +1,6 @@
 {
-  "ts": "2025-09-28T20:14:18.990Z",
+  "ts": "2025-09-28T20:28:57.077Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772737",
-      "shortName": "LAC @ NYG",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:13",
-      "start": "2025-09-28T17:00Z",
-      "teams": [
-        {
-          "id": "19",
-          "homeAway": "home",
-          "abbreviation": "NYG",
-          "displayName": "New York Giants",
-          "score": 21
-        },
-        {
-          "id": "24",
-          "homeAway": "away",
-          "abbreviation": "LAC",
-          "displayName": "Los Angeles Chargers",
-          "score": 18
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772845",
-      "shortName": "PHI @ TB",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:53",
-      "start": "2025-09-28T17:00Z",
-      "teams": [
-        {
-          "id": "27",
-          "homeAway": "home",
-          "abbreviation": "TB",
-          "displayName": "Tampa Bay Buccaneers",
-          "score": 23
-        },
-        {
-          "id": "21",
-          "homeAway": "away",
-          "abbreviation": "PHI",
-          "displayName": "Philadelphia Eagles",
-          "score": 31
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -63,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "49'",
+      "clock": "64'",
       "start": "2025-09-28T19:00Z",
       "teams": [
         {
@@ -90,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "54'",
+      "clock": "70'",
       "start": "2025-09-28T19:00Z",
       "teams": [
         {
@@ -117,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "10:12",
+      "clock": "4:55",
       "start": "2025-09-28T20:05Z",
       "teams": [
         {
@@ -125,14 +71,14 @@
           "homeAway": "home",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 0
+          "score": 3
         },
         {
           "id": "11",
           "homeAway": "away",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -144,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "10:40",
+      "clock": "1:40",
       "start": "2025-09-28T20:05Z",
       "teams": [
         {
@@ -152,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 0
+          "score": 3
         },
         {
           "id": "30",
@@ -168,10 +114,10 @@
       "league": "nfl",
       "id": "401772741",
       "shortName": "BAL @ KC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "13:39",
       "start": "2025-09-28T20:25Z",
       "teams": [
         {
@@ -195,10 +141,10 @@
       "league": "nfl",
       "id": "401772742",
       "shortName": "CHI @ LV",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "13:31",
       "start": "2025-09-28T20:25Z",
       "teams": [
         {
