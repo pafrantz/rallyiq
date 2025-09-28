@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-28T17:23:21.011Z",
+  "ts": "2025-09-28T17:30:19.333Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "89'",
+      "clock": "90'+6'",
       "start": "2025-09-28T15:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "ARS",
           "displayName": "Arsenal",
-          "score": 1
+          "score": 2
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "4:28",
+      "clock": "0:48",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 3
+          "score": 10
         },
         {
           "id": "28",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "6:40",
+      "clock": "2:29",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 7
+          "score": 14
         },
         {
           "id": "18",
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "5:36",
+      "clock": "3:20",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 0
+          "score": 7
         },
         {
           "id": "5",
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "9:16",
+      "clock": "5:34",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 0
+          "score": 6
         },
         {
           "id": "29",
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "6:13",
+      "clock": "4:56",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "7:08",
+      "clock": "5:04",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -198,7 +198,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "4:49",
+      "clock": "3:05",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
