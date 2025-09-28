@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-28T17:42:13.827Z",
+  "ts": "2025-09-28T17:47:52.727Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:42",
+      "clock": "11:16",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "WSH",
           "displayName": "Washington Commanders",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:38",
+      "clock": "12:45",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:17",
+      "clock": "12:27",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -89,8 +89,8 @@
       "shortName": "CAR @ NE",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "3:05",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401772737",
       "shortName": "LAC @ NYG",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:00",
+      "period": 2,
+      "clock": "13:47",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "NYG",
           "displayName": "New York Giants",
-          "score": 7
+          "score": 10
         },
         {
           "id": "24",
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:13",
+      "clock": "11:52",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:28",
+      "clock": "10:20",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
