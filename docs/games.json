@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-28T13:52:26.789Z",
+  "ts": "2025-09-28T13:57:48.006Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740650",
       "shortName": "FUL @ AVL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+5'",
+      "clock": "45'+9'",
       "start": "2025-09-28T13:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "6:18",
+      "clock": "0:57",
       "start": "2025-09-28T13:30Z",
       "teams": [
         {
