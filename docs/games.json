@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-28T19:29:42.121Z",
+  "ts": "2025-09-28T19:36:17.492Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:01",
+      "clock": "8:48",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "WSH",
           "displayName": "Washington Commanders",
-          "score": 16
+          "score": 24
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:17",
+      "clock": "8:53",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "NO",
           "displayName": "New Orleans Saints",
-          "score": 16
+          "score": 19
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "14:10",
+      "clock": "13:40",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 20
+          "score": 27
         },
         {
           "id": "5",
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "14:16",
+      "clock": "12:22",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 35
+          "score": 42
         },
         {
           "id": "29",
@@ -116,8 +116,8 @@
       "shortName": "LAC @ NYG",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:27",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 16
+          "score": 18
         }
       ]
     },
@@ -143,8 +143,8 @@
       "shortName": "PHI @ TB",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:21",
+      "period": 4,
+      "clock": "14:52",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "8:23",
+      "clock": "4:51",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -179,7 +179,7 @@
           "homeAway": "home",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 19
+          "score": 26
         },
         {
           "id": "10",
@@ -198,7 +198,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "27'",
+      "clock": "34'",
       "start": "2025-09-28T19:00Z",
       "teams": [
         {
@@ -225,7 +225,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "26'",
+      "clock": "35'",
       "start": "2025-09-28T19:00Z",
       "teams": [
         {
@@ -233,7 +233,7 @@
           "homeAway": "home",
           "abbreviation": "FLU",
           "displayName": "Fluminense",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6086",
