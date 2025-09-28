@@ -1,33 +1,6 @@
 {
-  "ts": "2025-09-28T17:30:19.333Z",
+  "ts": "2025-09-28T17:36:40.680Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740653",
-      "shortName": "ARS @ NEW",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+6'",
-      "start": "2025-09-28T15:30Z",
-      "teams": [
-        {
-          "id": "361",
-          "homeAway": "home",
-          "abbreviation": "NEW",
-          "displayName": "Newcastle United",
-          "score": 1
-        },
-        {
-          "id": "359",
-          "homeAway": "away",
-          "abbreviation": "ARS",
-          "displayName": "Arsenal",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -35,8 +8,8 @@
       "shortName": "WSH @ ATL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:48",
+      "period": 2,
+      "clock": "13:42",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -60,10 +33,10 @@
       "league": "nfl",
       "id": "401772740",
       "shortName": "NO @ BUF",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_END_PERIOD",
       "state": "IN",
       "period": 1,
-      "clock": "2:29",
+      "clock": "0:00",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -90,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "3:20",
+      "clock": "0:00",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -117,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "5:34",
+      "clock": "4:33",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -125,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 6
+          "score": 7
         },
         {
           "id": "29",
@@ -144,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "4:56",
+      "clock": "1:56",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -171,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "5:04",
+      "clock": "1:28",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
@@ -197,8 +170,8 @@
       "shortName": "TEN @ HOU",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "3:05",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-09-28T17:00Z",
       "teams": [
         {
