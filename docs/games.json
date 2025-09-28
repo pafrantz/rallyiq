@@ -1,5 +1,5 @@
 {
-  "ts": "2025-09-28T15:52:05.520Z",
+  "ts": "2025-09-28T15:57:13.546Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "14:11",
+      "clock": "11:25",
       "start": "2025-09-28T13:30Z",
       "teams": [
         {
@@ -30,40 +30,13 @@
     },
     {
       "sport": "soccer",
-      "league": "bra.1",
-      "id": "732837",
-      "shortName": "VIT @ GRE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "89'",
-      "start": "2025-09-28T14:00Z",
-      "teams": [
-        {
-          "id": "6273",
-          "homeAway": "home",
-          "abbreviation": "GRE",
-          "displayName": "Grêmio",
-          "score": 3
-        },
-        {
-          "id": "3457",
-          "homeAway": "away",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
       "league": "eng.1",
       "id": "740653",
       "shortName": "ARS @ NEW",
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "22'",
+      "clock": "26'",
       "start": "2025-09-28T15:30Z",
       "teams": [
         {
