@@ -1,42 +1,15 @@
 {
-  "ts": "2025-09-28T14:58:12.477Z",
+  "ts": "2025-09-28T15:11:48.435Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740650",
-      "shortName": "FUL @ AVL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2025-09-28T13:00Z",
-      "teams": [
-        {
-          "id": "362",
-          "homeAway": "home",
-          "abbreviation": "AVL",
-          "displayName": "Aston Villa",
-          "score": 3
-        },
-        {
-          "id": "370",
-          "homeAway": "away",
-          "abbreviation": "FUL",
-          "displayName": "Fulham",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772632",
       "shortName": "MIN VS PIT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_END_PERIOD",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:54",
       "start": "2025-09-28T13:30Z",
       "teams": [
         {
@@ -60,10 +33,10 @@
       "league": "bra.1",
       "id": "732837",
       "shortName": "VIT @ GRE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "49'",
       "start": "2025-09-28T14:00Z",
       "teams": [
         {
@@ -78,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "VIT",
           "displayName": "Vitória",
-          "score": 0
+          "score": 1
         }
       ]
     },
