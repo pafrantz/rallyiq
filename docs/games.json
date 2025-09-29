@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-29T23:44:27.658Z",
+  "ts": "2025-09-29T23:49:41.370Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732839",
       "shortName": "CEA @ SAO",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "42'",
+      "clock": "45'+3'",
       "start": "2025-09-29T23:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "15:00",
+      "clock": "12:14",
       "start": "2025-09-29T23:15Z",
       "teams": [
         {
