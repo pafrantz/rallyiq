@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-29T22:58:36.793Z",
+  "ts": "2025-09-29T23:13:41.169Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732839",
       "shortName": "CEA @ SAO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "11'",
       "start": "2025-09-29T23:00Z",
       "teams": [
         {
