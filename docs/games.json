@@ -1,33 +1,6 @@
 {
-  "ts": "2025-09-29T01:20:34.274Z",
+  "ts": "2025-09-29T02:43:23.092Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732832",
-      "shortName": "FLA @ COR",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "87'",
-      "start": "2025-09-28T23:30Z",
-      "teams": [
-        {
-          "id": "874",
-          "homeAway": "home",
-          "abbreviation": "COR",
-          "displayName": "Corinthians",
-          "score": 1
-        },
-        {
-          "id": "819",
-          "homeAway": "away",
-          "abbreviation": "FLA",
-          "displayName": "Flamengo",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -35,8 +8,8 @@
       "shortName": "GB @ DAL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "8:33",
+      "period": 3,
+      "clock": "0:34",
       "start": "2025-09-29T00:20Z",
       "teams": [
         {
@@ -44,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 2
+          "score": 23
         },
         {
           "id": "9",
           "homeAway": "away",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 13
+          "score": 20
         }
       ]
     },
