@@ -1,33 +1,6 @@
 {
-  "ts": "2025-09-29T03:56:32.118Z",
+  "ts": "2025-09-29T04:13:45.499Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772921",
-      "shortName": "GB @ DAL",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 5,
-      "clock": "4:40",
-      "start": "2025-09-29T00:20Z",
-      "teams": [
-        {
-          "id": "6",
-          "homeAway": "home",
-          "abbreviation": "DAL",
-          "displayName": "Dallas Cowboys",
-          "score": 40
-        },
-        {
-          "id": "9",
-          "homeAway": "away",
-          "abbreviation": "GB",
-          "displayName": "Green Bay Packers",
-          "score": 37
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
