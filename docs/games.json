@@ -1,33 +1,6 @@
 {
-  "ts": "2025-09-30T01:21:31.904Z",
+  "ts": "2025-09-30T02:37:22.837Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772813",
-      "shortName": "NYJ @ MIA",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 3,
-      "clock": "2:35",
-      "start": "2025-09-29T23:15Z",
-      "teams": [
-        {
-          "id": "15",
-          "homeAway": "home",
-          "abbreviation": "MIA",
-          "displayName": "Miami Dolphins",
-          "score": 24
-        },
-        {
-          "id": "20",
-          "homeAway": "away",
-          "abbreviation": "NYJ",
-          "displayName": "New York Jets",
-          "score": 10
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -35,8 +8,8 @@
       "shortName": "CIN @ DEN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "8:41",
+      "period": 3,
+      "clock": "0:48",
       "start": "2025-09-30T00:15Z",
       "teams": [
         {
@@ -44,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 14
+          "score": 21
         },
         {
           "id": "4",
