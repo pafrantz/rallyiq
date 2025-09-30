@@ -1,32 +1,4 @@
 {
-  "ts": "2025-09-30T02:37:22.837Z",
-  "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772716",
-      "shortName": "CIN @ DEN",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 3,
-      "clock": "0:48",
-      "start": "2025-09-30T00:15Z",
-      "teams": [
-        {
-          "id": "7",
-          "homeAway": "home",
-          "abbreviation": "DEN",
-          "displayName": "Denver Broncos",
-          "score": 21
-        },
-        {
-          "id": "4",
-          "homeAway": "away",
-          "abbreviation": "CIN",
-          "displayName": "Cincinnati Bengals",
-          "score": 3
-        }
-      ]
-    }
-  ]
+  "ts": "2025-09-30T03:19:35.388Z",
+  "games": []
 }
