@@ -1,6 +1,33 @@
 {
-  "ts": "2025-09-30T19:20:58.830Z",
+  "ts": "2025-09-30T19:26:57.314Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732843",
+      "shortName": "JUV @ CAM",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-10-01T00:30Z",
+      "teams": [
+        {
+          "id": "7632",
+          "homeAway": "home",
+          "abbreviation": "CAM",
+          "displayName": "Atlético-MG",
+          "score": 0
+        },
+        {
+          "id": "6270",
+          "homeAway": "away",
+          "abbreviation": "JUV",
+          "displayName": "Juventude",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "soccer",
       "league": "eng.1",
