@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-01T22:14:29.145Z",
+  "ts": "2025-10-01T22:30:46.015Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "14'",
+      "clock": "30'",
       "start": "2025-10-01T22:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BRA",
           "displayName": "Red Bull Bragantino",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "14'",
+      "clock": "30'",
       "start": "2025-10-01T22:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "PAL",
           "displayName": "Palmeiras",
-          "score": 1
+          "score": 3
         },
         {
           "id": "3454",
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "14'",
+      "clock": "29'",
       "start": "2025-10-01T22:00Z",
       "teams": [
         {
@@ -87,8 +87,8 @@
       "league": "bra.1",
       "id": "732849",
       "shortName": "COR @ INT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
       "period": null,
       "clock": "0'",
       "start": "2025-10-01T22:30Z",
