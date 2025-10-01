@@ -1,15 +1,15 @@
 {
-  "ts": "2025-09-30T23:58:22.743Z",
+  "ts": "2025-10-01T01:15:40.172Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732843",
       "shortName": "JUV @ CAM",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "45'",
       "start": "2025-10-01T00:30Z",
       "teams": [
         {
