@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-01T23:33:59.046Z",
+  "ts": "2025-10-01T23:40:12.205Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "73'",
+      "clock": "79'",
       "start": "2025-10-01T22:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "MIR",
           "displayName": "Mirassol",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6079",
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "73'",
+      "clock": "78'",
       "start": "2025-10-01T22:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "70'",
+      "clock": "76'",
       "start": "2025-10-01T22:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "SPO",
           "displayName": "Sport",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3445",
@@ -87,10 +87,10 @@
       "league": "bra.1",
       "id": "732849",
       "shortName": "COR @ INT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+7'",
+      "period": 2,
+      "clock": "47'",
       "start": "2025-10-01T22:30Z",
       "teams": [
         {
