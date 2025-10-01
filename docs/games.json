@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-01T21:59:02.367Z",
+  "ts": "2025-10-01T22:14:29.145Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732845",
       "shortName": "BRA @ MIR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "14'",
       "start": "2025-10-01T22:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732846",
       "shortName": "VAS @ PAL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "14'",
       "start": "2025-10-01T22:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "PAL",
           "displayName": "Palmeiras",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3454",
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "732848",
       "shortName": "FLU @ SPO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "14'",
       "start": "2025-10-01T22:00Z",
       "teams": [
         {
