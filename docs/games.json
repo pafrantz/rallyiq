@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-02T22:27:37.400Z",
+  "ts": "2025-10-02T22:36:40.673Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "25'",
+      "clock": "36'",
       "start": "2025-10-02T22:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732840",
       "shortName": "SAO @ FOR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "5'",
       "start": "2025-10-02T22:30Z",
       "teams": [
         {
