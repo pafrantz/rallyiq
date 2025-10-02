@@ -1,60 +1,6 @@
 {
-  "ts": "2025-10-02T02:11:49.023Z",
+  "ts": "2025-10-02T03:03:41.804Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732842",
-      "shortName": "BAH @ BOT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "80'",
-      "start": "2025-10-02T00:30Z",
-      "teams": [
-        {
-          "id": "6086",
-          "homeAway": "home",
-          "abbreviation": "BOT",
-          "displayName": "Botafogo",
-          "score": 2
-        },
-        {
-          "id": "9967",
-          "homeAway": "away",
-          "abbreviation": "BAH",
-          "displayName": "Bahia",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732847",
-      "shortName": "GRE @ SAN",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "77'",
-      "start": "2025-10-02T00:30Z",
-      "teams": [
-        {
-          "id": "2674",
-          "homeAway": "home",
-          "abbreviation": "SAN",
-          "displayName": "Santos",
-          "score": 0
-        },
-        {
-          "id": "6273",
-          "homeAway": "away",
-          "abbreviation": "GRE",
-          "displayName": "Grêmio",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
