@@ -1,96 +1,15 @@
 {
-  "ts": "2025-10-01T23:56:36.704Z",
+  "ts": "2025-10-02T00:50:16.010Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732845",
-      "shortName": "BRA @ MIR",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+6'",
-      "start": "2025-10-01T22:00Z",
-      "teams": [
-        {
-          "id": "9169",
-          "homeAway": "home",
-          "abbreviation": "MIR",
-          "displayName": "Mirassol",
-          "score": 1
-        },
-        {
-          "id": "6079",
-          "homeAway": "away",
-          "abbreviation": "BRA",
-          "displayName": "Red Bull Bragantino",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732848",
-      "shortName": "FLU @ SPO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2025-10-01T22:00Z",
-      "teams": [
-        {
-          "id": "7635",
-          "homeAway": "home",
-          "abbreviation": "SPO",
-          "displayName": "Sport",
-          "score": 1
-        },
-        {
-          "id": "3445",
-          "homeAway": "away",
-          "abbreviation": "FLU",
-          "displayName": "Fluminense",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732849",
-      "shortName": "COR @ INT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "63'",
-      "start": "2025-10-01T22:30Z",
-      "teams": [
-        {
-          "id": "1936",
-          "homeAway": "home",
-          "abbreviation": "INT",
-          "displayName": "Internacional",
-          "score": 0
-        },
-        {
-          "id": "874",
-          "homeAway": "away",
-          "abbreviation": "COR",
-          "displayName": "Corinthians",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732842",
       "shortName": "BAH @ BOT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "19'",
       "start": "2025-10-02T00:30Z",
       "teams": [
         {
@@ -114,10 +33,10 @@
       "league": "bra.1",
       "id": "732847",
       "shortName": "GRE @ SAN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "19'",
       "start": "2025-10-02T00:30Z",
       "teams": [
         {
