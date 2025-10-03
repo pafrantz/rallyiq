@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-03T03:02:43.399Z",
+  "ts": "2025-10-03T03:31:02.828Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "SF @ LAR",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 4,
-      "clock": "2:52",
+      "period": 5,
+      "clock": "6:00",
       "start": "2025-10-03T00:15Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 20
+          "score": 23
         },
         {
           "id": "25",
