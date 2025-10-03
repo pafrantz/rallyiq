@@ -1,69 +1,15 @@
 {
-  "ts": "2025-10-02T23:55:23.894Z",
+  "ts": "2025-10-03T00:38:19.404Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732844",
-      "shortName": "CEA @ VIT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2025-10-02T22:00Z",
-      "teams": [
-        {
-          "id": "3457",
-          "homeAway": "home",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 1
-        },
-        {
-          "id": "9969",
-          "homeAway": "away",
-          "abbreviation": "CEA",
-          "displayName": "Ceará",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732840",
-      "shortName": "SAO @ FOR",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "63'",
-      "start": "2025-10-02T22:30Z",
-      "teams": [
-        {
-          "id": "6272",
-          "homeAway": "home",
-          "abbreviation": "FOR",
-          "displayName": "Fortaleza",
-          "score": 0
-        },
-        {
-          "id": "2026",
-          "homeAway": "away",
-          "abbreviation": "SAO",
-          "displayName": "São Paulo",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732841",
       "shortName": "CRU @ FLA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "24'",
+      "period": 2,
+      "clock": "45'",
       "start": "2025-10-02T23:30Z",
       "teams": [
         {
@@ -87,10 +33,10 @@
       "league": "nfl",
       "id": "401772939",
       "shortName": "SF @ LAR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "4:19",
       "start": "2025-10-03T00:15Z",
       "teams": [
         {
@@ -105,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 0
+          "score": 7
         }
       ]
     },
