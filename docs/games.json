@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-03T03:31:02.828Z",
+  "ts": "2025-10-03T03:45:23.495Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772939",
-      "shortName": "SF @ LAR",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 5,
-      "clock": "6:00",
-      "start": "2025-10-03T00:15Z",
-      "teams": [
-        {
-          "id": "14",
-          "homeAway": "home",
-          "abbreviation": "LAR",
-          "displayName": "Los Angeles Rams",
-          "score": 23
-        },
-        {
-          "id": "25",
-          "homeAway": "away",
-          "abbreviation": "SF",
-          "displayName": "San Francisco 49ers",
-          "score": 23
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
