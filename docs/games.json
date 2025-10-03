@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-03T19:58:40.574Z",
+  "ts": "2025-10-03T20:15:58.160Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740658",
       "shortName": "FUL @ BOU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "54'",
       "start": "2025-10-03T19:00Z",
       "teams": [
         {
