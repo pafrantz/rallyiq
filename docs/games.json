@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-04T14:55:45.687Z",
+  "ts": "2025-10-04T15:07:08.457Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740656",
       "shortName": "WHU @ ARS",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "46'",
       "start": "2025-10-04T14:00Z",
       "teams": [
         {
