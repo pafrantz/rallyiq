@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-04T12:34:09.127Z",
+  "ts": "2025-10-04T12:59:10.434Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740662",
       "shortName": "TOT @ LEE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "67'",
       "start": "2025-10-04T11:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "TOT",
           "displayName": "Tottenham Hotspur",
-          "score": 1
+          "score": 2
         }
       ]
     },
