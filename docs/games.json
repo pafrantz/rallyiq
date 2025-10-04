@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-04T12:00:18.897Z",
+  "ts": "2025-10-04T12:34:09.127Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740662",
       "shortName": "TOT @ LEE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "30'",
+      "clock": "45'+5'",
       "start": "2025-10-04T11:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "LEE",
           "displayName": "Leeds United",
-          "score": 0
+          "score": 1
         },
         {
           "id": "367",
