@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-04T15:07:08.457Z",
+  "ts": "2025-10-04T15:23:16.812Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "46'",
+      "clock": "61'",
       "start": "2025-10-04T14:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740663",
       "shortName": "SUN @ MAN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+7'",
+      "period": 2,
+      "clock": "61'",
       "start": "2025-10-04T14:00Z",
       "teams": [
         {
