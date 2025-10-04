@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-04T13:18:33.304Z",
+  "ts": "2025-10-04T13:30:57.073Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740662",
-      "shortName": "TOT @ LEE",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "86'",
-      "start": "2025-10-04T11:30Z",
-      "teams": [
-        {
-          "id": "357",
-          "homeAway": "home",
-          "abbreviation": "LEE",
-          "displayName": "Leeds United",
-          "score": 1
-        },
-        {
-          "id": "367",
-          "homeAway": "away",
-          "abbreviation": "TOT",
-          "displayName": "Tottenham Hotspur",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
