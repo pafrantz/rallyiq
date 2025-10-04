@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-04T11:26:50.577Z",
+  "ts": "2025-10-04T11:33:23.171Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740662",
       "shortName": "TOT @ LEE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "1'",
       "start": "2025-10-04T11:30Z",
       "teams": [
         {
