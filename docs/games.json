@@ -1,60 +1,6 @@
 {
-  "ts": "2025-10-05T19:58:22.146Z",
+  "ts": "2025-10-05T20:14:16.214Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772744",
-      "shortName": "NYG @ NO",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:00",
-      "start": "2025-10-05T17:00Z",
-      "teams": [
-        {
-          "id": "18",
-          "homeAway": "home",
-          "abbreviation": "NO",
-          "displayName": "New Orleans Saints",
-          "score": 26
-        },
-        {
-          "id": "19",
-          "homeAway": "away",
-          "abbreviation": "NYG",
-          "displayName": "New York Giants",
-          "score": 14
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772850",
-      "shortName": "DAL @ NYJ",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "4:31",
-      "start": "2025-10-05T17:00Z",
-      "teams": [
-        {
-          "id": "20",
-          "homeAway": "home",
-          "abbreviation": "NYJ",
-          "displayName": "New York Jets",
-          "score": 14
-        },
-        {
-          "id": "6",
-          "homeAway": "away",
-          "abbreviation": "DAL",
-          "displayName": "Dallas Cowboys",
-          "score": 36
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -63,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:17",
+      "clock": "1:14",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -83,41 +29,14 @@
       ]
     },
     {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772852",
-      "shortName": "MIA @ CAR",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:03",
-      "start": "2025-10-05T17:00Z",
-      "teams": [
-        {
-          "id": "29",
-          "homeAway": "home",
-          "abbreviation": "CAR",
-          "displayName": "Carolina Panthers",
-          "score": 20
-        },
-        {
-          "id": "15",
-          "homeAway": "away",
-          "abbreviation": "MIA",
-          "displayName": "Miami Dolphins",
-          "score": 24
-        }
-      ]
-    },
-    {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732856",
       "shortName": "PAL @ SAO",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "50'",
       "start": "2025-10-05T19:00Z",
       "teams": [
         {
@@ -141,10 +60,10 @@
       "league": "bra.1",
       "id": "732855",
       "shortName": "VIT @ VAS",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "49'",
       "start": "2025-10-05T19:00Z",
       "teams": [
         {
@@ -168,10 +87,10 @@
       "league": "nfl",
       "id": "401772747",
       "shortName": "TEN @ ARI",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "11:17",
       "start": "2025-10-05T20:05Z",
       "teams": [
         {
@@ -195,10 +114,10 @@
       "league": "nfl",
       "id": "401772746",
       "shortName": "TB @ SEA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "7:57",
       "start": "2025-10-05T20:05Z",
       "teams": [
         {
@@ -213,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "TB",
           "displayName": "Tampa Bay Buccaneers",
-          "score": 0
+          "score": 3
         }
       ]
     },
