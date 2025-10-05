@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-05T14:50:05.627Z",
+  "ts": "2025-10-05T14:55:13.923Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "90'",
+      "clock": "90'+3'",
       "start": "2025-10-05T13:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "90'+2'",
+      "clock": "90'+5'",
       "start": "2025-10-05T13:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "EVE",
           "displayName": "Everton",
-          "score": 1
+          "score": 2
         },
         {
           "id": "384",
@@ -58,39 +58,12 @@
     {
       "sport": "soccer",
       "league": "eng.1",
-      "id": "740664",
-      "shortName": "NFO @ NEW",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2025-10-05T13:00Z",
-      "teams": [
-        {
-          "id": "361",
-          "homeAway": "home",
-          "abbreviation": "NEW",
-          "displayName": "Newcastle United",
-          "score": 2
-        },
-        {
-          "id": "393",
-          "homeAway": "away",
-          "abbreviation": "NFO",
-          "displayName": "Nottingham Forest",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
       "id": "740665",
       "shortName": "BHA @ WOL",
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "90'+1'",
+      "clock": "90'+6'",
       "start": "2025-10-05T13:00Z",
       "teams": [
         {
@@ -117,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "0:35",
+      "clock": "0:16",
       "start": "2025-10-05T13:30Z",
       "teams": [
         {
