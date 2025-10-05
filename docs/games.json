@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-05T20:57:07.426Z",
+  "ts": "2025-10-05T21:09:26.071Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732856",
-      "shortName": "PAL @ SAO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+3'",
-      "start": "2025-10-05T19:00Z",
-      "teams": [
-        {
-          "id": "2026",
-          "homeAway": "home",
-          "abbreviation": "SAO",
-          "displayName": "São Paulo",
-          "score": 2
-        },
-        {
-          "id": "2029",
-          "homeAway": "away",
-          "abbreviation": "PAL",
-          "displayName": "Palmeiras",
-          "score": 3
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "90'",
+      "clock": "90'+10'",
       "start": "2025-10-05T19:00Z",
       "teams": [
         {
@@ -44,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "VAS",
           "displayName": "Vasco da Gama",
-          "score": 3
+          "score": 4
         },
         {
           "id": "3457",
@@ -63,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "12:15",
+      "clock": "8:29",
       "start": "2025-10-05T20:05Z",
       "teams": [
         {
@@ -71,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 14
+          "score": 21
         },
         {
           "id": "10",
           "homeAway": "away",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 3
+          "score": 6
         }
       ]
     },
@@ -90,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "6:24",
+      "clock": "1:57",
       "start": "2025-10-05T20:05Z",
       "teams": [
         {
@@ -105,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "TB",
           "displayName": "Tampa Bay Buccaneers",
-          "score": 6
+          "score": 13
         }
       ]
     },
@@ -116,8 +89,8 @@
       "shortName": "DET @ CIN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "3:17",
+      "period": 2,
+      "clock": "14:00",
       "start": "2025-10-05T20:25Z",
       "teams": [
         {
@@ -143,8 +116,8 @@
       "shortName": "WSH @ LAC",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "2:57",
+      "period": 2,
+      "clock": "13:01",
       "start": "2025-10-05T20:25Z",
       "teams": [
         {
