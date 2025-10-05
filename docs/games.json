@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-05T22:57:27.592Z",
+  "ts": "2025-10-05T23:10:16.636Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:50",
+      "clock": "2:00",
       "start": "2025-10-05T20:05Z",
       "teams": [
         {
@@ -24,34 +24,7 @@
           "homeAway": "away",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 12
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772746",
-      "shortName": "TB @ SEA",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:51",
-      "start": "2025-10-05T20:05Z",
-      "teams": [
-        {
-          "id": "26",
-          "homeAway": "home",
-          "abbreviation": "SEA",
-          "displayName": "Seattle Seahawks",
-          "score": 35
-        },
-        {
-          "id": "27",
-          "homeAway": "away",
-          "abbreviation": "TB",
-          "displayName": "Tampa Bay Buccaneers",
-          "score": 35
+          "score": 19
         }
       ]
     },
@@ -63,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:22",
+      "clock": "4:01",
       "start": "2025-10-05T20:25Z",
       "teams": [
         {
@@ -78,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 28
+          "score": 35
         }
       ]
     },
@@ -90,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "5:28",
+      "clock": "2:11",
       "start": "2025-10-05T20:25Z",
       "teams": [
         {
@@ -117,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "61'",
+      "clock": "73'",
       "start": "2025-10-05T21:30Z",
       "teams": [
         {
@@ -144,7 +117,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "66'",
+      "clock": "78'",
       "start": "2025-10-05T21:30Z",
       "teams": [
         {
@@ -159,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "FOR",
           "displayName": "Fortaleza",
-          "score": 0
+          "score": 1
         }
       ]
     },
