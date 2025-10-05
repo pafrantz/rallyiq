@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-05T19:47:38.616Z",
+  "ts": "2025-10-05T19:53:13.720Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "5:41",
+      "clock": "2:00",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "5:11",
+      "clock": "4:03",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "7:56",
+      "clock": "5:40",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "8:40",
+      "clock": "7:03",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 10
+          "score": 18
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "5:32",
+      "clock": "4:31",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 17
+          "score": 24
         }
       ]
     },
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:27",
+      "clock": "0:36",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -168,10 +168,10 @@
       "league": "bra.1",
       "id": "732856",
       "shortName": "PAL @ SAO",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+4'",
       "start": "2025-10-05T19:00Z",
       "teams": [
         {
@@ -195,10 +195,10 @@
       "league": "bra.1",
       "id": "732855",
       "shortName": "VIT @ VAS",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+1'",
+      "clock": "45'+5'",
       "start": "2025-10-05T19:00Z",
       "teams": [
         {
