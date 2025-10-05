@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-05T21:56:32.051Z",
+  "ts": "2025-10-05T22:09:29.105Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772747",
       "shortName": "TEN @ ARI",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "7:56",
       "start": "2025-10-05T20:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "7:52",
+      "clock": "0:48",
       "start": "2025-10-05T20:05Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 14
+          "score": 21
         },
         {
           "id": "27",
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772854",
       "shortName": "DET @ CIN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "11:32",
       "start": "2025-10-05T20:25Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772853",
       "shortName": "WSH @ LAC",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "10:58",
       "start": "2025-10-05T20:25Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "WSH",
           "displayName": "Washington Commanders",
-          "score": 10
+          "score": 17
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "23'",
+      "clock": "37'",
       "start": "2025-10-05T21:30Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "25'",
+      "clock": "38'",
       "start": "2025-10-05T21:30Z",
       "teams": [
         {
