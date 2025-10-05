@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-05T17:47:42.931Z",
+  "ts": "2025-10-05T17:53:16.498Z",
   "games": [
     {
       "sport": "football",
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 13
+          "score": 14
         },
         {
           "id": "13",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "12:54",
+      "clock": "7:50",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:40",
+      "clock": "9:42",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:59",
+      "clock": "10:36",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "10:48",
+      "clock": "9:49",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 16
+          "score": 17
         }
       ]
     },
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "9:22",
+      "clock": "6:29",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
