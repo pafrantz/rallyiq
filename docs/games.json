@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-05T19:08:18.318Z",
+  "ts": "2025-10-05T19:19:44.173Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "5:49",
+      "clock": "2:27",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 32
+          "score": 40
         },
         {
           "id": "13",
@@ -35,8 +35,8 @@
       "shortName": "NYG @ NO",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "6:55",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:42",
+      "clock": "2:19",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 23
+          "score": 30
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:46",
+      "clock": "3:43",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -116,8 +116,8 @@
       "shortName": "MIA @ CAR",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "4:25",
+      "period": 4,
+      "clock": "13:22",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -143,8 +143,8 @@
       "shortName": "HOU @ BAL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "2:41",
+      "period": 4,
+      "clock": "13:48",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -159,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 34
+          "score": 41
         }
       ]
     },
@@ -171,7 +171,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "6'",
+      "clock": "18'",
       "start": "2025-10-05T19:00Z",
       "teams": [
         {
@@ -179,7 +179,7 @@
           "homeAway": "home",
           "abbreviation": "SAO",
           "displayName": "São Paulo",
-          "score": 0
+          "score": 1
         },
         {
           "id": "2029",
@@ -198,7 +198,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "7'",
+      "clock": "17'",
       "start": "2025-10-05T19:00Z",
       "teams": [
         {
