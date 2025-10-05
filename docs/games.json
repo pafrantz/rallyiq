@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-05T22:26:54.590Z",
+  "ts": "2025-10-05T22:35:19.414Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772747",
       "shortName": "TEN @ ARI",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_END_PERIOD",
       "state": "IN",
       "period": 3,
-      "clock": "2:32",
+      "clock": "0:00",
       "start": "2025-10-05T20:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "9:48",
+      "clock": "8:18",
       "start": "2025-10-05T20:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "5:43",
+      "clock": "2:02",
       "start": "2025-10-05T20:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "5:49",
+      "clock": "1:51",
       "start": "2025-10-05T20:25Z",
       "teams": [
         {
