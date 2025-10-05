@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-05T19:53:13.720Z",
+  "ts": "2025-10-05T19:58:22.146Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772851",
-      "shortName": "LV @ IND",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:00",
-      "start": "2025-10-05T17:00Z",
-      "teams": [
-        {
-          "id": "11",
-          "homeAway": "home",
-          "abbreviation": "IND",
-          "displayName": "Indianapolis Colts",
-          "score": 40
-        },
-        {
-          "id": "13",
-          "homeAway": "away",
-          "abbreviation": "LV",
-          "displayName": "Las Vegas Raiders",
-          "score": 6
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -36,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:03",
+      "clock": "2:00",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -63,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "5:40",
+      "clock": "4:31",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -78,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 30
+          "score": 36
         }
       ]
     },
@@ -90,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "7:03",
+      "clock": "4:17",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -117,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:31",
+      "clock": "2:03",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -133,33 +106,6 @@
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
           "score": 24
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772743",
-      "shortName": "HOU @ BAL",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:36",
-      "start": "2025-10-05T17:00Z",
-      "teams": [
-        {
-          "id": "33",
-          "homeAway": "home",
-          "abbreviation": "BAL",
-          "displayName": "Baltimore Ravens",
-          "score": 10
-        },
-        {
-          "id": "34",
-          "homeAway": "away",
-          "abbreviation": "HOU",
-          "displayName": "Houston Texans",
-          "score": 44
         }
       ]
     },
