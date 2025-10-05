@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-05T17:36:26.723Z",
+  "ts": "2025-10-05T17:42:04.590Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:33",
+      "clock": "9:43",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -35,8 +35,8 @@
       "shortName": "NYG @ NO",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "1:07",
+      "period": 2,
+      "clock": "14:20",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772850",
       "shortName": "DAL @ NYJ",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:00",
+      "period": 2,
+      "clock": "13:37",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -89,8 +89,8 @@
       "shortName": "DEN @ PHI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:29",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:55",
+      "clock": "14:01",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "12:45",
+      "clock": "11:13",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -159,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 7
+          "score": 10
         }
       ]
     },
