@@ -1,60 +1,6 @@
 {
-  "ts": "2025-10-05T23:22:17.420Z",
+  "ts": "2025-10-05T23:27:41.576Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772854",
-      "shortName": "DET @ CIN",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:00",
-      "start": "2025-10-05T20:25Z",
-      "teams": [
-        {
-          "id": "4",
-          "homeAway": "home",
-          "abbreviation": "CIN",
-          "displayName": "Cincinnati Bengals",
-          "score": 24
-        },
-        {
-          "id": "8",
-          "homeAway": "away",
-          "abbreviation": "DET",
-          "displayName": "Detroit Lions",
-          "score": 35
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772853",
-      "shortName": "WSH @ LAC",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:14",
-      "start": "2025-10-05T20:25Z",
-      "teams": [
-        {
-          "id": "24",
-          "homeAway": "home",
-          "abbreviation": "LAC",
-          "displayName": "Los Angeles Chargers",
-          "score": 10
-        },
-        {
-          "id": "28",
-          "homeAway": "away",
-          "abbreviation": "WSH",
-          "displayName": "Washington Commanders",
-          "score": 27
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -63,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "85'",
+      "clock": "90'",
       "start": "2025-10-05T21:30Z",
       "teams": [
         {
@@ -90,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "90'+2'",
+      "clock": "90'+7'",
       "start": "2025-10-05T21:30Z",
       "teams": [
         {
