@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-05T21:35:17.379Z",
+  "ts": "2025-10-05T21:40:48.060Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "1:47",
+      "clock": "0:24",
       "start": "2025-10-05T20:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "15:00",
+      "clock": "13:01",
       "start": "2025-10-05T20:05Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 7
+          "score": 14
         },
         {
           "id": "27",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "5:21",
+      "clock": "0:52",
       "start": "2025-10-05T20:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "1:35",
+      "clock": "0:50",
       "start": "2025-10-05T20:25Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "1'",
+      "clock": "7'",
       "start": "2025-10-05T21:30Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "4'",
+      "clock": "9'",
       "start": "2025-10-05T21:30Z",
       "teams": [
         {
@@ -152,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "JUV",
           "displayName": "Juventude",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6272",
