@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-05T20:41:18.867Z",
+  "ts": "2025-10-05T20:46:34.053Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "82'",
       "start": "2025-10-05T19:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "75'",
+      "clock": "80'",
       "start": "2025-10-05T19:00Z",
       "teams": [
         {
@@ -62,8 +62,8 @@
       "shortName": "TEN @ ARI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:39",
+      "period": 2,
+      "clock": "14:54",
       "start": "2025-10-05T20:05Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:32",
+      "clock": "11:22",
       "start": "2025-10-05T20:05Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "8:12",
+      "clock": "6:18",
       "start": "2025-10-05T20:25Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "9:43",
+      "clock": "8:21",
       "start": "2025-10-05T20:25Z",
       "teams": [
         {
