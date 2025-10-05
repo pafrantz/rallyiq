@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-05T20:28:52.843Z",
+  "ts": "2025-10-05T20:36:09.581Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "64'",
+      "clock": "70'",
       "start": "2025-10-05T19:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "PAL",
           "displayName": "Palmeiras",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "63'",
+      "clock": "69'",
       "start": "2025-10-05T19:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "VAS",
           "displayName": "Vasco da Gama",
-          "score": 2
+          "score": 3
         },
         {
           "id": "3457",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "5:00",
+      "clock": "0:46",
       "start": "2025-10-05T20:05Z",
       "teams": [
         {
@@ -89,8 +89,8 @@
       "shortName": "TB @ SEA",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "2:41",
+      "period": 2,
+      "clock": "14:15",
       "start": "2025-10-05T20:05Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "13:34",
+      "clock": "10:40",
       "start": "2025-10-05T20:25Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "14:56",
+      "clock": "10:31",
       "start": "2025-10-05T20:25Z",
       "teams": [
         {
