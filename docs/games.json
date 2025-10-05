@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-05T18:38:07.445Z",
+  "ts": "2025-10-05T18:46:40.133Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772851",
       "shortName": "LV @ IND",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "12:57",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401772852",
       "shortName": "MIA @ CAR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "12:15",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "CAR",
           "displayName": "Carolina Panthers",
-          "score": 10
+          "score": 13
         },
         {
           "id": "15",
@@ -141,10 +141,10 @@
       "league": "nfl",
       "id": "401772743",
       "shortName": "HOU @ BAL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "11:33",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -159,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 24
+          "score": 31
         }
       ]
     },
