@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-05T17:30:08.311Z",
+  "ts": "2025-10-05T17:36:26.723Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "15:00",
+      "clock": "11:33",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 0
+          "score": 7
         },
         {
           "id": "13",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "3:04",
+      "clock": "1:07",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "NO",
           "displayName": "New Orleans Saints",
-          "score": 0
+          "score": 3
         },
         {
           "id": "19",
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772850",
       "shortName": "DAL @ NYJ",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_END_PERIOD",
       "state": "IN",
       "period": 1,
-      "clock": "2:50",
+      "clock": "0:00",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "3:49",
+      "clock": "0:29",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 0
+          "score": 3
         },
         {
           "id": "7",
@@ -116,8 +116,8 @@
       "shortName": "MIA @ CAR",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "1:15",
+      "period": 2,
+      "clock": "14:55",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 3
+          "score": 10
         }
       ]
     },
@@ -141,10 +141,10 @@
       "league": "nfl",
       "id": "401772743",
       "shortName": "HOU @ BAL",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:00",
+      "period": 2,
+      "clock": "12:45",
       "start": "2025-10-05T17:00Z",
       "teams": [
         {
