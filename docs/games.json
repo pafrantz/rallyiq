@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-05T21:22:36.264Z",
+  "ts": "2025-10-05T21:28:19.122Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "4:53",
+      "clock": "2:04",
       "start": "2025-10-05T20:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "10:08",
+      "clock": "7:54",
       "start": "2025-10-05T20:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "5:01",
+      "clock": "3:34",
       "start": "2025-10-05T20:25Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "WSH",
           "displayName": "Washington Commanders",
-          "score": 0
+          "score": 7
         }
       ]
     },
