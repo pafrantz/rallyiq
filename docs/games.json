@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-05T14:55:13.923Z",
+  "ts": "2025-10-05T15:00:56.972Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "90'+3'",
+      "clock": "90'+11'",
       "start": "2025-10-05T13:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "90'+5'",
+      "clock": "90'+12'",
       "start": "2025-10-05T13:00Z",
       "teams": [
         {
@@ -56,41 +56,14 @@
       ]
     },
     {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740665",
-      "shortName": "BHA @ WOL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+6'",
-      "start": "2025-10-05T13:00Z",
-      "teams": [
-        {
-          "id": "380",
-          "homeAway": "home",
-          "abbreviation": "WOL",
-          "displayName": "Wolverhampton Wanderers",
-          "score": 1
-        },
-        {
-          "id": "331",
-          "homeAway": "away",
-          "abbreviation": "BHA",
-          "displayName": "Brighton & Hove Albion",
-          "score": 1
-        }
-      ]
-    },
-    {
       "sport": "football",
       "league": "nfl",
       "id": "401772633",
       "shortName": "MIN VS CLE",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:16",
+      "clock": "0:00",
       "start": "2025-10-05T13:30Z",
       "teams": [
         {
@@ -98,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "CLE",
           "displayName": "Cleveland Browns",
-          "score": 7
+          "score": 10
         },
         {
           "id": "16",
