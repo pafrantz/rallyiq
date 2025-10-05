@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-05T21:09:26.071Z",
+  "ts": "2025-10-05T21:22:36.264Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732855",
-      "shortName": "VIT @ VAS",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+10'",
-      "start": "2025-10-05T19:00Z",
-      "teams": [
-        {
-          "id": "3454",
-          "homeAway": "home",
-          "abbreviation": "VAS",
-          "displayName": "Vasco da Gama",
-          "score": 4
-        },
-        {
-          "id": "3457",
-          "homeAway": "away",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 3
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -36,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "8:29",
+      "clock": "4:53",
       "start": "2025-10-05T20:05Z",
       "teams": [
         {
@@ -60,10 +33,10 @@
       "league": "nfl",
       "id": "401772746",
       "shortName": "TB @ SEA",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "1:57",
+      "clock": "0:00",
       "start": "2025-10-05T20:05Z",
       "teams": [
         {
@@ -71,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 0
+          "score": 7
         },
         {
           "id": "27",
@@ -90,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:00",
+      "clock": "10:08",
       "start": "2025-10-05T20:25Z",
       "teams": [
         {
@@ -105,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 7
+          "score": 14
         }
       ]
     },
@@ -117,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:01",
+      "clock": "5:01",
       "start": "2025-10-05T20:25Z",
       "teams": [
         {
