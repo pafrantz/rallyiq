@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-05T16:08:50.248Z",
+  "ts": "2025-10-05T16:30:16.433Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "9:41",
+      "clock": "2:00",
       "start": "2025-10-05T13:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740659",
       "shortName": "MNC @ BRE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "37'",
+      "clock": "45'+3'",
       "start": "2025-10-05T15:30Z",
       "teams": [
         {
