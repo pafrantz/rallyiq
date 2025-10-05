@@ -1,69 +1,15 @@
 {
-  "ts": "2025-10-05T15:00:56.972Z",
+  "ts": "2025-10-05T15:17:19.997Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740657",
-      "shortName": "BUR @ AVL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+11'",
-      "start": "2025-10-05T13:00Z",
-      "teams": [
-        {
-          "id": "362",
-          "homeAway": "home",
-          "abbreviation": "AVL",
-          "displayName": "Aston Villa",
-          "score": 2
-        },
-        {
-          "id": "379",
-          "homeAway": "away",
-          "abbreviation": "BUR",
-          "displayName": "Burnley",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740661",
-      "shortName": "CRY @ EVE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+12'",
-      "start": "2025-10-05T13:00Z",
-      "teams": [
-        {
-          "id": "368",
-          "homeAway": "home",
-          "abbreviation": "EVE",
-          "displayName": "Everton",
-          "score": 2
-        },
-        {
-          "id": "384",
-          "homeAway": "away",
-          "abbreviation": "CRY",
-          "displayName": "Crystal Palace",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772633",
       "shortName": "MIN VS CLE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:49",
       "start": "2025-10-05T13:30Z",
       "teams": [
         {
