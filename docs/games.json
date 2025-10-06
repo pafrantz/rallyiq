@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-06T02:15:01.080Z",
+  "ts": "2025-10-06T03:09:45.642Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "NE @ BUF",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "9:21",
+      "period": 4,
+      "clock": "3:29",
       "start": "2025-10-06T00:20Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 10
+          "score": 17
         },
         {
           "id": "17",
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 6
+          "score": 20
         }
       ]
     },
