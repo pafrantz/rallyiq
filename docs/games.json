@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-06T23:56:15.553Z",
+  "ts": "2025-10-07T00:47:28.635Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772814",
       "shortName": "KC @ JAX",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "4:02",
       "start": "2025-10-07T00:15Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "KC",
           "displayName": "Kansas City Chiefs",
-          "score": 0
+          "score": 7
         }
       ]
     },
