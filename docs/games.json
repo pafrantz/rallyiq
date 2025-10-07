@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-07T00:47:28.635Z",
+  "ts": "2025-10-07T02:12:19.384Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "KC @ JAX",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "4:02",
+      "period": 3,
+      "clock": "2:19",
       "start": "2025-10-07T00:15Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 0
+          "score": 21
         },
         {
           "id": "12",
           "homeAway": "away",
           "abbreviation": "KC",
           "displayName": "Kansas City Chiefs",
-          "score": 7
+          "score": 14
         }
       ]
     },
