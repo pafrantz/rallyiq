@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-08T22:56:44.710Z",
+  "ts": "2025-10-08T23:10:04.002Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732720",
       "shortName": "SPO @ CAM",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "51'",
       "start": "2025-10-08T22:00Z",
       "teams": [
         {
