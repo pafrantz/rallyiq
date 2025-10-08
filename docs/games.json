@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-08T23:48:35.321Z",
+  "ts": "2025-10-08T23:54:06.142Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732720",
-      "shortName": "SPO @ CAM",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "89'",
-      "start": "2025-10-08T22:00Z",
-      "teams": [
-        {
-          "id": "7632",
-          "homeAway": "home",
-          "abbreviation": "CAM",
-          "displayName": "Atlético-MG",
-          "score": 3
-        },
-        {
-          "id": "7635",
-          "homeAway": "away",
-          "abbreviation": "SPO",
-          "displayName": "Sport",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
