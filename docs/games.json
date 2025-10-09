@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-08T23:59:18.587Z",
+  "ts": "2025-10-09T01:15:11.758Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732714",
       "shortName": "FLU @ MIR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "56'",
       "start": "2025-10-09T00:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "MIR",
           "displayName": "Mirassol",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3445",
