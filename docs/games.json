@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-09T23:56:13.372Z",
+  "ts": "2025-10-10T00:47:14.341Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772940",
       "shortName": "PHI @ NYG",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "1:49",
       "start": "2025-10-10T00:15Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "NYG",
           "displayName": "New York Giants",
-          "score": 0
+          "score": 13
         },
         {
           "id": "21",
           "homeAway": "away",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 0
+          "score": 10
         }
       ]
     },
