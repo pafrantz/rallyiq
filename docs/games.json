@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-10T02:13:57.875Z",
+  "ts": "2025-10-10T03:08:04.605Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "PHI @ NYG",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "7:10",
+      "period": 4,
+      "clock": "4:36",
       "start": "2025-10-10T00:15Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "NYG",
           "displayName": "New York Giants",
-          "score": 27
+          "score": 34
         },
         {
           "id": "21",
