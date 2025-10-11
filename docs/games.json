@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-11T21:55:51.304Z",
+  "ts": "2025-10-11T22:07:32.830Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732705",
       "shortName": "JUV @ PAL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "7'",
       "start": "2025-10-11T22:00Z",
       "teams": [
         {
