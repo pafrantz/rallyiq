@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-11T22:40:48.420Z",
+  "ts": "2025-10-11T22:46:27.024Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "41'",
+      "clock": "44'",
       "start": "2025-10-11T22:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "PAL",
           "displayName": "Palmeiras",
-          "score": 1
+          "score": 2
         },
         {
           "id": "6270",
