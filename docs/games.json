@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-11T22:57:18.060Z",
+  "ts": "2025-10-11T23:10:58.207Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732705",
       "shortName": "JUV @ PAL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "50'",
       "start": "2025-10-11T22:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "PAL",
           "displayName": "Palmeiras",
-          "score": 2
+          "score": 3
         },
         {
           "id": "6270",
