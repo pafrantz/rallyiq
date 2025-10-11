@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-11T23:36:54.185Z",
+  "ts": "2025-10-11T23:42:33.788Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "75'",
+      "clock": "82'",
       "start": "2025-10-11T22:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "JUV",
           "displayName": "Juventude",
-          "score": 0
+          "score": 1
         }
       ]
     },
