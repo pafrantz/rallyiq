@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-12T17:38:04.298Z",
+  "ts": "2025-10-12T17:43:12.614Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "1:42",
+      "clock": "0:05",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -35,8 +35,8 @@
       "shortName": "LAC @ MIA",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:35",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "2:30",
+      "clock": "0:33",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 7
+          "score": 14
         }
       ]
     },
@@ -89,8 +89,8 @@
       "shortName": "CLE @ PIT",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:06",
+      "period": 2,
+      "clock": "14:15",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:56",
+      "clock": "14:20",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 9
+          "score": 10
         }
       ]
     },
@@ -143,8 +143,8 @@
       "shortName": "SEA @ JAX",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "1:09",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -168,10 +168,10 @@
       "league": "nfl",
       "id": "401772855",
       "shortName": "LAR @ BAL",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:00",
+      "period": 2,
+      "clock": "14:16",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
