@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-12T13:47:09.096Z",
+  "ts": "2025-10-12T13:52:41.216Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "8:01",
+      "clock": "6:18",
       "start": "2025-10-12T13:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 0
+          "score": 3
         }
       ]
     },
