@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-12T21:41:02.231Z",
+  "ts": "2025-10-12T21:46:24.002Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:55",
+      "clock": "9:47",
       "start": "2025-10-12T20:05Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772752",
       "shortName": "CIN @ GB",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:01",
+      "clock": "0:00",
       "start": "2025-10-12T20:25Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "0:55",
+      "clock": "0:39",
       "start": "2025-10-12T20:25Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "TB",
           "displayName": "Tampa Bay Buccaneers",
-          "score": 14
+          "score": 20
         },
         {
           "id": "25",
