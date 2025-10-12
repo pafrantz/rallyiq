@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-12T17:31:43.910Z",
+  "ts": "2025-10-12T17:38:04.298Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "6:20",
+      "clock": "1:42",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "4:03",
+      "clock": "0:35",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 3
+          "score": 6
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "4:58",
+      "clock": "2:30",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "3:54",
+      "clock": "0:06",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -116,8 +116,8 @@
       "shortName": "DAL @ CAR",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:05",
+      "period": 2,
+      "clock": "14:56",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 3
+          "score": 9
         }
       ]
     },
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "3:17",
+      "clock": "1:09",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -152,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 0
+          "score": 6
         },
         {
           "id": "26",
@@ -168,10 +168,10 @@
       "league": "nfl",
       "id": "401772855",
       "shortName": "LAR @ BAL",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_END_PERIOD",
       "state": "IN",
       "period": 1,
-      "clock": "1:29",
+      "clock": "0:00",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
