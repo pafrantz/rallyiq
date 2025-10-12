@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-12T22:10:43.079Z",
+  "ts": "2025-10-12T22:27:42.521Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "13:57",
+      "clock": "7:14",
       "start": "2025-10-12T20:05Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "LV",
           "displayName": "Las Vegas Raiders",
-          "score": 17
+          "score": 20
         },
         {
           "id": "10",
@@ -35,8 +35,8 @@
       "shortName": "CIN @ GB",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "5:36",
+      "period": 4,
+      "clock": "14:56",
       "start": "2025-10-12T20:25Z",
       "teams": [
         {
@@ -44,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 10
+          "score": 17
         },
         {
           "id": "4",
           "homeAway": "away",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:19",
+      "clock": "4:59",
       "start": "2025-10-12T20:25Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 16
+          "score": 19
         }
       ]
     },
