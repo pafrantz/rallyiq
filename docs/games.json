@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-12T21:29:13.863Z",
+  "ts": "2025-10-12T21:35:44.689Z",
   "games": [
     {
       "sport": "football",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "2:00",
+      "clock": "0:37",
       "start": "2025-10-12T20:25Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "5:10",
+      "clock": "2:05",
       "start": "2025-10-12T20:25Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 10
+          "score": 13
         }
       ]
     },
