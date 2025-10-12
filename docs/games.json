@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-12T21:46:24.002Z",
+  "ts": "2025-10-12T21:51:54.774Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:47",
+      "clock": "7:04",
       "start": "2025-10-12T20:05Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "LV",
           "displayName": "Las Vegas Raiders",
-          "score": 10
+          "score": 17
         },
         {
           "id": "10",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "0:39",
+      "clock": "0:02",
       "start": "2025-10-12T20:25Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 13
+          "score": 16
         }
       ]
     },
