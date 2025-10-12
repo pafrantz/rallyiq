@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-12T21:35:44.689Z",
+  "ts": "2025-10-12T21:41:02.231Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772859",
       "shortName": "TEN @ LV",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "12:55",
       "start": "2025-10-12T20:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "0:37",
+      "clock": "0:01",
       "start": "2025-10-12T20:25Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "2:05",
+      "clock": "0:55",
       "start": "2025-10-12T20:25Z",
       "teams": [
         {
