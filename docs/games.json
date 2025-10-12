@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-12T18:21:27.122Z",
+  "ts": "2025-10-12T18:39:40.834Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772856",
       "shortName": "ARI @ IND",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "1:20",
+      "clock": "0:00",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772750",
       "shortName": "LAC @ MIA",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "1:20",
+      "clock": "0:00",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 10
+          "score": 13
         },
         {
           "id": "24",
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772751",
       "shortName": "NE @ NO",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:58",
+      "clock": "0:00",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 14
+          "score": 22
         }
       ]
     },
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772748",
       "shortName": "CLE @ PIT",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "1:03",
+      "clock": "0:00",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "CLE",
           "displayName": "Cleveland Browns",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -116,8 +116,8 @@
       "shortName": "DAL @ CAR",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:30",
+      "period": 3,
+      "clock": "15:00",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "CAR",
           "displayName": "Carolina Panthers",
-          "score": 10
+          "score": 13
         },
         {
           "id": "6",
@@ -141,10 +141,10 @@
       "league": "nfl",
       "id": "401772857",
       "shortName": "SEA @ JAX",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "1:56",
+      "clock": "0:00",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -159,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 10
+          "score": 13
         }
       ]
     },
@@ -170,8 +170,8 @@
       "shortName": "LAR @ BAL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "1:46",
+      "period": 3,
+      "clock": "15:00",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
