@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-12T13:52:41.216Z",
+  "ts": "2025-10-12T13:58:09.196Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "6:18",
+      "clock": "4:50",
       "start": "2025-10-12T13:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "NYJ",
           "displayName": "New York Jets",
-          "score": 3
+          "score": 6
         },
         {
           "id": "7",
