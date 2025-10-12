@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-12T22:36:04.482Z",
+  "ts": "2025-10-12T22:41:57.281Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:00",
+      "clock": "3:03",
       "start": "2025-10-12T20:05Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 3
+          "score": 10
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:43",
+      "clock": "7:33",
       "start": "2025-10-12T20:25Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 17
+          "score": 24
         },
         {
           "id": "4",
@@ -62,8 +62,8 @@
       "shortName": "SF @ TB",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:22",
+      "period": 4,
+      "clock": "13:36",
       "start": "2025-10-12T20:25Z",
       "teams": [
         {
