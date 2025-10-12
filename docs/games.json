@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-12T19:11:33.770Z",
+  "ts": "2025-10-12T19:21:15.980Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "ARI @ IND",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:22",
+      "period": 4,
+      "clock": "14:23",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 23
+          "score": 24
         }
       ]
     },
@@ -35,8 +35,8 @@
       "shortName": "LAC @ MIA",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:07",
+      "period": 4,
+      "clock": "12:47",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 23
+          "score": 26
         }
       ]
     },
@@ -62,8 +62,8 @@
       "shortName": "NE @ NO",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "2:49",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "5:48",
+      "clock": "1:23",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "CLE",
           "displayName": "Cleveland Browns",
-          "score": 3
+          "score": 6
         }
       ]
     },
@@ -116,8 +116,8 @@
       "shortName": "DAL @ CAR",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "2:38",
+      "period": 4,
+      "clock": "13:04",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -143,8 +143,8 @@
       "shortName": "SEA @ JAX",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "2:47",
+      "period": 4,
+      "clock": "13:13",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -170,8 +170,8 @@
       "shortName": "LAR @ BAL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:10",
+      "period": 4,
+      "clock": "13:30",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
