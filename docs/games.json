@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-12T17:53:53.922Z",
+  "ts": "2025-10-12T17:59:17.090Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:09",
+      "clock": "9:47",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "9:50",
+      "clock": "8:39",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 6
+          "score": 9
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:04",
+      "clock": "9:42",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "NO",
           "displayName": "New Orleans Saints",
-          "score": 6
+          "score": 13
         },
         {
           "id": "17",
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "9:27",
+      "clock": "7:07",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "9:06",
+      "clock": "4:49",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "8:42",
+      "clock": "8:34",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -159,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 3
+          "score": 10
         }
       ]
     },
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "9:50",
+      "clock": "7:48",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
