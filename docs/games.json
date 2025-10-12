@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-12T13:58:09.196Z",
+  "ts": "2025-10-12T14:11:43.138Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "DEN VS NYJ",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "4:50",
+      "period": 2,
+      "clock": "14:21",
       "start": "2025-10-12T13:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 3
+          "score": 10
         }
       ]
     },
