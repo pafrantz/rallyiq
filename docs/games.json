@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-12T13:28:45.954Z",
+  "ts": "2025-10-12T13:36:47.775Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772634",
       "shortName": "DEN VS NYJ",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "13:22",
       "start": "2025-10-12T13:30Z",
       "teams": [
         {
