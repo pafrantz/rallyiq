@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-12T20:47:52.324Z",
+  "ts": "2025-10-12T20:53:05.212Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:04",
+      "clock": "7:46",
       "start": "2025-10-12T20:05Z",
       "teams": [
         {
@@ -35,8 +35,8 @@
       "shortName": "CIN @ GB",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "1:06",
+      "period": 2,
+      "clock": "14:15",
       "start": "2025-10-12T20:25Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 0
+          "score": 3
         },
         {
           "id": "4",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "7:54",
+      "clock": "6:53",
       "start": "2025-10-12T20:25Z",
       "teams": [
         {
