@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-12T16:34:03.149Z",
+  "ts": "2025-10-12T16:43:32.669Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772634",
-      "shortName": "DEN VS NYJ",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:39",
-      "start": "2025-10-12T13:30Z",
-      "teams": [
-        {
-          "id": "20",
-          "homeAway": "home",
-          "abbreviation": "NYJ",
-          "displayName": "New York Jets",
-          "score": 11
-        },
-        {
-          "id": "7",
-          "homeAway": "away",
-          "abbreviation": "DEN",
-          "displayName": "Denver Broncos",
-          "score": 13
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
