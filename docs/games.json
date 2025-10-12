@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-12T18:39:40.834Z",
+  "ts": "2025-10-12T18:47:50.650Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772856",
       "shortName": "ARI @ IND",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "12:44",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772750",
       "shortName": "LAC @ MIA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "10:54",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772751",
       "shortName": "NE @ NO",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "12:49",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772748",
       "shortName": "CLE @ PIT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:12",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "15:00",
+      "clock": "12:07",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "CAR",
           "displayName": "Carolina Panthers",
-          "score": 13
+          "score": 20
         },
         {
           "id": "6",
@@ -141,10 +141,10 @@
       "league": "nfl",
       "id": "401772857",
       "shortName": "SEA @ JAX",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "12:26",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "15:00",
+      "clock": "11:52",
       "start": "2025-10-12T17:00Z",
       "teams": [
         {
@@ -186,7 +186,7 @@
           "homeAway": "away",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 3
+          "score": 10
         }
       ]
     },
