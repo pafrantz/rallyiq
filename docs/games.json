@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-12T22:27:42.521Z",
+  "ts": "2025-10-12T22:36:04.482Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "7:14",
+      "clock": "4:00",
       "start": "2025-10-12T20:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "14:56",
+      "clock": "10:43",
       "start": "2025-10-12T20:25Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 7
+          "score": 10
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "4:59",
+      "clock": "1:22",
       "start": "2025-10-12T20:25Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "TB",
           "displayName": "Tampa Bay Buccaneers",
-          "score": 20
+          "score": 27
         },
         {
           "id": "25",
