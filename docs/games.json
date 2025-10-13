@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-12T23:58:46.159Z",
+  "ts": "2025-10-13T01:15:25.502Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772923",
       "shortName": "DET @ KC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 2,
+      "clock": "6:55",
       "start": "2025-10-13T00:20Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "KC",
           "displayName": "Kansas City Chiefs",
-          "score": 0
+          "score": 6
         },
         {
           "id": "8",
           "homeAway": "away",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 0
+          "score": 10
         }
       ]
     },
