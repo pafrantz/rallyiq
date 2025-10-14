@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-13T23:56:14.889Z",
+  "ts": "2025-10-14T00:47:51.753Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "BUF @ ATL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:26",
+      "period": 2,
+      "clock": "0:07",
       "start": "2025-10-13T23:15Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 14
+          "score": 21
         },
         {
           "id": "2",
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772717",
       "shortName": "CHI @ WSH",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "1:25",
       "start": "2025-10-14T00:15Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 0
+          "score": 6
         }
       ]
     },
