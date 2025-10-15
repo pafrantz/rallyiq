@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-15T21:59:47.215Z",
+  "ts": "2025-10-15T22:15:07.784Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732866",
       "shortName": "BRA @ PAL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "14'",
       "start": "2025-10-15T22:00Z",
       "teams": [
         {
