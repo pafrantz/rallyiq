@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-15T22:59:47.420Z",
+  "ts": "2025-10-15T23:15:40.288Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732866",
       "shortName": "BRA @ PAL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+9'",
+      "period": 2,
+      "clock": "47'",
       "start": "2025-10-15T22:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "27'",
+      "clock": "43'",
       "start": "2025-10-15T22:30Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "FLA",
           "displayName": "Flamengo",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "732867",
       "shortName": "INT @ MIR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "15'",
       "start": "2025-10-15T23:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "bra.1",
       "id": "732869",
       "shortName": "CEA @ SPO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "13'",
       "start": "2025-10-15T23:00Z",
       "teams": [
         {
