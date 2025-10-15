@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-15T22:54:18.808Z",
+  "ts": "2025-10-15T22:59:47.420Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732866",
       "shortName": "BRA @ PAL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+8'",
+      "clock": "45'+9'",
       "start": "2025-10-15T22:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "22'",
+      "clock": "27'",
       "start": "2025-10-15T22:30Z",
       "teams": [
         {
