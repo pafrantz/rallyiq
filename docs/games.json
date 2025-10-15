@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-15T23:45:16.841Z",
+  "ts": "2025-10-15T23:50:56.172Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "82'",
       "start": "2025-10-15T22:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "51'",
+      "clock": "59'",
       "start": "2025-10-15T22:30Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "bra.1",
       "id": "732869",
       "shortName": "CEA @ SPO",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "43'",
+      "clock": "45'+2'",
       "start": "2025-10-15T23:00Z",
       "teams": [
         {
