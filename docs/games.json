@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-16T22:57:42.417Z",
+  "ts": "2025-10-16T23:12:03.700Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732868",
       "shortName": "SAO @ GRE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "47'",
       "start": "2025-10-16T22:00Z",
       "teams": [
         {
