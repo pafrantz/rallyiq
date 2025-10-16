@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-16T22:35:50.542Z",
+  "ts": "2025-10-16T22:41:37.337Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "35'",
+      "clock": "39'",
       "start": "2025-10-16T22:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "GRE",
           "displayName": "Grêmio",
-          "score": 0
+          "score": 1
         },
         {
           "id": "2026",
