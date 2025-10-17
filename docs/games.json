@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-17T02:22:41.690Z",
+  "ts": "2025-10-17T03:12:25.838Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "PIT @ CIN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "5:03",
+      "period": 4,
+      "clock": "2:39",
       "start": "2025-10-17T00:15Z",
       "teams": [
         {
@@ -17,68 +17,14 @@
           "homeAway": "home",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 20
+          "score": 30
         },
         {
           "id": "23",
           "homeAway": "away",
           "abbreviation": "PIT",
           "displayName": "Pittsburgh Steelers",
-          "score": 10
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732862",
-      "shortName": "JUV @ FLU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2025-10-17T00:30Z",
-      "teams": [
-        {
-          "id": "3445",
-          "homeAway": "home",
-          "abbreviation": "FLU",
-          "displayName": "Fluminense",
-          "score": 0
-        },
-        {
-          "id": "6270",
-          "homeAway": "away",
-          "abbreviation": "JUV",
-          "displayName": "Juventude",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732864",
-      "shortName": "BAH @ VIT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "87'",
-      "start": "2025-10-17T00:30Z",
-      "teams": [
-        {
-          "id": "3457",
-          "homeAway": "home",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 2
-        },
-        {
-          "id": "9967",
-          "homeAway": "away",
-          "abbreviation": "BAH",
-          "displayName": "Bahia",
-          "score": 1
+          "score": 24
         }
       ]
     },
