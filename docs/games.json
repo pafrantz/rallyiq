@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-17T03:12:25.838Z",
+  "ts": "2025-10-17T03:40:30.660Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772941",
-      "shortName": "PIT @ CIN",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:39",
-      "start": "2025-10-17T00:15Z",
-      "teams": [
-        {
-          "id": "4",
-          "homeAway": "home",
-          "abbreviation": "CIN",
-          "displayName": "Cincinnati Bengals",
-          "score": 30
-        },
-        {
-          "id": "23",
-          "homeAway": "away",
-          "abbreviation": "PIT",
-          "displayName": "Pittsburgh Steelers",
-          "score": 24
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
