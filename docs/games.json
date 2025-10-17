@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-17T00:59:11.501Z",
+  "ts": "2025-10-17T02:22:41.690Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "PIT @ CIN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "13:00",
+      "period": 3,
+      "clock": "5:03",
       "start": "2025-10-17T00:15Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 0
+          "score": 20
         },
         {
           "id": "23",
           "homeAway": "away",
           "abbreviation": "PIT",
           "displayName": "Pittsburgh Steelers",
-          "score": 7
+          "score": 10
         }
       ]
     },
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732862",
       "shortName": "JUV @ FLU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "29'",
+      "period": 2,
+      "clock": "90'+4'",
       "start": "2025-10-17T00:30Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "732864",
       "shortName": "BAH @ VIT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "28'",
+      "period": 2,
+      "clock": "87'",
       "start": "2025-10-17T00:30Z",
       "teams": [
         {
@@ -71,14 +71,14 @@
           "homeAway": "home",
           "abbreviation": "VIT",
           "displayName": "Vitória",
-          "score": 1
+          "score": 2
         },
         {
           "id": "9967",
           "homeAway": "away",
           "abbreviation": "BAH",
           "displayName": "Bahia",
-          "score": 0
+          "score": 1
         }
       ]
     },
