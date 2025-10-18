@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-18T14:45:53.824Z",
+  "ts": "2025-10-18T14:51:30.132Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+5'",
       "start": "2025-10-18T14:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740667",
       "shortName": "LEE @ BUR",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "43'",
+      "clock": "45'+2'",
       "start": "2025-10-18T14:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740668",
       "shortName": "BOU @ CRY",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "44'",
+      "clock": "45'+2'",
       "start": "2025-10-18T14:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740671",
       "shortName": "EVE @ MNC",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+3'",
       "start": "2025-10-18T14:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "eng.1",
       "id": "740673",
       "shortName": "WOL @ SUN",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+5'",
       "start": "2025-10-18T14:00Z",
       "teams": [
         {
