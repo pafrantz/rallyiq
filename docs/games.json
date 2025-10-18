@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-18T12:28:12.458Z",
+  "ts": "2025-10-18T12:58:07.319Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740672",
       "shortName": "CHE @ NFO",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "70'",
       "start": "2025-10-18T11:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "CHE",
           "displayName": "Chelsea",
-          "score": 0
+          "score": 2
         }
       ]
     },
