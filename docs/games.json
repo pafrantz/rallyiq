@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-18T17:33:39.834Z",
+  "ts": "2025-10-18T17:39:42.392Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740669",
       "shortName": "ARS @ FUL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+7'",
+      "period": 2,
+      "clock": "47'",
       "start": "2025-10-18T16:30Z",
       "teams": [
         {
