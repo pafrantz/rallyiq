@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-18T11:58:34.512Z",
+  "ts": "2025-10-18T12:28:12.458Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740672",
       "shortName": "CHE @ NFO",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "28'",
+      "clock": "45'+2'",
       "start": "2025-10-18T11:30Z",
       "teams": [
         {
