@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-18T18:11:57.882Z",
+  "ts": "2025-10-18T18:35:20.991Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740669",
-      "shortName": "ARS @ FUL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "79'",
-      "start": "2025-10-18T16:30Z",
-      "teams": [
-        {
-          "id": "370",
-          "homeAway": "home",
-          "abbreviation": "FUL",
-          "displayName": "Fulham",
-          "score": 0
-        },
-        {
-          "id": "359",
-          "homeAway": "away",
-          "abbreviation": "ARS",
-          "displayName": "Arsenal",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
