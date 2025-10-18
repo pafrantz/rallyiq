@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-18T13:19:03.749Z",
+  "ts": "2025-10-18T13:32:36.161Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740672",
-      "shortName": "CHE @ NFO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'",
-      "start": "2025-10-18T11:30Z",
-      "teams": [
-        {
-          "id": "393",
-          "homeAway": "home",
-          "abbreviation": "NFO",
-          "displayName": "Nottingham Forest",
-          "score": 0
-        },
-        {
-          "id": "363",
-          "homeAway": "away",
-          "abbreviation": "CHE",
-          "displayName": "Chelsea",
-          "score": 3
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
