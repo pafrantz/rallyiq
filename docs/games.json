@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-19T20:49:35.108Z",
+  "ts": "2025-10-19T20:54:46.626Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "84'",
+      "clock": "89'",
       "start": "2025-10-19T19:00Z",
       "teams": [
         {
@@ -35,8 +35,8 @@
       "shortName": "NYG @ DEN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "1:00",
+      "period": 2,
+      "clock": "14:45",
       "start": "2025-10-19T20:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "15:00",
+      "clock": "13:49",
       "start": "2025-10-19T20:05Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 12
+          "score": 13
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "7:38",
+      "clock": "7:06",
       "start": "2025-10-19T20:25Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "2:04",
+      "clock": "1:18",
       "start": "2025-10-19T20:25Z",
       "teams": [
         {
