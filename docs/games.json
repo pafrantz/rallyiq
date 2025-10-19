@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-19T18:40:22.650Z",
+  "ts": "2025-10-19T18:48:59.953Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772861",
       "shortName": "NO @ CHI",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:54",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772754",
       "shortName": "MIA @ CLE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:48",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "CLE",
           "displayName": "Cleveland Browns",
-          "score": 17
+          "score": 24
         },
         {
           "id": "15",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:44",
+      "clock": "7:31",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 17
+          "score": 24
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:37",
+      "clock": "7:02",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "KC",
           "displayName": "Kansas City Chiefs",
-          "score": 21
+          "score": 28
         },
         {
           "id": "13",
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "15:00",
+      "clock": "9:02",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "MIN",
           "displayName": "Minnesota Vikings",
-          "score": 6
+          "score": 9
         },
         {
           "id": "21",
@@ -141,10 +141,10 @@
       "league": "nfl",
       "id": "401772860",
       "shortName": "CAR @ NYJ",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "13:37",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
