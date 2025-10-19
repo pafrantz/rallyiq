@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-19T23:08:08.261Z",
+  "ts": "2025-10-19T23:24:11.428Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "3:45",
+      "clock": "1:14",
       "start": "2025-10-19T20:05Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 23
+          "score": 30
         },
         {
           "id": "19",
@@ -31,39 +31,12 @@
     {
       "sport": "football",
       "league": "nfl",
-      "id": "401772756",
-      "shortName": "IND @ LAC",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "3:11",
-      "start": "2025-10-19T20:05Z",
-      "teams": [
-        {
-          "id": "24",
-          "homeAway": "home",
-          "abbreviation": "LAC",
-          "displayName": "Los Angeles Chargers",
-          "score": 24
-        },
-        {
-          "id": "11",
-          "homeAway": "away",
-          "abbreviation": "IND",
-          "displayName": "Indianapolis Colts",
-          "score": 38
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
       "id": "401772864",
       "shortName": "WSH @ DAL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "15:00",
+      "clock": "7:53",
       "start": "2025-10-19T20:25Z",
       "teams": [
         {
@@ -71,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 41
+          "score": 44
         },
         {
           "id": "28",
@@ -90,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:39",
+      "clock": "1:50",
       "start": "2025-10-19T20:25Z",
       "teams": [
         {
@@ -105,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 20
+          "score": 27
         }
       ]
     },
@@ -117,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "76'",
+      "clock": "90'+2'",
       "start": "2025-10-19T21:30Z",
       "teams": [
         {
@@ -132,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "BOT",
           "displayName": "Botafogo",
-          "score": 1
+          "score": 2
         }
       ]
     },
@@ -144,7 +117,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "75'",
+      "clock": "90'+1'",
       "start": "2025-10-19T21:30Z",
       "teams": [
         {
@@ -171,7 +144,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "75'",
+      "clock": "90'",
       "start": "2025-10-19T21:30Z",
       "teams": [
         {
