@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-19T20:10:29.227Z",
+  "ts": "2025-10-19T20:29:03.088Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "45'",
+      "clock": "62'",
       "start": "2025-10-19T19:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "12:55",
+      "clock": "8:25",
       "start": "2025-10-19T20:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "12:51",
+      "clock": "7:35",
       "start": "2025-10-19T20:05Z",
       "teams": [
         {
@@ -71,14 +71,14 @@
           "homeAway": "home",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 0
+          "score": 3
         },
         {
           "id": "11",
           "homeAway": "away",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 0
+          "score": 6
         }
       ]
     },
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772864",
       "shortName": "WSH @ DAL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "13:51",
       "start": "2025-10-19T20:25Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401772863",
       "shortName": "GB @ ARI",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "12:55",
       "start": "2025-10-19T20:25Z",
       "teams": [
         {
