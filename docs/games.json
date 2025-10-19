@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-19T23:37:33.048Z",
+  "ts": "2025-10-19T23:43:07.615Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772757",
-      "shortName": "NYG @ DEN",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:02",
-      "start": "2025-10-19T20:05Z",
-      "teams": [
-        {
-          "id": "7",
-          "homeAway": "home",
-          "abbreviation": "DEN",
-          "displayName": "Denver Broncos",
-          "score": 30
-        },
-        {
-          "id": "19",
-          "homeAway": "away",
-          "abbreviation": "NYG",
-          "displayName": "New York Giants",
-          "score": 32
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "4'",
+      "clock": "11'",
       "start": "2025-10-19T23:30Z",
       "teams": [
         {
@@ -44,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BAH",
           "displayName": "Bahia",
-          "score": 1
+          "score": 2
         },
         {
           "id": "6273",
