@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-19T17:38:25.965Z",
+  "ts": "2025-10-19T17:43:38.947Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "NO @ CHI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:27",
+      "period": 2,
+      "clock": "14:06",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 3
+          "score": 6
         },
         {
           "id": "18",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:14",
+      "clock": "11:28",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772755",
       "shortName": "NE @ TEN",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:00",
+      "period": 2,
+      "clock": "12:16",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:28",
+      "clock": "11:09",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401772862",
       "shortName": "PHI @ MIN",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:00",
+      "period": 2,
+      "clock": "13:26",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 7
+          "score": 14
         }
       ]
     },
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "15:00",
+      "clock": "13:16",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
