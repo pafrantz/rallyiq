@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-19T01:37:03.798Z",
+  "ts": "2025-10-19T03:05:53.998Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732875",
-      "shortName": "FOR @ CRU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "77'",
-      "start": "2025-10-19T00:00Z",
-      "teams": [
-        {
-          "id": "2022",
-          "homeAway": "home",
-          "abbreviation": "CRU",
-          "displayName": "Cruzeiro",
-          "score": 1
-        },
-        {
-          "id": "6272",
-          "homeAway": "away",
-          "abbreviation": "FOR",
-          "displayName": "Fortaleza",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
