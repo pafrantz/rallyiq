@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-19T20:37:50.619Z",
+  "ts": "2025-10-19T20:43:57.121Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "72'",
+      "clock": "78'",
       "start": "2025-10-19T19:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "6:54",
+      "clock": "2:49",
       "start": "2025-10-19T20:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "2:27",
+      "clock": "0:41",
       "start": "2025-10-19T20:05Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "11:35",
+      "clock": "11:23",
       "start": "2025-10-19T20:25Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "WSH",
           "displayName": "Washington Commanders",
-          "score": 0
+          "score": 2
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "7:34",
+      "clock": "5:48",
       "start": "2025-10-19T20:25Z",
       "teams": [
         {
