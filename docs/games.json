@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-19T23:30:36.008Z",
+  "ts": "2025-10-19T23:37:33.048Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "0:48",
+      "clock": "0:02",
       "start": "2025-10-19T20:05Z",
       "teams": [
         {
@@ -24,61 +24,7 @@
           "homeAway": "away",
           "abbreviation": "NYG",
           "displayName": "New York Giants",
-          "score": 26
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772864",
-      "shortName": "WSH @ DAL",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "3:04",
-      "start": "2025-10-19T20:25Z",
-      "teams": [
-        {
-          "id": "6",
-          "homeAway": "home",
-          "abbreviation": "DAL",
-          "displayName": "Dallas Cowboys",
-          "score": 44
-        },
-        {
-          "id": "28",
-          "homeAway": "away",
-          "abbreviation": "WSH",
-          "displayName": "Washington Commanders",
-          "score": 22
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772863",
-      "shortName": "GB @ ARI",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:19",
-      "start": "2025-10-19T20:25Z",
-      "teams": [
-        {
-          "id": "22",
-          "homeAway": "home",
-          "abbreviation": "ARI",
-          "displayName": "Arizona Cardinals",
-          "score": 23
-        },
-        {
-          "id": "9",
-          "homeAway": "away",
-          "abbreviation": "GB",
-          "displayName": "Green Bay Packers",
-          "score": 27
+          "score": 32
         }
       ]
     },
@@ -87,10 +33,10 @@
       "league": "bra.1",
       "id": "732878",
       "shortName": "GRE @ BAH",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "4'",
       "start": "2025-10-19T23:30Z",
       "teams": [
         {
@@ -98,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "BAH",
           "displayName": "Bahia",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6273",
