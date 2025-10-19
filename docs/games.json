@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-19T21:26:19.901Z",
+  "ts": "2025-10-19T21:32:16.649Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "2:00",
+      "clock": "1:14",
       "start": "2025-10-19T20:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "2:28",
+      "clock": "1:22",
       "start": "2025-10-19T20:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:10",
+      "clock": "10:56",
       "start": "2025-10-19T20:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "5:02",
+      "clock": "3:04",
       "start": "2025-10-19T20:25Z",
       "teams": [
         {
@@ -114,9 +114,9 @@
       "league": "bra.1",
       "id": "732877",
       "shortName": "BOT @ CEA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2025-10-19T21:30Z",
       "teams": [
@@ -141,9 +141,9 @@
       "league": "bra.1",
       "id": "732873",
       "shortName": "SPO @ INT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2025-10-19T21:30Z",
       "teams": [
@@ -168,9 +168,9 @@
       "league": "bra.1",
       "id": "732871",
       "shortName": "SAO @ MIR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2025-10-19T21:30Z",
       "teams": [
