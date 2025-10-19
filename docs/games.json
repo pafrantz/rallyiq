@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-19T20:54:46.626Z",
+  "ts": "2025-10-19T20:59:57.652Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "89'",
+      "clock": "90'+4'",
       "start": "2025-10-19T19:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "PAL",
           "displayName": "Palmeiras",
-          "score": 1
+          "score": 2
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:45",
+      "clock": "10:59",
       "start": "2025-10-19T20:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:49",
+      "clock": "13:30",
       "start": "2025-10-19T20:05Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "7:06",
+      "clock": "6:14",
       "start": "2025-10-19T20:25Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 7
+          "score": 10
         },
         {
           "id": "28",
@@ -116,8 +116,8 @@
       "shortName": "GB @ ARI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "1:18",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-10-19T20:25Z",
       "teams": [
         {
