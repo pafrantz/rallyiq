@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-19T17:07:53.161Z",
+  "ts": "2025-10-19T17:23:43.078Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "90'+2'",
       "start": "2025-10-19T15:30Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "LIV",
           "displayName": "Liverpool",
-          "score": 0
+          "score": 1
         },
         {
           "id": "360",
           "homeAway": "away",
           "abbreviation": "MAN",
           "displayName": "Manchester United",
-          "score": 1
+          "score": 2
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "13:35",
+      "clock": "6:17",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 0
+          "score": 3
         },
         {
           "id": "18",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "12:37",
+      "clock": "3:43",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "12:24",
+      "clock": "5:11",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -98,14 +98,14 @@
           "homeAway": "home",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 0
+          "score": 3
         },
         {
           "id": "17",
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "12:35",
+      "clock": "5:58",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "KC",
           "displayName": "Kansas City Chiefs",
-          "score": 0
+          "score": 7
         },
         {
           "id": "13",
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "11:30",
+      "clock": "2:04",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -152,14 +152,14 @@
           "homeAway": "home",
           "abbreviation": "MIN",
           "displayName": "Minnesota Vikings",
-          "score": 0
+          "score": 3
         },
         {
           "id": "21",
           "homeAway": "away",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "12:16",
+      "clock": "4:54",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -186,7 +186,7 @@
           "homeAway": "away",
           "abbreviation": "CAR",
           "displayName": "Carolina Panthers",
-          "score": 0
+          "score": 3
         }
       ]
     },
