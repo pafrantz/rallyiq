@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-19T12:55:38.397Z",
+  "ts": "2025-10-19T13:15:04.665Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740674",
       "shortName": "AVL @ TOT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "15'",
       "start": "2025-10-19T13:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "TOT",
           "displayName": "Tottenham Hotspur",
-          "score": 0
+          "score": 1
         },
         {
           "id": "362",
