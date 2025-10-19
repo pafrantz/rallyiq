@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-19T17:54:03.606Z",
+  "ts": "2025-10-19T17:59:10.469Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:06",
+      "clock": "9:05",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 6
+          "score": 13
         },
         {
           "id": "18",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "9:01",
+      "clock": "6:08",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "CLE",
           "displayName": "Cleveland Browns",
-          "score": 10
+          "score": 16
         },
         {
           "id": "15",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "5:34",
+      "clock": "4:07",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "6:32",
+      "clock": "4:19",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "10:35",
+      "clock": "8:17",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "8:59",
+      "clock": "8:49",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
