@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-19T22:15:59.910Z",
+  "ts": "2025-10-19T22:31:01.715Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "NYG @ DEN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "6:04",
+      "period": 4,
+      "clock": "14:14",
       "start": "2025-10-19T20:05Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "NYG",
           "displayName": "New York Giants",
-          "score": 13
+          "score": 19
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "8:42",
+      "clock": "1:38",
       "start": "2025-10-19T20:05Z",
       "teams": [
         {
@@ -44,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 10
+          "score": 17
         },
         {
           "id": "11",
           "homeAway": "away",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 31
+          "score": 38
         }
       ]
     },
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772864",
       "shortName": "WSH @ DAL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "11:47",
       "start": "2025-10-19T20:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:48",
+      "clock": "4:17",
       "start": "2025-10-19T20:25Z",
       "teams": [
         {
@@ -98,14 +98,14 @@
           "homeAway": "home",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 13
+          "score": 20
         },
         {
           "id": "9",
           "homeAway": "away",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 6
+          "score": 13
         }
       ]
     },
@@ -114,10 +114,10 @@
       "league": "bra.1",
       "id": "732877",
       "shortName": "BOT @ CEA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "44'",
+      "clock": "45'+5'",
       "start": "2025-10-19T21:30Z",
       "teams": [
         {
@@ -141,10 +141,10 @@
       "league": "bra.1",
       "id": "732873",
       "shortName": "SPO @ INT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "44'",
+      "clock": "45'+4'",
       "start": "2025-10-19T21:30Z",
       "teams": [
         {
@@ -168,10 +168,10 @@
       "league": "bra.1",
       "id": "732871",
       "shortName": "SAO @ MIR",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+6'",
       "start": "2025-10-19T21:30Z",
       "teams": [
         {
