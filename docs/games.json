@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-19T19:40:01.535Z",
+  "ts": "2025-10-19T19:45:21.987Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "7:55",
+      "clock": "5:50",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 23
+          "score": 26
         },
         {
           "id": "18",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "8:16",
+      "clock": "5:21",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "3:08",
+      "clock": "0:38",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -85,39 +85,12 @@
     {
       "sport": "football",
       "league": "nfl",
-      "id": "401772753",
-      "shortName": "LV @ KC",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:00",
-      "start": "2025-10-19T17:00Z",
-      "teams": [
-        {
-          "id": "12",
-          "homeAway": "home",
-          "abbreviation": "KC",
-          "displayName": "Kansas City Chiefs",
-          "score": 31
-        },
-        {
-          "id": "13",
-          "homeAway": "away",
-          "abbreviation": "LV",
-          "displayName": "Las Vegas Raiders",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
       "id": "401772862",
       "shortName": "PHI @ MIN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:35",
+      "clock": "4:35",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -144,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "8:53",
+      "clock": "6:35",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -171,7 +144,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "38'",
+      "clock": "43'",
       "start": "2025-10-19T19:00Z",
       "teams": [
         {
@@ -179,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "FLA",
           "displayName": "Flamengo",
-          "score": 1
+          "score": 2
         },
         {
           "id": "2029",
