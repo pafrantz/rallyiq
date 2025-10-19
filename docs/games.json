@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-19T13:55:39.282Z",
+  "ts": "2025-10-19T14:07:23.764Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740674",
       "shortName": "AVL @ TOT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "45'",
       "start": "2025-10-19T13:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "5:00",
+      "clock": "1:15",
       "start": "2025-10-19T13:30Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 7
+          "score": 14
         }
       ]
     },
