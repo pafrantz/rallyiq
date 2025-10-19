@@ -1,150 +1,15 @@
 {
-  "ts": "2025-10-19T19:56:11.054Z",
+  "ts": "2025-10-19T20:10:29.227Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772861",
-      "shortName": "NO @ CHI",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:00",
-      "start": "2025-10-19T17:00Z",
-      "teams": [
-        {
-          "id": "3",
-          "homeAway": "home",
-          "abbreviation": "CHI",
-          "displayName": "Chicago Bears",
-          "score": 26
-        },
-        {
-          "id": "18",
-          "homeAway": "away",
-          "abbreviation": "NO",
-          "displayName": "New Orleans Saints",
-          "score": 14
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772754",
-      "shortName": "MIA @ CLE",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:00",
-      "start": "2025-10-19T17:00Z",
-      "teams": [
-        {
-          "id": "5",
-          "homeAway": "home",
-          "abbreviation": "CLE",
-          "displayName": "Cleveland Browns",
-          "score": 31
-        },
-        {
-          "id": "15",
-          "homeAway": "away",
-          "abbreviation": "MIA",
-          "displayName": "Miami Dolphins",
-          "score": 6
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772755",
-      "shortName": "NE @ TEN",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 3,
-      "clock": "2:31",
-      "start": "2025-10-19T17:00Z",
-      "teams": [
-        {
-          "id": "10",
-          "homeAway": "home",
-          "abbreviation": "TEN",
-          "displayName": "Tennessee Titans",
-          "score": 13
-        },
-        {
-          "id": "17",
-          "homeAway": "away",
-          "abbreviation": "NE",
-          "displayName": "New England Patriots",
-          "score": 31
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772862",
-      "shortName": "PHI @ MIN",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:00",
-      "start": "2025-10-19T17:00Z",
-      "teams": [
-        {
-          "id": "16",
-          "homeAway": "home",
-          "abbreviation": "MIN",
-          "displayName": "Minnesota Vikings",
-          "score": 19
-        },
-        {
-          "id": "21",
-          "homeAway": "away",
-          "abbreviation": "PHI",
-          "displayName": "Philadelphia Eagles",
-          "score": 28
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772860",
-      "shortName": "CAR @ NYJ",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "4:28",
-      "start": "2025-10-19T17:00Z",
-      "teams": [
-        {
-          "id": "20",
-          "homeAway": "home",
-          "abbreviation": "NYJ",
-          "displayName": "New York Jets",
-          "score": 6
-        },
-        {
-          "id": "29",
-          "homeAway": "away",
-          "abbreviation": "CAR",
-          "displayName": "Carolina Panthers",
-          "score": 13
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732879",
       "shortName": "PAL @ FLA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+8'",
+      "period": 2,
+      "clock": "45'",
       "start": "2025-10-19T19:00Z",
       "teams": [
         {
@@ -168,10 +33,10 @@
       "league": "nfl",
       "id": "401772757",
       "shortName": "NYG @ DEN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "12:55",
       "start": "2025-10-19T20:05Z",
       "teams": [
         {
@@ -195,10 +60,10 @@
       "league": "nfl",
       "id": "401772756",
       "shortName": "IND @ LAC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "12:51",
       "start": "2025-10-19T20:05Z",
       "teams": [
         {
