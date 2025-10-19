@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-19T22:55:50.703Z",
+  "ts": "2025-10-19T23:08:08.261Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "5:13",
+      "clock": "3:45",
       "start": "2025-10-19T20:05Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 14
+          "score": 23
         },
         {
           "id": "19",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:28",
+      "clock": "3:11",
       "start": "2025-10-19T20:05Z",
       "teams": [
         {
@@ -62,8 +62,8 @@
       "shortName": "WSH @ DAL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "2:42",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-10-19T20:25Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "WSH",
           "displayName": "Washington Commanders",
-          "score": 15
+          "score": 22
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:42",
+      "clock": "6:39",
       "start": "2025-10-19T20:25Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 20
+          "score": 23
         },
         {
           "id": "9",
@@ -117,7 +117,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "63'",
+      "clock": "76'",
       "start": "2025-10-19T21:30Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "63'",
+      "clock": "75'",
       "start": "2025-10-19T21:30Z",
       "teams": [
         {
@@ -152,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "INT",
           "displayName": "Internacional",
-          "score": 1
+          "score": 2
         },
         {
           "id": "7635",
@@ -171,7 +171,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "61'",
+      "clock": "75'",
       "start": "2025-10-19T21:30Z",
       "teams": [
         {
@@ -179,7 +179,7 @@
           "homeAway": "home",
           "abbreviation": "MIR",
           "displayName": "Mirassol",
-          "score": 2
+          "score": 3
         },
         {
           "id": "2026",
