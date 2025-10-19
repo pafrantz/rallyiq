@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-19T16:56:08.518Z",
+  "ts": "2025-10-19T17:07:53.161Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "66'",
+      "clock": "77'",
       "start": "2025-10-19T15:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772861",
       "shortName": "NO @ CHI",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "13:35",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772754",
       "shortName": "MIA @ CLE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "12:37",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772755",
       "shortName": "NE @ TEN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "12:24",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401772753",
       "shortName": "LV @ KC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "12:35",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -141,10 +141,10 @@
       "league": "nfl",
       "id": "401772862",
       "shortName": "PHI @ MIN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "11:30",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -168,10 +168,10 @@
       "league": "nfl",
       "id": "401772860",
       "shortName": "CAR @ NYJ",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "12:16",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
