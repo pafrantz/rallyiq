@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-19T19:27:31.461Z",
+  "ts": "2025-10-19T19:34:33.903Z",
   "games": [
     {
       "sport": "football",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:59",
+      "clock": "9:58",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "CLE",
           "displayName": "Cleveland Browns",
-          "score": 24
+          "score": 31
         },
         {
           "id": "15",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:38",
+      "clock": "4:28",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "7:08",
+      "clock": "4:47",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:06",
+      "clock": "7:30",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "15:00",
+      "clock": "10:06",
       "start": "2025-10-19T17:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "26'",
+      "clock": "34'",
       "start": "2025-10-19T19:00Z",
       "teams": [
         {
