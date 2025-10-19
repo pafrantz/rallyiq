@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-19T14:51:53.054Z",
+  "ts": "2025-10-19T14:57:05.701Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "89'",
+      "clock": "90'+5'",
       "start": "2025-10-19T13:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772635",
       "shortName": "LAR VS JAX",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "1:44",
+      "clock": "0:00",
       "start": "2025-10-19T13:30Z",
       "teams": [
         {
