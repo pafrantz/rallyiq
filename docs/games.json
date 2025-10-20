@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-20T20:55:59.373Z",
+  "ts": "2025-10-20T21:08:51.834Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740675",
-      "shortName": "BRE @ WHU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "89'",
-      "start": "2025-10-20T19:00Z",
-      "teams": [
-        {
-          "id": "371",
-          "homeAway": "home",
-          "abbreviation": "WHU",
-          "displayName": "West Ham United",
-          "score": 0
-        },
-        {
-          "id": "337",
-          "homeAway": "away",
-          "abbreviation": "BRE",
-          "displayName": "Brentford",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
