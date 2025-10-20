@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-20T23:37:35.464Z",
+  "ts": "2025-10-20T23:42:43.970Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "81'",
       "start": "2025-10-20T22:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732874",
       "shortName": "FLU @ VAS",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "48'",
       "start": "2025-10-20T22:30Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772816",
       "shortName": "TB @ DET",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:00",
+      "period": 2,
+      "clock": "14:13",
       "start": "2025-10-20T23:00Z",
       "teams": [
         {
