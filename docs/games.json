@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-20T23:09:05.158Z",
+  "ts": "2025-10-20T23:24:40.489Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "49'",
+      "clock": "64'",
       "start": "2025-10-20T22:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732874",
       "shortName": "FLU @ VAS",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "38'",
+      "clock": "45'+3'",
       "start": "2025-10-20T22:30Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "11:59",
+      "clock": "7:42",
       "start": "2025-10-20T23:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 6
+          "score": 7
         },
         {
           "id": "27",
