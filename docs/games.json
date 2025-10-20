@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-20T22:45:36.828Z",
+  "ts": "2025-10-20T22:51:11.976Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732872",
       "shortName": "BRA @ JUV",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+5'",
       "start": "2025-10-20T22:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "15'",
+      "clock": "20'",
       "start": "2025-10-20T22:30Z",
       "teams": [
         {
