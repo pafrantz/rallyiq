@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-20T20:13:45.412Z",
+  "ts": "2025-10-20T20:32:58.479Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740675",
       "shortName": "BRE @ WHU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "25'",
+      "period": 2,
+      "clock": "66'",
       "start": "2025-10-20T19:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BRE",
           "displayName": "Brentford",
-          "score": 0
+          "score": 1
         }
       ]
     },
