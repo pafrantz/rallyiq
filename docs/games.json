@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-20T22:56:18.900Z",
+  "ts": "2025-10-20T23:09:05.158Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732872",
       "shortName": "BRA @ JUV",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "49'",
       "start": "2025-10-20T22:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "26'",
+      "clock": "38'",
       "start": "2025-10-20T22:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "VAS",
           "displayName": "Vasco da Gama",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3445",
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772816",
       "shortName": "TB @ DET",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "11:59",
       "start": "2025-10-20T23:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 0
+          "score": 6
         },
         {
           "id": "27",
