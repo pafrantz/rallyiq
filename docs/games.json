@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-20T01:14:41.661Z",
+  "ts": "2025-10-20T02:52:20.834Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732878",
-      "shortName": "GRE @ BAH",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "81'",
-      "start": "2025-10-19T23:30Z",
-      "teams": [
-        {
-          "id": "9967",
-          "homeAway": "home",
-          "abbreviation": "BAH",
-          "displayName": "Bahia",
-          "score": 3
-        },
-        {
-          "id": "6273",
-          "homeAway": "away",
-          "abbreviation": "GRE",
-          "displayName": "Grêmio",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -35,8 +8,8 @@
       "shortName": "ATL @ SF",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "6:02",
+      "period": 4,
+      "clock": "7:10",
       "start": "2025-10-20T00:20Z",
       "teams": [
         {
@@ -44,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 0
+          "score": 13
         },
         {
           "id": "1",
           "homeAway": "away",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 3
+          "score": 10
         }
       ]
     },
