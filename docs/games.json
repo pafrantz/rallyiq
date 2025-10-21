@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-21T03:56:27.156Z",
+  "ts": "2025-10-21T04:12:52.816Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:34",
+      "clock": "7:24",
       "start": "2025-10-21T02:00Z",
       "teams": [
         {
@@ -24,7 +24,61 @@
           "homeAway": "away",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 6
+          "score": 12
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732728",
+      "shortName": "INT @ BAH",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-10-22T22:00Z",
+      "teams": [
+        {
+          "id": "9967",
+          "homeAway": "home",
+          "abbreviation": "BAH",
+          "displayName": "Bahia",
+          "score": 0
+        },
+        {
+          "id": "1936",
+          "homeAway": "away",
+          "abbreviation": "INT",
+          "displayName": "Internacional",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740682",
+      "shortName": "WHU @ LEE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-10-24T19:00Z",
+      "teams": [
+        {
+          "id": "357",
+          "homeAway": "home",
+          "abbreviation": "LEE",
+          "displayName": "Leeds United",
+          "score": 0
+        },
+        {
+          "id": "371",
+          "homeAway": "away",
+          "abbreviation": "WHU",
+          "displayName": "West Ham United",
+          "score": 0
         }
       ]
     }
