@@ -1,69 +1,15 @@
 {
-  "ts": "2025-10-21T01:20:01.766Z",
+  "ts": "2025-10-21T02:44:27.543Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772816",
-      "shortName": "TB @ DET",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 3,
-      "clock": "2:51",
-      "start": "2025-10-20T23:00Z",
-      "teams": [
-        {
-          "id": "8",
-          "homeAway": "home",
-          "abbreviation": "DET",
-          "displayName": "Detroit Lions",
-          "score": 21
-        },
-        {
-          "id": "27",
-          "homeAway": "away",
-          "abbreviation": "TB",
-          "displayName": "Tampa Bay Buccaneers",
-          "score": 9
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732870",
-      "shortName": "VIT @ SAN",
-      "status": "STATUS_FIRST_HALF",
-      "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
-      "start": "2025-10-21T00:30Z",
-      "teams": [
-        {
-          "id": "2674",
-          "homeAway": "home",
-          "abbreviation": "SAN",
-          "displayName": "Santos",
-          "score": 0
-        },
-        {
-          "id": "3457",
-          "homeAway": "away",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772826",
       "shortName": "HOU @ SEA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 2,
+      "clock": "13:30",
       "start": "2025-10-21T02:00Z",
       "teams": [
         {
@@ -71,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 0
+          "score": 14
         },
         {
           "id": "34",
