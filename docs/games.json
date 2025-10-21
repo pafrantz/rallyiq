@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-21T03:49:08.900Z",
+  "ts": "2025-10-21T03:56:27.156Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "15:00",
+      "clock": "10:34",
       "start": "2025-10-21T02:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 14
+          "score": 17
         },
         {
           "id": "34",
