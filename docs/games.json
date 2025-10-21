@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-20T23:59:27.278Z",
+  "ts": "2025-10-21T01:20:01.766Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732874",
-      "shortName": "FLU @ VAS",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "65'",
-      "start": "2025-10-20T22:30Z",
-      "teams": [
-        {
-          "id": "3454",
-          "homeAway": "home",
-          "abbreviation": "VAS",
-          "displayName": "Vasco da Gama",
-          "score": 2
-        },
-        {
-          "id": "3445",
-          "homeAway": "away",
-          "abbreviation": "FLU",
-          "displayName": "Fluminense",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -35,8 +8,8 @@
       "shortName": "TB @ DET",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "7:35",
+      "period": 3,
+      "clock": "2:51",
       "start": "2025-10-20T23:00Z",
       "teams": [
         {
@@ -44,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 7
+          "score": 21
         },
         {
           "id": "27",
           "homeAway": "away",
           "abbreviation": "TB",
           "displayName": "Tampa Bay Buccaneers",
-          "score": 0
+          "score": 9
         }
       ]
     },
@@ -60,10 +33,10 @@
       "league": "bra.1",
       "id": "732870",
       "shortName": "VIT @ SAN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "45'+4'",
       "start": "2025-10-21T00:30Z",
       "teams": [
         {
@@ -78,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "VIT",
           "displayName": "Vitória",
-          "score": 0
+          "score": 1
         }
       ]
     },
