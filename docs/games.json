@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-21T02:44:27.543Z",
+  "ts": "2025-10-21T03:29:12.629Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:30",
+      "clock": "0:29",
       "start": "2025-10-21T02:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 0
+          "score": 3
         }
       ]
     }
