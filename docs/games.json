@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-22T22:49:38.027Z",
+  "ts": "2025-10-22T22:55:11.188Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "45'+2'",
+      "clock": "45'+7'",
       "start": "2025-10-22T22:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BAH",
           "displayName": "Bahia",
-          "score": 0
+          "score": 1
         },
         {
           "id": "1936",
