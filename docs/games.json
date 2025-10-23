@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-22T23:56:29.059Z",
+  "ts": "2025-10-23T00:51:32.682Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732728",
-      "shortName": "INT @ BAH",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "88'",
-      "start": "2025-10-22T22:00Z",
-      "teams": [
-        {
-          "id": "9967",
-          "homeAway": "home",
-          "abbreviation": "BAH",
-          "displayName": "Bahia",
-          "score": 1
-        },
-        {
-          "id": "1936",
-          "homeAway": "away",
-          "abbreviation": "INT",
-          "displayName": "Internacional",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
