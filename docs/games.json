@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-24T19:59:01.496Z",
+  "ts": "2025-10-24T20:18:12.117Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740682",
       "shortName": "WHU @ LEE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+11'",
+      "period": 2,
+      "clock": "47'",
       "start": "2025-10-24T19:00Z",
       "teams": [
         {
