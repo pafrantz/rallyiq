@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-24T21:00:12.491Z",
+  "ts": "2025-10-24T21:07:59.599Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740682",
-      "shortName": "WHU @ LEE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "89'",
-      "start": "2025-10-24T19:00Z",
-      "teams": [
-        {
-          "id": "357",
-          "homeAway": "home",
-          "abbreviation": "LEE",
-          "displayName": "Leeds United",
-          "score": 2
-        },
-        {
-          "id": "371",
-          "homeAway": "away",
-          "abbreviation": "WHU",
-          "displayName": "West Ham United",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
