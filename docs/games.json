@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-24T02:37:38.127Z",
+  "ts": "2025-10-24T03:22:55.958Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772942",
-      "shortName": "MIN @ LAC",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "14:59",
-      "start": "2025-10-24T00:15Z",
-      "teams": [
-        {
-          "id": "24",
-          "homeAway": "home",
-          "abbreviation": "LAC",
-          "displayName": "Los Angeles Chargers",
-          "score": 24
-        },
-        {
-          "id": "16",
-          "homeAway": "away",
-          "abbreviation": "MIN",
-          "displayName": "Minnesota Vikings",
-          "score": 10
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
