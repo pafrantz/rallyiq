@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-24T18:59:38.638Z",
+  "ts": "2025-10-24T19:14:10.638Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740682",
       "shortName": "WHU @ LEE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "13'",
       "start": "2025-10-24T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "LEE",
           "displayName": "Leeds United",
-          "score": 0
+          "score": 1
         },
         {
           "id": "371",
