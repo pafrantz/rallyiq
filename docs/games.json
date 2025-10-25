@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-25T14:59:06.214Z",
+  "ts": "2025-10-25T15:07:14.558Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740685",
       "shortName": "SUN @ CHE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "45'",
       "start": "2025-10-25T14:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740680",
       "shortName": "FUL @ NEW",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "49'",
       "start": "2025-10-25T14:00Z",
       "teams": [
         {
