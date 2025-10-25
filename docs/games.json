@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-25T13:57:34.531Z",
+  "ts": "2025-10-25T14:04:34.712Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740685",
       "shortName": "SUN @ CHE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "4'",
       "start": "2025-10-25T14:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CHE",
           "displayName": "Chelsea",
-          "score": 0
+          "score": 1
         },
         {
           "id": "366",
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740680",
       "shortName": "FUL @ NEW",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "4'",
       "start": "2025-10-25T14:00Z",
       "teams": [
         {
