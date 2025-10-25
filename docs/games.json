@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-25T23:22:03.640Z",
+  "ts": "2025-10-25T23:29:08.095Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732881",
-      "shortName": "MIR @ SPO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "89'",
-      "start": "2025-10-25T21:30Z",
-      "teams": [
-        {
-          "id": "7635",
-          "homeAway": "home",
-          "abbreviation": "SPO",
-          "displayName": "Sport",
-          "score": 1
-        },
-        {
-          "id": "9169",
-          "homeAway": "away",
-          "abbreviation": "MIR",
-          "displayName": "Mirassol",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
