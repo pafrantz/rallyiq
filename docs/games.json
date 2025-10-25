@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-25T18:19:23.461Z",
+  "ts": "2025-10-25T18:33:10.972Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740683",
-      "shortName": "BHA @ MAN",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+1'",
-      "start": "2025-10-25T16:30Z",
-      "teams": [
-        {
-          "id": "360",
-          "homeAway": "home",
-          "abbreviation": "MAN",
-          "displayName": "Manchester United",
-          "score": 3
-        },
-        {
-          "id": "331",
-          "homeAway": "away",
-          "abbreviation": "BHA",
-          "displayName": "Brighton & Hove Albion",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
