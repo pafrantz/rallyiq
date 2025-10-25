@@ -1,60 +1,6 @@
 {
-  "ts": "2025-10-25T20:56:03.014Z",
+  "ts": "2025-10-25T21:02:20.810Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732888",
-      "shortName": "CEA @ CAM",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+3'",
-      "start": "2025-10-25T19:00Z",
-      "teams": [
-        {
-          "id": "7632",
-          "homeAway": "home",
-          "abbreviation": "CAM",
-          "displayName": "Atlético-MG",
-          "score": 1
-        },
-        {
-          "id": "9969",
-          "homeAway": "away",
-          "abbreviation": "CEA",
-          "displayName": "Ceará",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732889",
-      "shortName": "COR @ VIT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2025-10-25T19:00Z",
-      "teams": [
-        {
-          "id": "3457",
-          "homeAway": "home",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 0
-        },
-        {
-          "id": "874",
-          "homeAway": "away",
-          "abbreviation": "COR",
-          "displayName": "Corinthians",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
@@ -63,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "87'",
+      "clock": "90'+1'",
       "start": "2025-10-25T19:00Z",
       "teams": [
         {
@@ -78,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "LIV",
           "displayName": "Liverpool",
-          "score": 1
+          "score": 2
         }
       ]
     },
@@ -90,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "25'",
+      "clock": "32'",
       "start": "2025-10-25T20:30Z",
       "teams": [
         {
