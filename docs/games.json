@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-25T15:48:48.718Z",
+  "ts": "2025-10-25T15:54:23.787Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "88'",
+      "clock": "90'+3'",
       "start": "2025-10-25T14:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "SUN",
           "displayName": "Sunderland",
-          "score": 1
+          "score": 2
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "90'",
+      "clock": "90'+6'",
       "start": "2025-10-25T14:00Z",
       "teams": [
         {
