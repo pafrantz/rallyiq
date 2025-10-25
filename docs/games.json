@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-25T16:30:32.828Z",
+  "ts": "2025-10-25T16:39:55.604Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740683",
       "shortName": "BHA @ MAN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "9'",
       "start": "2025-10-25T16:30Z",
       "teams": [
         {
