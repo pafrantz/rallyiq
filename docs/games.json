@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-25T19:40:30.687Z",
+  "ts": "2025-10-25T19:46:04.297Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "40'",
+      "clock": "44'",
       "start": "2025-10-25T19:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "39'",
+      "clock": "44'",
       "start": "2025-10-25T19:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "39'",
+      "clock": "45'",
       "start": "2025-10-25T19:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "BRE",
           "displayName": "Brentford",
-          "score": 1
+          "score": 2
         },
         {
           "id": "364",
