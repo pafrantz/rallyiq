@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-25T14:13:04.620Z",
+  "ts": "2025-10-25T14:23:06.314Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "12'",
+      "clock": "22'",
       "start": "2025-10-25T14:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "SUN",
           "displayName": "Sunderland",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "13'",
+      "clock": "22'",
       "start": "2025-10-25T14:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "NEW",
           "displayName": "Newcastle United",
-          "score": 0
+          "score": 1
         },
         {
           "id": "370",
