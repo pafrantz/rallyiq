@@ -1,60 +1,6 @@
 {
-  "ts": "2025-10-25T15:54:23.787Z",
+  "ts": "2025-10-25T15:59:42.283Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740685",
-      "shortName": "SUN @ CHE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+3'",
-      "start": "2025-10-25T14:00Z",
-      "teams": [
-        {
-          "id": "363",
-          "homeAway": "home",
-          "abbreviation": "CHE",
-          "displayName": "Chelsea",
-          "score": 1
-        },
-        {
-          "id": "366",
-          "homeAway": "away",
-          "abbreviation": "SUN",
-          "displayName": "Sunderland",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740680",
-      "shortName": "FUL @ NEW",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+6'",
-      "start": "2025-10-25T14:00Z",
-      "teams": [
-        {
-          "id": "361",
-          "homeAway": "home",
-          "abbreviation": "NEW",
-          "displayName": "Newcastle United",
-          "score": 2
-        },
-        {
-          "id": "370",
-          "homeAway": "away",
-          "abbreviation": "FUL",
-          "displayName": "Fulham",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
