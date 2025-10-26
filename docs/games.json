@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-26T23:23:05.875Z",
+  "ts": "2025-10-26T23:30:20.216Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "3:59",
+      "clock": "1:18",
       "start": "2025-10-26T20:25Z",
       "teams": [
         {
@@ -25,60 +25,6 @@
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
           "score": 24
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772761",
-      "shortName": "TEN @ IND",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:38",
-      "start": "2025-10-26T20:25Z",
-      "teams": [
-        {
-          "id": "11",
-          "homeAway": "home",
-          "abbreviation": "IND",
-          "displayName": "Indianapolis Colts",
-          "score": 38
-        },
-        {
-          "id": "10",
-          "homeAway": "away",
-          "abbreviation": "TEN",
-          "displayName": "Tennessee Titans",
-          "score": 14
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732882",
-      "shortName": "VAS @ BRA",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2025-10-26T21:30Z",
-      "teams": [
-        {
-          "id": "6079",
-          "homeAway": "home",
-          "abbreviation": "BRA",
-          "displayName": "Red Bull Bragantino",
-          "score": 0
-        },
-        {
-          "id": "3454",
-          "homeAway": "away",
-          "abbreviation": "VAS",
-          "displayName": "Vasco da Gama",
-          "score": 3
         }
       ]
     },
