@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-26T17:05:22.651Z",
+  "ts": "2025-10-26T17:13:53.530Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "35'",
+      "clock": "43'",
       "start": "2025-10-26T16:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "14:48",
+      "clock": "9:45",
       "start": "2025-10-26T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "13:46",
+      "clock": "10:14",
       "start": "2025-10-26T17:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 0
+          "score": 3
         },
         {
           "id": "20",
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "13:40",
+      "clock": "8:45",
       "start": "2025-10-26T17:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 0
+          "score": 3
         },
         {
           "id": "5",
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "15:00",
+      "clock": "12:14",
       "start": "2025-10-26T17:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 0
+          "score": 7
         },
         {
           "id": "19",
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "14:19",
+      "clock": "7:59",
       "start": "2025-10-26T17:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "14:22",
+      "clock": "6:50",
       "start": "2025-10-26T17:00Z",
       "teams": [
         {
@@ -186,7 +186,7 @@
           "homeAway": "away",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -198,7 +198,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "14:54",
+      "clock": "8:57",
       "start": "2025-10-26T17:00Z",
       "teams": [
         {
