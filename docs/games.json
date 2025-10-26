@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-26T14:57:31.674Z",
+  "ts": "2025-10-26T15:04:56.468Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740678",
       "shortName": "NFO @ BOU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "45'",
       "start": "2025-10-26T14:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740676",
       "shortName": "CRY @ ARS",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "46'",
       "start": "2025-10-26T14:00Z",
       "teams": [
         {
