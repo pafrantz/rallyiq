@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-26T22:57:05.780Z",
+  "ts": "2025-10-26T23:03:53.458Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "1:15",
+      "clock": "0:10",
       "start": "2025-10-26T20:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:43",
+      "clock": "10:15",
       "start": "2025-10-26T20:25Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:44",
+      "clock": "6:54",
       "start": "2025-10-26T20:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "65'",
+      "clock": "69'",
       "start": "2025-10-26T21:30Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "VAS",
           "displayName": "Vasco da Gama",
-          "score": 1
+          "score": 2
         }
       ]
     },
