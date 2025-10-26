@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-26T21:58:03.113Z",
+  "ts": "2025-10-26T22:05:14.774Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:51",
+      "clock": "4:02",
       "start": "2025-10-26T20:05Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "TB",
           "displayName": "Tampa Bay Buccaneers",
-          "score": 14
+          "score": 17
         }
       ]
     },
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772761",
       "shortName": "TEN @ IND",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "11:22",
       "start": "2025-10-26T20:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "26'",
+      "clock": "34'",
       "start": "2025-10-26T21:30Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "VAS",
           "displayName": "Vasco da Gama",
-          "score": 0
+          "score": 1
         }
       ]
     },
