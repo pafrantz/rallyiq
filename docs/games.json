@@ -1,42 +1,15 @@
 {
-  "ts": "2025-10-26T00:19:23.700Z",
+  "ts": "2025-10-26T00:41:20.030Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732885",
-      "shortName": "FLA @ FOR",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "83'",
-      "start": "2025-10-25T22:30Z",
-      "teams": [
-        {
-          "id": "6272",
-          "homeAway": "home",
-          "abbreviation": "FOR",
-          "displayName": "Fortaleza",
-          "score": 1
-        },
-        {
-          "id": "819",
-          "homeAway": "away",
-          "abbreviation": "FLA",
-          "displayName": "Flamengo",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732880",
       "shortName": "BAH @ SAO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "7'",
       "start": "2025-10-26T00:30Z",
       "teams": [
         {
