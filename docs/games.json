@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-26T13:55:18.642Z",
+  "ts": "2025-10-26T14:01:02.643Z",
   "games": [
     {
       "sport": "soccer",
@@ -33,9 +33,9 @@
       "league": "eng.1",
       "id": "740676",
       "shortName": "CRY @ ARS",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2025-10-26T14:00Z",
       "teams": [
@@ -60,9 +60,9 @@
       "league": "eng.1",
       "id": "740677",
       "shortName": "MNC @ AVL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2025-10-26T14:00Z",
       "teams": [
@@ -87,9 +87,9 @@
       "league": "eng.1",
       "id": "740684",
       "shortName": "BUR @ WOL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2025-10-26T14:00Z",
       "teams": [
