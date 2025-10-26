@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-26T15:47:56.553Z",
+  "ts": "2025-10-26T15:53:28.761Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740678",
-      "shortName": "NFO @ BOU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "89'",
-      "start": "2025-10-26T14:00Z",
-      "teams": [
-        {
-          "id": "349",
-          "homeAway": "home",
-          "abbreviation": "BOU",
-          "displayName": "AFC Bournemouth",
-          "score": 2
-        },
-        {
-          "id": "393",
-          "homeAway": "away",
-          "abbreviation": "NFO",
-          "displayName": "Nottingham Forest",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "90'",
+      "clock": "90'+5'",
       "start": "2025-10-26T14:00Z",
       "teams": [
         {
@@ -63,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "87'",
+      "clock": "90'+2'",
       "start": "2025-10-26T14:00Z",
       "teams": [
         {
@@ -90,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "86'",
+      "clock": "90'+1'",
       "start": "2025-10-26T14:00Z",
       "teams": [
         {
