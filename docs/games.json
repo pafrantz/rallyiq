@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-26T17:23:24.963Z",
+  "ts": "2025-10-26T17:31:00.893Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740681",
       "shortName": "TOT @ EVE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+8'",
+      "clock": "45'+9'",
       "start": "2025-10-26T16:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "4:07",
+      "clock": "2:33",
       "start": "2025-10-26T17:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "5:35",
+      "clock": "2:54",
       "start": "2025-10-26T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "5:10",
+      "clock": "1:38",
       "start": "2025-10-26T17:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "6:10",
+      "clock": "2:56",
       "start": "2025-10-26T17:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "NYG",
           "displayName": "New York Giants",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "4:23",
+      "clock": "0:51",
       "start": "2025-10-26T17:00Z",
       "teams": [
         {
@@ -168,10 +168,10 @@
       "league": "nfl",
       "id": "401772759",
       "shortName": "CHI @ BAL",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_END_PERIOD",
       "state": "IN",
       "period": 1,
-      "clock": "4:00",
+      "clock": "0:00",
       "start": "2025-10-26T17:00Z",
       "teams": [
         {
@@ -186,7 +186,7 @@
           "homeAway": "away",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 3
+          "score": 6
         }
       ]
     },
@@ -198,7 +198,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "5:00",
+      "clock": "2:56",
       "start": "2025-10-26T17:00Z",
       "teams": [
         {
