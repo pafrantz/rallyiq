@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-26T22:24:56.573Z",
+  "ts": "2025-10-26T22:33:18.250Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "14:03",
+      "clock": "11:44",
       "start": "2025-10-26T20:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "8:10",
+      "clock": "6:02",
       "start": "2025-10-26T20:25Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 27
+          "score": 30
         },
         {
           "id": "6",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:55",
+      "clock": "5:12",
       "start": "2025-10-26T20:25Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 24
+          "score": 31
         },
         {
           "id": "10",
