@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-26T21:06:32.969Z",
+  "ts": "2025-10-26T21:15:22.841Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "1:58",
+      "clock": "0:42",
       "start": "2025-10-26T20:05Z",
       "teams": [
         {
@@ -35,8 +35,8 @@
       "shortName": "DAL @ DEN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:28",
+      "period": 2,
+      "clock": "13:44",
       "start": "2025-10-26T20:25Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:14",
+      "clock": "7:44",
       "start": "2025-10-26T20:25Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 10
+          "score": 17
         },
         {
           "id": "10",
