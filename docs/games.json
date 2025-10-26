@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-26T23:03:53.458Z",
+  "ts": "2025-10-26T23:12:31.255Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772869",
-      "shortName": "TB @ NO",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:10",
-      "start": "2025-10-26T20:05Z",
-      "teams": [
-        {
-          "id": "18",
-          "homeAway": "home",
-          "abbreviation": "NO",
-          "displayName": "New Orleans Saints",
-          "score": 3
-        },
-        {
-          "id": "27",
-          "homeAway": "away",
-          "abbreviation": "TB",
-          "displayName": "Tampa Bay Buccaneers",
-          "score": 23
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -36,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:15",
+      "clock": "7:14",
       "start": "2025-10-26T20:25Z",
       "teams": [
         {
@@ -44,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 37
+          "score": 44
         },
         {
           "id": "6",
@@ -63,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:54",
+      "clock": "3:25",
       "start": "2025-10-26T20:25Z",
       "teams": [
         {
@@ -90,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "69'",
+      "clock": "82'",
       "start": "2025-10-26T21:30Z",
       "teams": [
         {
