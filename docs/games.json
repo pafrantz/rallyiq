@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-26T20:29:19.720Z",
+  "ts": "2025-10-26T20:36:43.713Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "62'",
+      "clock": "70'",
       "start": "2025-10-26T19:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "SAN",
           "displayName": "Santos",
-          "score": 1
+          "score": 2
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "65'",
+      "clock": "70'",
       "start": "2025-10-26T19:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "GRE",
           "displayName": "Grêmio",
-          "score": 2
+          "score": 3
         },
         {
           "id": "6270",
@@ -62,8 +62,8 @@
       "shortName": "TB @ NO",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "2:42",
+      "period": 2,
+      "clock": "14:12",
       "start": "2025-10-26T20:05Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "13:35",
+      "clock": "10:39",
       "start": "2025-10-26T20:25Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "13:27",
+      "clock": "9:43",
       "start": "2025-10-26T20:25Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 0
+          "score": 3
         },
         {
           "id": "10",
