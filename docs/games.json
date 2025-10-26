@@ -1,42 +1,15 @@
 {
-  "ts": "2025-10-26T23:30:20.216Z",
+  "ts": "2025-10-26T23:36:26.531Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772762",
-      "shortName": "DAL @ DEN",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:18",
-      "start": "2025-10-26T20:25Z",
-      "teams": [
-        {
-          "id": "7",
-          "homeAway": "home",
-          "abbreviation": "DEN",
-          "displayName": "Denver Broncos",
-          "score": 44
-        },
-        {
-          "id": "6",
-          "homeAway": "away",
-          "abbreviation": "DAL",
-          "displayName": "Dallas Cowboys",
-          "score": 24
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732883",
       "shortName": "CRU @ PAL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "3'",
       "start": "2025-10-26T23:30Z",
       "teams": [
         {
