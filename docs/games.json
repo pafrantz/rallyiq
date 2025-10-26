@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-26T14:46:41.830Z",
+  "ts": "2025-10-26T14:52:15.319Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740678",
       "shortName": "NFO @ BOU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+3'",
       "start": "2025-10-26T14:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740676",
       "shortName": "CRY @ ARS",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+1'",
+      "clock": "45'+3'",
       "start": "2025-10-26T14:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740677",
       "shortName": "MNC @ AVL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+1'",
+      "clock": "45'+4'",
       "start": "2025-10-26T14:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740684",
       "shortName": "BUR @ WOL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "43'",
+      "clock": "45'+6'",
       "start": "2025-10-26T14:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "WOL",
           "displayName": "Wolverhampton Wanderers",
-          "score": 1
+          "score": 2
         },
         {
           "id": "379",
