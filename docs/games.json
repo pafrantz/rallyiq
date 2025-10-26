@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-26T20:53:56.968Z",
+  "ts": "2025-10-26T20:58:58.435Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "86'",
+      "clock": "90'+2'",
       "start": "2025-10-26T19:00Z",
       "teams": [
         {
@@ -29,33 +29,6 @@
       ]
     },
     {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732884",
-      "shortName": "JUV @ GRE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "89'",
-      "start": "2025-10-26T19:00Z",
-      "teams": [
-        {
-          "id": "6273",
-          "homeAway": "home",
-          "abbreviation": "GRE",
-          "displayName": "Grêmio",
-          "score": 3
-        },
-        {
-          "id": "6270",
-          "homeAway": "away",
-          "abbreviation": "JUV",
-          "displayName": "Juventude",
-          "score": 1
-        }
-      ]
-    },
-    {
       "sport": "football",
       "league": "nfl",
       "id": "401772869",
@@ -63,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "6:41",
+      "clock": "3:58",
       "start": "2025-10-26T20:05Z",
       "teams": [
         {
@@ -90,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "5:43",
+      "clock": "3:04",
       "start": "2025-10-26T20:25Z",
       "teams": [
         {
@@ -98,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 7
+          "score": 14
         },
         {
           "id": "6",
@@ -116,8 +89,8 @@
       "shortName": "TEN @ IND",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:09",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-10-26T20:25Z",
       "teams": [
         {
