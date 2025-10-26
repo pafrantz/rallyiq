@@ -1,30 +1,30 @@
 {
-  "ts": "2025-10-26T19:53:27.557Z",
+  "ts": "2025-10-26T19:58:56.634Z",
   "games": [
     {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772760",
-      "shortName": "MIA @ ATL",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:01",
-      "start": "2025-10-26T17:00Z",
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740681",
+      "shortName": "TOT @ EVE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-10-26T16:30Z",
       "teams": [
         {
-          "id": "1",
+          "id": "368",
           "homeAway": "home",
-          "abbreviation": "ATL",
-          "displayName": "Atlanta Falcons",
-          "score": 10
+          "abbreviation": "EVE",
+          "displayName": "Everton",
+          "score": 0
         },
         {
-          "id": "15",
+          "id": "367",
           "homeAway": "away",
-          "abbreviation": "MIA",
-          "displayName": "Miami Dolphins",
-          "score": 34
+          "abbreviation": "TOT",
+          "displayName": "Tottenham Hotspur",
+          "score": 0
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "5:49",
+      "clock": "2:00",
       "start": "2025-10-26T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:05",
+      "clock": "2:00",
       "start": "2025-10-26T17:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:44",
+      "clock": "2:00",
       "start": "2025-10-26T17:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:00",
+      "clock": "0:22",
       "start": "2025-10-26T17:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "3:02",
+      "clock": "2:00",
       "start": "2025-10-26T17:00Z",
       "teams": [
         {
@@ -152,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 23
+          "score": 30
         },
         {
           "id": "3",
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "1:56",
+      "clock": "0:53",
       "start": "2025-10-26T17:00Z",
       "teams": [
         {
@@ -195,10 +195,10 @@
       "league": "bra.1",
       "id": "732887",
       "shortName": "SAN @ BOT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+5'",
+      "clock": "45'+7'",
       "start": "2025-10-26T19:00Z",
       "teams": [
         {
@@ -222,10 +222,10 @@
       "league": "bra.1",
       "id": "732884",
       "shortName": "JUV @ GRE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+7'",
+      "clock": "45'+8'",
       "start": "2025-10-26T19:00Z",
       "teams": [
         {
