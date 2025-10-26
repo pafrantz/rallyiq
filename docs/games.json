@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-26T22:51:14.212Z",
+  "ts": "2025-10-26T22:57:05.780Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:29",
+      "clock": "1:15",
       "start": "2025-10-26T20:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "13:38",
+      "clock": "12:43",
       "start": "2025-10-26T20:25Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 30
+          "score": 37
         },
         {
           "id": "6",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "14:22",
+      "clock": "11:44",
       "start": "2025-10-26T20:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "59'",
+      "clock": "65'",
       "start": "2025-10-26T21:30Z",
       "teams": [
         {
