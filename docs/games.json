@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-26T00:41:20.030Z",
+  "ts": "2025-10-26T01:08:50.261Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "7'",
+      "clock": "31'",
       "start": "2025-10-26T00:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "SAO",
           "displayName": "São Paulo",
-          "score": 0
+          "score": 1
         },
         {
           "id": "9967",
