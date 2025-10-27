@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-27T00:50:51.979Z",
+  "ts": "2025-10-27T01:22:38.985Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "56'",
+      "clock": "87'",
       "start": "2025-10-26T23:30Z",
       "teams": [
         {
@@ -35,8 +35,8 @@
       "shortName": "GB @ PIT",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "3:20",
+      "period": 2,
+      "clock": "5:52",
       "start": "2025-10-27T00:20Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "PIT",
           "displayName": "Pittsburgh Steelers",
-          "score": 3
+          "score": 9
         },
         {
           "id": "9",
