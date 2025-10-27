@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-27T03:59:20.138Z",
+  "ts": "2025-10-27T04:15:03.370Z",
   "games": [
     {
       "sport": "football",
@@ -24,6 +24,33 @@
           "homeAway": "away",
           "abbreviation": "WSH",
           "displayName": "Washington Commanders",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732702",
+      "shortName": "CEA @ FLU",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-10-29T22:00Z",
+      "teams": [
+        {
+          "id": "3445",
+          "homeAway": "home",
+          "abbreviation": "FLU",
+          "displayName": "Fluminense",
+          "score": 0
+        },
+        {
+          "id": "9969",
+          "homeAway": "away",
+          "abbreviation": "CEA",
+          "displayName": "Ceará",
           "score": 0
         }
       ]
