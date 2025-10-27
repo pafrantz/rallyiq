@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-27T00:28:43.930Z",
+  "ts": "2025-10-27T00:50:51.979Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732883",
       "shortName": "CRU @ PAL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "56'",
       "start": "2025-10-26T23:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "12:41",
+      "clock": "3:20",
       "start": "2025-10-27T00:20Z",
       "teams": [
         {
@@ -44,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "PIT",
           "displayName": "Pittsburgh Steelers",
-          "score": 0
+          "score": 3
         },
         {
           "id": "9",
           "homeAway": "away",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 0
+          "score": 7
         }
       ]
     },
