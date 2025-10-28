@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-28T02:43:13.773Z",
+  "ts": "2025-10-28T03:09:36.602Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772817",
-      "shortName": "WSH @ KC",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "7:48",
-      "start": "2025-10-28T00:15Z",
-      "teams": [
-        {
-          "id": "12",
-          "homeAway": "home",
-          "abbreviation": "KC",
-          "displayName": "Kansas City Chiefs",
-          "score": 28
-        },
-        {
-          "id": "28",
-          "homeAway": "away",
-          "abbreviation": "WSH",
-          "displayName": "Washington Commanders",
-          "score": 7
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
