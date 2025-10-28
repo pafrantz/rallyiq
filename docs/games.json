@@ -1,5 +1,5 @@
 {
-  "ts": "2025-10-28T01:26:40.064Z",
+  "ts": "2025-10-28T02:07:35.755Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "WSH @ KC",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:58",
+      "period": 3,
+      "clock": "6:42",
       "start": "2025-10-28T00:15Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "KC",
           "displayName": "Kansas City Chiefs",
-          "score": 7
+          "score": 14
         },
         {
           "id": "28",
