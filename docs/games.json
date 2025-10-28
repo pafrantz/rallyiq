@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-27T23:58:48.786Z",
+  "ts": "2025-10-28T00:31:03.574Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772817",
       "shortName": "WSH @ KC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "5:47",
       "start": "2025-10-28T00:15Z",
       "teams": [
         {
