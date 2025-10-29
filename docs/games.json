@@ -1,15 +1,15 @@
 {
-  "ts": "2025-10-29T23:00:53.892Z",
+  "ts": "2025-10-29T23:09:05.092Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732702",
       "shortName": "CEA @ FLU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "46'",
       "start": "2025-10-29T22:00Z",
       "teams": [
         {
