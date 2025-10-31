@@ -1,33 +1,6 @@
 {
-  "ts": "2025-10-31T02:49:05.245Z",
+  "ts": "2025-10-31T03:16:39.962Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772943",
-      "shortName": "BAL @ MIA",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "12:24",
-      "start": "2025-10-31T00:15Z",
-      "teams": [
-        {
-          "id": "15",
-          "homeAway": "home",
-          "abbreviation": "MIA",
-          "displayName": "Miami Dolphins",
-          "score": 6
-        },
-        {
-          "id": "33",
-          "homeAway": "away",
-          "abbreviation": "BAL",
-          "displayName": "Baltimore Ravens",
-          "score": 28
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
