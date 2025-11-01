@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-01T21:07:05.882Z",
+  "ts": "2025-11-01T21:15:54.608Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740694",
       "shortName": "AVL @ LIV",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "53'",
       "start": "2025-11-01T20:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "7'",
+      "clock": "15'",
       "start": "2025-11-01T21:00Z",
       "teams": [
         {
