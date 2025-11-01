@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-01T19:57:13.923Z",
+  "ts": "2025-11-01T20:04:39.897Z",
   "games": [
     {
       "sport": "soccer",
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740694",
       "shortName": "AVL @ LIV",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "2'",
       "start": "2025-11-01T20:00Z",
       "teams": [
         {
