@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-01T16:57:38.129Z",
+  "ts": "2025-11-01T17:04:48.407Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740689",
-      "shortName": "WOL @ FUL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+5'",
-      "start": "2025-11-01T15:00Z",
-      "teams": [
-        {
-          "id": "370",
-          "homeAway": "home",
-          "abbreviation": "FUL",
-          "displayName": "Fulham",
-          "score": 3
-        },
-        {
-          "id": "380",
-          "homeAway": "away",
-          "abbreviation": "WOL",
-          "displayName": "Wolverhampton Wanderers",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
