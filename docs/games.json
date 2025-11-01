@@ -1,14 +1,14 @@
 {
-  "ts": "2025-11-01T14:56:40.903Z",
+  "ts": "2025-11-01T15:03:29.202Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740686",
       "shortName": "LEE @ BHA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2025-11-01T15:00Z",
       "teams": [
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740687",
       "shortName": "ARS @ BUR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "1'",
       "start": "2025-11-01T15:00Z",
       "teams": [
         {
@@ -60,9 +60,9 @@
       "league": "eng.1",
       "id": "740688",
       "shortName": "BRE @ CRY",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2025-11-01T15:00Z",
       "teams": [
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740689",
       "shortName": "WOL @ FUL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "1'",
       "start": "2025-11-01T15:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "eng.1",
       "id": "740692",
       "shortName": "MAN @ NFO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "2'",
       "start": "2025-11-01T15:00Z",
       "teams": [
         {
