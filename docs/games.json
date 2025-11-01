@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-01T15:11:41.642Z",
+  "ts": "2025-11-01T15:21:40.225Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "9'",
+      "clock": "19'",
       "start": "2025-11-01T15:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BHA",
           "displayName": "Brighton & Hove Albion",
-          "score": 0
+          "score": 1
         },
         {
           "id": "357",
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "9'",
+      "clock": "19'",
       "start": "2025-11-01T15:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "ARS",
           "displayName": "Arsenal",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "9'",
+      "clock": "19'",
       "start": "2025-11-01T15:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "9'",
+      "clock": "20'",
       "start": "2025-11-01T15:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "10'",
+      "clock": "21'",
       "start": "2025-11-01T15:00Z",
       "teams": [
         {
