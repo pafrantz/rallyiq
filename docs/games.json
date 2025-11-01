@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-01T15:28:54.982Z",
+  "ts": "2025-11-01T15:34:51.289Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "22'",
+      "clock": "32'",
       "start": "2025-11-01T15:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "27'",
+      "clock": "32'",
       "start": "2025-11-01T15:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "26'",
+      "clock": "33'",
       "start": "2025-11-01T15:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "CRY",
           "displayName": "Crystal Palace",
-          "score": 0
+          "score": 1
         },
         {
           "id": "337",
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "28'",
+      "clock": "32'",
       "start": "2025-11-01T15:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "28'",
+      "clock": "33'",
       "start": "2025-11-01T15:00Z",
       "teams": [
         {
