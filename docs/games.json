@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-01T21:56:46.952Z",
+  "ts": "2025-11-01T22:03:27.409Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732894",
       "shortName": "BOT @ MIR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+1'",
+      "period": 2,
+      "clock": "45'",
       "start": "2025-11-01T21:00Z",
       "teams": [
         {
