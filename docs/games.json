@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-02T19:37:42.632Z",
+  "ts": "2025-11-02T19:42:53.044Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772765",
       "shortName": "CHI @ CIN",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:37",
+      "clock": "0:00",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "13:51",
+      "clock": "12:06",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401772763",
       "shortName": "ATL @ NE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:54",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "13:36",
+      "clock": "10:03",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -195,10 +195,10 @@
       "league": "nfl",
       "id": "401772870",
       "shortName": "DEN @ HOU",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:37",
+      "clock": "0:00",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -206,7 +206,7 @@
           "homeAway": "home",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 9
+          "score": 12
         },
         {
           "id": "7",
@@ -225,7 +225,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "35'",
+      "clock": "39'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
@@ -252,7 +252,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "37'",
+      "clock": "41'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
@@ -260,7 +260,7 @@
           "homeAway": "home",
           "abbreviation": "CEA",
           "displayName": "Ceará",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3445",
@@ -279,7 +279,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "36'",
+      "clock": "41'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
