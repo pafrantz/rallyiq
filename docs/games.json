@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-02T21:34:16.733Z",
+  "ts": "2025-11-02T21:40:03.038Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772765",
-      "shortName": "CHI @ CIN",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:17",
-      "start": "2025-11-02T18:00Z",
-      "teams": [
-        {
-          "id": "4",
-          "homeAway": "home",
-          "abbreviation": "CIN",
-          "displayName": "Cincinnati Bengals",
-          "score": 42
-        },
-        {
-          "id": "3",
-          "homeAway": "away",
-          "abbreviation": "CHI",
-          "displayName": "Chicago Bears",
-          "score": 47
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -35,8 +8,8 @@
       "shortName": "JAX @ LV",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "1:04",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-11-02T21:05Z",
       "teams": [
         {
@@ -62,8 +35,8 @@
       "shortName": "NO @ LAR",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "2:26",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-11-02T21:05Z",
       "teams": [
         {
@@ -90,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "8:45",
+      "clock": "6:59",
       "start": "2025-11-02T21:25Z",
       "teams": [
         {
@@ -98,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 0
+          "score": 7
         },
         {
           "id": "12",
@@ -117,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "4'",
+      "clock": "10'",
       "start": "2025-11-02T21:30Z",
       "teams": [
         {
@@ -144,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "0'",
+      "clock": "5'",
       "start": "2025-11-02T21:30Z",
       "teams": [
         {
