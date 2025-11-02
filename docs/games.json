@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-02T18:33:30.585Z",
+  "ts": "2025-11-02T18:41:54.370Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "CHI @ CIN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "4:11",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -35,8 +35,8 @@
       "shortName": "MIN @ DET",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "4:08",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:44",
+      "clock": "9:33",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "3:52",
+      "clock": "2:14",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 7
+          "score": 14
         },
         {
           "id": "24",
@@ -116,8 +116,8 @@
       "shortName": "ATL @ NE",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:24",
+      "period": 2,
+      "clock": "12:53",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -143,8 +143,8 @@
       "shortName": "SF @ NYG",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:20",
+      "period": 2,
+      "clock": "13:08",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -159,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 7
+          "score": 14
         }
       ]
     },
@@ -170,8 +170,8 @@
       "shortName": "IND @ PIT",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "2:04",
+      "period": 2,
+      "clock": "14:08",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -198,7 +198,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "15:00",
+      "clock": "13:49",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
