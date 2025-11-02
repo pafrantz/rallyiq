@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-02T19:59:13.188Z",
+  "ts": "2025-11-02T20:07:56.066Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:06",
+      "clock": "8:11",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 17
+          "score": 24
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:24",
+      "clock": "9:13",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:53",
+      "clock": "2:19",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:12",
+      "clock": "3:54",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:21",
+      "clock": "4:37",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:36",
+      "clock": "2:30",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "7:03",
+      "clock": "3:09",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -198,7 +198,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:23",
+      "clock": "9:27",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -276,10 +276,10 @@
       "league": "bra.1",
       "id": "732899",
       "shortName": "GRE @ COR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "45'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
