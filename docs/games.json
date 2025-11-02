@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-02T18:58:27.486Z",
+  "ts": "2025-11-02T19:05:41.710Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "10:07",
+      "clock": "7:34",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "9:39",
+      "clock": "5:12",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "5:04",
+      "clock": "2:22",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "CAR",
           "displayName": "Carolina Panthers",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "12:04",
+      "clock": "8:37",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 10
+          "score": 17
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "6:03",
+      "clock": "4:57",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 14
+          "score": 21
         },
         {
           "id": "1",
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "4:22",
+      "clock": "2:00",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "7:00",
+      "clock": "5:21",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -179,7 +179,7 @@
           "homeAway": "home",
           "abbreviation": "PIT",
           "displayName": "Pittsburgh Steelers",
-          "score": 0
+          "score": 7
         },
         {
           "id": "11",
@@ -198,7 +198,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "8:14",
+      "clock": "6:34",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -206,7 +206,7 @@
           "homeAway": "home",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 3
+          "score": 6
         },
         {
           "id": "7",
@@ -222,10 +222,10 @@
       "league": "bra.1",
       "id": "732890",
       "shortName": "BRA @ BAH",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "2'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
@@ -249,10 +249,10 @@
       "league": "bra.1",
       "id": "732891",
       "shortName": "FLU @ CEA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "4'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
@@ -276,10 +276,10 @@
       "league": "bra.1",
       "id": "732899",
       "shortName": "GRE @ COR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "4'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
