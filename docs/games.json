@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-02T22:52:59.418Z",
+  "ts": "2025-11-02T22:58:06.336Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "7:44",
+      "clock": "6:35",
       "start": "2025-11-02T21:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:58",
+      "clock": "9:51",
       "start": "2025-11-02T21:05Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "58'",
+      "clock": "64'",
       "start": "2025-11-02T21:30Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "60'",
+      "clock": "65'",
       "start": "2025-11-02T21:30Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "PAL",
           "displayName": "Palmeiras",
-          "score": 1
+          "score": 2
         }
       ]
     },
