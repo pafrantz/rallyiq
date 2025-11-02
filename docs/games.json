@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-02T18:20:32.883Z",
+  "ts": "2025-11-02T18:33:30.585Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740691",
-      "shortName": "BOU @ MNC",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "88'",
-      "start": "2025-11-02T16:30Z",
-      "teams": [
-        {
-          "id": "382",
-          "homeAway": "home",
-          "abbreviation": "MNC",
-          "displayName": "Manchester City",
-          "score": 3
-        },
-        {
-          "id": "349",
-          "homeAway": "away",
-          "abbreviation": "BOU",
-          "displayName": "AFC Bournemouth",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -36,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "8:44",
+      "clock": "4:11",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -44,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 7
+          "score": 10
         },
         {
           "id": "3",
@@ -63,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "10:12",
+      "clock": "4:08",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -78,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "MIN",
           "displayName": "Minnesota Vikings",
-          "score": 7
+          "score": 14
         }
       ]
     },
@@ -89,8 +62,8 @@
       "shortName": "CAR @ GB",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "5:55",
+      "period": 2,
+      "clock": "13:44",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -117,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "8:07",
+      "clock": "3:52",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -132,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -144,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "4:56",
+      "clock": "0:24",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -159,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -171,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "5:39",
+      "clock": "0:20",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -186,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -198,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "8:05",
+      "clock": "2:04",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -224,8 +197,8 @@
       "shortName": "DEN @ HOU",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "4:39",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -233,7 +206,7 @@
           "homeAway": "home",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 0
+          "score": 3
         },
         {
           "id": "7",
