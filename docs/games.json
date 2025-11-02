@@ -1,6 +1,60 @@
 {
-  "ts": "2025-11-02T07:59:42.161Z",
+  "ts": "2025-11-02T08:09:32.980Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740695",
+      "shortName": "NEW @ WHU",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-11-02T14:00Z",
+      "teams": [
+        {
+          "id": "371",
+          "homeAway": "home",
+          "abbreviation": "WHU",
+          "displayName": "West Ham United",
+          "score": 0
+        },
+        {
+          "id": "361",
+          "homeAway": "away",
+          "abbreviation": "NEW",
+          "displayName": "Newcastle United",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740691",
+      "shortName": "BOU @ MNC",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-11-02T16:30Z",
+      "teams": [
+        {
+          "id": "382",
+          "homeAway": "home",
+          "abbreviation": "MNC",
+          "displayName": "Manchester City",
+          "score": 0
+        },
+        {
+          "id": "349",
+          "homeAway": "away",
+          "abbreviation": "BOU",
+          "displayName": "AFC Bournemouth",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "football",
       "league": "nfl",
