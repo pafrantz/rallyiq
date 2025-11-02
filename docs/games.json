@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-02T17:32:22.286Z",
+  "ts": "2025-11-02T17:38:25.845Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740691",
       "shortName": "BOU @ MNC",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "45'",
       "start": "2025-11-02T16:30Z",
       "teams": [
         {
