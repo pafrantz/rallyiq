@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-02T19:05:41.710Z",
+  "ts": "2025-11-02T19:13:50.553Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "7:34",
+      "clock": "5:47",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 10
+          "score": 13
         },
         {
           "id": "3",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "5:12",
+      "clock": "3:13",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "MIN",
           "displayName": "Minnesota Vikings",
-          "score": 14
+          "score": 17
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "2:22",
+      "clock": "1:25",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "8:37",
+      "clock": "5:02",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 14
+          "score": 17
         },
         {
           "id": "24",
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "4:57",
+      "clock": "1:21",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "2:00",
+      "clock": "0:53",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -159,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 14
+          "score": 17
         }
       ]
     },
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "5:21",
+      "clock": "3:43",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -179,7 +179,7 @@
           "homeAway": "home",
           "abbreviation": "PIT",
           "displayName": "Pittsburgh Steelers",
-          "score": 7
+          "score": 14
         },
         {
           "id": "11",
@@ -198,7 +198,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "6:34",
+      "clock": "4:47",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -213,7 +213,7 @@
           "homeAway": "away",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -225,7 +225,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "2'",
+      "clock": "11'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
@@ -252,7 +252,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "4'",
+      "clock": "12'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
@@ -279,7 +279,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "4'",
+      "clock": "12'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
