@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-02T20:56:46.810Z",
+  "ts": "2025-11-02T21:03:27.319Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "5:02",
+      "clock": "3:07",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 34
+          "score": 41
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "5:37",
+      "clock": "3:22",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -51,61 +51,7 @@
           "homeAway": "away",
           "abbreviation": "MIN",
           "displayName": "Minnesota Vikings",
-          "score": 24
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772872",
-      "shortName": "CAR @ GB",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:49",
-      "start": "2025-11-02T18:00Z",
-      "teams": [
-        {
-          "id": "9",
-          "homeAway": "home",
-          "abbreviation": "GB",
-          "displayName": "Green Bay Packers",
-          "score": 13
-        },
-        {
-          "id": "29",
-          "homeAway": "away",
-          "abbreviation": "CAR",
-          "displayName": "Carolina Panthers",
-          "score": 13
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772763",
-      "shortName": "ATL @ NE",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:53",
-      "start": "2025-11-02T18:00Z",
-      "teams": [
-        {
-          "id": "17",
-          "homeAway": "home",
-          "abbreviation": "NE",
-          "displayName": "New England Patriots",
-          "score": 24
-        },
-        {
-          "id": "1",
-          "homeAway": "away",
-          "abbreviation": "ATL",
-          "displayName": "Atlanta Falcons",
-          "score": 23
+          "score": 27
         }
       ]
     },
@@ -117,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:30",
+      "clock": "2:47",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -132,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 16
+          "score": 17
         }
       ]
     },
@@ -144,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "8:06",
+      "clock": "4:53",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -160,87 +106,6 @@
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
           "score": 15
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732890",
-      "shortName": "BRA @ BAH",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'",
-      "start": "2025-11-02T19:00Z",
-      "teams": [
-        {
-          "id": "9967",
-          "homeAway": "home",
-          "abbreviation": "BAH",
-          "displayName": "Bahia",
-          "score": 2
-        },
-        {
-          "id": "6079",
-          "homeAway": "away",
-          "abbreviation": "BRA",
-          "displayName": "Red Bull Bragantino",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732891",
-      "shortName": "FLU @ CEA",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+1'",
-      "start": "2025-11-02T19:00Z",
-      "teams": [
-        {
-          "id": "9969",
-          "homeAway": "home",
-          "abbreviation": "CEA",
-          "displayName": "Ceará",
-          "score": 3
-        },
-        {
-          "id": "3445",
-          "homeAway": "away",
-          "abbreviation": "FLU",
-          "displayName": "Fluminense",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732899",
-      "shortName": "GRE @ COR",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+5'",
-      "start": "2025-11-02T19:00Z",
-      "teams": [
-        {
-          "id": "874",
-          "homeAway": "home",
-          "abbreviation": "COR",
-          "displayName": "Corinthians",
-          "score": 2
-        },
-        {
-          "id": "6273",
-          "homeAway": "away",
-          "abbreviation": "GRE",
-          "displayName": "Grêmio",
-          "score": 0
         }
       ]
     },
