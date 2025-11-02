@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-02T19:48:29.044Z",
+  "ts": "2025-11-02T19:54:01.703Z",
   "games": [
     {
       "sport": "football",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "13:29",
+      "clock": "11:56",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:34",
+      "clock": "7:41",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:55",
+      "clock": "13:14",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "13:17",
+      "clock": "8:32",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "8:57",
+      "clock": "8:04",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:37",
+      "clock": "10:17",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -222,10 +222,10 @@
       "league": "bra.1",
       "id": "732890",
       "shortName": "BRA @ BAH",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+1'",
+      "clock": "45'+5'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
@@ -249,10 +249,10 @@
       "league": "bra.1",
       "id": "732891",
       "shortName": "FLU @ CEA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+1'",
+      "clock": "45'+7'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
@@ -276,10 +276,10 @@
       "league": "bra.1",
       "id": "732899",
       "shortName": "GRE @ COR",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+2'",
+      "clock": "45'+4'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
