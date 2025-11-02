@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-02T15:02:22.932Z",
+  "ts": "2025-11-02T15:10:33.397Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740695",
       "shortName": "NEW @ WHU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "48'",
       "start": "2025-11-02T14:00Z",
       "teams": [
         {
