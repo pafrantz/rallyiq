@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-02T08:09:32.980Z",
+  "ts": "2025-11-02T08:20:17.891Z",
   "games": [
     {
       "sport": "soccer",
@@ -272,6 +272,87 @@
       ]
     },
     {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732890",
+      "shortName": "BRA @ BAH",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-11-02T19:00Z",
+      "teams": [
+        {
+          "id": "9967",
+          "homeAway": "home",
+          "abbreviation": "BAH",
+          "displayName": "Bahia",
+          "score": 0
+        },
+        {
+          "id": "6079",
+          "homeAway": "away",
+          "abbreviation": "BRA",
+          "displayName": "Red Bull Bragantino",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732891",
+      "shortName": "FLU @ CEA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-11-02T19:00Z",
+      "teams": [
+        {
+          "id": "9969",
+          "homeAway": "home",
+          "abbreviation": "CEA",
+          "displayName": "Ceará",
+          "score": 0
+        },
+        {
+          "id": "3445",
+          "homeAway": "away",
+          "abbreviation": "FLU",
+          "displayName": "Fluminense",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732899",
+      "shortName": "GRE @ COR",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-11-02T19:00Z",
+      "teams": [
+        {
+          "id": "874",
+          "homeAway": "home",
+          "abbreviation": "COR",
+          "displayName": "Corinthians",
+          "score": 0
+        },
+        {
+          "id": "6273",
+          "homeAway": "away",
+          "abbreviation": "GRE",
+          "displayName": "Grêmio",
+          "score": 0
+        }
+      ]
+    },
+    {
       "sport": "football",
       "league": "nfl",
       "id": "401772873",
@@ -348,6 +429,87 @@
           "homeAway": "away",
           "abbreviation": "KC",
           "displayName": "Kansas City Chiefs",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732896",
+      "shortName": "CAM @ INT",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-11-02T21:30Z",
+      "teams": [
+        {
+          "id": "1936",
+          "homeAway": "home",
+          "abbreviation": "INT",
+          "displayName": "Internacional",
+          "score": 0
+        },
+        {
+          "id": "7632",
+          "homeAway": "away",
+          "abbreviation": "CAM",
+          "displayName": "Atlético-MG",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732895",
+      "shortName": "PAL @ JUV",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-11-02T21:30Z",
+      "teams": [
+        {
+          "id": "6270",
+          "homeAway": "home",
+          "abbreviation": "JUV",
+          "displayName": "Juventude",
+          "score": 0
+        },
+        {
+          "id": "2029",
+          "homeAway": "away",
+          "abbreviation": "PAL",
+          "displayName": "Palmeiras",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732892",
+      "shortName": "SAO @ VAS",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-11-02T23:30Z",
+      "teams": [
+        {
+          "id": "3454",
+          "homeAway": "home",
+          "abbreviation": "VAS",
+          "displayName": "Vasco da Gama",
+          "score": 0
+        },
+        {
+          "id": "2026",
+          "homeAway": "away",
+          "abbreviation": "SAO",
+          "displayName": "São Paulo",
           "score": 0
         }
       ]
