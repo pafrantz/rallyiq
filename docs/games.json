@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-02T21:11:43.894Z",
+  "ts": "2025-11-02T21:21:30.160Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:24",
+      "clock": "1:42",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 27
+          "score": 35
         },
         {
           "id": "3",
@@ -31,66 +31,12 @@
     {
       "sport": "football",
       "league": "nfl",
-      "id": "401772871",
-      "shortName": "MIN @ DET",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:51",
-      "start": "2025-11-02T18:00Z",
-      "teams": [
-        {
-          "id": "8",
-          "homeAway": "home",
-          "abbreviation": "DET",
-          "displayName": "Detroit Lions",
-          "score": 24
-        },
-        {
-          "id": "16",
-          "homeAway": "away",
-          "abbreviation": "MIN",
-          "displayName": "Minnesota Vikings",
-          "score": 27
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772766",
-      "shortName": "IND @ PIT",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:01",
-      "start": "2025-11-02T18:00Z",
-      "teams": [
-        {
-          "id": "23",
-          "homeAway": "home",
-          "abbreviation": "PIT",
-          "displayName": "Pittsburgh Steelers",
-          "score": 27
-        },
-        {
-          "id": "11",
-          "homeAway": "away",
-          "abbreviation": "IND",
-          "displayName": "Indianapolis Colts",
-          "score": 17
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
       "id": "401772870",
       "shortName": "DEN @ HOU",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:00",
+      "clock": "0:24",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -117,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "12:50",
+      "clock": "9:10",
       "start": "2025-11-02T21:05Z",
       "teams": [
         {
@@ -144,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "11:00",
+      "clock": "6:18",
       "start": "2025-11-02T21:05Z",
       "teams": [
         {
@@ -152,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 0
+          "score": 7
         },
         {
           "id": "18",
