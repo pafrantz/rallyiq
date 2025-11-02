@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-02T22:42:04.904Z",
+  "ts": "2025-11-02T22:47:36.270Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:08",
+      "clock": "9:53",
       "start": "2025-11-02T21:05Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 3
+          "score": 6
         }
       ]
     },
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772874",
       "shortName": "NO @ LAR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "15:00",
       "start": "2025-11-02T21:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "1:33",
+      "clock": "0:03",
       "start": "2025-11-02T21:25Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "KC",
           "displayName": "Kansas City Chiefs",
-          "score": 10
+          "score": 13
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "47'",
+      "clock": "52'",
       "start": "2025-11-02T21:30Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "48'",
+      "clock": "55'",
       "start": "2025-11-02T21:30Z",
       "teams": [
         {
