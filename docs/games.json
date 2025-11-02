@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-02T22:35:36.542Z",
+  "ts": "2025-11-02T22:42:04.904Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772873",
       "shortName": "JAX @ LV",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:08",
       "start": "2025-11-02T21:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "1:50",
+      "clock": "1:33",
       "start": "2025-11-02T21:25Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 14
+          "score": 21
         },
         {
           "id": "12",
@@ -87,10 +87,10 @@
       "league": "bra.1",
       "id": "732896",
       "shortName": "CAM @ INT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+10'",
+      "period": 2,
+      "clock": "47'",
       "start": "2025-11-02T21:30Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "bra.1",
       "id": "732895",
       "shortName": "PAL @ JUV",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "48'",
       "start": "2025-11-02T21:30Z",
       "teams": [
         {
