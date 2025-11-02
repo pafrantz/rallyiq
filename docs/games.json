@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-02T20:40:41.975Z",
+  "ts": "2025-11-02T20:45:55.205Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:57",
+      "clock": "7:50",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:57",
+      "clock": "8:54",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "5:22",
+      "clock": "2:34",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:14",
+      "clock": "2:57",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:48",
+      "clock": "4:40",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 17
+          "score": 23
         }
       ]
     },
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:13",
+      "clock": "2:32",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "7:58",
+      "clock": "6:57",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -179,7 +179,7 @@
           "homeAway": "home",
           "abbreviation": "PIT",
           "displayName": "Pittsburgh Steelers",
-          "score": 24
+          "score": 27
         },
         {
           "id": "11",
@@ -198,7 +198,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:28",
+      "clock": "10:58",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -225,7 +225,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "82'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
@@ -252,7 +252,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "75'",
+      "clock": "80'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
@@ -279,7 +279,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "78'",
+      "clock": "84'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
@@ -287,7 +287,7 @@
           "homeAway": "home",
           "abbreviation": "COR",
           "displayName": "Corinthians",
-          "score": 1
+          "score": 2
         },
         {
           "id": "6273",
