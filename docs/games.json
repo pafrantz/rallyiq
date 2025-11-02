@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-02T19:42:53.044Z",
+  "ts": "2025-11-02T19:48:29.044Z",
   "games": [
     {
       "sport": "football",
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772871",
       "shortName": "MIN @ DET",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "13:29",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:06",
+      "clock": "10:34",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772764",
       "shortName": "LAC @ TEN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:55",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:54",
+      "clock": "13:17",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:03",
+      "clock": "8:57",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -159,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 17
+          "score": 20
         }
       ]
     },
@@ -168,10 +168,10 @@
       "league": "nfl",
       "id": "401772766",
       "shortName": "IND @ PIT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:37",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -225,7 +225,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "39'",
+      "clock": "45'+1'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
@@ -252,7 +252,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "41'",
+      "clock": "45'+1'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
@@ -279,7 +279,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "41'",
+      "clock": "45'+2'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
