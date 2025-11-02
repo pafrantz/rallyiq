@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-02T01:04:44.067Z",
+  "ts": "2025-11-02T01:42:48.824Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732897",
       "shortName": "SPO @ FLA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "81'",
       "start": "2025-11-02T00:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "FLA",
           "displayName": "Flamengo",
-          "score": 0
+          "score": 3
         },
         {
           "id": "7635",
