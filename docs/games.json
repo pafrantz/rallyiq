@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-02T20:07:56.066Z",
+  "ts": "2025-11-02T20:17:43.797Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "8:11",
+      "clock": "5:19",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 20
+          "score": 27
         },
         {
           "id": "3",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:13",
+      "clock": "6:04",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "MIN",
           "displayName": "Minnesota Vikings",
-          "score": 17
+          "score": 24
         }
       ]
     },
@@ -62,8 +62,8 @@
       "shortName": "CAR @ GB",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "2:19",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "CAR",
           "displayName": "Carolina Panthers",
-          "score": 7
+          "score": 13
         }
       ]
     },
@@ -89,8 +89,8 @@
       "shortName": "LAC @ TEN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "3:54",
+      "period": 4,
+      "clock": "12:58",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 20
+          "score": 27
         }
       ]
     },
@@ -116,8 +116,8 @@
       "shortName": "ATL @ NE",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "4:37",
+      "period": 4,
+      "clock": "14:08",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 14
+          "score": 17
         }
       ]
     },
@@ -143,8 +143,8 @@
       "shortName": "SF @ NYG",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "2:30",
+      "period": 4,
+      "clock": "14:24",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -170,8 +170,8 @@
       "shortName": "IND @ PIT",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "3:09",
+      "period": 4,
+      "clock": "14:16",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -179,7 +179,7 @@
           "homeAway": "home",
           "abbreviation": "PIT",
           "displayName": "Pittsburgh Steelers",
-          "score": 17
+          "score": 23
         },
         {
           "id": "11",
@@ -198,7 +198,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:27",
+      "clock": "6:53",
       "start": "2025-11-02T18:00Z",
       "teams": [
         {
@@ -206,7 +206,7 @@
           "homeAway": "home",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 12
+          "score": 15
         },
         {
           "id": "7",
@@ -222,10 +222,10 @@
       "league": "bra.1",
       "id": "732890",
       "shortName": "BRA @ BAH",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "53'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
@@ -249,10 +249,10 @@
       "league": "bra.1",
       "id": "732891",
       "shortName": "FLU @ CEA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+7'",
+      "period": 2,
+      "clock": "53'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
@@ -279,7 +279,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "45'",
+      "clock": "56'",
       "start": "2025-11-02T19:00Z",
       "teams": [
         {
