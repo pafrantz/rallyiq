@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-03T21:01:09.745Z",
+  "ts": "2025-11-03T21:09:17.933Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740693",
       "shortName": "EVE @ SUN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "52'",
       "start": "2025-11-03T20:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "SUN",
           "displayName": "Sunderland",
-          "score": 0
+          "score": 1
         },
         {
           "id": "368",
