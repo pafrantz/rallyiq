@@ -1,6 +1,33 @@
 {
-  "ts": "2025-11-03T08:00:15.511Z",
+  "ts": "2025-11-03T08:12:37.568Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740693",
+      "shortName": "EVE @ SUN",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-11-03T20:00Z",
+      "teams": [
+        {
+          "id": "366",
+          "homeAway": "home",
+          "abbreviation": "SUN",
+          "displayName": "Sunderland",
+          "score": 0
+        },
+        {
+          "id": "368",
+          "homeAway": "away",
+          "abbreviation": "EVE",
+          "displayName": "Everton",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "football",
       "league": "nfl",
