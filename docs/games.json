@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-03T03:40:26.924Z",
+  "ts": "2025-11-03T03:57:48.207Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "SEA @ WSH",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:53",
+      "period": 4,
+      "clock": "11:23",
       "start": "2025-11-03T01:20Z",
       "teams": [
         {
