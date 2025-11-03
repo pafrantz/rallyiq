@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-03T02:08:42.466Z",
+  "ts": "2025-11-03T02:48:09.976Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "10:16",
+      "clock": "0:20",
       "start": "2025-11-03T01:20Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "WSH",
           "displayName": "Washington Commanders",
-          "score": 0
+          "score": 7
         },
         {
           "id": "26",
           "homeAway": "away",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 7
+          "score": 28
         }
       ]
     },
