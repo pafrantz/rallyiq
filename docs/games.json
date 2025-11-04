@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-04T01:00:10.428Z",
+  "ts": "2025-11-04T01:36:31.582Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772818",
       "shortName": "ARI @ DAL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "3:46",
       "start": "2025-11-04T01:15Z",
       "teams": [
         {
