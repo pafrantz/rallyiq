@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-05T23:35:29.077Z",
+  "ts": "2025-11-05T23:42:15.774Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "72'",
+      "clock": "79'",
       "start": "2025-11-05T22:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "72'",
+      "clock": "79'",
       "start": "2025-11-05T22:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "JUV",
           "displayName": "Juventude",
-          "score": 1
+          "score": 2
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "72'",
+      "clock": "79'",
       "start": "2025-11-05T22:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "bra.1",
       "id": "732908",
       "shortName": "VAS @ BOT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'",
+      "period": 2,
+      "clock": "50'",
       "start": "2025-11-05T22:30Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "33'",
+      "clock": "41'",
       "start": "2025-11-05T23:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "34'",
+      "clock": "40'",
       "start": "2025-11-05T23:00Z",
       "teams": [
         {
