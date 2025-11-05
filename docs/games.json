@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-05T23:01:09.580Z",
+  "ts": "2025-11-05T23:09:31.004Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732903",
       "shortName": "COR @ BRA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+7'",
+      "period": 2,
+      "clock": "45'",
       "start": "2025-11-05T22:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732902",
       "shortName": "JUV @ SPO",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "47'",
       "start": "2025-11-05T22:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "732904",
       "shortName": "INT @ VIT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "47'",
       "start": "2025-11-05T22:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "29'",
+      "clock": "37'",
       "start": "2025-11-05T22:30Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "0'",
+      "clock": "9'",
       "start": "2025-11-05T23:00Z",
       "teams": [
         {
@@ -141,10 +141,10 @@
       "league": "bra.1",
       "id": "732905",
       "shortName": "CRU @ GRE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "5'",
       "start": "2025-11-05T23:00Z",
       "teams": [
         {
