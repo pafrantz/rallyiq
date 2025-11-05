@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-05T23:53:32.111Z",
+  "ts": "2025-11-05T23:58:25.371Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "89'",
+      "clock": "90'+5'",
       "start": "2025-11-05T22:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BRA",
           "displayName": "Red Bull Bragantino",
-          "score": 1
+          "score": 2
         },
         {
           "id": "874",
@@ -31,39 +31,12 @@
     {
       "sport": "soccer",
       "league": "bra.1",
-      "id": "732902",
-      "shortName": "JUV @ SPO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+1'",
-      "start": "2025-11-05T22:00Z",
-      "teams": [
-        {
-          "id": "7635",
-          "homeAway": "home",
-          "abbreviation": "SPO",
-          "displayName": "Sport",
-          "score": 0
-        },
-        {
-          "id": "6270",
-          "homeAway": "away",
-          "abbreviation": "JUV",
-          "displayName": "Juventude",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
       "id": "732904",
       "shortName": "INT @ VIT",
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "90'",
+      "clock": "90'+5'",
       "start": "2025-11-05T22:00Z",
       "teams": [
         {
@@ -90,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "62'",
+      "clock": "66'",
       "start": "2025-11-05T22:30Z",
       "teams": [
         {
