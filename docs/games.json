@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-05T22:28:58.667Z",
+  "ts": "2025-11-05T22:37:30.942Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "28'",
+      "clock": "35'",
       "start": "2025-11-05T22:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "28'",
+      "clock": "36'",
       "start": "2025-11-05T22:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "28'",
+      "clock": "36'",
       "start": "2025-11-05T22:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "bra.1",
       "id": "732908",
       "shortName": "VAS @ BOT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "5'",
       "start": "2025-11-05T22:30Z",
       "teams": [
         {
