@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-05T22:55:24.995Z",
+  "ts": "2025-11-05T23:01:09.580Z",
   "games": [
     {
       "sport": "soccer",
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "23'",
+      "clock": "29'",
       "start": "2025-11-05T22:30Z",
       "teams": [
         {
@@ -114,9 +114,9 @@
       "league": "bra.1",
       "id": "732900",
       "shortName": "BAH @ CAM",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2025-11-05T23:00Z",
       "teams": [
