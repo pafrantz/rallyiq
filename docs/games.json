@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-06T23:09:28.311Z",
+  "ts": "2025-11-06T23:19:14.977Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732906",
       "shortName": "MIR @ FLU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "39'",
+      "clock": "45'+4'",
       "start": "2025-11-06T22:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "7'",
+      "clock": "17'",
       "start": "2025-11-06T23:00Z",
       "teams": [
         {
