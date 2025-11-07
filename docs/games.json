@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-07T00:39:00.902Z",
+  "ts": "2025-11-07T01:05:19.949Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732907",
-      "shortName": "FOR @ CEA",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "77'",
-      "start": "2025-11-06T23:00Z",
-      "teams": [
-        {
-          "id": "9969",
-          "homeAway": "home",
-          "abbreviation": "CEA",
-          "displayName": "Ceará",
-          "score": 0
-        },
-        {
-          "id": "6272",
-          "homeAway": "away",
-          "abbreviation": "FOR",
-          "displayName": "Fortaleza",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "8'",
+      "clock": "34'",
       "start": "2025-11-07T00:30Z",
       "teams": [
         {
