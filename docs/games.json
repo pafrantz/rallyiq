@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-07T01:05:19.949Z",
+  "ts": "2025-11-07T01:43:15.257Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732909",
       "shortName": "SAN @ PAL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "34'",
+      "period": 2,
+      "clock": "54'",
       "start": "2025-11-07T00:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772944",
       "shortName": "LV @ DEN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "1:40",
       "start": "2025-11-07T01:15Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "LV",
           "displayName": "Las Vegas Raiders",
-          "score": 0
+          "score": 7
         }
       ]
     },
