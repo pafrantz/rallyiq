@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-08T18:21:30.539Z",
+  "ts": "2025-11-08T18:35:08.859Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740704",
       "shortName": "ARS @ SUN",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+4'",
+      "clock": "45'+10'",
       "start": "2025-11-08T17:30Z",
       "teams": [
         {
