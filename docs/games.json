@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-08T16:40:36.014Z",
+  "ts": "2025-11-08T16:47:45.484Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "76'",
+      "clock": "83'",
       "start": "2025-11-08T15:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "EVE",
           "displayName": "Everton",
-          "score": 1
+          "score": 2
         },
         {
           "id": "370",
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "86'",
       "start": "2025-11-08T15:00Z",
       "teams": [
         {
