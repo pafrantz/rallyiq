@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-08T16:31:30.180Z",
+  "ts": "2025-11-08T16:40:36.014Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "66'",
+      "clock": "76'",
       "start": "2025-11-08T15:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "70'",
+      "clock": "77'",
       "start": "2025-11-08T15:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "WHU",
           "displayName": "West Ham United",
-          "score": 1
+          "score": 2
         },
         {
           "id": "379",
