@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-08T22:16:13.902Z",
+  "ts": "2025-11-08T22:26:22.601Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "51'",
+      "clock": "61'",
       "start": "2025-11-08T21:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732917",
       "shortName": "BAH @ INT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+7'",
       "start": "2025-11-08T21:30Z",
       "teams": [
         {
