@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-08T21:02:08.533Z",
+  "ts": "2025-11-08T21:10:29.085Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740699",
       "shortName": "WOL @ CHE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "49'",
       "start": "2025-11-08T20:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "1'",
+      "clock": "10'",
       "start": "2025-11-08T21:00Z",
       "teams": [
         {
