@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-08T22:56:22.396Z",
+  "ts": "2025-11-08T23:02:33.719Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732910",
-      "shortName": "JUV @ VAS",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+1'",
-      "start": "2025-11-08T21:00Z",
-      "teams": [
-        {
-          "id": "3454",
-          "homeAway": "home",
-          "abbreviation": "VAS",
-          "displayName": "Vasco da Gama",
-          "score": 1
-        },
-        {
-          "id": "6270",
-          "homeAway": "away",
-          "abbreviation": "JUV",
-          "displayName": "Juventude",
-          "score": 3
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "62'",
+      "clock": "66'",
       "start": "2025-11-08T21:30Z",
       "teams": [
         {
