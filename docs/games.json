@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-08T19:58:41.725Z",
+  "ts": "2025-11-08T20:07:09.392Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732919",
       "shortName": "CAM @ SPO",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "49'",
       "start": "2025-11-08T19:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740699",
       "shortName": "WOL @ CHE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "5'",
       "start": "2025-11-08T20:00Z",
       "teams": [
         {
