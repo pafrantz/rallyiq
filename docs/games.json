@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-08T20:16:44.651Z",
+  "ts": "2025-11-08T20:26:58.614Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "58'",
+      "clock": "69'",
       "start": "2025-11-08T19:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "SPO",
           "displayName": "Sport",
-          "score": 1
+          "score": 2
         },
         {
           "id": "7632",
           "homeAway": "away",
           "abbreviation": "CAM",
           "displayName": "Atlético-MG",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "15'",
+      "clock": "25'",
       "start": "2025-11-08T20:00Z",
       "teams": [
         {
