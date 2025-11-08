@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-08T14:21:55.512Z",
+  "ts": "2025-11-08T14:30:12.442Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740705",
-      "shortName": "MAN @ TOT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+3'",
-      "start": "2025-11-08T12:30Z",
-      "teams": [
-        {
-          "id": "367",
-          "homeAway": "home",
-          "abbreviation": "TOT",
-          "displayName": "Tottenham Hotspur",
-          "score": 2
-        },
-        {
-          "id": "360",
-          "homeAway": "away",
-          "abbreviation": "MAN",
-          "displayName": "Manchester United",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
