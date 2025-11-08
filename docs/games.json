@@ -1,42 +1,15 @@
 {
-  "ts": "2025-11-08T20:50:44.795Z",
+  "ts": "2025-11-08T20:55:49.413Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732919",
-      "shortName": "CAM @ SPO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2025-11-08T19:00Z",
-      "teams": [
-        {
-          "id": "7635",
-          "homeAway": "home",
-          "abbreviation": "SPO",
-          "displayName": "Sport",
-          "score": 2
-        },
-        {
-          "id": "7632",
-          "homeAway": "away",
-          "abbreviation": "CAM",
-          "displayName": "Atlético-MG",
-          "score": 4
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740699",
       "shortName": "WOL @ CHE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+4'",
+      "clock": "45'+5'",
       "start": "2025-11-08T20:00Z",
       "teams": [
         {
