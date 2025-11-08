@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-08T13:13:20.320Z",
+  "ts": "2025-11-08T13:25:17.174Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740705",
       "shortName": "MAN @ TOT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "40'",
+      "clock": "45'+1'",
       "start": "2025-11-08T12:30Z",
       "teams": [
         {
