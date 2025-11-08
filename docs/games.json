@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-08T20:39:56.882Z",
+  "ts": "2025-11-08T20:45:21.959Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "81'",
+      "clock": "87'",
       "start": "2025-11-08T19:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "CAM",
           "displayName": "Atlético-MG",
-          "score": 3
+          "score": 4
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "37'",
+      "clock": "44'",
       "start": "2025-11-08T20:00Z",
       "teams": [
         {
