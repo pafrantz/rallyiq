@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-08T19:31:27.040Z",
+  "ts": "2025-11-08T19:37:30.651Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740704",
-      "shortName": "ARS @ SUN",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2025-11-08T17:30Z",
-      "teams": [
-        {
-          "id": "366",
-          "homeAway": "home",
-          "abbreviation": "SUN",
-          "displayName": "Sunderland",
-          "score": 2
-        },
-        {
-          "id": "359",
-          "homeAway": "away",
-          "abbreviation": "ARS",
-          "displayName": "Arsenal",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "33'",
+      "clock": "38'",
       "start": "2025-11-08T19:00Z",
       "teams": [
         {
