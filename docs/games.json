@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-09T23:49:19.083Z",
+  "ts": "2025-11-09T23:54:43.035Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "13:31",
+      "clock": "11:50",
       "start": "2025-11-09T21:05Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 38
+          "score": 41
         },
         {
           "id": "22",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:04",
+      "clock": "8:29",
       "start": "2025-11-09T21:25Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "15:00",
+      "clock": "12:50",
       "start": "2025-11-09T21:25Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 35
+          "score": 41
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "16'",
+      "clock": "23'",
       "start": "2025-11-09T23:30Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "18'",
+      "clock": "24'",
       "start": "2025-11-09T23:30Z",
       "teams": [
         {
