@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-09T23:54:43.035Z",
+  "ts": "2025-11-09T23:59:56.581Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:50",
+      "clock": "9:50",
       "start": "2025-11-09T21:05Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 15
+          "score": 22
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "8:29",
+      "clock": "5:55",
       "start": "2025-11-09T21:25Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:50",
+      "clock": "10:08",
       "start": "2025-11-09T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "23'",
+      "clock": "28'",
       "start": "2025-11-09T23:30Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "24'",
+      "clock": "29'",
       "start": "2025-11-09T23:30Z",
       "teams": [
         {
