@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-09T16:30:06.341Z",
+  "ts": "2025-11-09T16:39:12.101Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:40",
+      "clock": "4:25",
       "start": "2025-11-09T14:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740702",
       "shortName": "LIV @ MNC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "8'",
       "start": "2025-11-09T16:30Z",
       "teams": [
         {
