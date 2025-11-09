@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-09T19:53:54.610Z",
+  "ts": "2025-11-09T19:58:59.051Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:12",
+      "clock": "8:09",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "7:32",
+      "clock": "5:17",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:13",
+      "clock": "8:35",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:54",
+      "clock": "12:45",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:02",
+      "clock": "8:22",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:36",
+      "clock": "6:29",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "15:00",
+      "clock": "12:29",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -195,10 +195,10 @@
       "league": "bra.1",
       "id": "732913",
       "shortName": "CEA @ COR",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+7'",
+      "clock": "45'+8'",
       "start": "2025-11-09T19:00Z",
       "teams": [
         {
