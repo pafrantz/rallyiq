@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-09T21:13:23.229Z",
+  "ts": "2025-11-09T21:22:58.390Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772876",
-      "shortName": "BAL @ MIN",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:14",
-      "start": "2025-11-09T18:00Z",
-      "teams": [
-        {
-          "id": "16",
-          "homeAway": "home",
-          "abbreviation": "MIN",
-          "displayName": "Minnesota Vikings",
-          "score": 19
-        },
-        {
-          "id": "33",
-          "homeAway": "away",
-          "abbreviation": "BAL",
-          "displayName": "Baltimore Ravens",
-          "score": 27
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -36,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:00",
+      "clock": "0:30",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -44,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 24
+          "score": 30
         },
         {
           "id": "30",
@@ -63,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "10:55",
+      "clock": "9:22",
       "start": "2025-11-09T21:05Z",
       "teams": [
         {
@@ -71,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 7
+          "score": 14
         },
         {
           "id": "22",
