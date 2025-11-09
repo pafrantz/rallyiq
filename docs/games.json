@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-09T17:35:41.061Z",
+  "ts": "2025-11-09T17:41:29.227Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "ATL VS IND",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 4,
-      "clock": "0:09",
+      "period": 5,
+      "clock": "9:55",
       "start": "2025-11-09T14:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740702",
       "shortName": "LIV @ MNC",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+8'",
+      "period": 2,
+      "clock": "47'",
       "start": "2025-11-09T16:30Z",
       "teams": [
         {
