@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-09T16:17:55.532Z",
+  "ts": "2025-11-09T16:30:06.341Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:39",
+      "clock": "9:40",
       "start": "2025-11-09T14:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 14
+          "score": 17
         }
       ]
     },
