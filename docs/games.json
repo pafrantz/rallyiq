@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-09T01:49:45.484Z",
+  "ts": "2025-11-09T02:25:49.294Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732911",
-      "shortName": "BRA @ SAO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'",
-      "start": "2025-11-09T00:00Z",
-      "teams": [
-        {
-          "id": "2026",
-          "homeAway": "home",
-          "abbreviation": "SAO",
-          "displayName": "São Paulo",
-          "score": 0
-        },
-        {
-          "id": "6079",
-          "homeAway": "away",
-          "abbreviation": "BRA",
-          "displayName": "Red Bull Bragantino",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
