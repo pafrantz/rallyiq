@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-09T20:28:00.855Z",
+  "ts": "2025-11-09T20:34:54.899Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:19",
+      "clock": "8:41",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "7:45",
+      "clock": "6:31",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 16
+          "score": 23
         },
         {
           "id": "2",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "15:00",
+      "clock": "10:40",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 19
+          "score": 27
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "14:12",
+      "clock": "10:15",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:33",
+      "clock": "10:12",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:20",
+      "clock": "7:35",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -170,8 +170,8 @@
       "shortName": "JAX @ HOU",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:43",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -186,7 +186,7 @@
           "homeAway": "away",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 23
+          "score": 29
         }
       ]
     },
@@ -198,7 +198,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "60'",
+      "clock": "68'",
       "start": "2025-11-09T19:00Z",
       "teams": [
         {
@@ -225,7 +225,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "64'",
+      "clock": "69'",
       "start": "2025-11-09T19:00Z",
       "teams": [
         {
@@ -252,7 +252,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "63'",
+      "clock": "70'",
       "start": "2025-11-09T19:00Z",
       "teams": [
         {
