@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-09T17:21:13.477Z",
+  "ts": "2025-11-09T17:29:04.594Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "1:44",
+      "clock": "1:11",
       "start": "2025-11-09T14:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 23
+          "score": 25
         }
       ]
     },
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740702",
       "shortName": "LIV @ MNC",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+5'",
+      "clock": "45'+8'",
       "start": "2025-11-09T16:30Z",
       "teams": [
         {
