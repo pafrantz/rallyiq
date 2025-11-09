@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-09T01:09:41.465Z",
+  "ts": "2025-11-09T01:49:45.484Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "52'",
+      "clock": "90'",
       "start": "2025-11-09T00:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BRA",
           "displayName": "Red Bull Bragantino",
-          "score": 0
+          "score": 1
         }
       ]
     },
