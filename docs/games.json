@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-09T19:32:12.622Z",
+  "ts": "2025-11-09T19:38:05.572Z",
   "games": [
     {
       "sport": "football",
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "0:59",
+      "clock": "0:00",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "CLE",
           "displayName": "Cleveland Browns",
-          "score": 14
+          "score": 17
         }
       ]
     },
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401772772",
       "shortName": "NE @ TB",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:12",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 14
+          "score": 20
         }
       ]
     },
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "1:14",
+      "clock": "0:04",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -198,7 +198,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "29'",
+      "clock": "36'",
       "start": "2025-11-09T19:00Z",
       "teams": [
         {
@@ -213,7 +213,7 @@
           "homeAway": "away",
           "abbreviation": "CEA",
           "displayName": "Ceará",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -225,7 +225,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "30'",
+      "clock": "37'",
       "start": "2025-11-09T19:00Z",
       "teams": [
         {
@@ -252,7 +252,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "28'",
+      "clock": "34'",
       "start": "2025-11-09T19:00Z",
       "teams": [
         {
