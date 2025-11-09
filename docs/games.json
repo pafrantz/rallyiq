@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-09T14:37:18.300Z",
+  "ts": "2025-11-09T14:42:23.397Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "35'",
+      "clock": "40'",
       "start": "2025-11-09T14:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "AVL",
           "displayName": "Aston Villa",
-          "score": 1
+          "score": 2
         },
         {
           "id": "349",
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "36'",
+      "clock": "41'",
       "start": "2025-11-09T14:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "36'",
+      "clock": "41'",
       "start": "2025-11-09T14:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "34'",
+      "clock": "41'",
       "start": "2025-11-09T14:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "14:19",
+      "clock": "10:58",
       "start": "2025-11-09T14:30Z",
       "teams": [
         {
