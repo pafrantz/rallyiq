@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-09T16:07:51.680Z",
+  "ts": "2025-11-09T16:17:55.532Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772636",
       "shortName": "ATL VS IND",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "12:39",
       "start": "2025-11-09T14:30Z",
       "teams": [
         {
