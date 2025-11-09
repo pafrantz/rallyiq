@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-09T22:03:23.711Z",
+  "ts": "2025-11-09T22:11:58.455Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "12:17",
+      "clock": "8:59",
       "start": "2025-11-09T21:05Z",
       "teams": [
         {
@@ -35,8 +35,8 @@
       "shortName": "LAR @ SF",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "2:35",
+      "period": 2,
+      "clock": "14:27",
       "start": "2025-11-09T21:25Z",
       "teams": [
         {
@@ -62,8 +62,8 @@
       "shortName": "DET @ WSH",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:39",
+      "period": 2,
+      "clock": "12:45",
       "start": "2025-11-09T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "31'",
+      "clock": "39'",
       "start": "2025-11-09T21:30Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "FLA",
           "displayName": "Flamengo",
-          "score": 0
+          "score": 1
         },
         {
           "id": "2674",
