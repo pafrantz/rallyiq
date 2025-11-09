@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-09T17:57:51.327Z",
+  "ts": "2025-11-09T18:07:48.949Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "63'",
+      "clock": "74'",
       "start": "2025-11-09T16:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772875",
       "shortName": "NYG @ CHI",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "12:21",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772771",
       "shortName": "BUF @ MIA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "14:22",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772876",
       "shortName": "BAL @ MIN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "13:13",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401772769",
       "shortName": "CLE @ NYJ",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "13:32",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -141,10 +141,10 @@
       "league": "nfl",
       "id": "401772772",
       "shortName": "NE @ TB",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "11:23",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -152,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "TB",
           "displayName": "Tampa Bay Buccaneers",
-          "score": 0
+          "score": 6
         },
         {
           "id": "17",
@@ -168,10 +168,10 @@
       "league": "nfl",
       "id": "401772877",
       "shortName": "NO @ CAR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "12:18",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -195,10 +195,10 @@
       "league": "nfl",
       "id": "401772770",
       "shortName": "JAX @ HOU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "14:02",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
