@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-09T22:38:15.683Z",
+  "ts": "2025-11-09T22:43:53.614Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "1:48",
+      "clock": "1:21",
       "start": "2025-11-09T21:05Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 35
+          "score": 38
         },
         {
           "id": "22",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "3:15",
+      "clock": "1:59",
       "start": "2025-11-09T21:25Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "3:33",
+      "clock": "2:00",
       "start": "2025-11-09T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "45'",
+      "clock": "51'",
       "start": "2025-11-09T21:30Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "FLA",
           "displayName": "Flamengo",
-          "score": 1
+          "score": 2
         },
         {
           "id": "2674",
