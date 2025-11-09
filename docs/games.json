@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-09T14:52:55.287Z",
+  "ts": "2025-11-09T14:58:12.692Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740697",
       "shortName": "BOU @ AVL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+7'",
+      "clock": "45'+8'",
       "start": "2025-11-09T14:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "8:36",
+      "clock": "6:07",
       "start": "2025-11-09T14:30Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 0
+          "score": 7
         }
       ]
     },
