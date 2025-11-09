@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-09T18:32:24.307Z",
+  "ts": "2025-11-09T18:41:21.245Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "NYG @ CHI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "3:34",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -35,8 +35,8 @@
       "shortName": "BUF @ MIA",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "2:52",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -62,8 +62,8 @@
       "shortName": "BAL @ MIN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "2:06",
+      "period": 2,
+      "clock": "13:18",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "5:45",
+      "clock": "2:07",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -116,8 +116,8 @@
       "shortName": "NE @ TB",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "2:28",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -143,8 +143,8 @@
       "shortName": "NO @ CAR",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:47",
+      "period": 2,
+      "clock": "14:28",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "5:50",
+      "clock": "0:45",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
