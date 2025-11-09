@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-09T20:41:12.598Z",
+  "ts": "2025-11-09T20:46:39.061Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "7:05",
+      "clock": "5:29",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "5:42",
+      "clock": "4:00",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "9:11",
+      "clock": "7:15",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:13",
+      "clock": "4:39",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "7:27",
+      "clock": "4:34",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:57",
+      "clock": "2:00",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "13:02",
+      "clock": "12:16",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -179,7 +179,7 @@
           "homeAway": "home",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 10
+          "score": 18
         },
         {
           "id": "30",
@@ -198,7 +198,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "74'",
+      "clock": "78'",
       "start": "2025-11-09T19:00Z",
       "teams": [
         {
@@ -225,7 +225,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "78'",
+      "clock": "83'",
       "start": "2025-11-09T19:00Z",
       "teams": [
         {
@@ -252,7 +252,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "81'",
       "start": "2025-11-09T19:00Z",
       "teams": [
         {
