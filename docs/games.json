@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-09T20:46:39.061Z",
+  "ts": "2025-11-09T20:52:13.040Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "5:29",
+      "clock": "3:56",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 10
+          "score": 17
         },
         {
           "id": "19",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:00",
+      "clock": "3:36",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 6
+          "score": 13
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "7:15",
+      "clock": "5:11",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:39",
+      "clock": "2:06",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "CLE",
           "displayName": "Cleveland Browns",
-          "score": 17
+          "score": 20
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:34",
+      "clock": "2:00",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -139,39 +139,12 @@
     {
       "sport": "football",
       "league": "nfl",
-      "id": "401772877",
-      "shortName": "NO @ CAR",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:00",
-      "start": "2025-11-09T18:00Z",
-      "teams": [
-        {
-          "id": "29",
-          "homeAway": "home",
-          "abbreviation": "CAR",
-          "displayName": "Carolina Panthers",
-          "score": 7
-        },
-        {
-          "id": "18",
-          "homeAway": "away",
-          "abbreviation": "NO",
-          "displayName": "New Orleans Saints",
-          "score": 17
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
       "id": "401772770",
       "shortName": "JAX @ HOU",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:16",
+      "clock": "12:10",
       "start": "2025-11-09T18:00Z",
       "teams": [
         {
@@ -198,7 +171,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "78'",
+      "clock": "86'",
       "start": "2025-11-09T19:00Z",
       "teams": [
         {
@@ -225,7 +198,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "83'",
+      "clock": "89'",
       "start": "2025-11-09T19:00Z",
       "teams": [
         {
@@ -252,7 +225,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "81'",
+      "clock": "86'",
       "start": "2025-11-09T19:00Z",
       "teams": [
         {
