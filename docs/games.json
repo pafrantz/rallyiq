@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-09T13:57:47.850Z",
+  "ts": "2025-11-09T14:04:44.400Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740697",
       "shortName": "BOU @ AVL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "3'",
       "start": "2025-11-09T14:00Z",
       "teams": [
         {
@@ -33,9 +33,9 @@
       "league": "eng.1",
       "id": "740698",
       "shortName": "NEW @ BRE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2025-11-09T14:00Z",
       "teams": [
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740700",
       "shortName": "BHA @ CRY",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "3'",
       "start": "2025-11-09T14:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740703",
       "shortName": "LEE @ NFO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "2'",
       "start": "2025-11-09T14:00Z",
       "teams": [
         {
