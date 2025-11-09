@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-09T14:13:45.653Z",
+  "ts": "2025-11-09T14:23:30.755Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "13'",
+      "clock": "23'",
       "start": "2025-11-09T14:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "11'",
+      "clock": "22'",
       "start": "2025-11-09T14:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "13'",
+      "clock": "22'",
       "start": "2025-11-09T14:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "11'",
+      "clock": "21'",
       "start": "2025-11-09T14:00Z",
       "teams": [
         {
@@ -98,14 +98,14 @@
           "homeAway": "home",
           "abbreviation": "NFO",
           "displayName": "Nottingham Forest",
-          "score": 0
+          "score": 1
         },
         {
           "id": "357",
           "homeAway": "away",
           "abbreviation": "LEE",
           "displayName": "Leeds United",
-          "score": 0
+          "score": 1
         }
       ]
     },
