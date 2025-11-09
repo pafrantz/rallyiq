@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-09T17:03:42.322Z",
+  "ts": "2025-11-09T17:11:49.603Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "8:27",
+      "clock": "5:56",
       "start": "2025-11-09T14:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 16
+          "score": 22
         },
         {
           "id": "1",
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "32'",
+      "clock": "41'",
       "start": "2025-11-09T16:30Z",
       "teams": [
         {
