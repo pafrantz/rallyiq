@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-10T00:37:55.198Z",
+  "ts": "2025-11-10T01:04:05.689Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732916",
       "shortName": "GRE @ FOR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'",
+      "period": 2,
+      "clock": "71'",
       "start": "2025-11-09T23:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "FOR",
           "displayName": "Fortaleza",
-          "score": 1
+          "score": 2
         },
         {
           "id": "6273",
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "47'",
+      "clock": "73'",
       "start": "2025-11-09T23:30Z",
       "teams": [
         {
