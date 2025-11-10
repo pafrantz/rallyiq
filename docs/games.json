@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-10T01:41:41.167Z",
+  "ts": "2025-11-10T02:23:33.977Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "PIT @ LAC",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "10:20",
+      "period": 2,
+      "clock": "7:32",
       "start": "2025-11-10T01:20Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 0
+          "score": 5
         },
         {
           "id": "23",
