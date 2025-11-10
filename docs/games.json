@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-10T04:27:50.732Z",
+  "ts": "2025-11-10T04:40:20.902Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772927",
-      "shortName": "PIT @ LAC",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:00",
-      "start": "2025-11-10T01:20Z",
-      "teams": [
-        {
-          "id": "24",
-          "homeAway": "home",
-          "abbreviation": "LAC",
-          "displayName": "Los Angeles Chargers",
-          "score": 25
-        },
-        {
-          "id": "23",
-          "homeAway": "away",
-          "abbreviation": "PIT",
-          "displayName": "Pittsburgh Steelers",
-          "score": 10
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
