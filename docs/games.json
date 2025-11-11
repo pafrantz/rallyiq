@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-11T02:52:48.391Z",
+  "ts": "2025-11-11T03:19:57.809Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772630",
       "shortName": "PHI @ GB",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "2:32",
       "start": "2025-11-11T01:15Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 0
+          "score": 3
         }
       ]
     },
