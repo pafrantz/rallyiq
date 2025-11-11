@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-11T01:39:54.334Z",
+  "ts": "2025-11-11T02:19:58.701Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "PHI @ GB",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:59",
+      "period": 2,
+      "clock": "4:26",
       "start": "2025-11-11T01:15Z",
       "teams": [
         {
