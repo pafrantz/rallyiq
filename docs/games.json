@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-14T01:18:01.200Z",
+  "ts": "2025-11-14T02:01:21.013Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "NYJ @ NE",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "14:55",
+      "period": 2,
+      "clock": "7:54",
       "start": "2025-11-14T01:15Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 0
+          "score": 14
         },
         {
           "id": "20",
           "homeAway": "away",
           "abbreviation": "NYJ",
           "displayName": "New York Jets",
-          "score": 0
+          "score": 7
         }
       ]
     },
