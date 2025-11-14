@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-14T03:32:08.532Z",
+  "ts": "2025-11-14T03:50:30.909Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:06",
+      "clock": "6:38",
       "start": "2025-11-14T01:15Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 24
+          "score": 27
         },
         {
           "id": "20",
