@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-16T21:07:32.881Z",
+  "ts": "2025-11-16T21:16:40.007Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "1:29",
+      "clock": "0:56",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "CAR",
           "displayName": "Carolina Panthers",
-          "score": 19
+          "score": 27
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:03",
+      "clock": "0:38",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -58,39 +58,12 @@
     {
       "sport": "football",
       "league": "nfl",
-      "id": "401772774",
-      "shortName": "CIN @ PIT",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:00",
-      "start": "2025-11-16T18:00Z",
-      "teams": [
-        {
-          "id": "23",
-          "homeAway": "home",
-          "abbreviation": "PIT",
-          "displayName": "Pittsburgh Steelers",
-          "score": 34
-        },
-        {
-          "id": "4",
-          "homeAway": "away",
-          "abbreviation": "CIN",
-          "displayName": "Cincinnati Bengals",
-          "score": 12
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
       "id": "401772884",
       "shortName": "SEA @ LAR",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "14:55",
+      "clock": "11:27",
       "start": "2025-11-16T21:05Z",
       "teams": [
         {
@@ -117,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "14:44",
+      "clock": "11:59",
       "start": "2025-11-16T21:05Z",
       "teams": [
         {
@@ -132,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 6
+          "score": 7
         }
       ]
     },
