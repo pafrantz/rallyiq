@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-16T19:39:04.134Z",
+  "ts": "2025-11-16T19:44:10.917Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772882",
       "shortName": "CAR @ ATL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "12:57",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "15:00",
+      "clock": "11:31",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772880",
       "shortName": "CHI @ MIN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "13:14",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:25",
+      "clock": "7:50",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -179,7 +179,7 @@
           "homeAway": "home",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 14
+          "score": 21
         },
         {
           "id": "24",
