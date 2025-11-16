@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-16T17:38:58.408Z",
+  "ts": "2025-11-16T17:44:06.418Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772631",
-      "shortName": "WSH VS MIA",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 5,
-      "clock": "9:53",
-      "start": "2025-11-16T14:30Z",
-      "teams": [
-        {
-          "id": "15",
-          "homeAway": "home",
-          "abbreviation": "MIA",
-          "displayName": "Miami Dolphins",
-          "score": 13
-        },
-        {
-          "id": "28",
-          "homeAway": "away",
-          "abbreviation": "WSH",
-          "displayName": "Washington Commanders",
-          "score": 13
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
