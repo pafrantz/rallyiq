@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-16T15:07:05.463Z",
+  "ts": "2025-11-16T15:16:19.737Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "WSH VS MIA",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "1:25",
+      "period": 2,
+      "clock": "11:27",
       "start": "2025-11-16T14:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 3
+          "score": 6
         },
         {
           "id": "28",
