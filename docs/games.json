@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-16T00:02:37.138Z",
+  "ts": "2025-11-16T00:40:06.069Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732713",
       "shortName": "PAL @ SAN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "36'",
       "start": "2025-11-16T00:00Z",
       "teams": [
         {
