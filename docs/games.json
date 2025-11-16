@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-16T18:51:31.754Z",
+  "ts": "2025-11-16T18:56:48.926Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "7:52",
+      "clock": "6:14",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "8:52",
+      "clock": "8:03",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "12:01",
+      "clock": "9:49",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:20",
+      "clock": "9:10",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:49",
+      "clock": "12:27",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "10:08",
+      "clock": "9:05",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "8:15",
+      "clock": "7:18",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
