@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-16T16:01:08.959Z",
+  "ts": "2025-11-16T16:09:36.240Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772631",
       "shortName": "WSH VS MIA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "13:31",
       "start": "2025-11-16T14:30Z",
       "teams": [
         {
