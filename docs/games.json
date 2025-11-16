@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-16T20:19:14.133Z",
+  "ts": "2025-11-16T20:29:43.533Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772882",
       "shortName": "CAR @ ATL",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:00",
+      "period": 4,
+      "clock": "10:58",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "4:04",
+      "clock": "0:12",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 24
+          "score": 31
         },
         {
           "id": "27",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "15:00",
+      "clock": "11:19",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 10
+          "score": 13
         }
       ]
     },
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772880",
       "shortName": "CHI @ MIN",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:00",
+      "period": 4,
+      "clock": "12:33",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "MIN",
           "displayName": "Minnesota Vikings",
-          "score": 3
+          "score": 10
         },
         {
           "id": "3",
@@ -116,8 +116,8 @@
       "shortName": "GB @ NYG",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:21",
+      "period": 4,
+      "clock": "9:49",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -143,8 +143,8 @@
       "shortName": "CIN @ PIT",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:37",
+      "period": 4,
+      "clock": "13:28",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:02",
+      "clock": "8:07",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
