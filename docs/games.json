@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-16T22:58:05.722Z",
+  "ts": "2025-11-16T23:06:10.049Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:06",
+      "clock": "3:32",
       "start": "2025-11-16T21:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:32",
+      "clock": "10:13",
       "start": "2025-11-16T21:05Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772777",
       "shortName": "BAL @ CLE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "12:43",
       "start": "2025-11-16T21:25Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772778",
       "shortName": "KC @ DEN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:09",
       "start": "2025-11-16T21:25Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "bra.1",
       "id": "732957",
       "shortName": "CAM @ BRA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "45'",
       "start": "2025-11-16T22:00Z",
       "teams": [
         {
