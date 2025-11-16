@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-16T20:29:43.533Z",
+  "ts": "2025-11-16T20:37:12.270Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:58",
+      "clock": "8:18",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -35,8 +35,8 @@
       "shortName": "TB @ BUF",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:12",
+      "period": 4,
+      "clock": "13:38",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "TB",
           "displayName": "Tampa Bay Buccaneers",
-          "score": 26
+          "score": 32
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:19",
+      "clock": "9:32",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:33",
+      "clock": "8:08",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "9:49",
+      "clock": "7:22",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "NYG",
           "displayName": "New York Giants",
-          "score": 13
+          "score": 20
         },
         {
           "id": "9",
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "13:28",
+      "clock": "12:10",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "8:07",
+      "clock": "6:48",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
