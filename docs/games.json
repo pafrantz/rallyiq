@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-16T21:31:01.793Z",
+  "ts": "2025-11-16T21:37:03.434Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772882",
-      "shortName": "CAR @ ATL",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 5,
-      "clock": "8:45",
-      "start": "2025-11-16T18:00Z",
-      "teams": [
-        {
-          "id": "1",
-          "homeAway": "home",
-          "abbreviation": "ATL",
-          "displayName": "Atlanta Falcons",
-          "score": 27
-        },
-        {
-          "id": "29",
-          "homeAway": "away",
-          "abbreviation": "CAR",
-          "displayName": "Carolina Panthers",
-          "score": 27
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -36,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "6:31",
+      "clock": "3:09",
       "start": "2025-11-16T21:05Z",
       "teams": [
         {
@@ -63,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "4:58",
+      "clock": "2:44",
       "start": "2025-11-16T21:05Z",
       "teams": [
         {
@@ -90,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "12:36",
+      "clock": "9:55",
       "start": "2025-11-16T21:25Z",
       "teams": [
         {
@@ -117,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "11:38",
+      "clock": "7:36",
       "start": "2025-11-16T21:25Z",
       "teams": [
         {
@@ -125,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 0
+          "score": 3
         },
         {
           "id": "12",
