@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-16T21:37:03.434Z",
+  "ts": "2025-11-16T21:42:48.941Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "3:09",
+      "clock": "1:04",
       "start": "2025-11-16T21:05Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 7
+          "score": 14
         },
         {
           "id": "26",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "2:44",
+      "clock": "0:55",
       "start": "2025-11-16T21:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "9:55",
+      "clock": "4:55",
       "start": "2025-11-16T21:25Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "7:36",
+      "clock": "6:38",
       "start": "2025-11-16T21:25Z",
       "teams": [
         {
