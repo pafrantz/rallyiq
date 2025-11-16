@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-16T22:47:33.644Z",
+  "ts": "2025-11-16T22:52:51.439Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:30",
+      "clock": "8:02",
       "start": "2025-11-16T21:05Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 9
+          "score": 12
         }
       ]
     },
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772885",
       "shortName": "SF @ ARI",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:53",
       "start": "2025-11-16T21:05Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772777",
       "shortName": "BAL @ CLE",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:26",
+      "clock": "0:00",
       "start": "2025-11-16T21:25Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772778",
       "shortName": "KC @ DEN",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:12",
+      "clock": "0:00",
       "start": "2025-11-16T21:25Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "bra.1",
       "id": "732957",
       "shortName": "CAM @ BRA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+1'",
+      "clock": "45'+3'",
       "start": "2025-11-16T22:00Z",
       "teams": [
         {
