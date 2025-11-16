@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-16T21:25:16.472Z",
+  "ts": "2025-11-16T21:31:01.793Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772882",
       "shortName": "CAR @ ATL",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 4,
-      "clock": "0:00",
+      "period": 5,
+      "clock": "8:45",
       "start": "2025-11-16T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "8:38",
+      "clock": "6:31",
       "start": "2025-11-16T21:05Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "9:02",
+      "clock": "4:58",
       "start": "2025-11-16T21:05Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 0
+          "score": 7
         },
         {
           "id": "25",
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772777",
       "shortName": "BAL @ CLE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "12:36",
       "start": "2025-11-16T21:25Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401772778",
       "shortName": "KC @ DEN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "11:38",
       "start": "2025-11-16T21:25Z",
       "teams": [
         {
