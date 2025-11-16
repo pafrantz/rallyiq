@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-16T22:15:28.354Z",
+  "ts": "2025-11-16T22:26:21.179Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772884",
       "shortName": "SEA @ LAR",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "2:00",
+      "clock": "0:00",
       "start": "2025-11-16T21:05Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 6
+          "score": 9
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "5:15",
+      "clock": "1:16",
       "start": "2025-11-16T21:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "8:38",
+      "clock": "4:17",
       "start": "2025-11-16T21:25Z",
       "teams": [
         {
@@ -71,14 +71,14 @@
           "homeAway": "home",
           "abbreviation": "CLE",
           "displayName": "Cleveland Browns",
-          "score": 6
+          "score": 13
         },
         {
           "id": "33",
           "homeAway": "away",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 3
+          "score": 10
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "10:23",
+      "clock": "4:38",
       "start": "2025-11-16T21:25Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "KC",
           "displayName": "Kansas City Chiefs",
-          "score": 3
+          "score": 6
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "14'",
+      "clock": "25'",
       "start": "2025-11-16T22:00Z",
       "teams": [
         {
