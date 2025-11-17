@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-17T01:40:38.539Z",
+  "ts": "2025-11-17T02:20:50.555Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "DET @ PHI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "9:38",
+      "period": 2,
+      "clock": "11:16",
       "start": "2025-11-17T01:20Z",
       "teams": [
         {
