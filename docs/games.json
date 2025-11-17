@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-16T23:54:51.029Z",
+  "ts": "2025-11-17T00:00:05.944Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:17",
+      "clock": "1:54",
       "start": "2025-11-16T21:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:49",
+      "clock": "4:44",
       "start": "2025-11-16T21:05Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 35
+          "score": 41
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:49",
+      "clock": "7:16",
       "start": "2025-11-16T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:25",
+      "clock": "9:57",
       "start": "2025-11-16T21:25Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "KC",
           "displayName": "Kansas City Chiefs",
-          "score": 13
+          "score": 19
         }
       ]
     },
