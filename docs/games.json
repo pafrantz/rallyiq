@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-17T01:03:24.635Z",
+  "ts": "2025-11-17T01:40:38.539Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772928",
       "shortName": "DET @ PHI",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "9:38",
       "start": "2025-11-17T01:20Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 0
+          "score": 3
         },
         {
           "id": "8",
