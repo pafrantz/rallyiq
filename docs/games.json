@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-17T04:56:08.579Z",
+  "ts": "2025-11-17T05:02:43.995Z",
   "games": [
     {
       "sport": "football",
@@ -24,6 +24,33 @@
           "homeAway": "away",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732927",
+      "shortName": "SPO @ BOT",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-11-18T23:30Z",
+      "teams": [
+        {
+          "id": "6086",
+          "homeAway": "home",
+          "abbreviation": "BOT",
+          "displayName": "Botafogo",
+          "score": 0
+        },
+        {
+          "id": "7635",
+          "homeAway": "away",
+          "abbreviation": "SPO",
+          "displayName": "Sport",
           "score": 0
         }
       ]
