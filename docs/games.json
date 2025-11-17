@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-17T02:20:50.555Z",
+  "ts": "2025-11-17T02:54:23.342Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772928",
       "shortName": "DET @ PHI",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "11:16",
+      "clock": "0:00",
       "start": "2025-11-17T01:20Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 3
+          "score": 13
         },
         {
           "id": "8",
           "homeAway": "away",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 0
+          "score": 6
         }
       ]
     },
