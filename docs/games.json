@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-18T02:17:39.389Z",
+  "ts": "2025-11-18T02:50:28.471Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772819",
       "shortName": "DAL @ LV",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "5:16",
+      "clock": "0:00",
       "start": "2025-11-18T01:15Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "LV",
           "displayName": "Las Vegas Raiders",
-          "score": 6
+          "score": 9
         },
         {
           "id": "6",
           "homeAway": "away",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 17
+          "score": 24
         }
       ]
     },
