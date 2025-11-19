@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-19T22:28:30.557Z",
+  "ts": "2025-11-19T22:37:02.141Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732958",
       "shortName": "VIT @ PAL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "6'",
       "start": "2025-11-19T22:30Z",
       "teams": [
         {
