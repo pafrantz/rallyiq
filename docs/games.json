@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-20T22:26:46.270Z",
+  "ts": "2025-11-20T22:34:17.073Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "60'",
+      "clock": "67'",
       "start": "2025-11-20T21:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BAH",
           "displayName": "Bahia",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6272",
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732925",
       "shortName": "SAO @ COR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "4'",
       "start": "2025-11-20T22:30Z",
       "teams": [
         {
