@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-20T18:59:32.005Z",
+  "ts": "2025-11-20T19:07:38.065Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732922",
       "shortName": "CRU @ JUV",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "6'",
       "start": "2025-11-20T19:00Z",
       "teams": [
         {
