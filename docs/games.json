@@ -1,6 +1,114 @@
 {
-  "ts": "2025-11-20T08:09:30.163Z",
+  "ts": "2025-11-20T08:20:56.486Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732922",
+      "shortName": "CRU @ JUV",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-11-20T19:00Z",
+      "teams": [
+        {
+          "id": "6270",
+          "homeAway": "home",
+          "abbreviation": "JUV",
+          "displayName": "Juventude",
+          "score": 0
+        },
+        {
+          "id": "2022",
+          "homeAway": "away",
+          "abbreviation": "CRU",
+          "displayName": "Cruzeiro",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732928",
+      "shortName": "FOR @ BAH",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-11-20T21:00Z",
+      "teams": [
+        {
+          "id": "9967",
+          "homeAway": "home",
+          "abbreviation": "BAH",
+          "displayName": "Bahia",
+          "score": 0
+        },
+        {
+          "id": "6272",
+          "homeAway": "away",
+          "abbreviation": "FOR",
+          "displayName": "Fortaleza",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732925",
+      "shortName": "SAO @ COR",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-11-20T22:30Z",
+      "teams": [
+        {
+          "id": "874",
+          "homeAway": "home",
+          "abbreviation": "COR",
+          "displayName": "Corinthians",
+          "score": 0
+        },
+        {
+          "id": "2026",
+          "homeAway": "away",
+          "abbreviation": "SAO",
+          "displayName": "São Paulo",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732926",
+      "shortName": "INT @ CEA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-11-21T00:30Z",
+      "teams": [
+        {
+          "id": "9969",
+          "homeAway": "home",
+          "abbreviation": "CEA",
+          "displayName": "Ceará",
+          "score": 0
+        },
+        {
+          "id": "1936",
+          "homeAway": "away",
+          "abbreviation": "INT",
+          "displayName": "Internacional",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "football",
       "league": "nfl",
