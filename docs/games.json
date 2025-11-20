@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-20T20:09:24.169Z",
+  "ts": "2025-11-20T20:20:16.193Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732922",
       "shortName": "CRU @ JUV",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "57'",
       "start": "2025-11-20T19:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "CRU",
           "displayName": "Cruzeiro",
-          "score": 1
+          "score": 2
         }
       ]
     },
