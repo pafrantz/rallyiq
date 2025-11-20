@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-20T23:04:50.821Z",
+  "ts": "2025-11-20T23:13:42.862Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732928",
-      "shortName": "FOR @ BAH",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+8'",
-      "start": "2025-11-20T21:00Z",
-      "teams": [
-        {
-          "id": "9967",
-          "homeAway": "home",
-          "abbreviation": "BAH",
-          "displayName": "Bahia",
-          "score": 2
-        },
-        {
-          "id": "6272",
-          "homeAway": "away",
-          "abbreviation": "FOR",
-          "displayName": "Fortaleza",
-          "score": 3
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "34'",
+      "clock": "43'",
       "start": "2025-11-20T22:30Z",
       "teams": [
         {
