@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-20T01:43:31.829Z",
+  "ts": "2025-11-20T02:19:22.120Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "48'",
+      "clock": "83'",
       "start": "2025-11-20T00:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "49'",
+      "clock": "84'",
       "start": "2025-11-20T00:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "GRE",
           "displayName": "Grêmio",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3454",
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "48'",
+      "clock": "83'",
       "start": "2025-11-20T00:30Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "MIR",
           "displayName": "Mirassol",
-          "score": 0
+          "score": 1
         }
       ]
     },
