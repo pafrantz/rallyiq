@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-21T01:37:50.119Z",
+  "ts": "2025-11-21T02:17:15.216Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "45'",
+      "clock": "84'",
       "start": "2025-11-21T00:30Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "CEA",
           "displayName": "Ceará",
-          "score": 0
+          "score": 1
         },
         {
           "id": "1936",
           "homeAway": "away",
           "abbreviation": "INT",
           "displayName": "Internacional",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -35,8 +35,8 @@
       "shortName": "BUF @ HOU",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "5:21",
+      "period": 2,
+      "clock": "6:09",
       "start": "2025-11-21T01:15Z",
       "teams": [
         {
@@ -44,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 0
+          "score": 3
         },
         {
           "id": "2",
           "homeAway": "away",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 6
+          "score": 9
         }
       ]
     },
