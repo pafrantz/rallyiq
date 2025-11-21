@@ -1,42 +1,15 @@
 {
-  "ts": "2025-11-21T00:00:07.797Z",
+  "ts": "2025-11-21T00:36:11.530Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732925",
-      "shortName": "SAO @ COR",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "69'",
-      "start": "2025-11-20T22:30Z",
-      "teams": [
-        {
-          "id": "874",
-          "homeAway": "home",
-          "abbreviation": "COR",
-          "displayName": "Corinthians",
-          "score": 1
-        },
-        {
-          "id": "2026",
-          "homeAway": "away",
-          "abbreviation": "SAO",
-          "displayName": "São Paulo",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732926",
       "shortName": "INT @ CEA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "4'",
       "start": "2025-11-21T00:30Z",
       "teams": [
         {
