@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-21T01:01:31.661Z",
+  "ts": "2025-11-21T01:37:50.119Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732926",
       "shortName": "INT @ CEA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "30'",
+      "period": 2,
+      "clock": "45'",
       "start": "2025-11-21T00:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772946",
       "shortName": "BUF @ HOU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "5:21",
       "start": "2025-11-21T01:15Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 0
+          "score": 6
         }
       ]
     },
