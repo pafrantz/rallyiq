@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-22T15:49:16.797Z",
+  "ts": "2025-11-22T15:54:35.370Z",
   "games": [
     {
       "sport": "soccer",
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740706",
       "shortName": "BRE @ BHA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+2'",
+      "clock": "45'+5'",
       "start": "2025-11-22T15:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740710",
       "shortName": "NFO @ LIV",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+2'",
+      "clock": "45'+6'",
       "start": "2025-11-22T15:00Z",
       "teams": [
         {
