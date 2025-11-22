@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-22T22:26:40.434Z",
+  "ts": "2025-11-22T22:35:01.657Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732937",
       "shortName": "GRE @ BOT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "3'",
       "start": "2025-11-22T22:30Z",
       "teams": [
         {
