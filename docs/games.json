@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-22T18:10:40.789Z",
+  "ts": "2025-11-22T18:22:01.821Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740712",
       "shortName": "MNC @ NEW",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "39'",
+      "clock": "45'+3'",
       "start": "2025-11-22T17:30Z",
       "teams": [
         {
