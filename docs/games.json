@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-22T19:26:51.612Z",
+  "ts": "2025-11-22T19:32:27.392Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740712",
-      "shortName": "MNC @ NEW",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+8'",
-      "start": "2025-11-22T17:30Z",
-      "teams": [
-        {
-          "id": "361",
-          "homeAway": "home",
-          "abbreviation": "NEW",
-          "displayName": "Newcastle United",
-          "score": 2
-        },
-        {
-          "id": "382",
-          "homeAway": "away",
-          "abbreviation": "MNC",
-          "displayName": "Manchester City",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
