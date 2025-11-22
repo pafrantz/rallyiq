@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-22T16:47:54.952Z",
+  "ts": "2025-11-22T16:53:36.378Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "88'",
+      "clock": "90'+4'",
       "start": "2025-11-22T15:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "86'",
+      "clock": "90'+2'",
       "start": "2025-11-22T15:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "89'",
+      "clock": "90'+5'",
       "start": "2025-11-22T15:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "86'",
+      "clock": "90'+3'",
       "start": "2025-11-22T15:00Z",
       "teams": [
         {
@@ -106,33 +106,6 @@
           "abbreviation": "NFO",
           "displayName": "Nottingham Forest",
           "score": 3
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740713",
-      "shortName": "CRY @ WOL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+1'",
-      "start": "2025-11-22T15:00Z",
-      "teams": [
-        {
-          "id": "380",
-          "homeAway": "home",
-          "abbreviation": "WOL",
-          "displayName": "Wolverhampton Wanderers",
-          "score": 0
-        },
-        {
-          "id": "384",
-          "homeAway": "away",
-          "abbreviation": "CRY",
-          "displayName": "Crystal Palace",
-          "score": 2
         }
       ]
     },
