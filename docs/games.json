@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-22T12:19:26.181Z",
+  "ts": "2025-11-22T12:34:47.121Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740707",
       "shortName": "CHE @ BUR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "3'",
       "start": "2025-11-22T12:30Z",
       "teams": [
         {
