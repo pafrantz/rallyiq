@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-22T16:19:14.923Z",
+  "ts": "2025-11-22T16:31:49.896Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "61'",
+      "clock": "73'",
       "start": "2025-11-22T15:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BOU",
           "displayName": "AFC Bournemouth",
-          "score": 0
+          "score": 1
         },
         {
           "id": "371",
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "57'",
+      "clock": "71'",
       "start": "2025-11-22T15:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "BHA",
           "displayName": "Brighton & Hove Albion",
-          "score": 0
+          "score": 1
         },
         {
           "id": "337",
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "61'",
+      "clock": "72'",
       "start": "2025-11-22T15:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "58'",
+      "clock": "71'",
       "start": "2025-11-22T15:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "62'",
+      "clock": "75'",
       "start": "2025-11-22T15:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "CRY",
           "displayName": "Crystal Palace",
-          "score": 0
+          "score": 2
         }
       ]
     },
