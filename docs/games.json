@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-23T21:01:08.755Z",
+  "ts": "2025-11-23T21:09:12.323Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "1:53",
+      "clock": "0:42",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "3:08",
+      "clock": "1:51",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 23
+          "score": 26
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "1:59",
+      "clock": "0:28",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 24
+          "score": 27
         },
         {
           "id": "19",
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:59",
+      "clock": "0:43",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 17
+          "score": 24
         },
         {
           "id": "26",
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "3:32",
+      "clock": "1:49",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -137,41 +137,14 @@
       ]
     },
     {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732938",
-      "shortName": "VAS @ BAH",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+5'",
-      "start": "2025-11-23T19:00Z",
-      "teams": [
-        {
-          "id": "9967",
-          "homeAway": "home",
-          "abbreviation": "BAH",
-          "displayName": "Bahia",
-          "score": 1
-        },
-        {
-          "id": "3454",
-          "homeAway": "away",
-          "abbreviation": "VAS",
-          "displayName": "Vasco da Gama",
-          "score": 0
-        }
-      ]
-    },
-    {
       "sport": "football",
       "league": "nfl",
       "id": "401772784",
       "shortName": "CLE @ LV",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "13:27",
       "start": "2025-11-23T21:05Z",
       "teams": [
         {
@@ -195,10 +168,10 @@
       "league": "nfl",
       "id": "401772783",
       "shortName": "JAX @ ARI",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "13:42",
       "start": "2025-11-23T21:05Z",
       "teams": [
         {
