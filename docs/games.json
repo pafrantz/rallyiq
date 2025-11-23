@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-23T23:21:09.560Z",
+  "ts": "2025-11-23T23:29:07.927Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "CLE @ LV",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:47",
+      "period": 4,
+      "clock": "14:35",
       "start": "2025-11-23T21:05Z",
       "teams": [
         {
@@ -35,8 +35,8 @@
       "shortName": "JAX @ ARI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "3:06",
+      "period": 4,
+      "clock": "13:36",
       "start": "2025-11-23T21:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:25",
+      "clock": "9:16",
       "start": "2025-11-23T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "7:32",
+      "clock": "5:37",
       "start": "2025-11-23T21:25Z",
       "teams": [
         {
@@ -106,33 +106,6 @@
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
           "score": 16
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732930",
-      "shortName": "VIT @ SPO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+1'",
-      "start": "2025-11-23T21:30Z",
-      "teams": [
-        {
-          "id": "7635",
-          "homeAway": "home",
-          "abbreviation": "SPO",
-          "displayName": "Sport",
-          "score": 1
-        },
-        {
-          "id": "3457",
-          "homeAway": "away",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 3
         }
       ]
     },
