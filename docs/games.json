@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-23T18:41:13.642Z",
+  "ts": "2025-11-23T18:49:41.842Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:59",
+      "clock": "12:40",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "PIT",
           "displayName": "Pittsburgh Steelers",
-          "score": 7
+          "score": 14
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "15:00",
+      "clock": "13:22",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 3
+          "score": 10
         },
         {
           "id": "17",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:21",
+      "clock": "11:41",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 0
+          "score": 7
         },
         {
           "id": "19",
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "15:00",
+      "clock": "10:26",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:45",
+      "clock": "11:02",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 3
+          "score": 10
         }
       ]
     },
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:47",
+      "clock": "10:31",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -159,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 7
+          "score": 14
         }
       ]
     },
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:26",
+      "clock": "9:14",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
