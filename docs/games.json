@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-23T20:18:27.734Z",
+  "ts": "2025-11-23T20:30:12.400Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "PIT @ CHI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "4:45",
+      "period": 4,
+      "clock": "14:14",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 24
+          "score": 31
         },
         {
           "id": "23",
@@ -35,8 +35,8 @@
       "shortName": "NE @ CIN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "3:33",
+      "period": 4,
+      "clock": "13:10",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 17
+          "score": 20
         }
       ]
     },
@@ -62,8 +62,8 @@
       "shortName": "NYG @ DET",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "2:19",
+      "period": 4,
+      "clock": "12:16",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "NYG",
           "displayName": "New York Giants",
-          "score": 20
+          "score": 27
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:14",
+      "clock": "7:30",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 20
+          "score": 23
         },
         {
           "id": "16",
@@ -116,8 +116,8 @@
       "shortName": "SEA @ TEN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "2:15",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 10
+          "score": 17
         },
         {
           "id": "26",
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "15:00",
+      "clock": "13:00",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "13:19",
+      "clock": "6:58",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -179,7 +179,7 @@
           "homeAway": "home",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 17
+          "score": 20
         },
         {
           "id": "20",
@@ -198,7 +198,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "52'",
+      "clock": "64'",
       "start": "2025-11-23T19:00Z",
       "teams": [
         {
@@ -225,7 +225,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "57'",
+      "clock": "69'",
       "start": "2025-11-23T19:00Z",
       "teams": [
         {
