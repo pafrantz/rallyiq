@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-23T01:10:31.642Z",
+  "ts": "2025-11-23T01:51:13.764Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732935",
       "shortName": "BRA @ FLA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "40'",
+      "period": 2,
+      "clock": "61'",
       "start": "2025-11-23T00:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "FLA",
           "displayName": "Flamengo",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6079",
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732931",
       "shortName": "FLU @ PAL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "39'",
+      "period": 2,
+      "clock": "60'",
       "start": "2025-11-23T00:30Z",
       "teams": [
         {
