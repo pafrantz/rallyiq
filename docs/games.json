@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-23T17:57:09.501Z",
+  "ts": "2025-11-23T18:05:36.315Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "68'",
+      "clock": "76'",
       "start": "2025-11-23T16:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "ARS",
           "displayName": "Arsenal",
-          "score": 3
+          "score": 4
         },
         {
           "id": "367",
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772780",
       "shortName": "PIT @ CHI",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "13:35",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772781",
       "shortName": "NE @ CIN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "13:38",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772888",
       "shortName": "NYG @ DET",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "13:53",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401772887",
       "shortName": "MIN @ GB",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "14:22",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -141,10 +141,10 @@
       "league": "nfl",
       "id": "401772886",
       "shortName": "SEA @ TEN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "14:14",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -168,10 +168,10 @@
       "league": "nfl",
       "id": "401772779",
       "shortName": "IND @ KC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "13:40",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -195,10 +195,10 @@
       "league": "nfl",
       "id": "401772782",
       "shortName": "NYJ @ BAL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "14:11",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
