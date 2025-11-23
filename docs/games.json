@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-23T23:47:51.239Z",
+  "ts": "2025-11-23T23:53:13.325Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "8:18",
+      "clock": "6:33",
       "start": "2025-11-23T21:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "7:12",
+      "clock": "3:54",
       "start": "2025-11-23T21:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "2:44",
+      "clock": "1:24",
       "start": "2025-11-23T21:25Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 7
+          "score": 14
         },
         {
           "id": "21",
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:13",
+      "clock": "11:57",
       "start": "2025-11-23T21:25Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "13'",
+      "clock": "17'",
       "start": "2025-11-23T23:30Z",
       "teams": [
         {
