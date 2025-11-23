@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-23T15:56:32.904Z",
+  "ts": "2025-11-23T16:03:31.945Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740709",
-      "shortName": "AVL @ LEE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2025-11-23T14:00Z",
-      "teams": [
-        {
-          "id": "357",
-          "homeAway": "home",
-          "abbreviation": "LEE",
-          "displayName": "Leeds United",
-          "score": 1
-        },
-        {
-          "id": "362",
-          "homeAway": "away",
-          "abbreviation": "AVL",
-          "displayName": "Aston Villa",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
