@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-23T15:00:51.463Z",
+  "ts": "2025-11-23T15:08:44.698Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740709",
       "shortName": "AVL @ LEE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+7'",
+      "period": 2,
+      "clock": "46'",
       "start": "2025-11-23T14:00Z",
       "teams": [
         {
