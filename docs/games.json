@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-23T22:39:02.978Z",
+  "ts": "2025-11-23T22:45:22.300Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772784",
       "shortName": "CLE @ LV",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "13:32",
       "start": "2025-11-23T21:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "3:07",
+      "clock": "2:00",
       "start": "2025-11-23T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "2:00",
+      "clock": "0:52",
       "start": "2025-11-23T21:25Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 10
+          "score": 13
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "48'",
+      "clock": "55'",
       "start": "2025-11-23T21:30Z",
       "teams": [
         {
