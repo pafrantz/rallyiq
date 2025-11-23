@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-23T20:38:06.173Z",
+  "ts": "2025-11-23T20:44:42.092Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "9:42",
+      "clock": "7:41",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "9:41",
+      "clock": "5:55",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 20
+          "score": 23
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:50",
+      "clock": "8:10",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -85,39 +85,12 @@
     {
       "sport": "football",
       "league": "nfl",
-      "id": "401772887",
-      "shortName": "MIN @ GB",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "3:37",
-      "start": "2025-11-23T18:00Z",
-      "teams": [
-        {
-          "id": "9",
-          "homeAway": "home",
-          "abbreviation": "GB",
-          "displayName": "Green Bay Packers",
-          "score": 23
-        },
-        {
-          "id": "16",
-          "homeAway": "away",
-          "abbreviation": "MIN",
-          "displayName": "Minnesota Vikings",
-          "score": 6
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
       "id": "401772886",
       "shortName": "SEA @ TEN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:40",
+      "clock": "10:51",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -144,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "8:37",
+      "clock": "7:27",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -171,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "3:11",
+      "clock": "1:45",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -198,7 +171,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "72'",
+      "clock": "77'",
       "start": "2025-11-23T19:00Z",
       "teams": [
         {
@@ -206,7 +179,7 @@
           "homeAway": "home",
           "abbreviation": "BAH",
           "displayName": "Bahia",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3454",
@@ -225,7 +198,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "83'",
       "start": "2025-11-23T19:00Z",
       "teams": [
         {
