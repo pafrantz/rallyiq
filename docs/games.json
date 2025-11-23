@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-23T18:15:53.252Z",
+  "ts": "2025-11-23T18:28:58.041Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740714",
-      "shortName": "TOT @ ARS",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "86'",
-      "start": "2025-11-23T16:30Z",
-      "teams": [
-        {
-          "id": "359",
-          "homeAway": "home",
-          "abbreviation": "ARS",
-          "displayName": "Arsenal",
-          "score": 4
-        },
-        {
-          "id": "367",
-          "homeAway": "away",
-          "abbreviation": "TOT",
-          "displayName": "Tottenham Hotspur",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -36,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "8:35",
+      "clock": "0:54",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -44,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 0
+          "score": 7
         },
         {
           "id": "23",
@@ -63,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "11:51",
+      "clock": "5:28",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -71,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 0
+          "score": 3
         },
         {
           "id": "17",
@@ -90,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "9:14",
+      "clock": "5:03",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -117,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "10:05",
+      "clock": "4:27",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -125,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 0
+          "score": 7
         },
         {
           "id": "16",
@@ -144,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "5:51",
+      "clock": "2:14",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -159,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -171,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "8:53",
+      "clock": "2:16",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
@@ -186,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -198,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "9:38",
+      "clock": "2:15",
       "start": "2025-11-23T18:00Z",
       "teams": [
         {
