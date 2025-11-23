@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-23T22:02:07.335Z",
+  "ts": "2025-11-23T22:10:43.037Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "8:37",
+      "clock": "4:16",
       "start": "2025-11-23T21:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "8:15",
+      "clock": "6:40",
       "start": "2025-11-23T21:05Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 7
+          "score": 14
         },
         {
           "id": "30",
@@ -62,8 +62,8 @@
       "shortName": "PHI @ DAL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:57",
+      "period": 2,
+      "clock": "14:46",
       "start": "2025-11-23T21:25Z",
       "teams": [
         {
@@ -89,8 +89,8 @@
       "shortName": "ATL @ NO",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:17",
+      "period": 2,
+      "clock": "11:31",
       "start": "2025-11-23T21:25Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 3
+          "score": 10
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "31'",
+      "clock": "40'",
       "start": "2025-11-23T21:30Z",
       "teams": [
         {
