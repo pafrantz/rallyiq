@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-24T23:02:13.140Z",
+  "ts": "2025-11-24T23:10:46.364Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732932",
       "shortName": "CEA @ MIR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "49'",
       "start": "2025-11-24T22:00Z",
       "teams": [
         {
