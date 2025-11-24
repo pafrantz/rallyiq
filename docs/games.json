@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-24T21:03:44.400Z",
+  "ts": "2025-11-24T21:12:41.243Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740711",
       "shortName": "EVE @ MAN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "51'",
       "start": "2025-11-24T20:00Z",
       "teams": [
         {
