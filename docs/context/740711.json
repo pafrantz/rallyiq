@@ -1,8 +1,8 @@
 {
-  "ts": "2025-11-24T08:12:51.074Z",
-  "sport": "football",
-  "league": "nfl",
-  "eventId": "401772820",
+  "ts": "2025-11-24T08:12:51.000Z",
+  "sport": "soccer",
+  "league": "eng.1",
+  "eventId": "740711",
   "context": {
     "down": null,
     "distance": null,
