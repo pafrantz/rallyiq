@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-25T00:34:57.119Z",
+  "ts": "2025-11-25T00:59:37.856Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732933",
       "shortName": "SAN @ INT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "33'",
+      "clock": "45'+3'",
       "start": "2025-11-25T00:00Z",
       "teams": [
         {
