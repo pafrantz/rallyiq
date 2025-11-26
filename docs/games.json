@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-26T01:07:09.590Z",
+  "ts": "2025-11-26T01:45:50.820Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732943",
       "shortName": "FLA @ CAM",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "37'",
+      "period": 2,
+      "clock": "58'",
       "start": "2025-11-26T00:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732949",
       "shortName": "PAL @ GRE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "36'",
+      "period": 2,
+      "clock": "54'",
       "start": "2025-11-26T00:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "GRE",
           "displayName": "Grêmio",
-          "score": 0
+          "score": 1
         },
         {
           "id": "2029",
