@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-26T00:40:17.053Z",
+  "ts": "2025-11-26T01:07:09.590Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "8'",
+      "clock": "37'",
       "start": "2025-11-26T00:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CAM",
           "displayName": "Atlético-MG",
-          "score": 0
+          "score": 1
         },
         {
           "id": "819",
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "9'",
+      "clock": "36'",
       "start": "2025-11-26T00:30Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "PAL",
           "displayName": "Palmeiras",
-          "score": 0
+          "score": 1
         }
       ]
     }
