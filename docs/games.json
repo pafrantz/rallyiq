@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-26T23:02:02.687Z",
+  "ts": "2025-11-26T23:10:21.745Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732946",
       "shortName": "FOR @ BRA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "50'",
       "start": "2025-11-26T22:00Z",
       "teams": [
         {
