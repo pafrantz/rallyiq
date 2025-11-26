@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-26T00:19:07.439Z",
+  "ts": "2025-11-26T00:40:17.053Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732943",
       "shortName": "FLA @ CAM",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "8'",
       "start": "2025-11-26T00:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732949",
       "shortName": "PAL @ GRE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "9'",
       "start": "2025-11-26T00:30Z",
       "teams": [
         {
