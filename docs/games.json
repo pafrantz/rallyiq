@@ -1,32 +1,4 @@
 {
-  "ts": "2025-11-26T02:23:36.764Z",
-  "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732949",
-      "shortName": "PAL @ GRE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2025-11-26T00:30Z",
-      "teams": [
-        {
-          "id": "6273",
-          "homeAway": "home",
-          "abbreviation": "GRE",
-          "displayName": "Grêmio",
-          "score": 3
-        },
-        {
-          "id": "2029",
-          "homeAway": "away",
-          "abbreviation": "PAL",
-          "displayName": "Palmeiras",
-          "score": 1
-        }
-      ]
-    }
-  ]
+  "ts": "2025-11-26T02:56:52.980Z",
+  "games": []
 }
