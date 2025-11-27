@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-27T23:45:49.802Z",
+  "ts": "2025-11-27T23:51:22.857Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:30",
+      "clock": "4:18",
       "start": "2025-11-27T21:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "15'",
+      "clock": "20'",
       "start": "2025-11-27T23:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "FLU",
           "displayName": "Fluminense",
-          "score": 1
+          "score": 2
         },
         {
           "id": "2026",
