@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-27T20:05:34.356Z",
+  "ts": "2025-11-27T20:15:10.207Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:31",
+      "clock": "7:25",
       "start": "2025-11-27T18:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 14
+          "score": 21
         },
         {
           "id": "9",
