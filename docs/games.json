@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-27T18:11:40.698Z",
+  "ts": "2025-11-27T18:23:54.888Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "9:26",
+      "clock": "7:30",
       "start": "2025-11-27T18:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 0
+          "score": 3
         }
       ]
     },
