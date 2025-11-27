@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-27T21:14:59.062Z",
+  "ts": "2025-11-27T21:25:08.629Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772891",
-      "shortName": "GB @ DET",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:55",
-      "start": "2025-11-27T18:00Z",
-      "teams": [
-        {
-          "id": "8",
-          "homeAway": "home",
-          "abbreviation": "DET",
-          "displayName": "Detroit Lions",
-          "score": 24
-        },
-        {
-          "id": "9",
-          "homeAway": "away",
-          "abbreviation": "GB",
-          "displayName": "Green Bay Packers",
-          "score": 31
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
