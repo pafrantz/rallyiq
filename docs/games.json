@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-27T17:59:15.590Z",
+  "ts": "2025-11-27T18:11:40.698Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772891",
       "shortName": "GB @ DET",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "9:26",
       "start": "2025-11-27T18:00Z",
       "teams": [
         {
