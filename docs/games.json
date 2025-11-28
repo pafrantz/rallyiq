@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-28T02:51:11.043Z",
+  "ts": "2025-11-28T03:17:55.916Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "CIN @ BAL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:36",
+      "period": 3,
+      "clock": "13:40",
       "start": "2025-11-28T01:20Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 9
+          "score": 12
         }
       ]
     },
