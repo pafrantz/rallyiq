@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-27T23:56:52.558Z",
+  "ts": "2025-11-28T00:15:52.851Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "KC @ DAL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "4:09",
+      "period": 4,
+      "clock": "13:24",
       "start": "2025-11-27T21:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "KC",
           "displayName": "Kansas City Chiefs",
-          "score": 14
+          "score": 21
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "26'",
+      "clock": "45'",
       "start": "2025-11-27T23:30Z",
       "teams": [
         {
