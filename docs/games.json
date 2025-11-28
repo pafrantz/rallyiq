@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-28T22:43:42.797Z",
+  "ts": "2025-11-28T22:49:11.032Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "3:23",
+      "clock": "3:10",
       "start": "2025-11-28T20:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 9
+          "score": 15
         },
         {
           "id": "3",
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732945",
       "shortName": "BAH @ JUV",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "42'",
+      "clock": "45'+3'",
       "start": "2025-11-28T22:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "13'",
+      "clock": "19'",
       "start": "2025-11-28T22:30Z",
       "teams": [
         {
