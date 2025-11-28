@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-28T03:36:42.043Z",
+  "ts": "2025-11-28T03:51:46.610Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "3:59",
+      "clock": "0:15",
       "start": "2025-11-28T01:20Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 13
+          "score": 14
         },
         {
           "id": "4",
           "homeAway": "away",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 19
+          "score": 26
         }
       ]
     },
