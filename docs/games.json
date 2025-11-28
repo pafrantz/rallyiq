@@ -1,42 +1,15 @@
 {
-  "ts": "2025-11-28T22:59:41.061Z",
+  "ts": "2025-11-28T23:08:25.583Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772621",
-      "shortName": "CHI @ PHI",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:12",
-      "start": "2025-11-28T20:00Z",
-      "teams": [
-        {
-          "id": "21",
-          "homeAway": "home",
-          "abbreviation": "PHI",
-          "displayName": "Philadelphia Eagles",
-          "score": 15
-        },
-        {
-          "id": "3",
-          "homeAway": "away",
-          "abbreviation": "CHI",
-          "displayName": "Chicago Bears",
-          "score": 24
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732945",
       "shortName": "BAH @ JUV",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "49'",
       "start": "2025-11-28T22:00Z",
       "teams": [
         {
@@ -63,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "29'",
+      "clock": "38'",
       "start": "2025-11-28T22:30Z",
       "teams": [
         {
