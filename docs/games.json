@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-28T19:57:50.767Z",
+  "ts": "2025-11-28T20:06:26.197Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772621",
       "shortName": "CHI @ PHI",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "12:58",
       "start": "2025-11-28T20:00Z",
       "teams": [
         {
