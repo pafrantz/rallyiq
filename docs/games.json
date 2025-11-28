@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-28T21:55:17.351Z",
+  "ts": "2025-11-28T22:00:55.099Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "8:05",
+      "clock": "7:21",
       "start": "2025-11-28T20:00Z",
       "teams": [
         {
@@ -33,9 +33,9 @@
       "league": "bra.1",
       "id": "732945",
       "shortName": "BAH @ JUV",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2025-11-28T22:00Z",
       "teams": [
