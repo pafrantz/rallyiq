@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-29T19:22:49.846Z",
+  "ts": "2025-11-29T19:28:16.170Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740721",
-      "shortName": "NEW @ EVE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+3'",
-      "start": "2025-11-29T17:30Z",
-      "teams": [
-        {
-          "id": "368",
-          "homeAway": "home",
-          "abbreviation": "EVE",
-          "displayName": "Everton",
-          "score": 1
-        },
-        {
-          "id": "361",
-          "homeAway": "away",
-          "abbreviation": "NEW",
-          "displayName": "Newcastle United",
-          "score": 4
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "20'",
+      "clock": "26'",
       "start": "2025-11-29T19:00Z",
       "teams": [
         {
@@ -44,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "VIT",
           "displayName": "Vitória",
-          "score": 0
+          "score": 1
         },
         {
           "id": "9169",
