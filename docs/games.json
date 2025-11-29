@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-29T00:38:47.870Z",
+  "ts": "2025-11-29T01:04:57.075Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732948",
       "shortName": "INT @ VAS",
-      "status": "STATUS_DELAYED",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "46'",
       "start": "2025-11-28T22:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "5'",
+      "clock": "32'",
       "start": "2025-11-29T00:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "SAN",
           "displayName": "Santos",
-          "score": 0
+          "score": 1
         },
         {
           "id": "7635",
