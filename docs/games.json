@@ -1,39 +1,12 @@
 {
-  "ts": "2025-11-28T23:57:07.237Z",
+  "ts": "2025-11-29T00:18:05.119Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732945",
-      "shortName": "BAH @ JUV",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+7'",
-      "start": "2025-11-28T22:00Z",
-      "teams": [
-        {
-          "id": "6270",
-          "homeAway": "home",
-          "abbreviation": "JUV",
-          "displayName": "Juventude",
-          "score": 1
-        },
-        {
-          "id": "9967",
-          "homeAway": "away",
-          "abbreviation": "BAH",
-          "displayName": "Bahia",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732948",
       "shortName": "INT @ VAS",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_DELAYED",
       "state": "IN",
       "period": 1,
       "clock": "45'+4'",
