@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-29T16:52:27.698Z",
+  "ts": "2025-11-29T16:57:26.754Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740718",
-      "shortName": "BUR @ BRE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2025-11-29T15:00Z",
-      "teams": [
-        {
-          "id": "337",
-          "homeAway": "home",
-          "abbreviation": "BRE",
-          "displayName": "Brentford",
-          "score": 3
-        },
-        {
-          "id": "379",
-          "homeAway": "away",
-          "abbreviation": "BUR",
-          "displayName": "Burnley",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "90'+2'",
+      "clock": "90'+7'",
       "start": "2025-11-29T15:00Z",
       "teams": [
         {
@@ -63,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "86'",
+      "clock": "90'+2'",
       "start": "2025-11-29T15:00Z",
       "teams": [
         {
