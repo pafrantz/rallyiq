@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-29T15:57:17.465Z",
+  "ts": "2025-11-29T16:05:01.995Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740718",
       "shortName": "BUR @ BRE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "47'",
       "start": "2025-11-29T15:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+4'",
+      "clock": "45'",
       "start": "2025-11-29T15:00Z",
       "teams": [
         {
