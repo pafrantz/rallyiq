@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-29T21:53:20.494Z",
+  "ts": "2025-11-29T21:58:47.282Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740720",
-      "shortName": "FUL @ TOT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2025-11-29T20:00Z",
-      "teams": [
-        {
-          "id": "367",
-          "homeAway": "home",
-          "abbreviation": "TOT",
-          "displayName": "Tottenham Hotspur",
-          "score": 1
-        },
-        {
-          "id": "370",
-          "homeAway": "away",
-          "abbreviation": "FUL",
-          "displayName": "Fulham",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
