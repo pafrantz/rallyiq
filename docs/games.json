@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-29T20:57:28.364Z",
+  "ts": "2025-11-29T21:04:32.792Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732944",
-      "shortName": "MIR @ VIT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2025-11-29T19:00Z",
-      "teams": [
-        {
-          "id": "3457",
-          "homeAway": "home",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 2
-        },
-        {
-          "id": "9169",
-          "homeAway": "away",
-          "abbreviation": "MIR",
-          "displayName": "Mirassol",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
