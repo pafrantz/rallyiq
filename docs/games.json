@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-29T16:26:44.575Z",
+  "ts": "2025-11-29T16:37:30.362Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "67'",
+      "clock": "77'",
       "start": "2025-11-29T15:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "66'",
+      "clock": "77'",
       "start": "2025-11-29T15:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "LEE",
           "displayName": "Leeds United",
-          "score": 1
+          "score": 2
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "61'",
+      "clock": "72'",
       "start": "2025-11-29T15:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "SUN",
           "displayName": "Sunderland",
-          "score": 2
+          "score": 3
         },
         {
           "id": "349",
