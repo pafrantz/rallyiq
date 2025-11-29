@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-29T18:58:27.542Z",
+  "ts": "2025-11-29T19:05:57.119Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "68'",
+      "clock": "76'",
       "start": "2025-11-29T17:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "EVE",
           "displayName": "Everton",
-          "score": 0
+          "score": 1
         },
         {
           "id": "361",
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732944",
       "shortName": "MIR @ VIT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "4'",
       "start": "2025-11-29T19:00Z",
       "teams": [
         {
