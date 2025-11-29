@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-29T19:45:53.357Z",
+  "ts": "2025-11-29T19:51:28.250Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732944",
       "shortName": "MIR @ VIT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "43'",
+      "clock": "45'+4'",
       "start": "2025-11-29T19:00Z",
       "teams": [
         {
