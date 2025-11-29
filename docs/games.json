@@ -1,14 +1,14 @@
 {
-  "ts": "2025-11-29T17:23:17.371Z",
+  "ts": "2025-11-29T17:31:24.317Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740721",
       "shortName": "NEW @ EVE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2025-11-29T17:30Z",
       "teams": [
