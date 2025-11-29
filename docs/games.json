@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-29T01:04:57.075Z",
+  "ts": "2025-11-29T01:42:42.836Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "46'",
+      "clock": "85'",
       "start": "2025-11-28T22:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "VAS",
           "displayName": "Vasco da Gama",
-          "score": 2
+          "score": 5
         },
         {
           "id": "1936",
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732947",
       "shortName": "SPO @ SAN",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "32'",
+      "period": 2,
+      "clock": "48'",
       "start": "2025-11-29T00:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "SAN",
           "displayName": "Santos",
-          "score": 1
+          "score": 2
         },
         {
           "id": "7635",
