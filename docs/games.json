@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-30T01:53:42.895Z",
+  "ts": "2025-11-30T02:34:49.801Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732942",
-      "shortName": "CRU @ CEA",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'",
-      "start": "2025-11-30T00:00Z",
-      "teams": [
-        {
-          "id": "9969",
-          "homeAway": "home",
-          "abbreviation": "CEA",
-          "displayName": "Ceará",
-          "score": 1
-        },
-        {
-          "id": "2022",
-          "homeAway": "away",
-          "abbreviation": "CRU",
-          "displayName": "Cruzeiro",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
