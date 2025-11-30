@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-30T22:07:46.267Z",
+  "ts": "2025-11-30T22:17:14.070Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "2:59",
+      "clock": "0:23",
       "start": "2025-11-30T21:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:52",
+      "clock": "9:01",
       "start": "2025-11-30T21:25Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "8:39",
+      "clock": "6:32",
       "start": "2025-11-30T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "35'",
+      "clock": "44'",
       "start": "2025-11-30T21:30Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "FOR",
           "displayName": "Fortaleza",
-          "score": 0
+          "score": 1
         },
         {
           "id": "7632",
