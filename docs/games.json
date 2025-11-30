@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-30T23:00:02.975Z",
+  "ts": "2025-11-30T23:07:55.069Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "4:44",
+      "clock": "1:28",
       "start": "2025-11-30T21:05Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 16
+          "score": 19
         },
         {
           "id": "16",
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772789",
       "shortName": "BUF @ PIT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:44",
       "start": "2025-11-30T21:25Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 3
+          "score": 9
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:03",
+      "clock": "10:30",
       "start": "2025-11-30T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "63'",
+      "clock": "71'",
       "start": "2025-11-30T21:30Z",
       "teams": [
         {
