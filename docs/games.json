@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-30T22:43:54.747Z",
+  "ts": "2025-11-30T22:49:25.563Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:14",
+      "clock": "8:56",
       "start": "2025-11-30T21:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "0:55",
+      "clock": "0:51",
       "start": "2025-11-30T21:25Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "49'",
+      "clock": "53'",
       "start": "2025-11-30T21:30Z",
       "teams": [
         {
