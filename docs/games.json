@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-30T13:06:35.859Z",
+  "ts": "2025-11-30T13:17:46.290Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740725",
       "shortName": "MAN @ CRY",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "45'",
+      "clock": "56'",
       "start": "2025-11-30T12:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "MAN",
           "displayName": "Manchester United",
-          "score": 0
+          "score": 1
         }
       ]
     },
