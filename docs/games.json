@@ -1,87 +1,6 @@
 {
-  "ts": "2025-11-30T21:07:18.705Z",
+  "ts": "2025-11-30T21:16:34.540Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772786",
-      "shortName": "JAX @ TEN",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:49",
-      "start": "2025-11-30T18:00Z",
-      "teams": [
-        {
-          "id": "10",
-          "homeAway": "home",
-          "abbreviation": "TEN",
-          "displayName": "Tennessee Titans",
-          "score": 3
-        },
-        {
-          "id": "30",
-          "homeAway": "away",
-          "abbreviation": "JAX",
-          "displayName": "Jacksonville Jaguars",
-          "score": 25
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772892",
-      "shortName": "NO @ MIA",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:26",
-      "start": "2025-11-30T18:00Z",
-      "teams": [
-        {
-          "id": "15",
-          "homeAway": "home",
-          "abbreviation": "MIA",
-          "displayName": "Miami Dolphins",
-          "score": 21
-        },
-        {
-          "id": "18",
-          "homeAway": "away",
-          "abbreviation": "NO",
-          "displayName": "New Orleans Saints",
-          "score": 17
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772893",
-      "shortName": "ATL @ NYJ",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:20",
-      "start": "2025-11-30T18:00Z",
-      "teams": [
-        {
-          "id": "20",
-          "homeAway": "home",
-          "abbreviation": "NYJ",
-          "displayName": "New York Jets",
-          "score": 24
-        },
-        {
-          "id": "1",
-          "homeAway": "away",
-          "abbreviation": "ATL",
-          "displayName": "Atlanta Falcons",
-          "score": 24
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -90,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "14:52",
+      "clock": "9:33",
       "start": "2025-11-30T21:05Z",
       "teams": [
         {
