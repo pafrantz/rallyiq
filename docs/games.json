@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-29T23:55:56.249Z",
+  "ts": "2025-11-30T00:08:53.985Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732942",
       "shortName": "CRU @ CEA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "6'",
       "start": "2025-11-30T00:00Z",
       "teams": [
         {
