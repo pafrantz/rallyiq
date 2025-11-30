@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-30T19:57:27.364Z",
+  "ts": "2025-11-30T20:05:20.687Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "5:00",
+      "clock": "1:29",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 10
+          "score": 17
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:42",
+      "clock": "7:57",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "5:42",
+      "clock": "2:51",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 6
+          "score": 13
         },
         {
           "id": "34",
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "8:58",
+      "clock": "5:39",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "7:38",
+      "clock": "4:13",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "3:56",
+      "clock": "0:31",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -159,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 3
+          "score": 10
         }
       ]
     },
@@ -170,8 +170,8 @@
       "shortName": "LAR @ CAR",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "4:56",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
