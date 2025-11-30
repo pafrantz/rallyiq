@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-30T14:49:46.447Z",
+  "ts": "2025-11-30T14:55:01.538Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740716",
       "shortName": "WOL @ AVL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "42'",
+      "clock": "45'+3'",
       "start": "2025-11-30T14:05Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740723",
       "shortName": "BHA @ NFO",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "43'",
+      "clock": "45'+3'",
       "start": "2025-11-30T14:05Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "BHA",
           "displayName": "Brighton & Hove Albion",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740722",
       "shortName": "LIV @ WHU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "44'",
+      "clock": "45'+2'",
       "start": "2025-11-30T14:05Z",
       "teams": [
         {
