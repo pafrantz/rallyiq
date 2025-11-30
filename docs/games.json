@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-30T22:49:25.563Z",
+  "ts": "2025-11-30T22:55:02.389Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "8:56",
+      "clock": "7:29",
       "start": "2025-11-30T21:05Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772789",
       "shortName": "BUF @ PIT",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:51",
+      "clock": "0:00",
       "start": "2025-11-30T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "53'",
+      "clock": "61'",
       "start": "2025-11-30T21:30Z",
       "teams": [
         {
