@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-30T20:54:05.941Z",
+  "ts": "2025-11-30T20:59:22.925Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772785",
-      "shortName": "SF @ CLE",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:35",
-      "start": "2025-11-30T18:00Z",
-      "teams": [
-        {
-          "id": "5",
-          "homeAway": "home",
-          "abbreviation": "CLE",
-          "displayName": "Cleveland Browns",
-          "score": 8
-        },
-        {
-          "id": "25",
-          "homeAway": "away",
-          "abbreviation": "SF",
-          "displayName": "San Francisco 49ers",
-          "score": 26
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -36,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:48",
+      "clock": "4:30",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -63,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "1:45",
+      "clock": "1:30",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -90,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "1:38",
+      "clock": "1:17",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -98,14 +71,14 @@
           "homeAway": "home",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 19
+          "score": 21
         },
         {
           "id": "18",
           "homeAway": "away",
           "abbreviation": "NO",
           "displayName": "New Orleans Saints",
-          "score": 11
+          "score": 17
         }
       ]
     },
@@ -117,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "1:53",
+      "clock": "1:16",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -144,7 +117,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "90'+1'",
+      "clock": "90'+8'",
       "start": "2025-11-30T19:00Z",
       "teams": [
         {
