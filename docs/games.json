@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-30T19:22:54.993Z",
+  "ts": "2025-11-30T19:28:34.687Z",
   "games": [
     {
       "sport": "football",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "0:25",
+      "clock": "0:01",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772787",
       "shortName": "HOU @ IND",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "1:51",
+      "clock": "0:00",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772892",
       "shortName": "NO @ MIA",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "1:01",
+      "clock": "0:00",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 13
+          "score": 16
         },
         {
           "id": "18",
@@ -198,7 +198,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "21'",
+      "clock": "27'",
       "start": "2025-11-30T19:00Z",
       "teams": [
         {
