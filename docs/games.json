@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-30T01:12:11.966Z",
+  "ts": "2025-11-30T01:53:42.895Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "48'",
+      "clock": "90'",
       "start": "2025-11-30T00:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "CEA",
           "displayName": "Ceará",
-          "score": 0
+          "score": 1
         },
         {
           "id": "2022",
           "homeAway": "away",
           "abbreviation": "CRU",
           "displayName": "Cruzeiro",
-          "score": 0
+          "score": 1
         }
       ]
     },
