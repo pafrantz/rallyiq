@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-30T19:14:27.385Z",
+  "ts": "2025-11-30T19:22:54.993Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772785",
       "shortName": "SF @ CLE",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:33",
+      "clock": "0:00",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 7
+          "score": 10
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "2:46",
+      "clock": "0:25",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "4:24",
+      "clock": "1:51",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "2:41",
+      "clock": "1:01",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401772893",
       "shortName": "ATL @ NYJ",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "1:20",
+      "clock": "0:00",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -141,10 +141,10 @@
       "league": "nfl",
       "id": "401772895",
       "shortName": "ARI @ TB",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "1:21",
+      "clock": "0:00",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -159,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -168,10 +168,10 @@
       "league": "nfl",
       "id": "401772894",
       "shortName": "LAR @ CAR",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "1:55",
+      "clock": "0:00",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -198,7 +198,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "13'",
+      "clock": "21'",
       "start": "2025-11-30T19:00Z",
       "teams": [
         {
