@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-30T21:16:34.540Z",
+  "ts": "2025-11-30T21:26:05.315Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "9:33",
+      "clock": "4:22",
       "start": "2025-11-30T21:05Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772789",
       "shortName": "BUF @ PIT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "15:00",
       "start": "2025-11-30T21:25Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772788",
       "shortName": "LV @ LAC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "15:00",
       "start": "2025-11-30T21:25Z",
       "teams": [
         {
