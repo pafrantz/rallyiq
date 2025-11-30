@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-30T16:24:27.780Z",
+  "ts": "2025-11-30T16:35:52.351Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740719",
       "shortName": "ARS @ CHE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "5'",
       "start": "2025-11-30T16:30Z",
       "teams": [
         {
