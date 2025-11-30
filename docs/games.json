@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-30T17:59:31.736Z",
+  "ts": "2025-11-30T18:10:52.494Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "67'",
+      "clock": "78'",
       "start": "2025-11-30T16:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772785",
       "shortName": "SF @ CLE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "12:02",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772786",
       "shortName": "JAX @ TEN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "11:04",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772787",
       "shortName": "HOU @ IND",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "13:16",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401772892",
       "shortName": "NO @ MIA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "11:19",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 0
+          "score": 7
         },
         {
           "id": "18",
@@ -141,10 +141,10 @@
       "league": "nfl",
       "id": "401772893",
       "shortName": "ATL @ NYJ",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "11:39",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -168,10 +168,10 @@
       "league": "nfl",
       "id": "401772895",
       "shortName": "ARI @ TB",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "10:30",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -195,10 +195,10 @@
       "league": "nfl",
       "id": "401772894",
       "shortName": "LAR @ CAR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "12:10",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -213,7 +213,7 @@
           "homeAway": "away",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 0
+          "score": 7
         }
       ]
     },
