@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-30T19:51:56.226Z",
+  "ts": "2025-11-30T19:57:27.364Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:06",
+      "clock": "5:00",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "13:17",
+      "clock": "11:42",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:47",
+      "clock": "5:42",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:40",
+      "clock": "8:58",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "8:58",
+      "clock": "7:38",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "NYJ",
           "displayName": "New York Jets",
-          "score": 13
+          "score": 14
         },
         {
           "id": "1",
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "7:06",
+      "clock": "3:56",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -152,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "TB",
           "displayName": "Tampa Bay Buccaneers",
-          "score": 10
+          "score": 17
         },
         {
           "id": "22",
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:58",
+      "clock": "4:56",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
