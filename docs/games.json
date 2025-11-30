@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-30T20:59:22.925Z",
+  "ts": "2025-11-30T21:07:18.705Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:30",
+      "clock": "1:49",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -31,39 +31,12 @@
     {
       "sport": "football",
       "league": "nfl",
-      "id": "401772787",
-      "shortName": "HOU @ IND",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:30",
-      "start": "2025-11-30T18:00Z",
-      "teams": [
-        {
-          "id": "11",
-          "homeAway": "home",
-          "abbreviation": "IND",
-          "displayName": "Indianapolis Colts",
-          "score": 16
-        },
-        {
-          "id": "34",
-          "homeAway": "away",
-          "abbreviation": "HOU",
-          "displayName": "Houston Texans",
-          "score": 20
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
       "id": "401772892",
       "shortName": "NO @ MIA",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "1:17",
+      "clock": "0:26",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -90,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "1:16",
+      "clock": "0:20",
       "start": "2025-11-30T18:00Z",
       "teams": [
         {
@@ -110,41 +83,14 @@
       ]
     },
     {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732941",
-      "shortName": "BOT @ COR",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+8'",
-      "start": "2025-11-30T19:00Z",
-      "teams": [
-        {
-          "id": "874",
-          "homeAway": "home",
-          "abbreviation": "COR",
-          "displayName": "Corinthians",
-          "score": 2
-        },
-        {
-          "id": "6086",
-          "homeAway": "away",
-          "abbreviation": "BOT",
-          "displayName": "Botafogo",
-          "score": 2
-        }
-      ]
-    },
-    {
       "sport": "football",
       "league": "nfl",
       "id": "401772896",
       "shortName": "MIN @ SEA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "14:52",
       "start": "2025-11-30T21:05Z",
       "teams": [
         {
