@@ -1,33 +1,6 @@
 {
-  "ts": "2025-11-30T13:56:41.250Z",
+  "ts": "2025-11-30T14:03:21.700Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740725",
-      "shortName": "MAN @ CRY",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+6'",
-      "start": "2025-11-30T12:00Z",
-      "teams": [
-        {
-          "id": "384",
-          "homeAway": "home",
-          "abbreviation": "CRY",
-          "displayName": "Crystal Palace",
-          "score": 1
-        },
-        {
-          "id": "360",
-          "homeAway": "away",
-          "abbreviation": "MAN",
-          "displayName": "Manchester United",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
