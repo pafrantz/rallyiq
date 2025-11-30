@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-30T23:27:06.914Z",
+  "ts": "2025-11-30T23:33:43.894Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:40",
+      "clock": "9:11",
       "start": "2025-11-30T21:05Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 19
+          "score": 26
         },
         {
           "id": "16",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "8:48",
+      "clock": "5:55",
       "start": "2025-11-30T21:25Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772788",
       "shortName": "LV @ LAC",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_END_PERIOD",
       "state": "IN",
       "period": 3,
-      "clock": "2:18",
+      "clock": "0:00",
       "start": "2025-11-30T21:25Z",
       "teams": [
         {
@@ -79,33 +79,6 @@
           "abbreviation": "LV",
           "displayName": "Las Vegas Raiders",
           "score": 7
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732934",
-      "shortName": "CAM @ FOR",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+3'",
-      "start": "2025-11-30T21:30Z",
-      "teams": [
-        {
-          "id": "6272",
-          "homeAway": "home",
-          "abbreviation": "FOR",
-          "displayName": "Fortaleza",
-          "score": 1
-        },
-        {
-          "id": "7632",
-          "homeAway": "away",
-          "abbreviation": "CAM",
-          "displayName": "Atlético-MG",
-          "score": 0
         }
       ]
     },
