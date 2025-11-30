@@ -1,5 +1,5 @@
 {
-  "ts": "2025-11-30T15:00:06.201Z",
+  "ts": "2025-11-30T15:08:24.728Z",
   "games": [
     {
       "sport": "soccer",
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740722",
       "shortName": "LIV @ WHU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "45'",
       "start": "2025-11-30T14:05Z",
       "teams": [
         {
