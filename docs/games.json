@@ -1,15 +1,15 @@
 {
-  "ts": "2025-11-30T12:36:55.963Z",
+  "ts": "2025-11-30T12:54:51.751Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740725",
       "shortName": "MAN @ CRY",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "36'",
+      "clock": "45'+5'",
       "start": "2025-11-30T12:00Z",
       "teams": [
         {
