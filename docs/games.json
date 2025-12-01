@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-01T01:20:32.881Z",
+  "ts": "2025-12-01T02:05:55.161Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772931",
       "shortName": "DEN @ WSH",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 2,
+      "clock": "12:28",
       "start": "2025-12-01T01:20Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 0
+          "score": 3
         }
       ]
     },
