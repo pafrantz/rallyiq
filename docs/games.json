@@ -1,60 +1,6 @@
 {
-  "ts": "2025-11-30T23:56:51.761Z",
+  "ts": "2025-12-01T00:19:55.402Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772789",
-      "shortName": "BUF @ PIT",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "10:11",
-      "start": "2025-11-30T21:25Z",
-      "teams": [
-        {
-          "id": "23",
-          "homeAway": "home",
-          "abbreviation": "PIT",
-          "displayName": "Pittsburgh Steelers",
-          "score": 7
-        },
-        {
-          "id": "2",
-          "homeAway": "away",
-          "abbreviation": "BUF",
-          "displayName": "Buffalo Bills",
-          "score": 23
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772788",
-      "shortName": "LV @ LAC",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "4:46",
-      "start": "2025-11-30T21:25Z",
-      "teams": [
-        {
-          "id": "24",
-          "homeAway": "home",
-          "abbreviation": "LAC",
-          "displayName": "Los Angeles Chargers",
-          "score": 24
-        },
-        {
-          "id": "13",
-          "homeAway": "away",
-          "abbreviation": "LV",
-          "displayName": "Las Vegas Raiders",
-          "score": 14
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
