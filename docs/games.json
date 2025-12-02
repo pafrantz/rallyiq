@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-02T21:48:32.127Z",
+  "ts": "2025-12-02T21:53:53.071Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "75'",
+      "clock": "81'",
       "start": "2025-12-02T20:15Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "TOT",
           "displayName": "Tottenham Hotspur",
-          "score": 0
+          "score": 1
         }
       ]
     },
