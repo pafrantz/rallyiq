@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-02T01:27:41.701Z",
+  "ts": "2025-12-02T02:14:25.189Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "NYG @ NE",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "9:07",
+      "period": 2,
+      "clock": "6:35",
       "start": "2025-12-02T01:15Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 3
+          "score": 17
         },
         {
           "id": "19",
           "homeAway": "away",
           "abbreviation": "NYG",
           "displayName": "New York Giants",
-          "score": 0
+          "score": 7
         }
       ]
     },
