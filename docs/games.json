@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-02T21:01:52.287Z",
+  "ts": "2025-12-02T21:10:41.802Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "72'",
+      "clock": "80'",
       "start": "2025-12-02T19:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "EVE",
           "displayName": "Everton",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "72'",
+      "clock": "81'",
       "start": "2025-12-02T19:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "FUL",
           "displayName": "Fulham",
-          "score": 3
+          "score": 4
         },
         {
           "id": "382",
@@ -60,7 +60,7 @@
       "league": "eng.1",
       "id": "740729",
       "shortName": "TOT @ NEW",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
       "clock": "45'+2'",
