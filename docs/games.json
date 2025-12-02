@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-02T02:53:15.736Z",
+  "ts": "2025-12-02T03:23:25.545Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772821",
       "shortName": "NYG @ NE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-12-02T01:15Z",
       "teams": [
         {
