@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-02T21:59:32.030Z",
+  "ts": "2025-12-02T22:08:08.825Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "86'",
+      "clock": "90'+5'",
       "start": "2025-12-02T20:15Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "TOT",
           "displayName": "Tottenham Hotspur",
-          "score": 1
+          "score": 2
         }
       ]
     },
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732955",
       "shortName": "MIR @ VAS",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "7'",
       "start": "2025-12-02T22:00Z",
       "teams": [
         {
