@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-02T00:54:34.884Z",
+  "ts": "2025-12-02T01:27:41.701Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772821",
       "shortName": "NYG @ NE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "9:07",
       "start": "2025-12-02T01:15Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 0
+          "score": 3
         },
         {
           "id": "19",
