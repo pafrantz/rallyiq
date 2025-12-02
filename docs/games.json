@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-02T03:23:25.545Z",
+  "ts": "2025-12-02T03:44:12.037Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "15:00",
+      "clock": "7:41",
       "start": "2025-12-02T01:15Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "NYG",
           "displayName": "New York Giants",
-          "score": 7
+          "score": 15
         }
       ]
     },
