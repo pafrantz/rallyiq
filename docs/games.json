@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-02T20:33:50.825Z",
+  "ts": "2025-12-02T20:42:47.856Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740733",
       "shortName": "EVE @ BOU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "53'",
       "start": "2025-12-02T19:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740730",
       "shortName": "MNC @ FUL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'",
+      "period": 2,
+      "clock": "53'",
       "start": "2025-12-02T19:30Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "MNC",
           "displayName": "Manchester City",
-          "score": 3
+          "score": 4
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "18'",
+      "clock": "27'",
       "start": "2025-12-02T20:15Z",
       "teams": [
         {
