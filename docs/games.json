@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-02T22:08:08.825Z",
+  "ts": "2025-12-02T22:17:35.089Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740729",
-      "shortName": "TOT @ NEW",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+5'",
-      "start": "2025-12-02T20:15Z",
-      "teams": [
-        {
-          "id": "361",
-          "homeAway": "home",
-          "abbreviation": "NEW",
-          "displayName": "Newcastle United",
-          "score": 2
-        },
-        {
-          "id": "367",
-          "homeAway": "away",
-          "abbreviation": "TOT",
-          "displayName": "Tottenham Hotspur",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "7'",
+      "clock": "16'",
       "start": "2025-12-02T22:00Z",
       "teams": [
         {
