@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-03T21:21:47.572Z",
+  "ts": "2025-12-03T21:29:09.087Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740734",
-      "shortName": "BRE @ ARS",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+1'",
-      "start": "2025-12-03T19:30Z",
-      "teams": [
-        {
-          "id": "359",
-          "homeAway": "home",
-          "abbreviation": "ARS",
-          "displayName": "Arsenal",
-          "score": 2
-        },
-        {
-          "id": "337",
-          "homeAway": "away",
-          "abbreviation": "BRE",
-          "displayName": "Brentford",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "87'",
+      "clock": "90'+4'",
       "start": "2025-12-03T19:30Z",
       "teams": [
         {
@@ -58,66 +31,12 @@
     {
       "sport": "soccer",
       "league": "eng.1",
-      "id": "740726",
-      "shortName": "CRY @ BUR",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+1'",
-      "start": "2025-12-03T19:30Z",
-      "teams": [
-        {
-          "id": "379",
-          "homeAway": "home",
-          "abbreviation": "BUR",
-          "displayName": "Burnley",
-          "score": 0
-        },
-        {
-          "id": "384",
-          "homeAway": "away",
-          "abbreviation": "CRY",
-          "displayName": "Crystal Palace",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740728",
-      "shortName": "NFO @ WOL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+1'",
-      "start": "2025-12-03T19:30Z",
-      "teams": [
-        {
-          "id": "380",
-          "homeAway": "home",
-          "abbreviation": "WOL",
-          "displayName": "Wolverhampton Wanderers",
-          "score": 0
-        },
-        {
-          "id": "393",
-          "homeAway": "away",
-          "abbreviation": "NFO",
-          "displayName": "Nottingham Forest",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
       "id": "740732",
       "shortName": "CHE @ LEE",
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "47'",
+      "clock": "55'",
       "start": "2025-12-03T20:15Z",
       "teams": [
         {
@@ -132,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "CHE",
           "displayName": "Chelsea",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -144,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "47'",
+      "clock": "55'",
       "start": "2025-12-03T20:15Z",
       "teams": [
         {
