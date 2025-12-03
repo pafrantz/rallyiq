@@ -1,32 +1,4 @@
 {
-  "ts": "2025-12-03T02:11:33.319Z",
-  "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732954",
-      "shortName": "FLU @ GRE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "74'",
-      "start": "2025-12-03T00:30Z",
-      "teams": [
-        {
-          "id": "6273",
-          "homeAway": "home",
-          "abbreviation": "GRE",
-          "displayName": "Grêmio",
-          "score": 1
-        },
-        {
-          "id": "3445",
-          "homeAway": "away",
-          "abbreviation": "FLU",
-          "displayName": "Fluminense",
-          "score": 2
-        }
-      ]
-    }
-  ]
+  "ts": "2025-12-03T02:50:41.445Z",
+  "games": []
 }
