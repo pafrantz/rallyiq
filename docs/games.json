@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-03T21:57:55.168Z",
+  "ts": "2025-12-03T22:06:53.115Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "82'",
+      "clock": "90'+1'",
       "start": "2025-12-03T20:15Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "84'",
+      "clock": "90'+4'",
       "start": "2025-12-03T20:15Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "732950",
       "shortName": "COR @ FOR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "3'",
       "start": "2025-12-03T22:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "bra.1",
       "id": "732921",
       "shortName": "VIT @ BRA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "6'",
       "start": "2025-12-03T22:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "BRA",
           "displayName": "Red Bull Bragantino",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3457",
