@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-03T22:46:13.846Z",
+  "ts": "2025-12-03T22:51:51.102Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "42'",
+      "clock": "45'+3'",
       "start": "2025-12-03T22:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732921",
       "shortName": "VIT @ BRA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+1'",
+      "clock": "45'+4'",
       "start": "2025-12-03T22:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "12'",
+      "clock": "18'",
       "start": "2025-12-03T22:30Z",
       "teams": [
         {
