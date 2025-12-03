@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-03T23:44:22.801Z",
+  "ts": "2025-12-03T23:49:55.015Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "81'",
+      "clock": "87'",
       "start": "2025-12-03T22:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "84'",
+      "clock": "90'",
       "start": "2025-12-03T22:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "52'",
+      "clock": "56'",
       "start": "2025-12-03T22:30Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "SAN",
           "displayName": "Santos",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "43'",
+      "clock": "45'+3'",
       "start": "2025-12-03T23:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "bra.1",
       "id": "732956",
       "shortName": "INT @ SAO",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "44'",
+      "clock": "45'+4'",
       "start": "2025-12-03T23:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "SAO",
           "displayName": "São Paulo",
-          "score": 1
+          "score": 2
         },
         {
           "id": "1936",
