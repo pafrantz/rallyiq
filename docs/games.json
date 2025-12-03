@@ -1,60 +1,6 @@
 {
-  "ts": "2025-12-03T22:06:53.115Z",
+  "ts": "2025-12-03T22:16:42.826Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740732",
-      "shortName": "CHE @ LEE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+1'",
-      "start": "2025-12-03T20:15Z",
-      "teams": [
-        {
-          "id": "357",
-          "homeAway": "home",
-          "abbreviation": "LEE",
-          "displayName": "Leeds United",
-          "score": 3
-        },
-        {
-          "id": "363",
-          "homeAway": "away",
-          "abbreviation": "CHE",
-          "displayName": "Chelsea",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740731",
-      "shortName": "SUN @ LIV",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2025-12-03T20:15Z",
-      "teams": [
-        {
-          "id": "364",
-          "homeAway": "home",
-          "abbreviation": "LIV",
-          "displayName": "Liverpool",
-          "score": 1
-        },
-        {
-          "id": "366",
-          "homeAway": "away",
-          "abbreviation": "SUN",
-          "displayName": "Sunderland",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -63,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "3'",
+      "clock": "13'",
       "start": "2025-12-03T22:00Z",
       "teams": [
         {
@@ -71,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "FOR",
           "displayName": "Fortaleza",
-          "score": 0
+          "score": 1
         },
         {
           "id": "874",
@@ -90,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "6'",
+      "clock": "14'",
       "start": "2025-12-03T22:00Z",
       "teams": [
         {
@@ -98,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "BRA",
           "displayName": "Red Bull Bragantino",
-          "score": 1
+          "score": 2
         },
         {
           "id": "3457",
