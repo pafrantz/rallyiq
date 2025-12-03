@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-03T00:53:18.673Z",
+  "ts": "2025-12-03T01:25:53.901Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732954",
       "shortName": "FLU @ GRE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "22'",
+      "clock": "45'+9'",
       "start": "2025-12-03T00:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "FLU",
           "displayName": "Fluminense",
-          "score": 0
+          "score": 1
         }
       ]
     }
