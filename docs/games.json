@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-03T23:13:03.896Z",
+  "ts": "2025-12-03T23:24:20.139Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "50'",
+      "clock": "61'",
       "start": "2025-12-03T22:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "FOR",
           "displayName": "Fortaleza",
-          "score": 1
+          "score": 2
         },
         {
           "id": "874",
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "51'",
+      "clock": "64'",
       "start": "2025-12-03T22:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "732959",
       "shortName": "SAN @ JUV",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "38'",
+      "clock": "45'+2'",
       "start": "2025-12-03T22:30Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "11'",
+      "clock": "21'",
       "start": "2025-12-03T23:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "13'",
+      "clock": "23'",
       "start": "2025-12-03T23:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "SAO",
           "displayName": "São Paulo",
-          "score": 0
+          "score": 1
         },
         {
           "id": "1936",
