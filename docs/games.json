@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-03T21:29:09.087Z",
+  "ts": "2025-12-03T21:35:27.517Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740727",
-      "shortName": "AVL @ BHA",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2025-12-03T19:30Z",
-      "teams": [
-        {
-          "id": "331",
-          "homeAway": "home",
-          "abbreviation": "BHA",
-          "displayName": "Brighton & Hove Albion",
-          "score": 3
-        },
-        {
-          "id": "362",
-          "homeAway": "away",
-          "abbreviation": "AVL",
-          "displayName": "Aston Villa",
-          "score": 4
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "55'",
+      "clock": "61'",
       "start": "2025-12-03T20:15Z",
       "teams": [
         {
@@ -63,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "55'",
+      "clock": "61'",
       "start": "2025-12-03T20:15Z",
       "teams": [
         {
