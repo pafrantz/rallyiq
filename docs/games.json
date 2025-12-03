@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-03T21:52:45.957Z",
+  "ts": "2025-12-03T21:57:55.168Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "82'",
       "start": "2025-12-03T20:15Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "80'",
+      "clock": "84'",
       "start": "2025-12-03T20:15Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "LIV",
           "displayName": "Liverpool",
-          "score": 0
+          "score": 1
         },
         {
           "id": "366",
