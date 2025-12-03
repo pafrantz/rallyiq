@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-03T20:19:01.587Z",
+  "ts": "2025-12-03T20:32:39.957Z",
   "games": [
     {
       "sport": "soccer",
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740727",
       "shortName": "AVL @ BHA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+4'",
+      "clock": "45'+9'",
       "start": "2025-12-03T19:30Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "AVL",
           "displayName": "Aston Villa",
-          "score": 1
+          "score": 2
         }
       ]
     },
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740726",
       "shortName": "CRY @ BUR",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+2'",
+      "clock": "45'+3'",
       "start": "2025-12-03T19:30Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740728",
       "shortName": "NFO @ WOL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+2'",
+      "clock": "45'+6'",
       "start": "2025-12-03T19:30Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "4'",
+      "clock": "17'",
       "start": "2025-12-03T20:15Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "LEE",
           "displayName": "Leeds United",
-          "score": 0
+          "score": 1
         },
         {
           "id": "363",
@@ -144,7 +144,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "3'",
+      "clock": "17'",
       "start": "2025-12-03T20:15Z",
       "teams": [
         {
