@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-03T23:49:55.015Z",
+  "ts": "2025-12-03T23:55:13.594Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "87'",
+      "clock": "90'+2'",
       "start": "2025-12-03T22:00Z",
       "teams": [
         {
@@ -31,39 +31,12 @@
     {
       "sport": "soccer",
       "league": "bra.1",
-      "id": "732921",
-      "shortName": "VIT @ BRA",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'",
-      "start": "2025-12-03T22:00Z",
-      "teams": [
-        {
-          "id": "6079",
-          "homeAway": "home",
-          "abbreviation": "BRA",
-          "displayName": "Red Bull Bragantino",
-          "score": 4
-        },
-        {
-          "id": "3457",
-          "homeAway": "away",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
       "id": "732959",
       "shortName": "SAN @ JUV",
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "56'",
+      "clock": "62'",
       "start": "2025-12-03T22:30Z",
       "teams": [
         {
@@ -87,10 +60,10 @@
       "league": "bra.1",
       "id": "732953",
       "shortName": "SPO @ BAH",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+3'",
+      "clock": "45'+7'",
       "start": "2025-12-03T23:00Z",
       "teams": [
         {
