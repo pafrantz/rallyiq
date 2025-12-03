@@ -1,6 +1,195 @@
 {
-  "ts": "2025-12-03T07:59:53.717Z",
+  "ts": "2025-12-03T08:12:16.250Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732950",
+      "shortName": "COR @ FOR",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-12-03T22:00Z",
+      "teams": [
+        {
+          "id": "6272",
+          "homeAway": "home",
+          "abbreviation": "FOR",
+          "displayName": "Fortaleza",
+          "score": 0
+        },
+        {
+          "id": "874",
+          "homeAway": "away",
+          "abbreviation": "COR",
+          "displayName": "Corinthians",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732921",
+      "shortName": "VIT @ BRA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-12-03T22:00Z",
+      "teams": [
+        {
+          "id": "6079",
+          "homeAway": "home",
+          "abbreviation": "BRA",
+          "displayName": "Red Bull Bragantino",
+          "score": 0
+        },
+        {
+          "id": "3457",
+          "homeAway": "away",
+          "abbreviation": "VIT",
+          "displayName": "Vitória",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732959",
+      "shortName": "SAN @ JUV",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-12-03T22:30Z",
+      "teams": [
+        {
+          "id": "6270",
+          "homeAway": "home",
+          "abbreviation": "JUV",
+          "displayName": "Juventude",
+          "score": 0
+        },
+        {
+          "id": "2674",
+          "homeAway": "away",
+          "abbreviation": "SAN",
+          "displayName": "Santos",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732953",
+      "shortName": "SPO @ BAH",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-12-03T23:00Z",
+      "teams": [
+        {
+          "id": "9967",
+          "homeAway": "home",
+          "abbreviation": "BAH",
+          "displayName": "Bahia",
+          "score": 0
+        },
+        {
+          "id": "7635",
+          "homeAway": "away",
+          "abbreviation": "SPO",
+          "displayName": "Sport",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732956",
+      "shortName": "INT @ SAO",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-12-03T23:00Z",
+      "teams": [
+        {
+          "id": "2026",
+          "homeAway": "home",
+          "abbreviation": "SAO",
+          "displayName": "São Paulo",
+          "score": 0
+        },
+        {
+          "id": "1936",
+          "homeAway": "away",
+          "abbreviation": "INT",
+          "displayName": "Internacional",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732920",
+      "shortName": "PAL @ CAM",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-12-04T00:30Z",
+      "teams": [
+        {
+          "id": "7632",
+          "homeAway": "home",
+          "abbreviation": "CAM",
+          "displayName": "Atlético-MG",
+          "score": 0
+        },
+        {
+          "id": "2029",
+          "homeAway": "away",
+          "abbreviation": "PAL",
+          "displayName": "Palmeiras",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732951",
+      "shortName": "CEA @ FLA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-12-04T00:30Z",
+      "teams": [
+        {
+          "id": "819",
+          "homeAway": "home",
+          "abbreviation": "FLA",
+          "displayName": "Flamengo",
+          "score": 0
+        },
+        {
+          "id": "9969",
+          "homeAway": "away",
+          "abbreviation": "CEA",
+          "displayName": "Ceará",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "football",
       "league": "nfl",
