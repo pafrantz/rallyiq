@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-04T08:04:00.439Z",
+  "ts": "2025-12-04T08:13:55.091Z",
   "games": [
     {
       "sport": "soccer",
@@ -24,6 +24,33 @@
           "homeAway": "away",
           "abbreviation": "WHU",
           "displayName": "West Ham United",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732952",
+      "shortName": "BOT @ CRU",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-12-04T22:30Z",
+      "teams": [
+        {
+          "id": "2022",
+          "homeAway": "home",
+          "abbreviation": "CRU",
+          "displayName": "Cruzeiro",
+          "score": 0
+        },
+        {
+          "id": "6086",
+          "homeAway": "away",
+          "abbreviation": "BOT",
+          "displayName": "Botafogo",
           "score": 0
         }
       ]
