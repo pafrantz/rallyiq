@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-04T19:59:13.055Z",
+  "ts": "2025-12-04T20:09:32.955Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740735",
       "shortName": "WHU @ MAN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "9'",
       "start": "2025-12-04T20:00Z",
       "teams": [
         {
