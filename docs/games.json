@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-04T23:45:50.667Z",
+  "ts": "2025-12-04T23:51:26.165Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "54'",
+      "clock": "57'",
       "start": "2025-12-04T22:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BOT",
           "displayName": "Botafogo",
-          "score": 0
+          "score": 1
         }
       ]
     },
