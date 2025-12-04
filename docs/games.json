@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-03T23:55:13.594Z",
+  "ts": "2025-12-04T00:01:29.453Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732950",
-      "shortName": "COR @ FOR",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2025-12-03T22:00Z",
-      "teams": [
-        {
-          "id": "6272",
-          "homeAway": "home",
-          "abbreviation": "FOR",
-          "displayName": "Fortaleza",
-          "score": 2
-        },
-        {
-          "id": "874",
-          "homeAway": "away",
-          "abbreviation": "COR",
-          "displayName": "Corinthians",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "62'",
+      "clock": "67'",
       "start": "2025-12-03T22:30Z",
       "teams": [
         {
@@ -51,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "SAN",
           "displayName": "Santos",
-          "score": 1
+          "score": 2
         }
       ]
     },
