@@ -1,42 +1,15 @@
 {
-  "ts": "2025-12-04T00:01:29.453Z",
+  "ts": "2025-12-04T00:37:29.045Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732959",
-      "shortName": "SAN @ JUV",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "67'",
-      "start": "2025-12-03T22:30Z",
-      "teams": [
-        {
-          "id": "6270",
-          "homeAway": "home",
-          "abbreviation": "JUV",
-          "displayName": "Juventude",
-          "score": 0
-        },
-        {
-          "id": "2674",
-          "homeAway": "away",
-          "abbreviation": "SAN",
-          "displayName": "Santos",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732953",
       "shortName": "SPO @ BAH",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+7'",
+      "period": 2,
+      "clock": "74'",
       "start": "2025-12-03T23:00Z",
       "teams": [
         {
@@ -44,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BAH",
           "displayName": "Bahia",
-          "score": 1
+          "score": 2
         },
         {
           "id": "7635",
@@ -60,10 +33,10 @@
       "league": "bra.1",
       "id": "732956",
       "shortName": "INT @ SAO",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "76'",
       "start": "2025-12-03T23:00Z",
       "teams": [
         {
@@ -71,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "SAO",
           "displayName": "São Paulo",
-          "score": 2
+          "score": 3
         },
         {
           "id": "1936",
@@ -87,10 +60,10 @@
       "league": "bra.1",
       "id": "732920",
       "shortName": "PAL @ CAM",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "7'",
       "start": "2025-12-04T00:30Z",
       "teams": [
         {
@@ -114,10 +87,10 @@
       "league": "bra.1",
       "id": "732951",
       "shortName": "CEA @ FLA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "6'",
       "start": "2025-12-04T00:30Z",
       "teams": [
         {
