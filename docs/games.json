@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-04T01:03:18.597Z",
+  "ts": "2025-12-04T01:40:36.605Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732920",
       "shortName": "PAL @ CAM",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "32'",
+      "period": 2,
+      "clock": "51'",
       "start": "2025-12-04T00:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "732951",
       "shortName": "CEA @ FLA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "32'",
+      "period": 2,
+      "clock": "49'",
       "start": "2025-12-04T00:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "FLA",
           "displayName": "Flamengo",
-          "score": 0
+          "score": 1
         },
         {
           "id": "9969",
