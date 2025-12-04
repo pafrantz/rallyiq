@@ -1,60 +1,6 @@
 {
-  "ts": "2025-12-04T02:22:26.849Z",
+  "ts": "2025-12-04T02:56:51.079Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732920",
-      "shortName": "PAL @ CAM",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2025-12-04T00:30Z",
-      "teams": [
-        {
-          "id": "7632",
-          "homeAway": "home",
-          "abbreviation": "CAM",
-          "displayName": "Atlético-MG",
-          "score": 0
-        },
-        {
-          "id": "2029",
-          "homeAway": "away",
-          "abbreviation": "PAL",
-          "displayName": "Palmeiras",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "732951",
-      "shortName": "CEA @ FLA",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'",
-      "start": "2025-12-04T00:30Z",
-      "teams": [
-        {
-          "id": "819",
-          "homeAway": "home",
-          "abbreviation": "FLA",
-          "displayName": "Flamengo",
-          "score": 1
-        },
-        {
-          "id": "9969",
-          "homeAway": "away",
-          "abbreviation": "CEA",
-          "displayName": "Ceará",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
