@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-04T22:31:42.528Z",
+  "ts": "2025-12-04T22:39:47.932Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "732952",
       "shortName": "BOT @ CRU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "7'",
       "start": "2025-12-04T22:30Z",
       "teams": [
         {
