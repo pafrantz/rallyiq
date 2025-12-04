@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-04T01:40:36.605Z",
+  "ts": "2025-12-04T02:22:26.849Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "51'",
+      "clock": "90'+2'",
       "start": "2025-12-04T00:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "PAL",
           "displayName": "Palmeiras",
-          "score": 2
+          "score": 3
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "49'",
+      "clock": "90'",
       "start": "2025-12-04T00:30Z",
       "teams": [
         {
