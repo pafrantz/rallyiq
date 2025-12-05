@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-05T03:00:10.150Z",
+  "ts": "2025-12-05T03:33:38.181Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772947",
       "shortName": "DAL @ DET",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "2:49",
       "start": "2025-12-05T01:15Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 20
+          "score": 27
         },
         {
           "id": "6",
           "homeAway": "away",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 9
+          "score": 19
         }
       ]
     },
