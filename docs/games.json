@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-05T04:17:38.850Z",
+  "ts": "2025-12-05T04:31:44.173Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "3:50",
+      "clock": "1:42",
       "start": "2025-12-05T01:15Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 37
+          "score": 44
         },
         {
           "id": "6",
           "homeAway": "away",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 27
+          "score": 30
         }
       ]
     },
