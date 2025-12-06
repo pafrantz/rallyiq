@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-06T16:56:14.048Z",
+  "ts": "2025-12-06T17:02:26.256Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "90'+1'",
+      "clock": "90'+7'",
       "start": "2025-12-06T15:00Z",
       "teams": [
         {
@@ -24,34 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BUR",
           "displayName": "Burnley",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740744",
-      "shortName": "BRE @ TOT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+6'",
-      "start": "2025-12-06T15:00Z",
-      "teams": [
-        {
-          "id": "367",
-          "homeAway": "home",
-          "abbreviation": "TOT",
-          "displayName": "Tottenham Hotspur",
-          "score": 2
-        },
-        {
-          "id": "337",
-          "homeAway": "away",
-          "abbreviation": "BRE",
-          "displayName": "Brentford",
-          "score": 0
+          "score": 1
         }
       ]
     },
