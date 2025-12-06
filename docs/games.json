@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-06T13:05:49.659Z",
+  "ts": "2025-12-06T13:17:20.937Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "35'",
+      "clock": "45'",
       "start": "2025-12-06T12:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "AVL",
           "displayName": "Aston Villa",
-          "score": 0
+          "score": 1
         },
         {
           "id": "359",
