@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-06T18:18:24.966Z",
+  "ts": "2025-12-06T18:32:19.140Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740742",
       "shortName": "LIV @ LEE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+3'",
+      "clock": "45'+4'",
       "start": "2025-12-06T17:30Z",
       "teams": [
         {
