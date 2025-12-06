@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-06T12:17:22.765Z",
+  "ts": "2025-12-06T12:32:16.052Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740745",
       "shortName": "ARS @ AVL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "1'",
       "start": "2025-12-06T12:30Z",
       "teams": [
         {
