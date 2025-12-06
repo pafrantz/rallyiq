@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-06T15:40:27.520Z",
+  "ts": "2025-12-06T15:45:56.379Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "40'",
+      "clock": "45'",
       "start": "2025-12-06T15:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "38'",
+      "clock": "44'",
       "start": "2025-12-06T15:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "40'",
+      "clock": "45'",
       "start": "2025-12-06T15:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "40'",
+      "clock": "43'",
       "start": "2025-12-06T15:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "39'",
+      "clock": "45'",
       "start": "2025-12-06T15:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "TOT",
           "displayName": "Tottenham Hotspur",
-          "score": 1
+          "score": 2
         },
         {
           "id": "337",
