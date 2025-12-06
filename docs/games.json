@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-06T22:00:52.857Z",
+  "ts": "2025-12-06T22:08:51.099Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "27'",
+      "clock": "35'",
       "start": "2025-12-06T21:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "FLA",
           "displayName": "Flamengo",
-          "score": 1
+          "score": 2
         }
       ]
     },
