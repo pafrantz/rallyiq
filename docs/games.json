@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-07T19:39:59.594Z",
+  "ts": "2025-12-07T19:45:18.716Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:48",
+      "clock": "11:18",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:45",
+      "clock": "9:20",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 11
+          "score": 18
         },
         {
           "id": "4",
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "7:52",
+      "clock": "7:01",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "MIN",
           "displayName": "Minnesota Vikings",
-          "score": 14
+          "score": 17
         },
         {
           "id": "28",
@@ -168,10 +168,10 @@
       "league": "nfl",
       "id": "401772793",
       "shortName": "IND @ JAX",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:07",
+      "clock": "0:00",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -225,7 +225,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "35'",
+      "clock": "41'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -252,7 +252,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "35'",
+      "clock": "40'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -279,7 +279,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "35'",
+      "clock": "40'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -306,7 +306,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "36'",
+      "clock": "40'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -333,7 +333,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "35'",
+      "clock": "41'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -360,7 +360,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "35'",
+      "clock": "40'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -387,7 +387,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "35'",
+      "clock": "40'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -414,7 +414,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "36'",
+      "clock": "41'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -441,7 +441,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "35'",
+      "clock": "41'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
