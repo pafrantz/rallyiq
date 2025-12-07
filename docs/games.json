@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-07T17:32:16.365Z",
+  "ts": "2025-12-07T17:38:52.691Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740738",
       "shortName": "CRY @ FUL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "50'",
       "start": "2025-12-07T16:30Z",
       "teams": [
         {
