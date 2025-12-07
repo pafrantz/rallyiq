@@ -1,6 +1,60 @@
 {
-  "ts": "2025-12-07T07:55:46.079Z",
+  "ts": "2025-12-07T08:02:18.034Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740740",
+      "shortName": "WHU @ BHA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-12-07T14:00Z",
+      "teams": [
+        {
+          "id": "331",
+          "homeAway": "home",
+          "abbreviation": "BHA",
+          "displayName": "Brighton & Hove Albion",
+          "score": 0
+        },
+        {
+          "id": "371",
+          "homeAway": "away",
+          "abbreviation": "WHU",
+          "displayName": "West Ham United",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740738",
+      "shortName": "CRY @ FUL",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-12-07T16:30Z",
+      "teams": [
+        {
+          "id": "370",
+          "homeAway": "home",
+          "abbreviation": "FUL",
+          "displayName": "Fulham",
+          "score": 0
+        },
+        {
+          "id": "384",
+          "homeAway": "away",
+          "abbreviation": "CRY",
+          "displayName": "Crystal Palace",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "football",
       "league": "nfl",
@@ -213,6 +267,249 @@
           "homeAway": "away",
           "abbreviation": "PIT",
           "displayName": "Pittsburgh Steelers",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732960",
+      "shortName": "VAS @ CAM",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-12-07T19:00Z",
+      "teams": [
+        {
+          "id": "7632",
+          "homeAway": "home",
+          "abbreviation": "CAM",
+          "displayName": "Atlético-MG",
+          "score": 0
+        },
+        {
+          "id": "3454",
+          "homeAway": "away",
+          "abbreviation": "VAS",
+          "displayName": "Vasco da Gama",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732961",
+      "shortName": "FOR @ BOT",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-12-07T19:00Z",
+      "teams": [
+        {
+          "id": "6086",
+          "homeAway": "home",
+          "abbreviation": "BOT",
+          "displayName": "Botafogo",
+          "score": 0
+        },
+        {
+          "id": "6272",
+          "homeAway": "away",
+          "abbreviation": "FOR",
+          "displayName": "Fortaleza",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732962",
+      "shortName": "PAL @ CEA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-12-07T19:00Z",
+      "teams": [
+        {
+          "id": "9969",
+          "homeAway": "home",
+          "abbreviation": "CEA",
+          "displayName": "Ceará",
+          "score": 0
+        },
+        {
+          "id": "2029",
+          "homeAway": "away",
+          "abbreviation": "PAL",
+          "displayName": "Palmeiras",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732963",
+      "shortName": "JUV @ COR",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-12-07T19:00Z",
+      "teams": [
+        {
+          "id": "874",
+          "homeAway": "home",
+          "abbreviation": "COR",
+          "displayName": "Corinthians",
+          "score": 0
+        },
+        {
+          "id": "6270",
+          "homeAway": "away",
+          "abbreviation": "JUV",
+          "displayName": "Juventude",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732968",
+      "shortName": "BAH @ FLU",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-12-07T19:00Z",
+      "teams": [
+        {
+          "id": "3445",
+          "homeAway": "home",
+          "abbreviation": "FLU",
+          "displayName": "Fluminense",
+          "score": 0
+        },
+        {
+          "id": "9967",
+          "homeAway": "away",
+          "abbreviation": "BAH",
+          "displayName": "Bahia",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732967",
+      "shortName": "BRA @ INT",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-12-07T19:00Z",
+      "teams": [
+        {
+          "id": "1936",
+          "homeAway": "home",
+          "abbreviation": "INT",
+          "displayName": "Internacional",
+          "score": 0
+        },
+        {
+          "id": "6079",
+          "homeAway": "away",
+          "abbreviation": "BRA",
+          "displayName": "Red Bull Bragantino",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732965",
+      "shortName": "CRU @ SAN",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-12-07T19:00Z",
+      "teams": [
+        {
+          "id": "2674",
+          "homeAway": "home",
+          "abbreviation": "SAN",
+          "displayName": "Santos",
+          "score": 0
+        },
+        {
+          "id": "2022",
+          "homeAway": "away",
+          "abbreviation": "CRU",
+          "displayName": "Cruzeiro",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732969",
+      "shortName": "GRE @ SPO",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-12-07T19:00Z",
+      "teams": [
+        {
+          "id": "7635",
+          "homeAway": "home",
+          "abbreviation": "SPO",
+          "displayName": "Sport",
+          "score": 0
+        },
+        {
+          "id": "6273",
+          "homeAway": "away",
+          "abbreviation": "GRE",
+          "displayName": "Grêmio",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "732964",
+      "shortName": "SAO @ VIT",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-12-07T19:00Z",
+      "teams": [
+        {
+          "id": "3457",
+          "homeAway": "home",
+          "abbreviation": "VIT",
+          "displayName": "Vitória",
+          "score": 0
+        },
+        {
+          "id": "2026",
+          "homeAway": "away",
+          "abbreviation": "SAO",
+          "displayName": "São Paulo",
           "score": 0
         }
       ]
