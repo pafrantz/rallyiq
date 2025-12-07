@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-07T15:47:55.793Z",
+  "ts": "2025-12-07T15:53:34.416Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "89'",
+      "clock": "90'+5'",
       "start": "2025-12-07T14:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BHA",
           "displayName": "Brighton & Hove Albion",
-          "score": 0
+          "score": 1
         },
         {
           "id": "371",
