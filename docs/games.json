@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-07T18:10:44.518Z",
+  "ts": "2025-12-07T18:22:15.041Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "82'",
+      "clock": "90'+3'",
       "start": "2025-12-07T16:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "CRY",
           "displayName": "Crystal Palace",
-          "score": 1
+          "score": 2
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "11:34",
+      "clock": "6:29",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 0
+          "score": 3
         },
         {
           "id": "26",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "8:53",
+      "clock": "2:42",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -78,61 +78,7 @@
           "homeAway": "away",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772792",
-      "shortName": "NO @ TB",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 1,
-      "clock": "12:24",
-      "start": "2025-12-07T18:00Z",
-      "teams": [
-        {
-          "id": "27",
-          "homeAway": "home",
-          "abbreviation": "TB",
-          "displayName": "Tampa Bay Buccaneers",
-          "score": 0
-        },
-        {
-          "id": "18",
-          "homeAway": "away",
-          "abbreviation": "NO",
-          "displayName": "New Orleans Saints",
           "score": 7
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772793",
-      "shortName": "IND @ JAX",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 1,
-      "clock": "12:54",
-      "start": "2025-12-07T18:00Z",
-      "teams": [
-        {
-          "id": "30",
-          "homeAway": "home",
-          "abbreviation": "JAX",
-          "displayName": "Jacksonville Jaguars",
-          "score": 0
-        },
-        {
-          "id": "11",
-          "homeAway": "away",
-          "abbreviation": "IND",
-          "displayName": "Indianapolis Colts",
-          "score": 0
         }
       ]
     },
@@ -144,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "9:52",
+      "clock": "6:22",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -171,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "11:03",
+      "clock": "3:42",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -198,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "12:46",
+      "clock": "8:48",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -220,12 +166,66 @@
     {
       "sport": "football",
       "league": "nfl",
+      "id": "401772792",
+      "shortName": "NO @ TB",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "7:52",
+      "start": "2025-12-07T18:00Z",
+      "teams": [
+        {
+          "id": "27",
+          "homeAway": "home",
+          "abbreviation": "TB",
+          "displayName": "Tampa Bay Buccaneers",
+          "score": 7
+        },
+        {
+          "id": "18",
+          "homeAway": "away",
+          "abbreviation": "NO",
+          "displayName": "New Orleans Saints",
+          "score": 7
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401772793",
+      "shortName": "IND @ JAX",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "7:16",
+      "start": "2025-12-07T18:00Z",
+      "teams": [
+        {
+          "id": "30",
+          "homeAway": "home",
+          "abbreviation": "JAX",
+          "displayName": "Jacksonville Jaguars",
+          "score": 7
+        },
+        {
+          "id": "11",
+          "homeAway": "away",
+          "abbreviation": "IND",
+          "displayName": "Indianapolis Colts",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
       "id": "401772791",
       "shortName": "PIT @ BAL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "12:23",
+      "clock": "8:46",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -233,7 +233,7 @@
           "homeAway": "home",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 0
+          "score": 3
         },
         {
           "id": "23",
