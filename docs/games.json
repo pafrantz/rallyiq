@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-07T14:57:06.797Z",
+  "ts": "2025-12-07T15:03:55.827Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740740",
       "shortName": "WHU @ BHA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "45'",
       "start": "2025-12-07T14:00Z",
       "teams": [
         {
