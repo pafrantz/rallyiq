@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-07T20:02:04.272Z",
+  "ts": "2025-12-07T20:10:34.158Z",
   "sport": "football",
   "league": "nfl",
   "eventId": "401772900",
@@ -8,23 +8,23 @@
     "distance": 10,
     "yardline": 47,
     "quarter": 3,
-    "clock_secs": 294,
-    "score_diff": -14,
+    "clock_secs": 102,
+    "score_diff": -17,
     "recent_gains": [
       0,
-      3,
-      4,
-      0,
-      0,
-      2
+      37,
+      27,
+      7,
+      8,
+      21
     ],
     "recent_clock": [
-      376,
-      376,
-      339,
-      301,
-      294,
-      294
+      159,
+      159,
+      159,
+      152,
+      132,
+      102
     ]
   }
 }
