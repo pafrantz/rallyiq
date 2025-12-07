@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-07T20:45:03.925Z",
+  "ts": "2025-12-07T20:50:04.283Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:05",
+      "clock": "3:59",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "5:11",
+      "clock": "3:17",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:32",
+      "clock": "10:14",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:18",
+      "clock": "6:12",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 30
+          "score": 31
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "7:05",
+      "clock": "4:54",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "TB",
           "displayName": "Tampa Bay Buccaneers",
-          "score": 17
+          "score": 20
         },
         {
           "id": "18",
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "8:08",
+      "clock": "7:01",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "8:49",
+      "clock": "7:04",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -179,7 +179,7 @@
           "homeAway": "home",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 19
+          "score": 22
         },
         {
           "id": "23",
@@ -198,7 +198,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "81'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -225,7 +225,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "82'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -252,7 +252,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "78'",
+      "clock": "83'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -279,7 +279,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "83'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -306,7 +306,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "78'",
+      "clock": "82'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -333,7 +333,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "81'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -341,7 +341,7 @@
           "homeAway": "home",
           "abbreviation": "INT",
           "displayName": "Internacional",
-          "score": 2
+          "score": 3
         },
         {
           "id": "6079",
@@ -360,7 +360,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "82'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -387,7 +387,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "82'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -414,7 +414,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "82'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
