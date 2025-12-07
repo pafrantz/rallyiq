@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-07T20:38:58.128Z",
+  "ts": "2025-12-07T20:45:03.925Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "8:20",
+      "clock": "6:05",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:48",
+      "clock": "5:11",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 25
+          "score": 32
         },
         {
           "id": "4",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "14:41",
+      "clock": "12:32",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -85,39 +85,12 @@
     {
       "sport": "football",
       "league": "nfl",
-      "id": "401772899",
-      "shortName": "WSH @ MIN",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:59",
-      "start": "2025-12-07T18:00Z",
-      "teams": [
-        {
-          "id": "16",
-          "homeAway": "home",
-          "abbreviation": "MIN",
-          "displayName": "Minnesota Vikings",
-          "score": 31
-        },
-        {
-          "id": "28",
-          "homeAway": "away",
-          "abbreviation": "WSH",
-          "displayName": "Washington Commanders",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
       "id": "401772790",
       "shortName": "MIA @ NYJ",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:08",
+      "clock": "6:18",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -132,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 24
+          "score": 30
         }
       ]
     },
@@ -144,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "8:26",
+      "clock": "7:05",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -159,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "NO",
           "displayName": "New Orleans Saints",
-          "score": 23
+          "score": 24
         }
       ]
     },
@@ -171,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:50",
+      "clock": "8:08",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -198,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:08",
+      "clock": "8:49",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -225,7 +198,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "71'",
+      "clock": "77'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -233,7 +206,7 @@
           "homeAway": "home",
           "abbreviation": "CAM",
           "displayName": "Atlético-MG",
-          "score": 4
+          "score": 5
         },
         {
           "id": "3454",
@@ -252,7 +225,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "71'",
+      "clock": "77'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -279,7 +252,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "71'",
+      "clock": "78'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -306,7 +279,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "72'",
+      "clock": "77'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -333,7 +306,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "71'",
+      "clock": "78'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -341,7 +314,7 @@
           "homeAway": "home",
           "abbreviation": "FLU",
           "displayName": "Fluminense",
-          "score": 0
+          "score": 1
         },
         {
           "id": "9967",
@@ -360,7 +333,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "72'",
+      "clock": "77'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -368,7 +341,7 @@
           "homeAway": "home",
           "abbreviation": "INT",
           "displayName": "Internacional",
-          "score": 1
+          "score": 2
         },
         {
           "id": "6079",
@@ -387,7 +360,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "71'",
+      "clock": "77'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -414,7 +387,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "71'",
+      "clock": "77'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -441,7 +414,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "70'",
+      "clock": "77'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
