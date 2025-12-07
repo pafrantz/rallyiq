@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-07T21:18:45.448Z",
+  "ts": "2025-12-07T21:26:54.117Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:43",
+      "clock": "1:09",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -31,39 +31,12 @@
     {
       "sport": "football",
       "league": "nfl",
-      "id": "401772791",
-      "shortName": "PIT @ BAL",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:25",
-      "start": "2025-12-07T18:00Z",
-      "teams": [
-        {
-          "id": "33",
-          "homeAway": "home",
-          "abbreviation": "BAL",
-          "displayName": "Baltimore Ravens",
-          "score": 22
-        },
-        {
-          "id": "23",
-          "homeAway": "away",
-          "abbreviation": "PIT",
-          "displayName": "Pittsburgh Steelers",
-          "score": 27
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
       "id": "401772794",
       "shortName": "DEN @ LV",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "6:10",
+      "clock": "2:48",
       "start": "2025-12-07T21:05Z",
       "teams": [
         {
@@ -78,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -87,10 +60,10 @@
       "league": "nfl",
       "id": "401772897",
       "shortName": "CHI @ GB",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "14:55",
       "start": "2025-12-07T21:25Z",
       "teams": [
         {
@@ -114,10 +87,10 @@
       "league": "nfl",
       "id": "401772901",
       "shortName": "LAR @ ARI",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "14:54",
       "start": "2025-12-07T21:25Z",
       "teams": [
         {
