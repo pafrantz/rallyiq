@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-07T21:32:40.046Z",
+  "ts": "2025-12-07T21:38:38.197Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772898",
-      "shortName": "TEN @ CLE",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:51",
-      "start": "2025-12-07T18:00Z",
-      "teams": [
-        {
-          "id": "5",
-          "homeAway": "home",
-          "abbreviation": "CLE",
-          "displayName": "Cleveland Browns",
-          "score": 29
-        },
-        {
-          "id": "10",
-          "homeAway": "away",
-          "abbreviation": "TEN",
-          "displayName": "Tennessee Titans",
-          "score": 31
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -36,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "15:00",
+      "clock": "12:12",
       "start": "2025-12-07T21:05Z",
       "teams": [
         {
@@ -63,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "11:45",
+      "clock": "5:56",
       "start": "2025-12-07T21:25Z",
       "teams": [
         {
@@ -90,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "12:05",
+      "clock": "7:50",
       "start": "2025-12-07T21:25Z",
       "teams": [
         {
