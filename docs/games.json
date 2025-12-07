@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-07T23:16:47.485Z",
+  "ts": "2025-12-07T23:26:36.243Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:41",
+      "clock": "5:30",
       "start": "2025-12-07T21:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "8:20",
+      "clock": "6:10",
       "start": "2025-12-07T21:25Z",
       "teams": [
         {
@@ -44,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 14
+          "score": 21
         },
         {
           "id": "3",
           "homeAway": "away",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 9
+          "score": 11
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:07",
+      "clock": "4:15",
       "start": "2025-12-07T21:25Z",
       "teams": [
         {
