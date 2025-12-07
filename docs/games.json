@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-07T21:54:17.404Z",
+  "ts": "2025-12-07T21:59:18.992Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "6:44",
+      "clock": "6:21",
       "start": "2025-12-07T21:05Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 7
+          "score": 14
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "3:46",
+      "clock": "3:01",
       "start": "2025-12-07T21:25Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "2:15",
+      "clock": "1:25",
       "start": "2025-12-07T21:25Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 3
+          "score": 10
         }
       ]
     },
