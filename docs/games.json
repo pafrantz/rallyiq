@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-07T22:48:28.865Z",
+  "ts": "2025-12-07T22:54:02.166Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:13",
+      "clock": "5:39",
       "start": "2025-12-07T21:05Z",
       "teams": [
         {
