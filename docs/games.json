@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-07T19:50:37.253Z",
+  "ts": "2025-12-07T19:55:47.163Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "8:36",
+      "clock": "6:16",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 13
+          "score": 20
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "8:19",
+      "clock": "6:49",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:34",
+      "clock": "11:37",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "4:57",
+      "clock": "2:53",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "MIN",
           "displayName": "Minnesota Vikings",
-          "score": 17
+          "score": 24
         },
         {
           "id": "28",
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401772790",
       "shortName": "MIA @ NYJ",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "13:36",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "13:41",
+      "clock": "11:27",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -168,10 +168,10 @@
       "league": "nfl",
       "id": "401772793",
       "shortName": "IND @ JAX",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:55",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -195,10 +195,10 @@
       "league": "nfl",
       "id": "401772791",
       "shortName": "PIT @ BAL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "12:37",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -222,10 +222,10 @@
       "league": "bra.1",
       "id": "732960",
       "shortName": "VAS @ CAM",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+3'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -252,7 +252,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "45'+1'",
+      "clock": "45'+5'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -260,7 +260,7 @@
           "homeAway": "home",
           "abbreviation": "BOT",
           "displayName": "Botafogo",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6272",
@@ -276,10 +276,10 @@
       "league": "bra.1",
       "id": "732962",
       "shortName": "PAL @ CEA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+3'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -303,10 +303,10 @@
       "league": "bra.1",
       "id": "732963",
       "shortName": "JUV @ COR",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+3'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -330,10 +330,10 @@
       "league": "bra.1",
       "id": "732968",
       "shortName": "BAH @ FLU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+1'",
+      "clock": "45'+2'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -357,10 +357,10 @@
       "league": "bra.1",
       "id": "732967",
       "shortName": "BRA @ INT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+1'",
+      "clock": "45'+4'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -384,10 +384,10 @@
       "league": "bra.1",
       "id": "732965",
       "shortName": "CRU @ SAN",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+2'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -411,10 +411,10 @@
       "league": "bra.1",
       "id": "732969",
       "shortName": "GRE @ SPO",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+3'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
@@ -438,10 +438,10 @@
       "league": "bra.1",
       "id": "732964",
       "shortName": "SAO @ VIT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+5'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
