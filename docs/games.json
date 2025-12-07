@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-07T17:06:30.673Z",
+  "ts": "2025-12-07T17:15:33.497Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "36'",
+      "clock": "44'",
       "start": "2025-12-07T16:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "FUL",
           "displayName": "Fulham",
-          "score": 0
+          "score": 1
         },
         {
           "id": "384",
