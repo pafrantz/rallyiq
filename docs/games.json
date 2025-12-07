@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-07T19:55:47.163Z",
+  "ts": "2025-12-07T20:02:03.975Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:16",
+      "clock": "4:54",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:49",
+      "clock": "3:57",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:37",
+      "clock": "9:16",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "2:53",
+      "clock": "2:05",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "13:36",
+      "clock": "11:22",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:27",
+      "clock": "10:25",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -159,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "NO",
           "displayName": "New Orleans Saints",
-          "score": 7
+          "score": 14
         }
       ]
     },
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:55",
+      "clock": "10:37",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -198,7 +198,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:37",
+      "clock": "10:57",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -213,7 +213,7 @@
           "homeAway": "away",
           "abbreviation": "PIT",
           "displayName": "Pittsburgh Steelers",
-          "score": 17
+          "score": 20
         }
       ]
     },
@@ -249,10 +249,10 @@
       "league": "bra.1",
       "id": "732961",
       "shortName": "FOR @ BOT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+5'",
+      "clock": "45'+7'",
       "start": "2025-12-07T19:00Z",
       "teams": [
         {
