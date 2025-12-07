@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-07T18:36:31.717Z",
+  "ts": "2025-12-07T18:46:01.401Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "SEA @ ATL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:43",
+      "period": 2,
+      "clock": "11:23",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:33",
+      "clock": "7:36",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -62,8 +62,8 @@
       "shortName": "TEN @ CLE",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "1:42",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 7
+          "score": 14
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "12:56",
+      "clock": "5:41",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "MIN",
           "displayName": "Minnesota Vikings",
-          "score": 7
+          "score": 14
         },
         {
           "id": "28",
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "3:39",
+      "clock": "0:41",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 20
+          "score": 21
         }
       ]
     },
@@ -143,8 +143,8 @@
       "shortName": "NO @ TB",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "1:01",
+      "period": 2,
+      "clock": "13:41",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -170,8 +170,8 @@
       "shortName": "IND @ JAX",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "2:27",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -195,10 +195,10 @@
       "league": "nfl",
       "id": "401772791",
       "shortName": "PIT @ BAL",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_END_PERIOD",
       "state": "IN",
       "period": 1,
-      "clock": "3:21",
+      "clock": "0:00",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
