@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-07T15:30:32.801Z",
+  "ts": "2025-12-07T15:36:57.211Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "71'",
+      "clock": "79'",
       "start": "2025-12-07T14:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "WHU",
           "displayName": "West Ham United",
-          "score": 0
+          "score": 1
         }
       ]
     },
