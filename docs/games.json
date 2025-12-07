@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-07T21:38:38.197Z",
+  "ts": "2025-12-07T21:43:46.333Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "12:12",
+      "clock": "11:39",
       "start": "2025-12-07T21:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "5:56",
+      "clock": "5:47",
       "start": "2025-12-07T21:25Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "7:50",
+      "clock": "7:40",
       "start": "2025-12-07T21:25Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 0
+          "score": 3
         }
       ]
     },
