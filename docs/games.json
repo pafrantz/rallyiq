@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-07T18:46:01.401Z",
+  "ts": "2025-12-07T18:52:46.994Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:23",
+      "clock": "9:28",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "7:36",
+      "clock": "6:34",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 3
+          "score": 11
         },
         {
           "id": "4",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "15:00",
+      "clock": "14:24",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "CLE",
           "displayName": "Cleveland Browns",
-          "score": 3
+          "score": 9
         },
         {
           "id": "10",
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "5:41",
+      "clock": "4:18",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -116,8 +116,8 @@
       "shortName": "MIA @ NYJ",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:41",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "NYJ",
           "displayName": "New York Jets",
-          "score": 0
+          "score": 7
         },
         {
           "id": "15",
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:41",
+      "clock": "11:39",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "15:00",
+      "clock": "13:47",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
@@ -195,10 +195,10 @@
       "league": "nfl",
       "id": "401772791",
       "shortName": "PIT @ BAL",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:00",
+      "period": 2,
+      "clock": "14:19",
       "start": "2025-12-07T18:00Z",
       "teams": [
         {
