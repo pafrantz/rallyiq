@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-07T23:55:24.210Z",
+  "ts": "2025-12-08T00:02:58.860Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772794",
-      "shortName": "DEN @ LV",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:05",
-      "start": "2025-12-07T21:05Z",
-      "teams": [
-        {
-          "id": "13",
-          "homeAway": "home",
-          "abbreviation": "LV",
-          "displayName": "Las Vegas Raiders",
-          "score": 14
-        },
-        {
-          "id": "7",
-          "homeAway": "away",
-          "abbreviation": "DEN",
-          "displayName": "Denver Broncos",
-          "score": 21
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -36,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "8:45",
+      "clock": "5:55",
       "start": "2025-12-07T21:25Z",
       "teams": [
         {
@@ -51,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 14
+          "score": 21
         }
       ]
     },
@@ -63,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:08",
+      "clock": "10:19",
       "start": "2025-12-07T21:25Z",
       "teams": [
         {
@@ -71,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 10
+          "score": 17
         },
         {
           "id": "14",
