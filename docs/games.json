@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-08T21:53:18.005Z",
+  "ts": "2025-12-08T21:58:18.485Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740737",
-      "shortName": "MAN @ WOL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2025-12-08T20:00Z",
-      "teams": [
-        {
-          "id": "380",
-          "homeAway": "home",
-          "abbreviation": "WOL",
-          "displayName": "Wolverhampton Wanderers",
-          "score": 1
-        },
-        {
-          "id": "360",
-          "homeAway": "away",
-          "abbreviation": "MAN",
-          "displayName": "Manchester United",
-          "score": 4
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
