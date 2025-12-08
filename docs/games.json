@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-08T21:02:08.336Z",
+  "ts": "2025-12-08T21:10:36.617Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740737",
       "shortName": "MAN @ WOL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "51'",
       "start": "2025-12-08T20:00Z",
       "teams": [
         {
