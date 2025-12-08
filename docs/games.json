@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-08T01:05:31.217Z",
+  "ts": "2025-12-08T01:43:47.598Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772932",
       "shortName": "HOU @ KC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "6:45",
       "start": "2025-12-08T01:20Z",
       "teams": [
         {
