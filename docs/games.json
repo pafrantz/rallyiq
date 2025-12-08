@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-08T20:20:20.902Z",
+  "ts": "2025-12-08T20:33:26.855Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "20'",
+      "clock": "31'",
       "start": "2025-12-08T20:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "MAN",
           "displayName": "Manchester United",
-          "score": 0
+          "score": 1
         }
       ]
     },
