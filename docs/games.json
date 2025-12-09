@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-09T01:03:08.813Z",
+  "ts": "2025-12-09T01:40:10.409Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772822",
       "shortName": "PHI @ LAC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "3:22",
       "start": "2025-12-09T01:15Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 0
+          "score": 7
         },
         {
           "id": "21",
           "homeAway": "away",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 0
+          "score": 3
         }
       ]
     }
