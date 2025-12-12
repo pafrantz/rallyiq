@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-12T03:06:49.402Z",
+  "ts": "2025-12-12T03:39:57.442Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:43",
+      "clock": "0:15",
       "start": "2025-12-12T01:15Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "TB",
           "displayName": "Tampa Bay Buccaneers",
-          "score": 13
+          "score": 20
         },
         {
           "id": "1",
