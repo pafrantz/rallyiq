@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-12T01:09:40.669Z",
+  "ts": "2025-12-12T01:49:49.432Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772948",
       "shortName": "ATL @ TB",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "1:38",
       "start": "2025-12-12T01:15Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "TB",
           "displayName": "Tampa Bay Buccaneers",
-          "score": 0
+          "score": 7
         },
         {
           "id": "1",
