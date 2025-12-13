@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-13T15:58:06.999Z",
+  "ts": "2025-12-13T16:06:51.851Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740750",
       "shortName": "EVE @ CHE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "47'",
       "start": "2025-12-13T15:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740752",
       "shortName": "BHA @ LIV",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "47'",
       "start": "2025-12-13T15:00Z",
       "teams": [
         {
