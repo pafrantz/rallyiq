@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-13T19:25:38.084Z",
+  "ts": "2025-12-13T19:31:09.837Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740754",
-      "shortName": "FUL @ BUR",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+3'",
-      "start": "2025-12-13T17:30Z",
-      "teams": [
-        {
-          "id": "379",
-          "homeAway": "home",
-          "abbreviation": "BUR",
-          "displayName": "Burnley",
-          "score": 2
-        },
-        {
-          "id": "370",
-          "homeAway": "away",
-          "abbreviation": "FUL",
-          "displayName": "Fulham",
-          "score": 3
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
