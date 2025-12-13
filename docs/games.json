@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-13T20:44:29.771Z",
+  "ts": "2025-12-13T20:50:01.661Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740746",
       "shortName": "WOL @ ARS",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "44'",
+      "clock": "45'+5'",
       "start": "2025-12-13T20:00Z",
       "teams": [
         {
