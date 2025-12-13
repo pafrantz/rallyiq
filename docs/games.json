@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-13T19:09:09.425Z",
+  "ts": "2025-12-13T19:18:37.765Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "79'",
+      "clock": "89'",
       "start": "2025-12-13T17:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BUR",
           "displayName": "Burnley",
-          "score": 1
+          "score": 2
         },
         {
           "id": "370",
