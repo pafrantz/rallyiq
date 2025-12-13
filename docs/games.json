@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-13T18:30:06.767Z",
+  "ts": "2025-12-13T18:42:10.622Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740754",
       "shortName": "FUL @ BUR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "52'",
       "start": "2025-12-13T17:30Z",
       "teams": [
         {
