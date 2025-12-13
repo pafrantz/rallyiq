@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-13T15:17:10.110Z",
+  "ts": "2025-12-13T15:27:53.209Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "16'",
+      "clock": "27'",
       "start": "2025-12-13T15:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CHE",
           "displayName": "Chelsea",
-          "score": 0
+          "score": 1
         },
         {
           "id": "368",
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "16'",
+      "clock": "27'",
       "start": "2025-12-13T15:00Z",
       "teams": [
         {
