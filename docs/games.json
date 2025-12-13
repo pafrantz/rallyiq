@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-13T21:56:42.139Z",
+  "ts": "2025-12-13T22:03:35.547Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740746",
-      "shortName": "WOL @ ARS",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+6'",
-      "start": "2025-12-13T20:00Z",
-      "teams": [
-        {
-          "id": "359",
-          "homeAway": "home",
-          "abbreviation": "ARS",
-          "displayName": "Arsenal",
-          "score": 2
-        },
-        {
-          "id": "380",
-          "homeAway": "away",
-          "abbreviation": "WOL",
-          "displayName": "Wolverhampton Wanderers",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
