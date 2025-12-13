@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-13T16:55:18.869Z",
+  "ts": "2025-12-13T17:01:01.672Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740752",
-      "shortName": "BHA @ LIV",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2025-12-13T15:00Z",
-      "teams": [
-        {
-          "id": "364",
-          "homeAway": "home",
-          "abbreviation": "LIV",
-          "displayName": "Liverpool",
-          "score": 2
-        },
-        {
-          "id": "331",
-          "homeAway": "away",
-          "abbreviation": "BHA",
-          "displayName": "Brighton & Hove Albion",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
