@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-14T22:59:41.040Z",
+  "ts": "2025-12-14T23:07:53.649Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772800",
       "shortName": "GB @ DEN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:56",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772909",
       "shortName": "DET @ LAR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:16",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:14",
+      "clock": "8:01",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "CAR",
           "displayName": "Carolina Panthers",
-          "score": 10
+          "score": 17
         }
       ]
     },
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772907",
       "shortName": "TEN @ SF",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "12:54",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 17
+          "score": 24
         },
         {
           "id": "10",
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401772799",
       "shortName": "IND @ SEA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:15",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
