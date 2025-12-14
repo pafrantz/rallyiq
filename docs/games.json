@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-14T21:58:49.941Z",
+  "ts": "2025-12-14T22:07:28.263Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "GB @ DEN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:39",
+      "period": 2,
+      "clock": "14:11",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 3
+          "score": 6
         }
       ]
     },
@@ -35,8 +35,8 @@
       "shortName": "DET @ LAR",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "2:44",
+      "period": 2,
+      "clock": "13:37",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -62,8 +62,8 @@
       "shortName": "CAR @ NO",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "1:27",
+      "period": 2,
+      "clock": "14:15",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "15:00",
+      "clock": "12:20",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 7
+          "score": 14
         },
         {
           "id": "10",
@@ -116,8 +116,8 @@
       "shortName": "IND @ SEA",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:50",
+      "period": 2,
+      "clock": "14:47",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
