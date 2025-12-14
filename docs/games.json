@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-14T19:57:58.985Z",
+  "ts": "2025-12-14T20:06:28.634Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:03",
+      "clock": "8:45",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:37",
+      "clock": "5:30",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 14
+          "score": 17
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:24",
+      "clock": "8:57",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "3:51",
+      "clock": "2:39",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 14
+          "score": 21
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:38",
+      "clock": "7:32",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -143,8 +143,8 @@
       "shortName": "LV @ PHI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "2:01",
+      "period": 4,
+      "clock": "14:54",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -152,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 24
+          "score": 31
         },
         {
           "id": "13",
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:50",
+      "clock": "10:43",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -186,7 +186,7 @@
           "homeAway": "away",
           "abbreviation": "NYJ",
           "displayName": "New York Jets",
-          "score": 10
+          "score": 13
         }
       ]
     },
@@ -198,7 +198,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:01",
+      "clock": "4:42",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
