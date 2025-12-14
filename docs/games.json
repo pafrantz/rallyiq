@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-14T23:27:14.312Z",
+  "ts": "2025-12-14T23:34:12.534Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:11",
+      "clock": "7:17",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 14
+          "score": 21
         },
         {
           "id": "9",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:16",
+      "clock": "2:26",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 20
+          "score": 26
         },
         {
           "id": "8",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "15:00",
+      "clock": "12:33",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "7:16",
+      "clock": "2:10",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 24
+          "score": 31
         },
         {
           "id": "10",
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "5:44",
+      "clock": "2:34",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
