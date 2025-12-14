@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-14T23:40:55.942Z",
+  "ts": "2025-12-14T23:46:38.391Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "4:13",
+      "clock": "1:23",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -35,8 +35,8 @@
       "shortName": "DET @ LAR",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:20",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 27
+          "score": 34
         },
         {
           "id": "8",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:56",
+      "clock": "7:47",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -89,8 +89,8 @@
       "shortName": "TEN @ SF",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:00",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "15:00",
+      "clock": "13:24",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 9
+          "score": 12
         },
         {
           "id": "11",
