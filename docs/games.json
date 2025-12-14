@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-14T21:02:21.151Z",
+  "ts": "2025-12-14T21:10:51.106Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772904",
-      "shortName": "CLE @ CHI",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:00",
-      "start": "2025-12-14T18:00Z",
-      "teams": [
-        {
-          "id": "3",
-          "homeAway": "home",
-          "abbreviation": "CHI",
-          "displayName": "Chicago Bears",
-          "score": 31
-        },
-        {
-          "id": "5",
-          "homeAway": "away",
-          "abbreviation": "CLE",
-          "displayName": "Cleveland Browns",
-          "score": 3
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -36,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:04",
+      "clock": "1:53",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -58,39 +31,12 @@
     {
       "sport": "football",
       "league": "nfl",
-      "id": "401772795",
-      "shortName": "BUF @ NE",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:42",
-      "start": "2025-12-14T18:00Z",
-      "teams": [
-        {
-          "id": "17",
-          "homeAway": "home",
-          "abbreviation": "NE",
-          "displayName": "New England Patriots",
-          "score": 31
-        },
-        {
-          "id": "2",
-          "homeAway": "away",
-          "abbreviation": "BUF",
-          "displayName": "Buffalo Bills",
-          "score": 35
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
       "id": "401772905",
       "shortName": "WSH @ NYG",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:42",
+      "clock": "1:37",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -117,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "3:25",
+      "clock": "1:24",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -132,33 +78,6 @@
           "homeAway": "away",
           "abbreviation": "NYJ",
           "displayName": "New York Jets",
-          "score": 20
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772903",
-      "shortName": "ARI @ HOU",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:55",
-      "start": "2025-12-14T18:00Z",
-      "teams": [
-        {
-          "id": "34",
-          "homeAway": "home",
-          "abbreviation": "HOU",
-          "displayName": "Houston Texans",
-          "score": 40
-        },
-        {
-          "id": "22",
-          "homeAway": "away",
-          "abbreviation": "ARI",
-          "displayName": "Arizona Cardinals",
           "score": 20
         }
       ]
