@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-14T22:28:04.832Z",
+  "ts": "2025-12-14T22:36:36.418Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "4:44",
+      "clock": "3:58",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 6
+          "score": 13
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "6:12",
+      "clock": "3:09",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "2:45",
+      "clock": "0:21",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "CAR",
           "displayName": "Carolina Panthers",
-          "score": 7
+          "score": 10
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "2:00",
+      "clock": "0:56",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 14
+          "score": 17
         },
         {
           "id": "10",
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "5:49",
+      "clock": "2:00",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
