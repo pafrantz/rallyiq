@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-14T19:41:59.506Z",
+  "ts": "2025-12-14T19:47:32.288Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772904",
       "shortName": "CLE @ CHI",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:03",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772796",
       "shortName": "BAL @ CIN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "12:44",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:29",
+      "clock": "9:18",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:53",
+      "clock": "4:52",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
