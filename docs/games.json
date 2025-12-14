@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-14T23:17:29.473Z",
+  "ts": "2025-12-14T23:27:14.312Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:55",
+      "clock": "9:11",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:07",
+      "clock": "6:16",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -62,8 +62,8 @@
       "shortName": "CAR @ NO",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:56",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:03",
+      "clock": "7:16",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:49",
+      "clock": "5:44",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
