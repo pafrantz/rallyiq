@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-14T19:36:34.172Z",
+  "ts": "2025-12-14T19:41:59.506Z",
   "games": [
     {
       "sport": "football",
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772798",
       "shortName": "LAC @ KC",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:05",
+      "clock": "0:00",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:52",
+      "clock": "11:29",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 7
+          "score": 14
         }
       ]
     },
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:24",
+      "clock": "9:53",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -168,10 +168,10 @@
       "league": "nfl",
       "id": "401772797",
       "shortName": "NYJ @ JAX",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:31",
+      "clock": "0:00",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -179,7 +179,7 @@
           "homeAway": "home",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 24
+          "score": 31
         },
         {
           "id": "20",
