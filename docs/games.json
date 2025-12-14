@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-14T22:49:15.689Z",
+  "ts": "2025-12-14T22:54:20.298Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772800",
       "shortName": "GB @ DEN",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:22",
+      "clock": "0:00",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 13
+          "score": 16
         }
       ]
     },
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772909",
       "shortName": "DET @ LAR",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:30",
+      "clock": "0:00",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 14
+          "score": 17
         },
         {
           "id": "8",
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772908",
       "shortName": "CAR @ NO",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "15:00",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401772799",
       "shortName": "IND @ SEA",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:27",
+      "clock": "0:00",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 3
+          "score": 6
         },
         {
           "id": "11",
