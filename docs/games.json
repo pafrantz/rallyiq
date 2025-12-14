@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-14T22:07:28.263Z",
+  "ts": "2025-12-14T22:16:51.773Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:11",
+      "clock": "8:19",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 0
+          "score": 6
         },
         {
           "id": "9",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:37",
+      "clock": "9:35",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 7
+          "score": 10
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:15",
+      "clock": "8:17",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "12:20",
+      "clock": "7:43",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 3
+          "score": 10
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:47",
+      "clock": "10:03",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
