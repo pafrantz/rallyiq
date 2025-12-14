@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-14T20:28:37.963Z",
+  "ts": "2025-12-14T20:37:32.410Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "CLE @ CHI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:42",
+      "period": 4,
+      "clock": "12:47",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:10",
+      "clock": "7:58",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -62,8 +62,8 @@
       "shortName": "LAC @ KC",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "2:12",
+      "period": 4,
+      "clock": "14:15",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 13
+          "score": 16
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:03",
+      "clock": "9:49",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 24
+          "score": 31
         },
         {
           "id": "2",
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "14:08",
+      "clock": "11:38",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -132,34 +132,7 @@
           "homeAway": "away",
           "abbreviation": "WSH",
           "displayName": "Washington Commanders",
-          "score": 22
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772906",
-      "shortName": "LV @ PHI",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:00",
-      "start": "2025-12-14T18:00Z",
-      "teams": [
-        {
-          "id": "21",
-          "homeAway": "home",
-          "abbreviation": "PHI",
-          "displayName": "Philadelphia Eagles",
-          "score": 31
-        },
-        {
-          "id": "13",
-          "homeAway": "away",
-          "abbreviation": "LV",
-          "displayName": "Las Vegas Raiders",
-          "score": 0
+          "score": 29
         }
       ]
     },
@@ -170,8 +143,8 @@
       "shortName": "NYJ @ JAX",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:11",
+      "period": 4,
+      "clock": "14:08",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -186,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "NYJ",
           "displayName": "New York Jets",
-          "score": 13
+          "score": 20
         }
       ]
     },
@@ -198,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "13:34",
+      "clock": "11:01",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -213,7 +186,7 @@
           "homeAway": "away",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 14
+          "score": 20
         }
       ]
     },
