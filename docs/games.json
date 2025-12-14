@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-14T20:37:32.410Z",
+  "ts": "2025-12-14T20:44:43.532Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:47",
+      "clock": "10:32",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "7:58",
+      "clock": "4:53",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 17
+          "score": 24
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "14:15",
+      "clock": "13:31",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "9:49",
+      "clock": "6:48",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 28
+          "score": 35
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:38",
+      "clock": "10:22",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "14:08",
+      "clock": "13:40",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -152,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 41
+          "score": 48
         },
         {
           "id": "20",
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:01",
+      "clock": "8:44",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
