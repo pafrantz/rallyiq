@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-14T22:36:36.418Z",
+  "ts": "2025-12-14T22:43:38.274Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "3:58",
+      "clock": "1:56",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 7
+          "score": 14
         },
         {
           "id": "9",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "3:09",
+      "clock": "1:49",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772908",
       "shortName": "CAR @ NO",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:21",
+      "clock": "0:00",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "0:56",
+      "clock": "0:36",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "2:00",
+      "clock": "1:33",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 6
+          "score": 13
         }
       ]
     },
