@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-14T19:47:32.288Z",
+  "ts": "2025-12-14T19:52:51.718Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:03",
+      "clock": "12:13",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:44",
+      "clock": "11:49",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772798",
       "shortName": "LAC @ KC",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:56",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:18",
+      "clock": "6:37",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401772905",
       "shortName": "WSH @ NYG",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "12:36",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "4:52",
+      "clock": "3:30",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
@@ -152,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 17
+          "score": 24
         },
         {
           "id": "13",
@@ -195,10 +195,10 @@
       "league": "nfl",
       "id": "401772903",
       "shortName": "ARI @ HOU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "13:20",
       "start": "2025-12-14T18:00Z",
       "teams": [
         {
