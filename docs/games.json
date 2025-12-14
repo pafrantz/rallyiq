@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-14T15:02:52.607Z",
+  "ts": "2025-12-14T15:11:19.385Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740747",
       "shortName": "MNC @ CRY",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "51'",
       "start": "2025-12-14T14:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740755",
       "shortName": "TOT @ NFO",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "53'",
       "start": "2025-12-14T14:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "NFO",
           "displayName": "Nottingham Forest",
-          "score": 1
+          "score": 2
         },
         {
           "id": "367",
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740749",
       "shortName": "NEW @ SUN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "48'",
       "start": "2025-12-14T14:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "SUN",
           "displayName": "Sunderland",
-          "score": 0
+          "score": 1
         },
         {
           "id": "361",
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740748",
       "shortName": "AVL @ WHU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "50'",
       "start": "2025-12-14T14:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "AVL",
           "displayName": "Aston Villa",
-          "score": 1
+          "score": 2
         }
       ]
     },
