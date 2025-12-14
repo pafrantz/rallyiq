@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-14T17:31:04.332Z",
+  "ts": "2025-12-14T17:38:12.597Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740753",
       "shortName": "LEE @ BRE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "47'",
       "start": "2025-12-14T16:30Z",
       "teams": [
         {
