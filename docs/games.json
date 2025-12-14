@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-14T23:34:12.534Z",
+  "ts": "2025-12-14T23:40:55.942Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "7:17",
+      "clock": "4:13",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "2:26",
+      "clock": "1:20",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 26
+          "score": 27
         },
         {
           "id": "8",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:33",
+      "clock": "10:56",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "2:10",
+      "clock": "1:00",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
@@ -116,8 +116,8 @@
       "shortName": "IND @ SEA",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "2:34",
+      "period": 4,
+      "clock": "15:00",
       "start": "2025-12-14T21:25Z",
       "teams": [
         {
