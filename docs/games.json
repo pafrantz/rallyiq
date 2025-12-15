@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-15T22:00:06.898Z",
+  "ts": "2025-12-15T22:09:07.432Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740751",
-      "shortName": "BOU @ MAN",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+9'",
-      "start": "2025-12-15T20:00Z",
-      "teams": [
-        {
-          "id": "360",
-          "homeAway": "home",
-          "abbreviation": "MAN",
-          "displayName": "Manchester United",
-          "score": 4
-        },
-        {
-          "id": "349",
-          "homeAway": "away",
-          "abbreviation": "BOU",
-          "displayName": "AFC Bournemouth",
-          "score": 4
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
