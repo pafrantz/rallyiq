@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-15T21:43:03.355Z",
+  "ts": "2025-12-15T21:49:11.302Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "81'",
+      "clock": "87'",
       "start": "2025-12-15T20:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BOU",
           "displayName": "AFC Bournemouth",
-          "score": 3
+          "score": 4
         }
       ]
     },
