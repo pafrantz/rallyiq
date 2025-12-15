@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-15T04:12:22.757Z",
+  "ts": "2025-12-15T04:29:18.853Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:09",
+      "clock": "0:19",
       "start": "2025-12-15T01:20Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 23
+          "score": 26
         },
         {
           "id": "16",
           "homeAway": "away",
           "abbreviation": "MIN",
           "displayName": "Minnesota Vikings",
-          "score": 31
+          "score": 34
         }
       ]
     },
