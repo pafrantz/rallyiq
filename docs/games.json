@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-15T01:56:24.389Z",
+  "ts": "2025-12-15T02:38:46.175Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "MIN @ DAL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "2:30",
+      "period": 2,
+      "clock": "2:00",
       "start": "2025-12-15T01:20Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 7
+          "score": 14
         },
         {
           "id": "16",
           "homeAway": "away",
           "abbreviation": "MIN",
           "displayName": "Minnesota Vikings",
-          "score": 7
+          "score": 14
         }
       ]
     },
