@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-15T21:05:34.308Z",
+  "ts": "2025-12-15T21:14:52.128Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740751",
       "shortName": "BOU @ MAN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "52'",
       "start": "2025-12-15T20:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BOU",
           "displayName": "AFC Bournemouth",
-          "score": 1
+          "score": 3
         }
       ]
     },
