@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-19T04:34:28.333Z",
+  "ts": "2025-12-19T04:48:31.970Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 5,
-      "clock": "9:15",
+      "clock": "3:44",
       "start": "2025-12-19T01:15Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 30
+          "score": 37
         }
       ]
     },
