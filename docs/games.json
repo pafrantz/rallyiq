@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-19T01:10:33.976Z",
+  "ts": "2025-12-19T01:50:57.588Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772949",
       "shortName": "LAR @ SEA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "0:58",
       "start": "2025-12-19T01:15Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 0
+          "score": 7
         },
         {
           "id": "14",
           "homeAway": "away",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 0
+          "score": 3
         }
       ]
     },
