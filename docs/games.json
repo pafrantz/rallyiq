@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-19T04:48:31.970Z",
+  "ts": "2025-12-19T04:58:20.119Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772949",
-      "shortName": "LAR @ SEA",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 5,
-      "clock": "3:44",
-      "start": "2025-12-19T01:15Z",
-      "teams": [
-        {
-          "id": "26",
-          "homeAway": "home",
-          "abbreviation": "SEA",
-          "displayName": "Seattle Seahawks",
-          "score": 30
-        },
-        {
-          "id": "14",
-          "homeAway": "away",
-          "abbreviation": "LAR",
-          "displayName": "Los Angeles Rams",
-          "score": 37
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
