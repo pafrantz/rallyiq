@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-20T15:44:55.039Z",
+  "ts": "2025-12-20T15:50:32.195Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740764",
       "shortName": "BUR @ BOU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "43'",
+      "clock": "45'+3'",
       "start": "2025-12-20T15:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740756",
       "shortName": "SUN @ BHA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "44'",
+      "clock": "45'+4'",
       "start": "2025-12-20T15:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740760",
       "shortName": "WHU @ MNC",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "44'",
+      "clock": "45'+3'",
       "start": "2025-12-20T15:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740761",
       "shortName": "BRE @ WOL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "41'",
+      "clock": "45'+1'",
       "start": "2025-12-20T15:00Z",
       "teams": [
         {
