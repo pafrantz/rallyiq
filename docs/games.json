@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-20T21:11:40.200Z",
+  "ts": "2025-12-20T21:22:04.456Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "47'",
+      "clock": "57'",
       "start": "2025-12-20T20:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "50'",
+      "clock": "60'",
       "start": "2025-12-20T20:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "LEE",
           "displayName": "Leeds United",
-          "score": 2
+          "score": 3
         },
         {
           "id": "384",
