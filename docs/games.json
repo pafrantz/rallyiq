@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-20T13:57:02.732Z",
+  "ts": "2025-12-20T14:03:44.309Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "66'",
+      "clock": "72'",
       "start": "2025-12-20T12:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "CHE",
           "displayName": "Chelsea",
-          "score": 1
+          "score": 2
         }
       ]
     },
