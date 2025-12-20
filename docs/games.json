@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-20T23:06:26.626Z",
+  "ts": "2025-12-20T23:15:48.134Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "5:56",
+      "clock": "2:00",
       "start": "2025-12-20T22:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "WSH",
           "displayName": "Washington Commanders",
-          "score": 3
+          "score": 10
         },
         {
           "id": "21",
