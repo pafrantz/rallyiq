@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-20T21:03:17.050Z",
+  "ts": "2025-12-20T21:11:40.200Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740757",
       "shortName": "ARS @ EVE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+7'",
+      "period": 2,
+      "clock": "47'",
       "start": "2025-12-20T20:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740759",
       "shortName": "CRY @ LEE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "50'",
       "start": "2025-12-20T20:00Z",
       "teams": [
         {
