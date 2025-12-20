@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-20T12:27:51.875Z",
+  "ts": "2025-12-20T12:46:35.162Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740763",
       "shortName": "CHE @ NEW",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "14'",
       "start": "2025-12-20T12:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "NEW",
           "displayName": "Newcastle United",
-          "score": 0
+          "score": 1
         },
         {
           "id": "363",
