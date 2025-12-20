@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-20T20:22:02.124Z",
+  "ts": "2025-12-20T20:31:47.395Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "21'",
+      "clock": "29'",
       "start": "2025-12-20T20:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "ARS",
           "displayName": "Arsenal",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "22'",
+      "clock": "31'",
       "start": "2025-12-20T20:00Z",
       "teams": [
         {
