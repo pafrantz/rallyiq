@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-20T16:50:56.858Z",
+  "ts": "2025-12-20T16:56:02.653Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740764",
-      "shortName": "BUR @ BOU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'",
-      "start": "2025-12-20T15:00Z",
-      "teams": [
-        {
-          "id": "349",
-          "homeAway": "home",
-          "abbreviation": "BOU",
-          "displayName": "AFC Bournemouth",
-          "score": 1
-        },
-        {
-          "id": "379",
-          "homeAway": "away",
-          "abbreviation": "BUR",
-          "displayName": "Burnley",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "87'",
+      "clock": "90'+1'",
       "start": "2025-12-20T15:00Z",
       "teams": [
         {
@@ -52,60 +25,6 @@
           "abbreviation": "SUN",
           "displayName": "Sunderland",
           "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740760",
-      "shortName": "WHU @ MNC",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+3'",
-      "start": "2025-12-20T15:00Z",
-      "teams": [
-        {
-          "id": "382",
-          "homeAway": "home",
-          "abbreviation": "MNC",
-          "displayName": "Manchester City",
-          "score": 3
-        },
-        {
-          "id": "371",
-          "homeAway": "away",
-          "abbreviation": "WHU",
-          "displayName": "West Ham United",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740761",
-      "shortName": "BRE @ WOL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+3'",
-      "start": "2025-12-20T15:00Z",
-      "teams": [
-        {
-          "id": "380",
-          "homeAway": "home",
-          "abbreviation": "WOL",
-          "displayName": "Wolverhampton Wanderers",
-          "score": 0
-        },
-        {
-          "id": "337",
-          "homeAway": "away",
-          "abbreviation": "BRE",
-          "displayName": "Brentford",
-          "score": 2
         }
       ]
     },
