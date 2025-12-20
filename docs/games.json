@@ -1,69 +1,15 @@
 {
-  "ts": "2025-12-20T21:58:01.255Z",
+  "ts": "2025-12-20T22:05:44.917Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740757",
-      "shortName": "ARS @ EVE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2025-12-20T20:00Z",
-      "teams": [
-        {
-          "id": "368",
-          "homeAway": "home",
-          "abbreviation": "EVE",
-          "displayName": "Everton",
-          "score": 0
-        },
-        {
-          "id": "359",
-          "homeAway": "away",
-          "abbreviation": "ARS",
-          "displayName": "Arsenal",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740759",
-      "shortName": "CRY @ LEE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+7'",
-      "start": "2025-12-20T20:00Z",
-      "teams": [
-        {
-          "id": "357",
-          "homeAway": "home",
-          "abbreviation": "LEE",
-          "displayName": "Leeds United",
-          "score": 3
-        },
-        {
-          "id": "384",
-          "homeAway": "away",
-          "abbreviation": "CRY",
-          "displayName": "Crystal Palace",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772612",
       "shortName": "PHI @ WSH",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "14:55",
       "start": "2025-12-20T22:00Z",
       "teams": [
         {
