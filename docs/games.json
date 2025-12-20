@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-20T19:28:36.960Z",
+  "ts": "2025-12-20T19:34:33.821Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740762",
-      "shortName": "LIV @ TOT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+7'",
-      "start": "2025-12-20T17:30Z",
-      "teams": [
-        {
-          "id": "367",
-          "homeAway": "home",
-          "abbreviation": "TOT",
-          "displayName": "Tottenham Hotspur",
-          "score": 1
-        },
-        {
-          "id": "364",
-          "homeAway": "away",
-          "abbreviation": "LIV",
-          "displayName": "Liverpool",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
