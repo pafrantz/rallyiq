@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-20T12:46:35.162Z",
+  "ts": "2025-12-20T13:02:00.848Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "14'",
+      "clock": "30'",
       "start": "2025-12-20T12:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "NEW",
           "displayName": "Newcastle United",
-          "score": 1
+          "score": 2
         },
         {
           "id": "363",
