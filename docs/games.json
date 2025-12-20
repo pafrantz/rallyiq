@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-20T23:15:48.134Z",
+  "ts": "2025-12-20T23:26:16.830Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772612",
       "shortName": "PHI @ WSH",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "2:00",
+      "clock": "0:00",
       "start": "2025-12-20T22:00Z",
       "teams": [
         {
