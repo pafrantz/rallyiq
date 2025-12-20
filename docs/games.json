@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-20T17:29:28.478Z",
+  "ts": "2025-12-20T17:36:34.322Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740762",
       "shortName": "LIV @ TOT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "6'",
       "start": "2025-12-20T17:30Z",
       "teams": [
         {
