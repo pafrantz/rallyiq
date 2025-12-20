@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-20T22:41:59.324Z",
+  "ts": "2025-12-20T22:47:33.906Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "PHI @ WSH",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "1:58",
+      "period": 2,
+      "clock": "14:54",
       "start": "2025-12-20T22:00Z",
       "teams": [
         {
