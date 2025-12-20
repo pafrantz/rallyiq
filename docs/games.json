@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-20T15:38:44.543Z",
+  "ts": "2025-12-20T15:44:55.039Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "38'",
+      "clock": "43'",
       "start": "2025-12-20T15:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "38'",
+      "clock": "44'",
       "start": "2025-12-20T15:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "38'",
+      "clock": "44'",
       "start": "2025-12-20T15:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "MNC",
           "displayName": "Manchester City",
-          "score": 1
+          "score": 2
         },
         {
           "id": "371",
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "37'",
+      "clock": "41'",
       "start": "2025-12-20T15:00Z",
       "teams": [
         {
