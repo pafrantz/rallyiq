@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-21T18:23:32.362Z",
+  "ts": "2025-12-21T18:38:18.324Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740765",
-      "shortName": "MAN @ AVL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'",
-      "start": "2025-12-21T16:30Z",
-      "teams": [
-        {
-          "id": "362",
-          "homeAway": "home",
-          "abbreviation": "AVL",
-          "displayName": "Aston Villa",
-          "score": 2
-        },
-        {
-          "id": "360",
-          "homeAway": "away",
-          "abbreviation": "MAN",
-          "displayName": "Manchester United",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -35,8 +8,8 @@
       "shortName": "BUF @ CLE",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "5:58",
+      "period": 2,
+      "clock": "13:21",
       "start": "2025-12-21T18:00Z",
       "teams": [
         {
@@ -62,8 +35,8 @@
       "shortName": "LAC @ DAL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "6:43",
+      "period": 2,
+      "clock": "14:12",
       "start": "2025-12-21T18:00Z",
       "teams": [
         {
@@ -89,8 +62,8 @@
       "shortName": "KC @ TEN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "5:13",
+      "period": 2,
+      "clock": "14:44",
       "start": "2025-12-21T18:00Z",
       "teams": [
         {
@@ -116,8 +89,8 @@
       "shortName": "CIN @ MIA",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "3:57",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-12-21T18:00Z",
       "teams": [
         {
@@ -125,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 0
+          "score": 7
         },
         {
           "id": "4",
@@ -143,8 +116,8 @@
       "shortName": "NYJ @ NO",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "6:31",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-12-21T18:00Z",
       "teams": [
         {
@@ -170,8 +143,8 @@
       "shortName": "MIN @ NYG",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "5:16",
+      "period": 2,
+      "clock": "14:27",
       "start": "2025-12-21T18:00Z",
       "teams": [
         {
@@ -197,8 +170,8 @@
       "shortName": "TB @ CAR",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "4:01",
+      "period": 2,
+      "clock": "14:38",
       "start": "2025-12-21T18:00Z",
       "teams": [
         {
