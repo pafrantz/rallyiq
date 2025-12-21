@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-21T22:51:46.460Z",
+  "ts": "2025-12-21T22:57:22.711Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "13:11",
+      "clock": "12:56",
       "start": "2025-12-21T21:05Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 10
+          "score": 17
         },
         {
           "id": "30",
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772806",
       "shortName": "PIT @ DET",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:02",
+      "clock": "0:00",
       "start": "2025-12-21T21:25Z",
       "teams": [
         {
