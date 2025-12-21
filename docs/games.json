@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-21T21:55:30.562Z",
+  "ts": "2025-12-21T22:01:18.424Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "12:46",
+      "clock": "11:40",
       "start": "2025-12-21T21:05Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772914",
       "shortName": "ATL @ ARI",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:00",
+      "period": 2,
+      "clock": "13:27",
       "start": "2025-12-21T21:05Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 10
+          "score": 13
         },
         {
           "id": "1",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "15:00",
+      "clock": "13:30",
       "start": "2025-12-21T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "7:08",
+      "clock": "3:24",
       "start": "2025-12-21T21:25Z",
       "teams": [
         {
