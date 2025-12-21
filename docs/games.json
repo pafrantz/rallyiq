@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-21T20:46:11.757Z",
+  "ts": "2025-12-21T20:52:08.427Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:47",
+      "clock": "1:38",
       "start": "2025-12-21T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:14",
+      "clock": "2:00",
       "start": "2025-12-21T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:05",
+      "clock": "3:44",
       "start": "2025-12-21T18:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 23
+          "score": 26
         },
         {
           "id": "12",
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "3:37",
+      "clock": "1:20",
       "start": "2025-12-21T18:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "5:17",
+      "clock": "2:55",
       "start": "2025-12-21T18:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:15",
+      "clock": "2:08",
       "start": "2025-12-21T18:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:28",
+      "clock": "2:00",
       "start": "2025-12-21T18:00Z",
       "teams": [
         {
@@ -179,7 +179,7 @@
           "homeAway": "home",
           "abbreviation": "CAR",
           "displayName": "Carolina Panthers",
-          "score": 20
+          "score": 23
         },
         {
           "id": "27",
