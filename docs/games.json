@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-21T17:12:01.002Z",
+  "ts": "2025-12-21T17:22:35.568Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740765",
       "shortName": "MAN @ AVL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "40'",
+      "clock": "45'+5'",
       "start": "2025-12-21T16:30Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "AVL",
           "displayName": "Aston Villa",
-          "score": 0
+          "score": 1
         },
         {
           "id": "360",
           "homeAway": "away",
           "abbreviation": "MAN",
           "displayName": "Manchester United",
-          "score": 0
+          "score": 1
         }
       ]
     },
