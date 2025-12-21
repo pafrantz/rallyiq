@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-20T23:57:03.087Z",
+  "ts": "2025-12-21T00:19:48.767Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "PHI @ WSH",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "6:25",
+      "period": 4,
+      "clock": "13:39",
       "start": "2025-12-20T22:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 7
+          "score": 14
         }
       ]
     },
