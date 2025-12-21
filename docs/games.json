@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-21T04:24:44.517Z",
+  "ts": "2025-12-21T04:41:04.715Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772613",
-      "shortName": "GB @ CHI",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 5,
-      "clock": "6:58",
-      "start": "2025-12-21T01:20Z",
-      "teams": [
-        {
-          "id": "3",
-          "homeAway": "home",
-          "abbreviation": "CHI",
-          "displayName": "Chicago Bears",
-          "score": 16
-        },
-        {
-          "id": "9",
-          "homeAway": "away",
-          "abbreviation": "GB",
-          "displayName": "Green Bay Packers",
-          "score": 16
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
