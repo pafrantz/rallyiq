@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-21T22:19:36.744Z",
+  "ts": "2025-12-21T22:31:04.428Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "4:33",
+      "clock": "0:43",
       "start": "2025-12-21T21:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "5:02",
+      "clock": "2:00",
       "start": "2025-12-21T21:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "6:26",
+      "clock": "2:49",
       "start": "2025-12-21T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:45",
+      "clock": "5:19",
       "start": "2025-12-21T21:25Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 7
+          "score": 10
         },
         {
           "id": "13",
