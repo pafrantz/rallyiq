@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-21T21:04:59.475Z",
+  "ts": "2025-12-21T21:14:06.173Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772913",
       "shortName": "JAX @ DEN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "11:50",
       "start": "2025-12-21T21:05Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772914",
       "shortName": "ATL @ ARI",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "12:46",
       "start": "2025-12-21T21:05Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 0
+          "score": 3
         },
         {
           "id": "1",
