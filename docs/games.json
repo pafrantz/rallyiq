@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-21T23:39:08.895Z",
+  "ts": "2025-12-21T23:45:24.640Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:37",
+      "clock": "10:38",
       "start": "2025-12-21T21:05Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 17
+          "score": 20
         },
         {
           "id": "30",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:28",
+      "clock": "10:43",
       "start": "2025-12-21T21:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "15:00",
+      "clock": "14:44",
       "start": "2025-12-21T21:25Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "PIT",
           "displayName": "Pittsburgh Steelers",
-          "score": 12
+          "score": 15
         }
       ]
     },
@@ -89,8 +89,8 @@
       "shortName": "LV @ HOU",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:30",
+      "period": 4,
+      "clock": "14:24",
       "start": "2025-12-21T21:25Z",
       "teams": [
         {
