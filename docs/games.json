@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-21T21:38:53.476Z",
+  "ts": "2025-12-21T21:44:48.126Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "2:35",
+      "clock": "0:07",
       "start": "2025-12-21T21:05Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "6:08",
+      "clock": "3:52",
       "start": "2025-12-21T21:05Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "9:21",
+      "clock": "4:46",
       "start": "2025-12-21T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "10:43",
+      "clock": "9:37",
       "start": "2025-12-21T21:25Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 6
+          "score": 7
         },
         {
           "id": "13",
