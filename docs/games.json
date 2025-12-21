@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-21T19:53:31.113Z",
+  "ts": "2025-12-21T19:58:59.699Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:50",
+      "clock": "6:57",
       "start": "2025-12-21T18:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 20
+          "score": 23
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "7:25",
+      "clock": "4:29",
       "start": "2025-12-21T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:32",
+      "clock": "7:42",
       "start": "2025-12-21T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:19",
+      "clock": "8:32",
       "start": "2025-12-21T18:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 24
+          "score": 31
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:55",
+      "clock": "7:14",
       "start": "2025-12-21T18:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:08",
+      "clock": "7:09",
       "start": "2025-12-21T18:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:41",
+      "clock": "5:20",
       "start": "2025-12-21T18:00Z",
       "teams": [
         {
