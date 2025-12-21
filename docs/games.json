@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-21T22:01:18.424Z",
+  "ts": "2025-12-21T22:09:27.490Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:40",
+      "clock": "9:00",
       "start": "2025-12-21T21:05Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 7
+          "score": 10
         },
         {
           "id": "30",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:27",
+      "clock": "10:39",
       "start": "2025-12-21T21:05Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 3
+          "score": 10
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:30",
+      "clock": "10:10",
       "start": "2025-12-21T21:25Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 0
+          "score": 3
         },
         {
           "id": "23",
@@ -89,8 +89,8 @@
       "shortName": "LV @ HOU",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "3:24",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-12-21T21:25Z",
       "teams": [
         {
