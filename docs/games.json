@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-21T00:45:47.549Z",
+  "ts": "2025-12-21T01:15:24.915Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772612",
-      "shortName": "PHI @ WSH",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "4:26",
-      "start": "2025-12-20T22:00Z",
-      "teams": [
-        {
-          "id": "28",
-          "homeAway": "home",
-          "abbreviation": "WSH",
-          "displayName": "Washington Commanders",
-          "score": 10
-        },
-        {
-          "id": "21",
-          "homeAway": "away",
-          "abbreviation": "PHI",
-          "displayName": "Philadelphia Eagles",
-          "score": 29
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
