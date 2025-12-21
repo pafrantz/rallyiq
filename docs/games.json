@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-21T22:09:27.490Z",
+  "ts": "2025-12-21T22:19:36.744Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "9:00",
+      "clock": "4:33",
       "start": "2025-12-21T21:05Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 7
+          "score": 14
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "10:39",
+      "clock": "5:02",
       "start": "2025-12-21T21:05Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 13
+          "score": 16
         },
         {
           "id": "1",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "10:10",
+      "clock": "6:26",
       "start": "2025-12-21T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "15:00",
+      "clock": "11:45",
       "start": "2025-12-21T21:25Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "LV",
           "displayName": "Las Vegas Raiders",
-          "score": 0
+          "score": 7
         }
       ]
     },
