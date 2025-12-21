@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-21T22:57:22.711Z",
+  "ts": "2025-12-21T23:04:57.961Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:56",
+      "clock": "7:51",
       "start": "2025-12-21T21:05Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772914",
       "shortName": "ATL @ ARI",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "11:09",
       "start": "2025-12-21T21:05Z",
       "teams": [
         {
