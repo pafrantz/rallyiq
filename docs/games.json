@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-21T23:04:57.961Z",
+  "ts": "2025-12-21T23:13:47.801Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "7:51",
+      "clock": "6:03",
       "start": "2025-12-21T21:05Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 17
+          "score": 24
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:09",
+      "clock": "7:25",
       "start": "2025-12-21T21:05Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 16
+          "score": 19
         }
       ]
     },
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772806",
       "shortName": "PIT @ DET",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "10:40",
       "start": "2025-12-21T21:25Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772805",
       "shortName": "LV @ HOU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "11:51",
       "start": "2025-12-21T21:25Z",
       "teams": [
         {
