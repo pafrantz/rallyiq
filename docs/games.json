@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-21T02:45:20.217Z",
+  "ts": "2025-12-21T03:19:25.563Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772613",
       "shortName": "GB @ CHI",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "3:03",
       "start": "2025-12-21T01:20Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 0
+          "score": 3
         },
         {
           "id": "9",
