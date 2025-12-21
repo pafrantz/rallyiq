@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-21T16:22:15.349Z",
+  "ts": "2025-12-21T16:34:58.711Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740765",
       "shortName": "MAN @ AVL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "3'",
       "start": "2025-12-21T16:30Z",
       "teams": [
         {
