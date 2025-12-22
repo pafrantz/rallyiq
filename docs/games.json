@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-22T00:42:55.037Z",
+  "ts": "2025-12-22T01:11:18.750Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772806",
-      "shortName": "PIT @ DET",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:19",
-      "start": "2025-12-21T21:25Z",
-      "teams": [
-        {
-          "id": "8",
-          "homeAway": "home",
-          "abbreviation": "DET",
-          "displayName": "Detroit Lions",
-          "score": 24
-        },
-        {
-          "id": "23",
-          "homeAway": "away",
-          "abbreviation": "PIT",
-          "displayName": "Pittsburgh Steelers",
-          "score": 29
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
