@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-21T23:55:58.395Z",
+  "ts": "2025-12-22T00:08:58.882Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:43",
+      "clock": "1:59",
       "start": "2025-12-21T21:05Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:15",
+      "clock": "2:05",
       "start": "2025-12-21T21:05Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 16
+          "score": 19
         },
         {
           "id": "1",
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:18",
+      "clock": "8:39",
       "start": "2025-12-21T21:25Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 10
+          "score": 17
         },
         {
           "id": "23",
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "7:49",
+      "clock": "4:05",
       "start": "2025-12-21T21:25Z",
       "teams": [
         {
@@ -98,14 +98,14 @@
           "homeAway": "home",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 16
+          "score": 23
         },
         {
           "id": "13",
           "homeAway": "away",
           "abbreviation": "LV",
           "displayName": "Las Vegas Raiders",
-          "score": 14
+          "score": 21
         }
       ]
     },
