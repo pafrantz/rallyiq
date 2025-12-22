@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-22T02:35:25.503Z",
+  "ts": "2025-12-22T03:14:58.721Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "NE @ BAL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "1:13",
+      "period": 3,
+      "clock": "7:43",
       "start": "2025-12-22T01:20Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 7
+          "score": 10
         },
         {
           "id": "17",
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 10
+          "score": 13
         }
       ]
     },
