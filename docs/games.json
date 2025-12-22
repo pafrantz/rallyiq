@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-22T01:52:22.827Z",
+  "ts": "2025-12-22T02:35:25.503Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "NE @ BAL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "1:08",
+      "period": 2,
+      "clock": "1:13",
       "start": "2025-12-22T01:20Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 0
+          "score": 10
         }
       ]
     },
