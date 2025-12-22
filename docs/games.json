@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-22T20:00:15.420Z",
+  "ts": "2025-12-22T20:09:36.754Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740758",
       "shortName": "NFO @ FUL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "8'",
       "start": "2025-12-22T20:00Z",
       "teams": [
         {
