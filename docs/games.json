@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-22T01:11:18.750Z",
+  "ts": "2025-12-22T01:52:22.827Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772804",
       "shortName": "NE @ BAL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "1:08",
       "start": "2025-12-22T01:20Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 0
+          "score": 7
         },
         {
           "id": "17",
