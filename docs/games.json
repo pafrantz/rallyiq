@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-22T21:58:01.068Z",
+  "ts": "2025-12-22T22:06:27.524Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740758",
-      "shortName": "NFO @ FUL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2025-12-22T20:00Z",
-      "teams": [
-        {
-          "id": "370",
-          "homeAway": "home",
-          "abbreviation": "FUL",
-          "displayName": "Fulham",
-          "score": 1
-        },
-        {
-          "id": "393",
-          "homeAway": "away",
-          "abbreviation": "NFO",
-          "displayName": "Nottingham Forest",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
