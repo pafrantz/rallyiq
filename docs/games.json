@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-23T03:02:18.238Z",
+  "ts": "2025-12-23T03:38:12.347Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772824",
       "shortName": "SF @ IND",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "1:33",
       "start": "2025-12-23T01:15Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 17
+          "score": 20
         },
         {
           "id": "25",
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 24
+          "score": 34
         }
       ]
     }
