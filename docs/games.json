@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-23T01:34:31.228Z",
+  "ts": "2025-12-23T02:22:38.822Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "SF @ IND",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "9:15",
+      "period": 2,
+      "clock": "8:45",
       "start": "2025-12-23T01:15Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 7
+          "score": 14
         },
         {
           "id": "25",
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 0
+          "score": 21
         }
       ]
     }
