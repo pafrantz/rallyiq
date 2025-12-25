@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-25T18:34:35.215Z",
+  "ts": "2025-12-25T18:47:07.918Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772710",
       "shortName": "DAL @ WSH",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:00",
+      "period": 2,
+      "clock": "12:01",
       "start": "2025-12-25T18:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 7
+          "score": 14
         }
       ]
     },
