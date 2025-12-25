@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-25T19:18:43.456Z",
+  "ts": "2025-12-25T19:26:43.066Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "2:00",
+      "clock": "0:19",
       "start": "2025-12-25T18:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 21
+          "score": 24
         }
       ]
     },
