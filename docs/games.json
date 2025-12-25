@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-25T17:57:53.356Z",
+  "ts": "2025-12-25T18:08:21.122Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772710",
       "shortName": "DAL @ WSH",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "13:08",
       "start": "2025-12-25T18:00Z",
       "teams": [
         {
