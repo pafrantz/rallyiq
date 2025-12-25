@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-25T20:20:16.534Z",
+  "ts": "2025-12-25T20:32:44.413Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "DAL @ WSH",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "0:22",
+      "period": 4,
+      "clock": "13:31",
       "start": "2025-12-25T18:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "WSH",
           "displayName": "Washington Commanders",
-          "score": 17
+          "score": 20
         },
         {
           "id": "6",
