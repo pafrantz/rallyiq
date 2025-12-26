@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-26T20:46:47.918Z",
+  "ts": "2025-12-26T20:52:37.396Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740769",
       "shortName": "NEW @ MAN",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+1'",
+      "clock": "45'+4'",
       "start": "2025-12-26T20:00Z",
       "teams": [
         {
