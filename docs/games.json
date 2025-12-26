@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-25T23:56:42.185Z",
+  "ts": "2025-12-26T00:15:09.326Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "DET @ MIN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:16",
+      "period": 4,
+      "clock": "8:53",
       "start": "2025-12-25T21:30Z",
       "teams": [
         {
