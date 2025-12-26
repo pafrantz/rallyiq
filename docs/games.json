@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-26T19:59:55.230Z",
+  "ts": "2025-12-26T20:08:52.439Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740769",
       "shortName": "NEW @ MAN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "6'",
       "start": "2025-12-26T20:00Z",
       "teams": [
         {
