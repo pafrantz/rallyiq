@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-26T00:15:09.326Z",
+  "ts": "2025-12-26T00:41:45.975Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "8:53",
+      "clock": "1:55",
       "start": "2025-12-25T21:30Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "MIN",
           "displayName": "Minnesota Vikings",
-          "score": 13
+          "score": 20
         },
         {
           "id": "8",
           "homeAway": "away",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 7
+          "score": 10
         }
       ]
     },
