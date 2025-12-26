@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-26T01:09:34.666Z",
+  "ts": "2025-12-26T01:49:42.343Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772622",
       "shortName": "DEN @ KC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 2,
+      "clock": "12:56",
       "start": "2025-12-26T01:15Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 0
+          "score": 3
         }
       ]
     },
