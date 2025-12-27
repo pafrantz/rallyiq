@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-27T12:27:54.123Z",
+  "ts": "2025-12-27T12:46:51.015Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740770",
       "shortName": "MNC @ NFO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "15'",
       "start": "2025-12-27T12:30Z",
       "teams": [
         {
