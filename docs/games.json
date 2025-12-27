@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-27T22:56:06.939Z",
+  "ts": "2025-12-27T23:02:36.871Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772951",
       "shortName": "HOU @ LAC",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:45",
+      "clock": "0:00",
       "start": "2025-12-27T21:30Z",
       "teams": [
         {
