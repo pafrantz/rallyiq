@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-27T16:00:21.997Z",
+  "ts": "2025-12-27T16:09:24.376Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740772",
       "shortName": "BHA @ ARS",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "50'",
       "start": "2025-12-27T15:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740774",
       "shortName": "BOU @ BRE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "49'",
       "start": "2025-12-27T15:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740773",
       "shortName": "EVE @ BUR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "50'",
       "start": "2025-12-27T15:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740775",
       "shortName": "WOL @ LIV",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "50'",
       "start": "2025-12-27T15:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "eng.1",
       "id": "740768",
       "shortName": "FUL @ WHU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+1'",
+      "period": 2,
+      "clock": "51'",
       "start": "2025-12-27T15:00Z",
       "teams": [
         {
