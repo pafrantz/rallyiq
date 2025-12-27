@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-27T14:17:05.911Z",
+  "ts": "2025-12-27T14:28:32.622Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740770",
-      "shortName": "MNC @ NFO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "89'",
-      "start": "2025-12-27T12:30Z",
-      "teams": [
-        {
-          "id": "393",
-          "homeAway": "home",
-          "abbreviation": "NFO",
-          "displayName": "Nottingham Forest",
-          "score": 1
-        },
-        {
-          "id": "382",
-          "homeAway": "away",
-          "abbreviation": "MNC",
-          "displayName": "Manchester City",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
