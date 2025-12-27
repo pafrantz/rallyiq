@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-27T15:37:16.456Z",
+  "ts": "2025-12-27T15:43:58.350Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "35'",
+      "clock": "44'",
       "start": "2025-12-27T15:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "35'",
+      "clock": "43'",
       "start": "2025-12-27T15:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "BRE",
           "displayName": "Brentford",
-          "score": 1
+          "score": 2
         },
         {
           "id": "349",
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "36'",
+      "clock": "43'",
       "start": "2025-12-27T15:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "37'",
+      "clock": "44'",
       "start": "2025-12-27T15:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "LIV",
           "displayName": "Liverpool",
-          "score": 0
+          "score": 2
         },
         {
           "id": "380",
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "36'",
+      "clock": "42'",
       "start": "2025-12-27T15:00Z",
       "teams": [
         {
