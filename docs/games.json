@@ -1,14 +1,14 @@
 {
-  "ts": "2025-12-27T14:55:33.735Z",
+  "ts": "2025-12-27T15:01:34.466Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740772",
       "shortName": "BHA @ ARS",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2025-12-27T15:00Z",
       "teams": [
@@ -33,9 +33,9 @@
       "league": "eng.1",
       "id": "740774",
       "shortName": "BOU @ BRE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2025-12-27T15:00Z",
       "teams": [
@@ -87,9 +87,9 @@
       "league": "eng.1",
       "id": "740775",
       "shortName": "WOL @ LIV",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2025-12-27T15:00Z",
       "teams": [
@@ -114,9 +114,9 @@
       "league": "eng.1",
       "id": "740768",
       "shortName": "FUL @ WHU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2025-12-27T15:00Z",
       "teams": [
