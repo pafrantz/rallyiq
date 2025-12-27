@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-27T13:30:54.550Z",
+  "ts": "2025-12-27T13:41:25.472Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740770",
       "shortName": "MNC @ NFO",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+1'",
+      "period": 2,
+      "clock": "53'",
       "start": "2025-12-27T12:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "MNC",
           "displayName": "Manchester City",
-          "score": 0
+          "score": 1
         }
       ]
     },
