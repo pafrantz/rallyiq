@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-27T15:01:34.466Z",
+  "ts": "2025-12-27T15:09:44.743Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "0'",
+      "clock": "7'",
       "start": "2025-12-27T15:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "0'",
+      "clock": "7'",
       "start": "2025-12-27T15:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "BRE",
           "displayName": "Brentford",
-          "score": 0
+          "score": 1
         },
         {
           "id": "349",
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740773",
       "shortName": "EVE @ BUR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "8'",
       "start": "2025-12-27T15:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "0'",
+      "clock": "9'",
       "start": "2025-12-27T15:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "0'",
+      "clock": "8'",
       "start": "2025-12-27T15:00Z",
       "teams": [
         {
