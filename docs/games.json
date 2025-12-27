@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-27T18:12:12.079Z",
+  "ts": "2025-12-27T18:24:28.008Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740766",
       "shortName": "AVL @ CHE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "42'",
+      "clock": "45'+3'",
       "start": "2025-12-27T17:30Z",
       "teams": [
         {
