@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-28T00:45:29.041Z",
+  "ts": "2025-12-28T01:15:19.307Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772953",
       "shortName": "BAL @ GB",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "11:15",
       "start": "2025-12-28T01:00Z",
       "teams": [
         {
