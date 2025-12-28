@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-28T20:54:02.629Z",
+  "ts": "2025-12-28T20:59:10.363Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "3:44",
+      "clock": "2:00",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:15",
+      "clock": "2:00",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -52,87 +52,6 @@
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
           "score": 20
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772916",
-      "shortName": "TB @ MIA",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:50",
-      "start": "2025-12-28T18:00Z",
-      "teams": [
-        {
-          "id": "15",
-          "homeAway": "home",
-          "abbreviation": "MIA",
-          "displayName": "Miami Dolphins",
-          "score": 20
-        },
-        {
-          "id": "27",
-          "homeAway": "away",
-          "abbreviation": "TB",
-          "displayName": "Tampa Bay Buccaneers",
-          "score": 17
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772808",
-      "shortName": "NE @ NYJ",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:51",
-      "start": "2025-12-28T18:00Z",
-      "teams": [
-        {
-          "id": "20",
-          "homeAway": "home",
-          "abbreviation": "NYJ",
-          "displayName": "New York Jets",
-          "score": 10
-        },
-        {
-          "id": "17",
-          "homeAway": "away",
-          "abbreviation": "NE",
-          "displayName": "New England Patriots",
-          "score": 42
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772952",
-      "shortName": "SEA @ CAR",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:00",
-      "start": "2025-12-28T18:00Z",
-      "teams": [
-        {
-          "id": "29",
-          "homeAway": "home",
-          "abbreviation": "CAR",
-          "displayName": "Carolina Panthers",
-          "score": 10
-        },
-        {
-          "id": "26",
-          "homeAway": "away",
-          "abbreviation": "SEA",
-          "displayName": "Seattle Seahawks",
-          "score": 27
         }
       ]
     },
