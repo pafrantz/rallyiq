@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-28T15:53:23.148Z",
+  "ts": "2025-12-28T15:58:31.136Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740767",
-      "shortName": "LEE @ SUN",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+1'",
-      "start": "2025-12-28T14:00Z",
-      "teams": [
-        {
-          "id": "366",
-          "homeAway": "home",
-          "abbreviation": "SUN",
-          "displayName": "Sunderland",
-          "score": 1
-        },
-        {
-          "id": "357",
-          "homeAway": "away",
-          "abbreviation": "LEE",
-          "displayName": "Leeds United",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
