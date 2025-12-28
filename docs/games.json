@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-28T16:18:30.084Z",
+  "ts": "2025-12-28T16:32:09.918Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740771",
       "shortName": "TOT @ CRY",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "2'",
       "start": "2025-12-28T16:30Z",
       "teams": [
         {
