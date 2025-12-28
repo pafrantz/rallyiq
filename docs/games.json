@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-28T21:35:06.437Z",
+  "ts": "2025-12-28T21:41:59.576Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "NYG @ LV",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "2:36",
+      "period": 2,
+      "clock": "15:00",
       "start": "2025-12-28T21:05Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "NYG",
           "displayName": "New York Giants",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "10:29",
+      "clock": "8:00",
       "start": "2025-12-28T21:25Z",
       "teams": [
         {
