@@ -1,6 +1,60 @@
 {
-  "ts": "2025-12-28T08:07:58.211Z",
+  "ts": "2025-12-28T08:18:44.337Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740767",
+      "shortName": "LEE @ SUN",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-12-28T14:00Z",
+      "teams": [
+        {
+          "id": "366",
+          "homeAway": "home",
+          "abbreviation": "SUN",
+          "displayName": "Sunderland",
+          "score": 0
+        },
+        {
+          "id": "357",
+          "homeAway": "away",
+          "abbreviation": "LEE",
+          "displayName": "Leeds United",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740771",
+      "shortName": "TOT @ CRY",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2025-12-28T16:30Z",
+      "teams": [
+        {
+          "id": "384",
+          "homeAway": "home",
+          "abbreviation": "CRY",
+          "displayName": "Crystal Palace",
+          "score": 0
+        },
+        {
+          "id": "367",
+          "homeAway": "away",
+          "abbreviation": "TOT",
+          "displayName": "Tottenham Hotspur",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "football",
       "league": "nfl",
