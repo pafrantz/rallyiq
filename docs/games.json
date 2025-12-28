@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-28T19:37:56.784Z",
+  "ts": "2025-12-28T19:43:45.605Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:51",
+      "clock": "10:49",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "13:29",
+      "clock": "11:17",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -62,8 +62,8 @@
       "shortName": "NO @ TEN",
       "status": "STATUS_HALFTIME",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "15:00",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "13:10",
+      "clock": "10:08",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:19",
+      "clock": "12:41",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -141,10 +141,10 @@
       "league": "nfl",
       "id": "401772808",
       "shortName": "NE @ NYJ",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "15:00",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -168,10 +168,10 @@
       "league": "nfl",
       "id": "401772952",
       "shortName": "SEA @ CAR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "12:19",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
