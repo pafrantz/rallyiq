@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-28T13:59:29.830Z",
+  "ts": "2025-12-28T14:08:05.600Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740767",
       "shortName": "LEE @ SUN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "6'",
       "start": "2025-12-28T14:00Z",
       "teams": [
         {
