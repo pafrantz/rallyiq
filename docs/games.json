@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-28T19:17:27.382Z",
+  "ts": "2025-12-28T19:25:52.683Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772954",
       "shortName": "ARI @ CIN",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:44",
+      "clock": "0:00",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772807",
       "shortName": "PIT @ CLE",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:26",
+      "clock": "0:00",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "PIT",
           "displayName": "Pittsburgh Steelers",
-          "score": 3
+          "score": 6
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "2:00",
+      "clock": "0:13",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 13
+          "score": 19
         },
         {
           "id": "18",
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772915",
       "shortName": "JAX @ IND",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:27",
+      "clock": "0:00",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401772916",
       "shortName": "TB @ MIA",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:20",
+      "clock": "0:00",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "1:39",
+      "clock": "0:31",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -159,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 28
+          "score": 35
         }
       ]
     },
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "2:00",
+      "clock": "0:03",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
