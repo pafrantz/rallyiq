@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-28T19:00:19.836Z",
+  "ts": "2025-12-28T19:08:19.839Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "5:22",
+      "clock": "2:32",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 13
+          "score": 16
         },
         {
           "id": "22",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "5:45",
+      "clock": "2:46",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "5:58",
+      "clock": "5:07",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "NO",
           "displayName": "New Orleans Saints",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "3:48",
+      "clock": "2:00",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "1:57",
+      "clock": "1:43",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "MIA",
           "displayName": "Miami Dolphins",
-          "score": 10
+          "score": 17
         },
         {
           "id": "27",
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "7:13",
+      "clock": "3:01",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -159,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 21
+          "score": 28
         }
       ]
     },
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "6:55",
+      "clock": "4:36",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
