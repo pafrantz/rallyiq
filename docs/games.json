@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-28T19:54:52.211Z",
+  "ts": "2025-12-28T19:59:57.746Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:38",
+      "clock": "4:24",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:00",
+      "clock": "1:21",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:34",
+      "clock": "7:20",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 20
+          "score": 23
         },
         {
           "id": "18",
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "7:26",
+      "clock": "7:08",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "5:54",
+      "clock": "3:49",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "TB",
           "displayName": "Tampa Bay Buccaneers",
-          "score": 7
+          "score": 10
         }
       ]
     },
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "8:59",
+      "clock": "8:16",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -159,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 35
+          "score": 42
         }
       ]
     },
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "8:45",
+      "clock": "7:41",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
