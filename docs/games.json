@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-28T15:05:14.612Z",
+  "ts": "2025-12-28T15:14:51.836Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740767",
       "shortName": "LEE @ SUN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "52'",
       "start": "2025-12-28T14:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "LEE",
           "displayName": "Leeds United",
-          "score": 0
+          "score": 1
         }
       ]
     },
