@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-28T03:27:22.834Z",
+  "ts": "2025-12-28T03:58:59.481Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "13:41",
+      "clock": "1:56",
       "start": "2025-12-28T01:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 27
+          "score": 41
         }
       ]
     },
