@@ -1,60 +1,6 @@
 {
-  "ts": "2025-12-28T21:07:38.234Z",
+  "ts": "2025-12-28T21:17:05.544Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772809",
-      "shortName": "NO @ TEN",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:08",
-      "start": "2025-12-28T18:00Z",
-      "teams": [
-        {
-          "id": "10",
-          "homeAway": "home",
-          "abbreviation": "TEN",
-          "displayName": "Tennessee Titans",
-          "score": 26
-        },
-        {
-          "id": "18",
-          "homeAway": "away",
-          "abbreviation": "NO",
-          "displayName": "New Orleans Saints",
-          "score": 34
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772915",
-      "shortName": "JAX @ IND",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:13",
-      "start": "2025-12-28T18:00Z",
-      "teams": [
-        {
-          "id": "11",
-          "homeAway": "home",
-          "abbreviation": "IND",
-          "displayName": "Indianapolis Colts",
-          "score": 17
-        },
-        {
-          "id": "30",
-          "homeAway": "away",
-          "abbreviation": "JAX",
-          "displayName": "Jacksonville Jaguars",
-          "score": 23
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -63,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "14:05",
+      "clock": "9:52",
       "start": "2025-12-28T21:05Z",
       "teams": [
         {
