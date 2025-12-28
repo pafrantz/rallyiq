@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-28T19:31:42.973Z",
+  "ts": "2025-12-28T19:37:56.784Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772954",
       "shortName": "ARI @ CIN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:51",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401772807",
       "shortName": "PIT @ CLE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "13:29",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772915",
       "shortName": "JAX @ IND",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "13:10",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401772916",
       "shortName": "TB @ MIA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:19",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
