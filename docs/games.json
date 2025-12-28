@@ -1,60 +1,6 @@
 {
-  "ts": "2025-12-28T20:48:15.655Z",
+  "ts": "2025-12-28T20:54:02.629Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772954",
-      "shortName": "ARI @ CIN",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:50",
-      "start": "2025-12-28T18:00Z",
-      "teams": [
-        {
-          "id": "4",
-          "homeAway": "home",
-          "abbreviation": "CIN",
-          "displayName": "Cincinnati Bengals",
-          "score": 37
-        },
-        {
-          "id": "22",
-          "homeAway": "away",
-          "abbreviation": "ARI",
-          "displayName": "Arizona Cardinals",
-          "score": 14
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772807",
-      "shortName": "PIT @ CLE",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:40",
-      "start": "2025-12-28T18:00Z",
-      "teams": [
-        {
-          "id": "5",
-          "homeAway": "home",
-          "abbreviation": "CLE",
-          "displayName": "Cleveland Browns",
-          "score": 13
-        },
-        {
-          "id": "23",
-          "homeAway": "away",
-          "abbreviation": "PIT",
-          "displayName": "Pittsburgh Steelers",
-          "score": 6
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -63,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "4:54",
+      "clock": "3:44",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -78,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "NO",
           "displayName": "New Orleans Saints",
-          "score": 27
+          "score": 34
         }
       ]
     },
@@ -90,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "3:06",
+      "clock": "2:15",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -117,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:00",
+      "clock": "0:50",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -132,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "TB",
           "displayName": "Tampa Bay Buccaneers",
-          "score": 10
+          "score": 17
         }
       ]
     },
@@ -144,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "1:56",
+      "clock": "0:51",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -171,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:31",
+      "clock": "2:00",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -186,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 26
+          "score": 27
         }
       ]
     },
