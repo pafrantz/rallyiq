@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-28T18:34:20.503Z",
+  "ts": "2025-12-28T18:46:11.778Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "14:58",
+      "clock": "11:44",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -35,8 +35,8 @@
       "shortName": "PIT @ CLE",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "1:15",
+      "period": 2,
+      "clock": "12:11",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "PIT",
           "displayName": "Pittsburgh Steelers",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -62,8 +62,8 @@
       "shortName": "NO @ TEN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "4:31",
+      "period": 2,
+      "clock": "14:15",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:36",
+      "clock": "7:05",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 3
+          "score": 10
         },
         {
           "id": "30",
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "15:00",
+      "clock": "9:02",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -143,8 +143,8 @@
       "shortName": "NE @ NYJ",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "1:57",
+      "period": 2,
+      "clock": "14:55",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
@@ -159,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 14
+          "score": 21
         }
       ]
     },
@@ -170,8 +170,8 @@
       "shortName": "SEA @ CAR",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "2:04",
+      "period": 2,
+      "clock": "13:35",
       "start": "2025-12-28T18:00Z",
       "teams": [
         {
