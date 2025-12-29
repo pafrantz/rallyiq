@@ -1,33 +1,6 @@
 {
-  "ts": "2025-12-28T23:58:43.746Z",
+  "ts": "2025-12-29T00:38:22.261Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772917",
-      "shortName": "PHI @ BUF",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "11:02",
-      "start": "2025-12-28T21:25Z",
-      "teams": [
-        {
-          "id": "2",
-          "homeAway": "home",
-          "abbreviation": "BUF",
-          "displayName": "Buffalo Bills",
-          "score": 0
-        },
-        {
-          "id": "21",
-          "homeAway": "away",
-          "abbreviation": "PHI",
-          "displayName": "Philadelphia Eagles",
-          "score": 13
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
