@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-29T01:04:43.743Z",
+  "ts": "2025-12-29T01:43:12.960Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772935",
       "shortName": "CHI @ SF",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "9:59",
       "start": "2025-12-29T01:20Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 0
+          "score": 7
         },
         {
           "id": "3",
           "homeAway": "away",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 0
+          "score": 7
         }
       ]
     },
