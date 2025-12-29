@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-29T03:55:39.083Z",
+  "ts": "2025-12-29T04:19:54.024Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:23",
+      "clock": "2:00",
       "start": "2025-12-29T01:20Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 35
+          "score": 42
         },
         {
           "id": "3",
           "homeAway": "away",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 35
+          "score": 38
         }
       ]
     },
