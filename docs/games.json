@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-30T21:46:32.975Z",
+  "ts": "2025-12-30T21:52:07.401Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "72'",
+      "clock": "77'",
       "start": "2025-12-30T20:15Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "ARS",
           "displayName": "Arsenal",
-          "score": 2
+          "score": 3
         },
         {
           "id": "362",
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "74'",
+      "clock": "79'",
       "start": "2025-12-30T20:15Z",
       "teams": [
         {
