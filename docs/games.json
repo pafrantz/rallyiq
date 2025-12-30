@@ -1,15 +1,15 @@
 {
-  "ts": "2025-12-30T01:05:32.341Z",
+  "ts": "2025-12-30T01:44:01.770Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772825",
       "shortName": "LAR @ ATL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "2:49",
       "start": "2025-12-30T01:15Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 0
+          "score": 7
         },
         {
           "id": "14",
