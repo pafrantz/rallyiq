@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-30T02:28:17.932Z",
+  "ts": "2025-12-30T03:06:57.235Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "LAR @ ATL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "1:28",
+      "period": 3,
+      "clock": "7:46",
       "start": "2025-12-30T01:15Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 21
+          "score": 24
         },
         {
           "id": "14",
           "homeAway": "away",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 0
+          "score": 3
         }
       ]
     },
