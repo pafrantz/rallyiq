@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-30T20:03:49.951Z",
+  "ts": "2025-12-30T20:13:06.710Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "32'",
+      "clock": "40'",
       "start": "2025-12-30T19:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "33'",
+      "clock": "42'",
       "start": "2025-12-30T19:30Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "31'",
+      "clock": "42'",
       "start": "2025-12-30T19:30Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "32'",
+      "clock": "42'",
       "start": "2025-12-30T19:30Z",
       "teams": [
         {
