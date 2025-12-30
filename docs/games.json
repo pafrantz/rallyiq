@@ -1,5 +1,5 @@
 {
-  "ts": "2025-12-30T21:13:10.129Z",
+  "ts": "2025-12-30T21:24:13.538Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "80'",
+      "clock": "90'",
       "start": "2025-12-30T19:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "87'",
       "start": "2025-12-30T19:30Z",
       "teams": [
         {
@@ -58,39 +58,12 @@
     {
       "sport": "soccer",
       "league": "eng.1",
-      "id": "740783",
-      "shortName": "EVE @ NFO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "85'",
-      "start": "2025-12-30T19:30Z",
-      "teams": [
-        {
-          "id": "393",
-          "homeAway": "home",
-          "abbreviation": "NFO",
-          "displayName": "Nottingham Forest",
-          "score": 0
-        },
-        {
-          "id": "368",
-          "homeAway": "away",
-          "abbreviation": "EVE",
-          "displayName": "Everton",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
       "id": "740785",
       "shortName": "BHA @ WHU",
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "79'",
+      "clock": "89'",
       "start": "2025-12-30T19:30Z",
       "teams": [
         {
@@ -114,10 +87,10 @@
       "league": "eng.1",
       "id": "740776",
       "shortName": "AVL @ ARS",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "48'",
       "start": "2025-12-30T20:15Z",
       "teams": [
         {
@@ -125,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "ARS",
           "displayName": "Arsenal",
-          "score": 0
+          "score": 1
         },
         {
           "id": "362",
@@ -141,10 +114,10 @@
       "league": "eng.1",
       "id": "740782",
       "shortName": "WOL @ MAN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+1'",
+      "period": 2,
+      "clock": "52'",
       "start": "2025-12-30T20:15Z",
       "teams": [
         {
