@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-01T20:50:18.439Z",
+  "ts": "2026-01-01T20:56:11.949Z",
   "games": [
     {
       "sport": "soccer",
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740784",
       "shortName": "MNC @ SUN",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+5'",
+      "clock": "45'+6'",
       "start": "2026-01-01T20:00Z",
       "teams": [
         {
