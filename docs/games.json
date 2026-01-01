@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-01T19:06:57.365Z",
+  "ts": "2026-01-01T19:16:31.214Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "75'",
+      "clock": "84'",
       "start": "2026-01-01T17:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "FUL",
           "displayName": "Fulham",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "78'",
+      "clock": "87'",
       "start": "2026-01-01T17:30Z",
       "teams": [
         {
