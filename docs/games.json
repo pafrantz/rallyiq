@@ -1,14 +1,14 @@
 {
-  "ts": "2026-01-01T19:55:59.949Z",
+  "ts": "2026-01-01T20:02:29.597Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740777",
       "shortName": "TOT @ BRE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-01-01T20:00Z",
       "teams": [
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740784",
       "shortName": "MNC @ SUN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "2'",
       "start": "2026-01-01T20:00Z",
       "teams": [
         {
