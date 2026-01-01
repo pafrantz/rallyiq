@@ -1,14 +1,14 @@
 {
-  "ts": "2026-01-01T17:24:10.617Z",
+  "ts": "2026-01-01T17:33:55.934Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740780",
       "shortName": "FUL @ CRY",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-01-01T17:30Z",
       "teams": [
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740781",
       "shortName": "LEE @ LIV",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "3'",
       "start": "2026-01-01T17:30Z",
       "teams": [
         {
