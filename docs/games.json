@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-01T19:16:31.214Z",
+  "ts": "2026-01-01T19:26:09.806Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "84'",
+      "clock": "90'+4'",
       "start": "2026-01-01T17:30Z",
       "teams": [
         {
@@ -25,33 +25,6 @@
           "abbreviation": "FUL",
           "displayName": "Fulham",
           "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740781",
-      "shortName": "LEE @ LIV",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "87'",
-      "start": "2026-01-01T17:30Z",
-      "teams": [
-        {
-          "id": "364",
-          "homeAway": "home",
-          "abbreviation": "LIV",
-          "displayName": "Liverpool",
-          "score": 0
-        },
-        {
-          "id": "357",
-          "homeAway": "away",
-          "abbreviation": "LEE",
-          "displayName": "Leeds United",
-          "score": 0
         }
       ]
     },
