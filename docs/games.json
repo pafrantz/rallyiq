@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-03T23:29:53.393Z",
+  "ts": "2026-01-03T23:37:16.108Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "CAR @ TB",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "4:30",
+      "period": 4,
+      "clock": "15:00",
       "start": "2026-01-03T21:30Z",
       "teams": [
         {
