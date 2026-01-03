@@ -1,33 +1,6 @@
 {
-  "ts": "2026-01-03T16:57:59.744Z",
+  "ts": "2026-01-03T17:05:14.352Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740787",
-      "shortName": "WHU @ WOL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+5'",
-      "start": "2026-01-03T15:00Z",
-      "teams": [
-        {
-          "id": "380",
-          "homeAway": "home",
-          "abbreviation": "WOL",
-          "displayName": "Wolverhampton Wanderers",
-          "score": 3
-        },
-        {
-          "id": "371",
-          "homeAway": "away",
-          "abbreviation": "WHU",
-          "displayName": "West Ham United",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
