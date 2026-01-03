@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-03T15:58:23.678Z",
+  "ts": "2026-01-03T16:08:00.861Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740795",
       "shortName": "BUR @ BHA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "47'",
       "start": "2026-01-03T15:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BHA",
           "displayName": "Brighton & Hove Albion",
-          "score": 1
+          "score": 2
         },
         {
           "id": "379",
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740787",
       "shortName": "WHU @ WOL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+7'",
+      "period": 2,
+      "clock": "45'",
       "start": "2026-01-03T15:00Z",
       "teams": [
         {
