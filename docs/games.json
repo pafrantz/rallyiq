@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-03T15:41:09.077Z",
+  "ts": "2026-01-03T15:47:04.978Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "40'",
+      "clock": "45'+1'",
       "start": "2026-01-03T15:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "40'",
+      "clock": "43'",
       "start": "2026-01-03T15:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "WOL",
           "displayName": "Wolverhampton Wanderers",
-          "score": 2
+          "score": 3
         },
         {
           "id": "371",
