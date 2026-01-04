@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-04T16:11:24.057Z",
+  "ts": "2026-01-04T16:23:05.686Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "47'",
+      "clock": "58'",
       "start": "2026-01-04T15:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BRE",
           "displayName": "Brentford",
-          "score": 1
+          "score": 3
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "48'",
+      "clock": "61'",
       "start": "2026-01-04T15:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "51'",
+      "clock": "62'",
       "start": "2026-01-04T15:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740790",
       "shortName": "LIV @ FUL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "49'",
       "start": "2026-01-04T15:15Z",
       "teams": [
         {
