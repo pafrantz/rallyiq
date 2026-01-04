@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-04T23:02:16.955Z",
+  "ts": "2026-01-04T23:11:19.373Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "13:30",
+      "clock": "8:45",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:29",
+      "clock": "7:45",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772956",
       "shortName": "LAC @ DEN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "14:08",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401772957",
       "shortName": "KC @ LV",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "11:44",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "13:41",
+      "clock": "10:32",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 6
+          "score": 13
         }
       ]
     },
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "15:00",
+      "clock": "11:38",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "13:47",
+      "clock": "10:57",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
