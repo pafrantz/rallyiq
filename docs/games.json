@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-04T19:57:33.730Z",
+  "ts": "2026-01-04T20:05:52.521Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "11:03",
+      "clock": "8:44",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 10
+          "score": 13
         },
         {
           "id": "18",
@@ -35,8 +35,8 @@
       "shortName": "CLE @ CIN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "3:29",
+      "period": 4,
+      "clock": "15:00",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -62,8 +62,8 @@
       "shortName": "GB @ MIN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "4:46",
+      "period": 4,
+      "clock": "15:00",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:48",
+      "clock": "6:51",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "8:36",
+      "clock": "3:57",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "13:05",
+      "clock": "11:12",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
