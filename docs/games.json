@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-04T19:03:33.899Z",
+  "ts": "2026-01-04T19:11:52.236Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "71'",
+      "clock": "80'",
       "start": "2026-01-04T17:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "10:08",
+      "clock": "5:18",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "7:13",
+      "clock": "4:41",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "4:34",
+      "clock": "2:00",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "MIN",
           "displayName": "Minnesota Vikings",
-          "score": 3
+          "score": 6
         },
         {
           "id": "9",
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "3:48",
+      "clock": "2:00",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "8:07",
+      "clock": "5:50",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "8:32",
+      "clock": "5:00",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
