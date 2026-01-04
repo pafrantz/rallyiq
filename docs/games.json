@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-04T21:46:09.030Z",
+  "ts": "2026-01-04T21:51:38.556Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "5:55",
+      "clock": "4:31",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "3:39",
+      "clock": "1:00",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "5:06",
+      "clock": "3:39",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 3
+          "score": 10
         },
         {
           "id": "24",
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "7:42",
+      "clock": "4:58",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "KC",
           "displayName": "Kansas City Chiefs",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "3:26",
+      "clock": "0:52",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "3:26",
+      "clock": "0:55",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -152,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 7
+          "score": 14
         },
         {
           "id": "15",
@@ -168,10 +168,10 @@
       "league": "nfl",
       "id": "401772959",
       "shortName": "WSH @ PHI",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_END_PERIOD",
       "state": "IN",
       "period": 1,
-      "clock": "2:33",
+      "clock": "0:00",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
