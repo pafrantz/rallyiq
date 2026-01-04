@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-04T22:13:22.701Z",
+  "ts": "2026-01-04T22:24:42.885Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:43",
+      "clock": "7:51",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "8:24",
+      "clock": "3:34",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 6
+          "score": 13
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:31",
+      "clock": "6:46",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "12:32",
+      "clock": "7:20",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "LV",
           "displayName": "Las Vegas Raiders",
-          "score": 0
+          "score": 3
         },
         {
           "id": "12",
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "8:54",
+      "clock": "2:57",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "8:24",
+      "clock": "4:27",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "9:03",
+      "clock": "4:43",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
