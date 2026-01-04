@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-04T15:02:32.629Z",
+  "ts": "2026-01-04T15:11:14.583Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740794",
       "shortName": "BRE @ EVE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "9'",
       "start": "2026-01-04T15:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "0'",
+      "clock": "9'",
       "start": "2026-01-04T15:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "2'",
+      "clock": "9'",
       "start": "2026-01-04T15:00Z",
       "teams": [
         {
