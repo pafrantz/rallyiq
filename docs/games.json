@@ -1,33 +1,6 @@
 {
-  "ts": "2026-01-04T21:05:08.991Z",
+  "ts": "2026-01-04T21:14:11.324Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772966",
-      "shortName": "NO @ ATL",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:11",
-      "start": "2026-01-04T18:00Z",
-      "teams": [
-        {
-          "id": "1",
-          "homeAway": "home",
-          "abbreviation": "ATL",
-          "displayName": "Atlanta Falcons",
-          "score": 19
-        },
-        {
-          "id": "18",
-          "homeAway": "away",
-          "abbreviation": "NO",
-          "displayName": "New Orleans Saints",
-          "score": 17
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -36,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "2:00",
+      "clock": "0:05",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -44,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 29
+          "score": 32
         },
         {
           "id": "11",
