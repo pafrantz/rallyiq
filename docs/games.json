@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-04T19:41:07.813Z",
+  "ts": "2026-01-04T19:46:39.010Z",
   "games": [
     {
       "sport": "football",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "13:51",
+      "clock": "9:54",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401772968",
       "shortName": "GB @ MIN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "10:35",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "14:54",
+      "clock": "12:35",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "nfl",
       "id": "401772970",
       "shortName": "TEN @ JAX",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "13:23",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
