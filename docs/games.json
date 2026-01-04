@@ -1,6 +1,168 @@
 {
-  "ts": "2026-01-04T07:59:13.823Z",
+  "ts": "2026-01-04T08:11:18.498Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740791",
+      "shortName": "MAN @ LEE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-01-04T12:30Z",
+      "teams": [
+        {
+          "id": "357",
+          "homeAway": "home",
+          "abbreviation": "LEE",
+          "displayName": "Leeds United",
+          "score": 0
+        },
+        {
+          "id": "360",
+          "homeAway": "away",
+          "abbreviation": "MAN",
+          "displayName": "Manchester United",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740794",
+      "shortName": "BRE @ EVE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-01-04T15:00Z",
+      "teams": [
+        {
+          "id": "368",
+          "homeAway": "home",
+          "abbreviation": "EVE",
+          "displayName": "Everton",
+          "score": 0
+        },
+        {
+          "id": "337",
+          "homeAway": "away",
+          "abbreviation": "BRE",
+          "displayName": "Brentford",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740790",
+      "shortName": "LIV @ FUL",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-01-04T15:00Z",
+      "teams": [
+        {
+          "id": "370",
+          "homeAway": "home",
+          "abbreviation": "FUL",
+          "displayName": "Fulham",
+          "score": 0
+        },
+        {
+          "id": "364",
+          "homeAway": "away",
+          "abbreviation": "LIV",
+          "displayName": "Liverpool",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740793",
+      "shortName": "CRY @ NEW",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-01-04T15:00Z",
+      "teams": [
+        {
+          "id": "361",
+          "homeAway": "home",
+          "abbreviation": "NEW",
+          "displayName": "Newcastle United",
+          "score": 0
+        },
+        {
+          "id": "384",
+          "homeAway": "away",
+          "abbreviation": "CRY",
+          "displayName": "Crystal Palace",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740786",
+      "shortName": "SUN @ TOT",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-01-04T15:00Z",
+      "teams": [
+        {
+          "id": "367",
+          "homeAway": "home",
+          "abbreviation": "TOT",
+          "displayName": "Tottenham Hotspur",
+          "score": 0
+        },
+        {
+          "id": "366",
+          "homeAway": "away",
+          "abbreviation": "SUN",
+          "displayName": "Sunderland",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740792",
+      "shortName": "CHE @ MNC",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-01-04T17:30Z",
+      "teams": [
+        {
+          "id": "382",
+          "homeAway": "home",
+          "abbreviation": "MNC",
+          "displayName": "Manchester City",
+          "score": 0
+        },
+        {
+          "id": "363",
+          "homeAway": "away",
+          "abbreviation": "CHE",
+          "displayName": "Chelsea",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "football",
       "league": "nfl",
