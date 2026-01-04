@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-04T19:46:39.010Z",
+  "ts": "2026-01-04T19:52:04.159Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772966",
       "shortName": "NO @ ATL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "12:30",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:54",
+      "clock": "7:55",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "CLE",
           "displayName": "Cleveland Browns",
-          "score": 14
+          "score": 17
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:35",
+      "clock": "7:08",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:35",
+      "clock": "9:52",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "13:23",
+      "clock": "9:40",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -141,10 +141,10 @@
       "league": "nfl",
       "id": "401772962",
       "shortName": "IND @ HOU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "15:00",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
