@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-04T23:22:07.489Z",
+  "ts": "2026-01-04T23:31:10.535Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "7:33",
+      "clock": "3:02",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -35,8 +35,8 @@
       "shortName": "DET @ CHI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "2:16",
+      "period": 4,
+      "clock": "15:00",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 13
+          "score": 16
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:07",
+      "clock": "8:37",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -89,8 +89,8 @@
       "shortName": "KC @ LV",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "4:11",
+      "period": 4,
+      "clock": "15:00",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "5:11",
+      "clock": "1:03",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 13
+          "score": 20
         }
       ]
     },
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:45",
+      "clock": "2:18",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -152,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 24
+          "score": 31
         },
         {
           "id": "15",
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:27",
+      "clock": "4:25",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
