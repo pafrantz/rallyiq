@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-04T21:33:29.887Z",
+  "ts": "2026-01-04T21:40:22.681Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "9:00",
+      "clock": "7:37",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 0
+          "score": 7
         },
         {
           "id": "20",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "10:14",
+      "clock": "8:35",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "11:54",
+      "clock": "6:07",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "12:14",
+      "clock": "9:59",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "11:07",
+      "clock": "7:31",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "13:14",
+      "clock": "6:34",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "12:21",
+      "clock": "6:38",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
