@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-04T20:46:19.603Z",
+  "ts": "2026-01-04T20:52:37.190Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "6:23",
+      "clock": "3:03",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "1:19",
+      "clock": "0:24",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "5:47",
+      "clock": "4:26",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -85,39 +85,12 @@
     {
       "sport": "football",
       "league": "nfl",
-      "id": "401772970",
-      "shortName": "TEN @ JAX",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:55",
-      "start": "2026-01-04T18:00Z",
-      "teams": [
-        {
-          "id": "30",
-          "homeAway": "home",
-          "abbreviation": "JAX",
-          "displayName": "Jacksonville Jaguars",
-          "score": 41
-        },
-        {
-          "id": "10",
-          "homeAway": "away",
-          "abbreviation": "TEN",
-          "displayName": "Tennessee Titans",
-          "score": 7
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
       "id": "401772962",
       "shortName": "IND @ HOU",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:15",
+      "clock": "7:17",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
