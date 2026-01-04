@@ -1,33 +1,6 @@
 {
-  "ts": "2026-01-04T21:14:11.324Z",
+  "ts": "2026-01-04T21:25:25.687Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772962",
-      "shortName": "IND @ HOU",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:05",
-      "start": "2026-01-04T18:00Z",
-      "teams": [
-        {
-          "id": "34",
-          "homeAway": "home",
-          "abbreviation": "HOU",
-          "displayName": "Houston Texans",
-          "score": 32
-        },
-        {
-          "id": "11",
-          "homeAway": "away",
-          "abbreviation": "IND",
-          "displayName": "Indianapolis Colts",
-          "score": 30
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
