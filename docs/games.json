@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-04T16:02:27.269Z",
+  "ts": "2026-01-04T16:11:24.057Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740794",
       "shortName": "BRE @ EVE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "47'",
       "start": "2026-01-04T15:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740793",
       "shortName": "CRY @ NEW",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "48'",
       "start": "2026-01-04T15:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740786",
       "shortName": "SUN @ TOT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "51'",
       "start": "2026-01-04T15:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740790",
       "shortName": "LIV @ FUL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+2'",
+      "clock": "45'+3'",
       "start": "2026-01-04T15:15Z",
       "teams": [
         {
