@@ -1,42 +1,15 @@
 {
-  "ts": "2026-01-04T19:28:48.872Z",
+  "ts": "2026-01-04T19:34:55.762Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740792",
-      "shortName": "CHE @ MNC",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+6'",
-      "start": "2026-01-04T17:30Z",
-      "teams": [
-        {
-          "id": "382",
-          "homeAway": "home",
-          "abbreviation": "MNC",
-          "displayName": "Manchester City",
-          "score": 1
-        },
-        {
-          "id": "363",
-          "homeAway": "away",
-          "abbreviation": "CHE",
-          "displayName": "Chelsea",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772966",
       "shortName": "NO @ ATL",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "0:41",
+      "clock": "0:00",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -171,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "1:25",
+      "clock": "0:32",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
