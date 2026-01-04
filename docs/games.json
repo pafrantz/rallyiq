@@ -1,33 +1,6 @@
 {
-  "ts": "2026-01-04T00:00:36.853Z",
+  "ts": "2026-01-04T00:44:09.447Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772969",
-      "shortName": "CAR @ TB",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "5:12",
-      "start": "2026-01-03T21:30Z",
-      "teams": [
-        {
-          "id": "27",
-          "homeAway": "home",
-          "abbreviation": "TB",
-          "displayName": "Tampa Bay Buccaneers",
-          "score": 16
-        },
-        {
-          "id": "29",
-          "homeAway": "away",
-          "abbreviation": "CAR",
-          "displayName": "Carolina Panthers",
-          "score": 7
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
