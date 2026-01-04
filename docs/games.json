@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-04T18:11:42.472Z",
+  "ts": "2026-01-04T18:23:46.703Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740792",
       "shortName": "CHE @ MNC",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "38'",
+      "clock": "45'+3'",
       "start": "2026-01-04T17:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "MNC",
           "displayName": "Manchester City",
-          "score": 0
+          "score": 1
         },
         {
           "id": "363",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "9:55",
+      "clock": "5:17",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "10:22",
+      "clock": "6:20",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 0
+          "score": 6
         },
         {
           "id": "5",
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "10:27",
+      "clock": "6:25",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "11:21",
+      "clock": "6:07",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "NYG",
           "displayName": "New York Giants",
-          "score": 0
+          "score": 3
         },
         {
           "id": "6",
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "10:58",
+      "clock": "6:02",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -152,14 +152,14 @@
           "homeAway": "home",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 0
+          "score": 7
         },
         {
           "id": "10",
           "homeAway": "away",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "12:05",
+      "clock": "7:19",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -186,7 +186,7 @@
           "homeAway": "away",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 0
+          "score": 7
         }
       ]
     },
