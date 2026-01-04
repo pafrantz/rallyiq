@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-04T20:15:51.502Z",
+  "ts": "2026-01-04T20:28:28.490Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "NO @ ATL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "2:15",
+      "period": 4,
+      "clock": "11:38",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:36",
+      "clock": "3:49",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:23",
+      "clock": "7:50",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -89,8 +89,8 @@
       "shortName": "DAL @ NYG",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "1:11",
+      "period": 4,
+      "clock": "14:28",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 10
+          "score": 17
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "15:00",
+      "clock": "9:05",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "6:53",
+      "clock": "1:52",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
