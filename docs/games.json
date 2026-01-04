@@ -1,33 +1,6 @@
 {
-  "ts": "2026-01-04T14:18:53.339Z",
+  "ts": "2026-01-04T14:29:41.496Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740791",
-      "shortName": "MAN @ LEE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2026-01-04T12:30Z",
-      "teams": [
-        {
-          "id": "357",
-          "homeAway": "home",
-          "abbreviation": "LEE",
-          "displayName": "Leeds United",
-          "score": 1
-        },
-        {
-          "id": "360",
-          "homeAway": "away",
-          "abbreviation": "MAN",
-          "displayName": "Manchester United",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
