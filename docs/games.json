@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-04T12:27:55.352Z",
+  "ts": "2026-01-04T12:47:07.917Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740791",
       "shortName": "MAN @ LEE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "16'",
       "start": "2026-01-04T12:30Z",
       "teams": [
         {
