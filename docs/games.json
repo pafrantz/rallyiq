@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-04T18:39:02.442Z",
+  "ts": "2026-01-04T18:49:42.823Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "47'",
+      "clock": "57'",
       "start": "2026-01-04T17:30Z",
       "teams": [
         {
@@ -35,8 +35,8 @@
       "shortName": "NO @ ATL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "2:55",
+      "period": 2,
+      "clock": "14:12",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -62,8 +62,8 @@
       "shortName": "CLE @ CIN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:37",
+      "period": 2,
+      "clock": "14:06",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "CLE",
           "displayName": "Cleveland Browns",
-          "score": 7
+          "score": 14
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "15:00",
+      "clock": "12:34",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -116,8 +116,8 @@
       "shortName": "DAL @ NYG",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "1:17",
+      "period": 2,
+      "clock": "13:42",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 3
+          "score": 10
         }
       ]
     },
@@ -143,8 +143,8 @@
       "shortName": "TEN @ JAX",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:05",
+      "period": 2,
+      "clock": "11:47",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
@@ -152,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 7
+          "score": 14
         },
         {
           "id": "10",
@@ -170,8 +170,8 @@
       "shortName": "IND @ HOU",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:34",
+      "period": 2,
+      "clock": "11:10",
       "start": "2026-01-04T18:00Z",
       "teams": [
         {
