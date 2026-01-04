@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-04T16:35:58.139Z",
+  "ts": "2026-01-04T16:45:25.607Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "71'",
+      "clock": "78'",
       "start": "2026-01-04T15:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "74'",
+      "clock": "84'",
       "start": "2026-01-04T15:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "NEW",
           "displayName": "Newcastle United",
-          "score": 1
+          "score": 2
         },
         {
           "id": "384",
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "74'",
+      "clock": "84'",
       "start": "2026-01-04T15:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "SUN",
           "displayName": "Sunderland",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "62'",
+      "clock": "72'",
       "start": "2026-01-04T15:15Z",
       "teams": [
         {
