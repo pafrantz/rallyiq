@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-04T23:45:44.230Z",
+  "ts": "2026-01-04T23:51:31.329Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:05",
+      "clock": "10:27",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:07",
+      "clock": "5:51",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "15:00",
+      "clock": "13:29",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:21",
+      "clock": "11:18",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:53",
+      "clock": "10:39",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 23
+          "score": 30
         },
         {
           "id": "22",
@@ -144,7 +144,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:39",
+      "clock": "11:01",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:45",
+      "clock": "10:24",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
