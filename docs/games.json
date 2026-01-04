@@ -1,33 +1,6 @@
 {
-  "ts": "2026-01-04T17:06:22.733Z",
+  "ts": "2026-01-04T17:15:40.457Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740790",
-      "shortName": "LIV @ FUL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+3'",
-      "start": "2026-01-04T15:15Z",
-      "teams": [
-        {
-          "id": "370",
-          "homeAway": "home",
-          "abbreviation": "FUL",
-          "displayName": "Fulham",
-          "score": 1
-        },
-        {
-          "id": "364",
-          "homeAway": "away",
-          "abbreviation": "LIV",
-          "displayName": "Liverpool",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
