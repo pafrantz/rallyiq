@@ -1,6 +1,33 @@
 {
-  "ts": "2026-01-05T04:59:50.557Z",
+  "ts": "2026-01-05T05:19:53.568Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740801",
+      "shortName": "NFO @ WHU",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-01-06T20:00Z",
+      "teams": [
+        {
+          "id": "371",
+          "homeAway": "home",
+          "abbreviation": "WHU",
+          "displayName": "West Ham United",
+          "score": 0
+        },
+        {
+          "id": "393",
+          "homeAway": "away",
+          "abbreviation": "NFO",
+          "displayName": "Nottingham Forest",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "soccer",
       "league": "bra.1",
