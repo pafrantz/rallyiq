@@ -1,33 +1,6 @@
 {
-  "ts": "2026-01-05T04:09:24.618Z",
+  "ts": "2026-01-05T04:36:59.512Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772960",
-      "shortName": "BAL @ PIT",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "5:19",
-      "start": "2026-01-05T01:20Z",
-      "teams": [
-        {
-          "id": "23",
-          "homeAway": "home",
-          "abbreviation": "PIT",
-          "displayName": "Pittsburgh Steelers",
-          "score": 13
-        },
-        {
-          "id": "33",
-          "homeAway": "away",
-          "abbreviation": "BAL",
-          "displayName": "Baltimore Ravens",
-          "score": 17
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
