@@ -1,60 +1,6 @@
 {
-  "ts": "2026-01-04T23:56:55.878Z",
+  "ts": "2026-01-05T00:20:09.726Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772967",
-      "shortName": "NYJ @ BUF",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "9:32",
-      "start": "2026-01-04T21:25Z",
-      "teams": [
-        {
-          "id": "2",
-          "homeAway": "home",
-          "abbreviation": "BUF",
-          "displayName": "Buffalo Bills",
-          "score": 35
-        },
-        {
-          "id": "20",
-          "homeAway": "away",
-          "abbreviation": "NYJ",
-          "displayName": "New York Jets",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772965",
-      "shortName": "DET @ CHI",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "5:25",
-      "start": "2026-01-04T21:25Z",
-      "teams": [
-        {
-          "id": "3",
-          "homeAway": "home",
-          "abbreviation": "CHI",
-          "displayName": "Chicago Bears",
-          "score": 16
-        },
-        {
-          "id": "8",
-          "homeAway": "away",
-          "abbreviation": "DET",
-          "displayName": "Detroit Lions",
-          "score": 16
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -63,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "11:45",
+      "clock": "2:17",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -71,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 16
+          "score": 19
         },
         {
           "id": "24",
@@ -90,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "8:22",
+      "clock": "1:01",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -98,68 +44,14 @@
           "homeAway": "home",
           "abbreviation": "LV",
           "displayName": "Las Vegas Raiders",
-          "score": 9
+          "score": 11
         },
         {
           "id": "12",
           "homeAway": "away",
           "abbreviation": "KC",
           "displayName": "Kansas City Chiefs",
-          "score": 6
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772955",
-      "shortName": "ARI @ LAR",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "8:01",
-      "start": "2026-01-04T21:25Z",
-      "teams": [
-        {
-          "id": "14",
-          "homeAway": "home",
-          "abbreviation": "LAR",
-          "displayName": "Los Angeles Rams",
-          "score": 30
-        },
-        {
-          "id": "22",
-          "homeAway": "away",
-          "abbreviation": "ARI",
-          "displayName": "Arizona Cardinals",
-          "score": 20
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772958",
-      "shortName": "MIA @ NE",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "8:44",
-      "start": "2026-01-04T21:25Z",
-      "teams": [
-        {
-          "id": "17",
-          "homeAway": "home",
-          "abbreviation": "NE",
-          "displayName": "New England Patriots",
-          "score": 38
-        },
-        {
-          "id": "15",
-          "homeAway": "away",
-          "abbreviation": "MIA",
-          "displayName": "Miami Dolphins",
-          "score": 10
+          "score": 12
         }
       ]
     },
@@ -171,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "9:35",
+      "clock": "1:17",
       "start": "2026-01-04T21:25Z",
       "teams": [
         {
@@ -186,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "WSH",
           "displayName": "Washington Commanders",
-          "score": 17
+          "score": 24
         }
       ]
     },
