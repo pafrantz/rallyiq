@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-05T01:18:02.604Z",
+  "ts": "2026-01-05T02:02:20.254Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772960",
       "shortName": "BAL @ PIT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 2,
+      "clock": "13:33",
       "start": "2026-01-05T01:20Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 0
+          "score": 10
         }
       ]
     },
