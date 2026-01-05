@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-05T02:57:12.191Z",
+  "ts": "2026-01-05T03:37:57.951Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772960",
       "shortName": "BAL @ PIT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "1:04",
       "start": "2026-01-05T01:20Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "PIT",
           "displayName": "Pittsburgh Steelers",
-          "score": 3
+          "score": 13
         },
         {
           "id": "33",
