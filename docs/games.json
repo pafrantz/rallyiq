@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-06T20:10:16.976Z",
+  "ts": "2026-01-06T20:21:20.096Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "7'",
+      "clock": "19'",
       "start": "2026-01-06T20:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "WHU",
           "displayName": "West Ham United",
-          "score": 0
+          "score": 1
         },
         {
           "id": "393",
