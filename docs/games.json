@@ -1,33 +1,6 @@
 {
-  "ts": "2026-01-07T22:14:27.075Z",
+  "ts": "2026-01-07T22:26:16.602Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740804",
-      "shortName": "LEE @ NEW",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+6'",
-      "start": "2026-01-07T20:15Z",
-      "teams": [
-        {
-          "id": "361",
-          "homeAway": "home",
-          "abbreviation": "NEW",
-          "displayName": "Newcastle United",
-          "score": 3
-        },
-        {
-          "id": "357",
-          "homeAway": "away",
-          "abbreviation": "LEE",
-          "displayName": "Leeds United",
-          "score": 3
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
