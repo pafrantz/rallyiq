@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-07T20:23:34.854Z",
+  "ts": "2026-01-07T20:36:37.583Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740797",
       "shortName": "TOT @ BOU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "45'",
       "start": "2026-01-07T19:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740798",
       "shortName": "SUN @ BRE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+1'",
+      "period": 2,
+      "clock": "48'",
       "start": "2026-01-07T19:30Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740805",
       "shortName": "AVL @ CRY",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "47'",
       "start": "2026-01-07T19:30Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740800",
       "shortName": "WOL @ EVE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "47'",
       "start": "2026-01-07T19:30Z",
       "teams": [
         {
@@ -141,10 +141,10 @@
       "league": "eng.1",
       "id": "740803",
       "shortName": "BHA @ MNC",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "45'",
       "start": "2026-01-07T19:30Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "8'",
+      "clock": "20'",
       "start": "2026-01-07T20:15Z",
       "teams": [
         {
@@ -179,7 +179,7 @@
           "homeAway": "home",
           "abbreviation": "BUR",
           "displayName": "Burnley",
-          "score": 0
+          "score": 1
         },
         {
           "id": "360",
@@ -198,7 +198,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "8'",
+      "clock": "22'",
       "start": "2026-01-07T20:15Z",
       "teams": [
         {
