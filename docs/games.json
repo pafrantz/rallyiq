@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-07T20:11:47.828Z",
+  "ts": "2026-01-07T20:23:34.854Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740797",
       "shortName": "TOT @ BOU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "40'",
+      "clock": "45'+4'",
       "start": "2026-01-07T19:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740798",
       "shortName": "SUN @ BRE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "40'",
+      "clock": "45'+1'",
       "start": "2026-01-07T19:30Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740805",
       "shortName": "AVL @ CRY",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "40'",
+      "clock": "45'+2'",
       "start": "2026-01-07T19:30Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740800",
       "shortName": "WOL @ EVE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "41'",
+      "clock": "45'+2'",
       "start": "2026-01-07T19:30Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "eng.1",
       "id": "740802",
       "shortName": "CHE @ FUL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "41'",
+      "clock": "45'+8'",
       "start": "2026-01-07T19:30Z",
       "teams": [
         {
@@ -141,10 +141,10 @@
       "league": "eng.1",
       "id": "740803",
       "shortName": "BHA @ MNC",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "41'",
+      "clock": "45'+4'",
       "start": "2026-01-07T19:30Z",
       "teams": [
         {
@@ -168,10 +168,10 @@
       "league": "eng.1",
       "id": "740799",
       "shortName": "MAN @ BUR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "8'",
       "start": "2026-01-07T20:15Z",
       "teams": [
         {
@@ -195,10 +195,10 @@
       "league": "eng.1",
       "id": "740804",
       "shortName": "LEE @ NEW",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "8'",
       "start": "2026-01-07T20:15Z",
       "teams": [
         {
