@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-07T19:29:50.079Z",
+  "ts": "2026-01-07T19:37:48.912Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740797",
       "shortName": "TOT @ BOU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "7'",
       "start": "2026-01-07T19:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "TOT",
           "displayName": "Tottenham Hotspur",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740798",
       "shortName": "SUN @ BRE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "5'",
       "start": "2026-01-07T19:30Z",
       "teams": [
         {
@@ -60,9 +60,9 @@
       "league": "eng.1",
       "id": "740805",
       "shortName": "AVL @ CRY",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-01-07T19:30Z",
       "teams": [
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740800",
       "shortName": "WOL @ EVE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "7'",
       "start": "2026-01-07T19:30Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "eng.1",
       "id": "740802",
       "shortName": "CHE @ FUL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "5'",
       "start": "2026-01-07T19:30Z",
       "teams": [
         {
@@ -141,10 +141,10 @@
       "league": "eng.1",
       "id": "740803",
       "shortName": "BHA @ MNC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "7'",
       "start": "2026-01-07T19:30Z",
       "teams": [
         {
