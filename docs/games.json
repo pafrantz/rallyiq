@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-08T20:44:35.038Z",
+  "ts": "2026-01-08T20:52:18.343Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740796",
       "shortName": "LIV @ ARS",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "44'",
+      "clock": "45'+3'",
       "start": "2026-01-08T20:00Z",
       "teams": [
         {
