@@ -1,6 +1,33 @@
 {
-  "ts": "2026-01-08T08:04:53.741Z",
+  "ts": "2026-01-08T08:15:07.916Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740796",
+      "shortName": "LIV @ ARS",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-01-08T20:00Z",
+      "teams": [
+        {
+          "id": "359",
+          "homeAway": "home",
+          "abbreviation": "ARS",
+          "displayName": "Arsenal",
+          "score": 0
+        },
+        {
+          "id": "364",
+          "homeAway": "away",
+          "abbreviation": "LIV",
+          "displayName": "Liverpool",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "football",
       "league": "nfl",
