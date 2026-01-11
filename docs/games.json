@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-11T19:00:26.327Z",
+  "ts": "2026-01-11T19:08:10.771Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "5:37",
+      "clock": "4:35",
       "start": "2026-01-11T18:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 9
+          "score": 10
         }
       ]
     },
