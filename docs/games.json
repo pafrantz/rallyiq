@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-11T22:57:09.904Z",
+  "ts": "2026-01-11T23:04:19.520Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772980",
       "shortName": "SF @ PHI",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "1:07",
+      "clock": "0:00",
       "start": "2026-01-11T21:30Z",
       "teams": [
         {
