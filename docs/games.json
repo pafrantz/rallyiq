@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-11T02:32:41.457Z",
+  "ts": "2026-01-11T03:18:16.682Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "GB @ CHI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:18",
+      "period": 3,
+      "clock": "3:11",
       "start": "2026-01-11T01:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 3
+          "score": 6
         },
         {
           "id": "9",
