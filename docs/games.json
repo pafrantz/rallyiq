@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-11T01:39:04.255Z",
+  "ts": "2026-01-11T02:32:41.457Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "GB @ CHI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "2:01",
+      "period": 2,
+      "clock": "0:18",
       "start": "2026-01-11T01:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 7
+          "score": 21
         }
       ]
     },
