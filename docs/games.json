@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-11T20:19:36.059Z",
+  "ts": "2026-01-11T20:32:16.055Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:55",
+      "clock": "9:42",
       "start": "2026-01-11T18:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 16
+          "score": 17
         },
         {
           "id": "2",
