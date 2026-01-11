@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-11T17:58:02.901Z",
+  "ts": "2026-01-11T18:08:40.980Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772977",
       "shortName": "BUF @ JAX",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "11:26",
       "start": "2026-01-11T18:00Z",
       "teams": [
         {
