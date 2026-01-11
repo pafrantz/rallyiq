@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-10T23:58:24.150Z",
+  "ts": "2026-01-11T00:36:07.437Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "LAR @ CAR",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "2:06",
+      "period": 4,
+      "clock": "2:12",
       "start": "2026-01-10T21:30Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "CAR",
           "displayName": "Carolina Panthers",
-          "score": 17
+          "score": 31
         },
         {
           "id": "14",
           "homeAway": "away",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 20
+          "score": 27
         }
       ]
     },
