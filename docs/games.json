@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-11T21:41:51.370Z",
+  "ts": "2026-01-11T21:47:45.380Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772980",
       "shortName": "SF @ PHI",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "11:51",
       "start": "2026-01-11T21:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 0
+          "score": 7
         }
       ]
     },
