@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-11T22:27:46.730Z",
+  "ts": "2026-01-11T22:37:44.846Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "10:19",
+      "clock": "5:58",
       "start": "2026-01-11T21:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 6
+          "score": 13
         },
         {
           "id": "25",
