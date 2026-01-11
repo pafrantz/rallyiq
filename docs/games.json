@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-11T20:09:02.917Z",
+  "ts": "2026-01-11T20:19:36.059Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "BUF @ JAX",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "3:58",
+      "period": 4,
+      "clock": "12:55",
       "start": "2026-01-11T18:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 10
+          "score": 16
         },
         {
           "id": "2",
