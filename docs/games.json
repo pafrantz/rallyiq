@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-11T23:57:33.184Z",
+  "ts": "2026-01-12T00:25:36.925Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "15:00",
+      "clock": "5:59",
       "start": "2026-01-11T21:30Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 16
+          "score": 19
         },
         {
           "id": "25",
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 10
+          "score": 17
         }
       ]
     },
