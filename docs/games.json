@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-13T22:08:08.909Z",
+  "ts": "2026-01-13T22:18:37.922Z",
   "games": [
     {
       "sport": "soccer",
@@ -199,7 +199,7 @@
       "state": "PRE",
       "period": null,
       "clock": "0'",
-      "start": "2026-01-28T20:00Z",
+      "start": "2026-01-28T22:00Z",
       "teams": [
         {
           "id": "7632",
@@ -220,94 +220,13 @@
     {
       "sport": "soccer",
       "league": "bra.1",
-      "id": "401840809",
-      "shortName": "CRU @ BOT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
-      "start": "2026-01-28T20:00Z",
-      "teams": [
-        {
-          "id": "6086",
-          "homeAway": "home",
-          "abbreviation": "BOT",
-          "displayName": "Botafogo",
-          "score": 0
-        },
-        {
-          "id": "2022",
-          "homeAway": "away",
-          "abbreviation": "CRU",
-          "displayName": "Cruzeiro",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401840810",
-      "shortName": "SAN @ CHA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
-      "start": "2026-01-28T20:00Z",
-      "teams": [
-        {
-          "id": "9318",
-          "homeAway": "home",
-          "abbreviation": "CHA",
-          "displayName": "Chapecoense",
-          "score": 0
-        },
-        {
-          "id": "2674",
-          "homeAway": "away",
-          "abbreviation": "SAN",
-          "displayName": "Santos",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401840811",
-      "shortName": "BAH @ COR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
-      "start": "2026-01-28T20:00Z",
-      "teams": [
-        {
-          "id": "874",
-          "homeAway": "home",
-          "abbreviation": "COR",
-          "displayName": "Corinthians",
-          "score": 0
-        },
-        {
-          "id": "9967",
-          "homeAway": "away",
-          "abbreviation": "BAH",
-          "displayName": "Bahia",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
       "id": "401840977",
       "shortName": "BRA @ CFC",
       "status": "STATUS_SCHEDULED",
       "state": "PRE",
       "period": null,
       "clock": "0'",
-      "start": "2026-01-28T20:00Z",
+      "start": "2026-01-28T22:00Z",
       "teams": [
         {
           "id": "3456",
@@ -328,40 +247,13 @@
     {
       "sport": "soccer",
       "league": "bra.1",
-      "id": "401840813",
-      "shortName": "GRE @ FLU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
-      "start": "2026-01-28T20:00Z",
-      "teams": [
-        {
-          "id": "3445",
-          "homeAway": "home",
-          "abbreviation": "FLU",
-          "displayName": "Fluminense",
-          "score": 0
-        },
-        {
-          "id": "6273",
-          "homeAway": "away",
-          "abbreviation": "GRE",
-          "displayName": "Grêmio",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
       "id": "401840814",
       "shortName": "CAP @ INT",
       "status": "STATUS_SCHEDULED",
       "state": "PRE",
       "period": null,
       "clock": "0'",
-      "start": "2026-01-28T20:00Z",
+      "start": "2026-01-28T22:00Z",
       "teams": [
         {
           "id": "1936",
@@ -382,13 +274,94 @@
     {
       "sport": "soccer",
       "league": "bra.1",
+      "id": "401840812",
+      "shortName": "REMO @ VIT",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-01-28T22:00Z",
+      "teams": [
+        {
+          "id": "3457",
+          "homeAway": "home",
+          "abbreviation": "VIT",
+          "displayName": "Vitória",
+          "score": 0
+        },
+        {
+          "id": "4936",
+          "homeAway": "away",
+          "abbreviation": "REMO",
+          "displayName": "Remo",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401840813",
+      "shortName": "GRE @ FLU",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-01-28T22:30Z",
+      "teams": [
+        {
+          "id": "3445",
+          "homeAway": "home",
+          "abbreviation": "FLU",
+          "displayName": "Fluminense",
+          "score": 0
+        },
+        {
+          "id": "6273",
+          "homeAway": "away",
+          "abbreviation": "GRE",
+          "displayName": "Grêmio",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401840810",
+      "shortName": "SAN @ CHA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-01-28T23:00Z",
+      "teams": [
+        {
+          "id": "9318",
+          "homeAway": "home",
+          "abbreviation": "CHA",
+          "displayName": "Chapecoense",
+          "score": 0
+        },
+        {
+          "id": "2674",
+          "homeAway": "away",
+          "abbreviation": "SAN",
+          "displayName": "Santos",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
       "id": "401840975",
       "shortName": "VAS @ MIR",
       "status": "STATUS_SCHEDULED",
       "state": "PRE",
       "period": null,
       "clock": "0'",
-      "start": "2026-01-28T20:00Z",
+      "start": "2026-01-28T23:00Z",
       "teams": [
         {
           "id": "9169",
@@ -415,7 +388,7 @@
       "state": "PRE",
       "period": null,
       "clock": "0'",
-      "start": "2026-01-28T20:00Z",
+      "start": "2026-01-29T00:30Z",
       "teams": [
         {
           "id": "2026",
@@ -429,33 +402,6 @@
           "homeAway": "away",
           "abbreviation": "FLA",
           "displayName": "Flamengo",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401840812",
-      "shortName": "REMO @ VIT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
-      "start": "2026-01-28T20:00Z",
-      "teams": [
-        {
-          "id": "3457",
-          "homeAway": "home",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 0
-        },
-        {
-          "id": "4936",
-          "homeAway": "away",
-          "abbreviation": "REMO",
-          "displayName": "Remo",
           "score": 0
         }
       ]
