@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-13T01:00:17.596Z",
+  "ts": "2026-01-13T01:37:51.190Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772976",
       "shortName": "HOU @ PIT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "6:51",
       "start": "2026-01-13T01:15Z",
       "teams": [
         {
