@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-17T15:12:37.232Z",
+  "ts": "2026-01-17T15:23:47.056Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "11'",
+      "clock": "21'",
       "start": "2026-01-17T15:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "11'",
+      "clock": "21'",
       "start": "2026-01-17T15:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "12'",
+      "clock": "23'",
       "start": "2026-01-17T15:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "12'",
+      "clock": "23'",
       "start": "2026-01-17T15:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "12'",
+      "clock": "23'",
       "start": "2026-01-17T15:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "WHU",
           "displayName": "West Ham United",
-          "score": 0
+          "score": 1
         }
       ]
     },
