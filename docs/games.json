@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-17T11:07:26.771Z",
+  "ts": "2026-01-17T11:16:41.381Z",
   "games": [
     {
       "sport": "soccer",
@@ -456,33 +456,6 @@
           "homeAway": "away",
           "abbreviation": "SAN",
           "displayName": "Santos",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401840975",
-      "shortName": "VAS @ MIR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
-      "start": "2026-01-28T23:00Z",
-      "teams": [
-        {
-          "id": "9169",
-          "homeAway": "home",
-          "abbreviation": "MIR",
-          "displayName": "Mirassol",
-          "score": 0
-        },
-        {
-          "id": "3454",
-          "homeAway": "away",
-          "abbreviation": "VAS",
-          "displayName": "Vasco da Gama",
           "score": 0
         }
       ]
