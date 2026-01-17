@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-17T22:17:58.918Z",
+  "ts": "2026-01-17T22:29:46.143Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:20",
+      "clock": "8:04",
       "start": "2026-01-17T21:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 3
+          "score": 10
         },
         {
           "id": "2",
