@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-17T15:52:25.214Z",
+  "ts": "2026-01-17T15:57:36.724Z",
   "games": [
     {
       "sport": "soccer",
@@ -114,10 +114,10 @@
       "league": "eng.1",
       "id": "740814",
       "shortName": "WHU @ TOT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+7'",
+      "clock": "45'+9'",
       "start": "2026-01-17T15:00Z",
       "teams": [
         {
