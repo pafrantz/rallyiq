@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-17T13:48:54.152Z",
+  "ts": "2026-01-17T13:54:32.940Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "59'",
+      "clock": "65'",
       "start": "2026-01-17T12:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "MAN",
           "displayName": "Manchester United",
-          "score": 0
+          "score": 1
         },
         {
           "id": "382",
