@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-17T18:33:33.229Z",
+  "ts": "2026-01-17T18:45:27.358Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740812",
       "shortName": "ARS @ NFO",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "55'",
       "start": "2026-01-17T17:30Z",
       "teams": [
         {
