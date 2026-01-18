@@ -1,33 +1,6 @@
 {
-  "ts": "2026-01-18T18:23:41.486Z",
+  "ts": "2026-01-18T18:38:22.962Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740806",
-      "shortName": "EVE @ AVL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+3'",
-      "start": "2026-01-18T16:30Z",
-      "teams": [
-        {
-          "id": "362",
-          "homeAway": "home",
-          "abbreviation": "AVL",
-          "displayName": "Aston Villa",
-          "score": 0
-        },
-        {
-          "id": "368",
-          "homeAway": "away",
-          "abbreviation": "EVE",
-          "displayName": "Everton",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
