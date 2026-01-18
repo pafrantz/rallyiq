@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-18T19:59:55.551Z",
+  "ts": "2026-01-18T20:09:10.876Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772983",
       "shortName": "HOU @ NE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "12:53",
       "start": "2026-01-18T20:00Z",
       "teams": [
         {
