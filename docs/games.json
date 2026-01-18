@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-18T20:19:56.380Z",
+  "ts": "2026-01-18T20:32:40.544Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "9:31",
+      "clock": "4:39",
       "start": "2026-01-18T20:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 0
+          "score": 3
         }
       ]
     },
