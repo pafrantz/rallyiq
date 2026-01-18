@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-18T22:37:35.010Z",
+  "ts": "2026-01-18T22:45:38.179Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "15:00",
+      "clock": "12:58",
       "start": "2026-01-18T20:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 21
+          "score": 28
         },
         {
           "id": "34",
