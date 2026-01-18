@@ -1,33 +1,6 @@
 {
-  "ts": "2026-01-18T23:14:07.544Z",
+  "ts": "2026-01-18T23:25:35.837Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772983",
-      "shortName": "HOU @ NE",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:45",
-      "start": "2026-01-18T20:00Z",
-      "teams": [
-        {
-          "id": "17",
-          "homeAway": "home",
-          "abbreviation": "NE",
-          "displayName": "New England Patriots",
-          "score": 28
-        },
-        {
-          "id": "34",
-          "homeAway": "away",
-          "abbreviation": "HOU",
-          "displayName": "Houston Texans",
-          "score": 16
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
