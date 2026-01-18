@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-18T02:54:50.771Z",
+  "ts": "2026-01-18T03:29:11.266Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772984",
       "shortName": "SF @ SEA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "5:30",
       "start": "2026-01-18T01:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 24
+          "score": 27
         },
         {
           "id": "25",
