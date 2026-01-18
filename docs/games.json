@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-18T16:25:06.820Z",
+  "ts": "2026-01-18T16:37:20.198Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740806",
       "shortName": "EVE @ AVL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "6'",
       "start": "2026-01-18T16:30Z",
       "teams": [
         {
