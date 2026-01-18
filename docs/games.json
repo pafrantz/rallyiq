@@ -1,33 +1,6 @@
 {
-  "ts": "2026-01-18T03:58:36.322Z",
+  "ts": "2026-01-18T04:23:09.516Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772984",
-      "shortName": "SF @ SEA",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "9:12",
-      "start": "2026-01-18T01:00Z",
-      "teams": [
-        {
-          "id": "26",
-          "homeAway": "home",
-          "abbreviation": "SEA",
-          "displayName": "Seattle Seahawks",
-          "score": 41
-        },
-        {
-          "id": "25",
-          "homeAway": "away",
-          "abbreviation": "SF",
-          "displayName": "San Francisco 49ers",
-          "score": 6
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
