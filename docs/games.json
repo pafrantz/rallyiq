@@ -1,33 +1,6 @@
 {
-  "ts": "2026-01-18T00:47:26.090Z",
+  "ts": "2026-01-18T01:17:55.620Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401772982",
-      "shortName": "BUF @ DEN",
-      "status": "STATUS_END_PERIOD",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:00",
-      "start": "2026-01-17T21:30Z",
-      "teams": [
-        {
-          "id": "7",
-          "homeAway": "home",
-          "abbreviation": "DEN",
-          "displayName": "Denver Broncos",
-          "score": 30
-        },
-        {
-          "id": "2",
-          "homeAway": "away",
-          "abbreviation": "BUF",
-          "displayName": "Buffalo Bills",
-          "score": 30
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
