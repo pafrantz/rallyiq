@@ -1,14 +1,14 @@
 {
-  "ts": "2026-01-18T13:55:20.119Z",
+  "ts": "2026-01-18T14:00:51.196Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740815",
       "shortName": "NEW @ WOL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-01-18T14:00Z",
       "teams": [
