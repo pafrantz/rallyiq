@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-18T23:57:53.232Z",
+  "ts": "2026-01-19T00:29:33.616Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "LAR @ CHI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "6:31",
+      "period": 2,
+      "clock": "11:04",
       "start": "2026-01-18T23:30Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 0
+          "score": 7
         },
         {
           "id": "14",
           "homeAway": "away",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 0
+          "score": 7
         }
       ]
     },
