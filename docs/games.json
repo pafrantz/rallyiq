@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-19T21:04:53.989Z",
+  "ts": "2026-01-19T21:14:00.370Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740807",
       "shortName": "BOU @ BHA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "52'",
       "start": "2026-01-19T20:00Z",
       "teams": [
         {
