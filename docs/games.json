@@ -1,33 +1,6 @@
 {
-  "ts": "2026-01-19T21:59:03.328Z",
+  "ts": "2026-01-19T22:08:43.080Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740807",
-      "shortName": "BOU @ BHA",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+8'",
-      "start": "2026-01-19T20:00Z",
-      "teams": [
-        {
-          "id": "331",
-          "homeAway": "home",
-          "abbreviation": "BHA",
-          "displayName": "Brighton & Hove Albion",
-          "score": 1
-        },
-        {
-          "id": "349",
-          "homeAway": "away",
-          "abbreviation": "BOU",
-          "displayName": "AFC Bournemouth",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
