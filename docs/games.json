@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-19T20:21:03.119Z",
+  "ts": "2026-01-19T20:34:12.692Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "19'",
+      "clock": "34'",
       "start": "2026-01-19T20:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BOU",
           "displayName": "AFC Bournemouth",
-          "score": 0
+          "score": 1
         }
       ]
     },
