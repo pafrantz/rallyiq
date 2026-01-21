@@ -1,6 +1,60 @@
 {
-  "ts": "2026-01-21T04:52:31.387Z",
+  "ts": "2026-01-21T05:04:49.812Z",
   "games": [
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401772986",
+      "shortName": "NE @ DEN",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2026-01-25T20:00Z",
+      "teams": [
+        {
+          "id": "7",
+          "homeAway": "home",
+          "abbreviation": "DEN",
+          "displayName": "Denver Broncos",
+          "score": 0
+        },
+        {
+          "id": "17",
+          "homeAway": "away",
+          "abbreviation": "NE",
+          "displayName": "New England Patriots",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401772987",
+      "shortName": "LAR @ SEA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2026-01-25T23:30Z",
+      "teams": [
+        {
+          "id": "26",
+          "homeAway": "home",
+          "abbreviation": "SEA",
+          "displayName": "Seattle Seahawks",
+          "score": 0
+        },
+        {
+          "id": "14",
+          "homeAway": "away",
+          "abbreviation": "LAR",
+          "displayName": "Los Angeles Rams",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "soccer",
       "league": "bra.1",

@@ -1,8 +1,8 @@
 {
-  "ts": "2026-01-21T05:04:51.159Z",
-  "sport": "soccer",
-  "league": "bra.1",
-  "eventId": "401840811",
+  "ts": "2026-01-21T05:04:50.377Z",
+  "sport": "football",
+  "league": "nfl",
+  "eventId": "401772987",
   "context": {
     "down": null,
     "distance": null,
