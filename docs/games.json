@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-24T15:20:18.375Z",
+  "ts": "2026-01-24T15:30:55.848Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "15'",
+      "clock": "29'",
       "start": "2026-01-24T15:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "19'",
+      "clock": "30'",
       "start": "2026-01-24T15:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "BHA",
           "displayName": "Brighton & Hove Albion",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "20'",
+      "clock": "29'",
       "start": "2026-01-24T15:00Z",
       "teams": [
         {
