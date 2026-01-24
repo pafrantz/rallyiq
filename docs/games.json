@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-24T15:45:32.060Z",
+  "ts": "2026-01-24T15:51:31.480Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740819",
       "shortName": "TOT @ BUR",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "44'",
+      "clock": "45'+3'",
       "start": "2026-01-24T15:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BUR",
           "displayName": "Burnley",
-          "score": 0
+          "score": 1
         },
         {
           "id": "367",
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740822",
       "shortName": "BHA @ FUL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+1'",
       "start": "2026-01-24T15:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740823",
       "shortName": "WOL @ MNC",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+4'",
       "start": "2026-01-24T15:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "MNC",
           "displayName": "Manchester City",
-          "score": 1
+          "score": 2
         },
         {
           "id": "380",
