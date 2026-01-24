@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-24T15:56:42.435Z",
+  "ts": "2026-01-24T16:03:55.892Z",
   "games": [
     {
       "sport": "soccer",
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740822",
       "shortName": "BHA @ FUL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+1'",
+      "period": 2,
+      "clock": "45'",
       "start": "2026-01-24T15:00Z",
       "teams": [
         {
