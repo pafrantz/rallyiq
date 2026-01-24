@@ -1,33 +1,6 @@
 {
-  "ts": "2026-01-24T19:25:06.128Z",
+  "ts": "2026-01-24T19:31:19.978Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740817",
-      "shortName": "LIV @ BOU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+5'",
-      "start": "2026-01-24T17:30Z",
-      "teams": [
-        {
-          "id": "349",
-          "homeAway": "home",
-          "abbreviation": "BOU",
-          "displayName": "AFC Bournemouth",
-          "score": 3
-        },
-        {
-          "id": "364",
-          "homeAway": "away",
-          "abbreviation": "LIV",
-          "displayName": "Liverpool",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
