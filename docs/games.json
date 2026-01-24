@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-24T13:34:26.681Z",
+  "ts": "2026-01-24T13:45:06.775Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740825",
       "shortName": "SUN @ WHU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "54'",
       "start": "2026-01-24T12:30Z",
       "teams": [
         {
