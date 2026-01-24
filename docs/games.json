@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-24T14:55:37.013Z",
+  "ts": "2026-01-24T15:01:18.724Z",
   "games": [
     {
       "sport": "soccer",
@@ -33,9 +33,9 @@
       "league": "eng.1",
       "id": "740822",
       "shortName": "BHA @ FUL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-01-24T15:00Z",
       "teams": [
@@ -60,9 +60,9 @@
       "league": "eng.1",
       "id": "740823",
       "shortName": "WOL @ MNC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-01-24T15:00Z",
       "teams": [
