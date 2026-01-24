@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-24T17:28:14.766Z",
+  "ts": "2026-01-24T17:36:39.512Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740817",
       "shortName": "LIV @ BOU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "6'",
       "start": "2026-01-24T17:30Z",
       "teams": [
         {
