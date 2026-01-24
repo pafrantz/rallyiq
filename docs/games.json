@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-24T19:15:26.916Z",
+  "ts": "2026-01-24T19:25:06.128Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "85'",
+      "clock": "90'+5'",
       "start": "2026-01-24T17:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BOU",
           "displayName": "AFC Bournemouth",
-          "score": 2
+          "score": 3
         },
         {
           "id": "364",
