@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-25T23:40:43.844Z",
+  "ts": "2026-01-25T23:47:34.406Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772987",
       "shortName": "LAR @ SEA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "12:51",
       "start": "2026-01-25T23:30Z",
       "teams": [
         {
