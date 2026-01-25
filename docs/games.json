@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-25T15:16:02.178Z",
+  "ts": "2026-01-25T15:28:03.436Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "51'",
+      "clock": "61'",
       "start": "2026-01-25T14:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "57'",
+      "clock": "69'",
       "start": "2026-01-25T14:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "CHE",
           "displayName": "Chelsea",
-          "score": 2
+          "score": 3
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "55'",
+      "clock": "66'",
       "start": "2026-01-25T14:00Z",
       "teams": [
         {
