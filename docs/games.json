@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-25T22:13:24.251Z",
+  "ts": "2026-01-25T22:24:52.537Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "NE @ DEN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "3:50",
+      "period": 4,
+      "clock": "15:00",
       "start": "2026-01-25T20:00Z",
       "teams": [
         {
