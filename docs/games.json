@@ -1,33 +1,6 @@
 {
-  "ts": "2026-01-26T21:51:08.017Z",
+  "ts": "2026-01-26T21:57:54.258Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740821",
-      "shortName": "LEE @ EVE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+1'",
-      "start": "2026-01-26T20:00Z",
-      "teams": [
-        {
-          "id": "368",
-          "homeAway": "home",
-          "abbreviation": "EVE",
-          "displayName": "Everton",
-          "score": 1
-        },
-        {
-          "id": "357",
-          "homeAway": "away",
-          "abbreviation": "LEE",
-          "displayName": "Leeds United",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
