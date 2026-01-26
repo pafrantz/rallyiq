@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-26T01:39:42.414Z",
+  "ts": "2026-01-26T02:33:46.511Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "LAR @ SEA",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "9:41",
+      "period": 4,
+      "clock": "3:20",
       "start": "2026-01-25T23:30Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 24
+          "score": 31
         },
         {
           "id": "14",
           "homeAway": "away",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 20
+          "score": 27
         }
       ]
     },
