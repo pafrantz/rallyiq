@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-26T20:40:24.169Z",
+  "ts": "2026-01-26T20:50:42.562Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740821",
       "shortName": "LEE @ EVE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "39'",
+      "clock": "45'+3'",
       "start": "2026-01-26T20:00Z",
       "teams": [
         {
