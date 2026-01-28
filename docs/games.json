@@ -1,14 +1,14 @@
 {
-  "ts": "2026-01-28T21:54:36.762Z",
+  "ts": "2026-01-28T22:02:19.763Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401840808",
       "shortName": "PAL @ CAM",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-01-28T22:00Z",
       "teams": [
@@ -87,10 +87,10 @@
       "league": "bra.1",
       "id": "401840812",
       "shortName": "REMO @ VIT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "1'",
       "start": "2026-01-28T22:00Z",
       "teams": [
         {
