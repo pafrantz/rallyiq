@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-28T23:12:21.422Z",
+  "ts": "2026-01-28T23:24:29.265Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "50'",
+      "clock": "62'",
       "start": "2026-01-28T22:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CAM",
           "displayName": "Atlético-MG",
-          "score": 1
+          "score": 2
         },
         {
           "id": "2029",
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "49'",
+      "clock": "61'",
       "start": "2026-01-28T22:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "45'",
+      "clock": "58'",
       "start": "2026-01-28T22:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "48'",
+      "clock": "61'",
       "start": "2026-01-28T22:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "VIT",
           "displayName": "Vitória",
-          "score": 0
+          "score": 1
         },
         {
           "id": "4936",
@@ -114,10 +114,10 @@
       "league": "bra.1",
       "id": "401840813",
       "shortName": "GRE @ FLU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "40'",
+      "clock": "45'+5'",
       "start": "2026-01-28T22:30Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "10'",
+      "clock": "22'",
       "start": "2026-01-28T23:00Z",
       "teams": [
         {
@@ -152,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "CHA",
           "displayName": "Chapecoense",
-          "score": 0
+          "score": 1
         },
         {
           "id": "2674",
@@ -171,7 +171,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "9'",
+      "clock": "22'",
       "start": "2026-01-28T23:00Z",
       "teams": [
         {
@@ -179,7 +179,7 @@
           "homeAway": "home",
           "abbreviation": "COR",
           "displayName": "Corinthians",
-          "score": 0
+          "score": 1
         },
         {
           "id": "9967",
