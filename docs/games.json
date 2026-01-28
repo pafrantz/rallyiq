@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-28T23:00:04.046Z",
+  "ts": "2026-01-28T23:12:21.422Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401840808",
       "shortName": "PAL @ CAM",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "50'",
       "start": "2026-01-28T22:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401840977",
       "shortName": "BRA @ CFC",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "49'",
       "start": "2026-01-28T22:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "401840814",
       "shortName": "CAP @ INT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "45'",
       "start": "2026-01-28T22:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "bra.1",
       "id": "401840812",
       "shortName": "REMO @ VIT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+7'",
+      "period": 2,
+      "clock": "48'",
       "start": "2026-01-28T22:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "28'",
+      "clock": "40'",
       "start": "2026-01-28T22:30Z",
       "teams": [
         {
@@ -141,10 +141,10 @@
       "league": "bra.1",
       "id": "401840810",
       "shortName": "SAN @ CHA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "10'",
       "start": "2026-01-28T23:00Z",
       "teams": [
         {
@@ -168,10 +168,10 @@
       "league": "bra.1",
       "id": "401840811",
       "shortName": "BAH @ COR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "9'",
       "start": "2026-01-28T23:00Z",
       "teams": [
         {
