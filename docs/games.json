@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-28T23:24:29.265Z",
+  "ts": "2026-01-28T23:37:02.823Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "62'",
+      "clock": "74'",
       "start": "2026-01-28T22:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "61'",
+      "clock": "73'",
       "start": "2026-01-28T22:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "58'",
+      "clock": "69'",
       "start": "2026-01-28T22:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "61'",
+      "clock": "72'",
       "start": "2026-01-28T22:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "22'",
+      "clock": "35'",
       "start": "2026-01-28T23:00Z",
       "teams": [
         {
@@ -171,7 +171,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "22'",
+      "clock": "32'",
       "start": "2026-01-28T23:00Z",
       "teams": [
         {
@@ -186,7 +186,7 @@
           "homeAway": "away",
           "abbreviation": "BAH",
           "displayName": "Bahia",
-          "score": 0
+          "score": 1
         }
       ]
     },
