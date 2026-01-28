@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-28T22:51:37.900Z",
+  "ts": "2026-01-28T23:00:04.046Z",
   "games": [
     {
       "sport": "soccer",
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401840977",
       "shortName": "BRA @ CFC",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+3'",
+      "clock": "45'+5'",
       "start": "2026-01-28T22:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "401840814",
       "shortName": "CAP @ INT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+4'",
+      "clock": "45'+6'",
       "start": "2026-01-28T22:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "bra.1",
       "id": "401840812",
       "shortName": "REMO @ VIT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+6'",
+      "clock": "45'+7'",
       "start": "2026-01-28T22:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "19'",
+      "clock": "28'",
       "start": "2026-01-28T22:30Z",
       "teams": [
         {
