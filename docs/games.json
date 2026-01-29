@@ -1,69 +1,15 @@
 {
-  "ts": "2026-01-29T00:01:55.683Z",
+  "ts": "2026-01-29T00:46:10.431Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401840814",
-      "shortName": "CAP @ INT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2026-01-28T22:00Z",
-      "teams": [
-        {
-          "id": "1936",
-          "homeAway": "home",
-          "abbreviation": "INT",
-          "displayName": "Internacional",
-          "score": 0
-        },
-        {
-          "id": "3458",
-          "homeAway": "away",
-          "abbreviation": "CAP",
-          "displayName": "Athletico-PR",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401840813",
-      "shortName": "GRE @ FLU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "63'",
-      "start": "2026-01-28T22:30Z",
-      "teams": [
-        {
-          "id": "3445",
-          "homeAway": "home",
-          "abbreviation": "FLU",
-          "displayName": "Fluminense",
-          "score": 2
-        },
-        {
-          "id": "6273",
-          "homeAway": "away",
-          "abbreviation": "GRE",
-          "displayName": "Grêmio",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401840810",
       "shortName": "SAN @ CHA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "84'",
       "start": "2026-01-28T23:00Z",
       "teams": [
         {
@@ -71,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "CHA",
           "displayName": "Chapecoense",
-          "score": 1
+          "score": 3
         },
         {
           "id": "2674",
           "homeAway": "away",
           "abbreviation": "SAN",
           "displayName": "Santos",
-          "score": 1
+          "score": 2
         }
       ]
     },
@@ -87,10 +33,10 @@
       "league": "bra.1",
       "id": "401840811",
       "shortName": "BAH @ COR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "80'",
       "start": "2026-01-28T23:00Z",
       "teams": [
         {
@@ -114,10 +60,10 @@
       "league": "bra.1",
       "id": "401840976",
       "shortName": "FLA @ SAO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "13'",
       "start": "2026-01-29T00:30Z",
       "teams": [
         {
