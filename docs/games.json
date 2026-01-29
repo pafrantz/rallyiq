@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-29T23:12:39.511Z",
+  "ts": "2026-01-29T23:25:03.511Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "11'",
+      "clock": "25'",
       "start": "2026-01-29T23:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "VAS",
           "displayName": "Vasco da Gama",
-          "score": 0
+          "score": 1
         }
       ]
     },
