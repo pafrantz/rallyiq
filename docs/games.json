@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-29T01:16:32.224Z",
+  "ts": "2026-01-29T02:00:37.054Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401840976",
       "shortName": "FLA @ SAO",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "43'",
+      "period": 2,
+      "clock": "66'",
       "start": "2026-01-29T00:30Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "SAO",
           "displayName": "São Paulo",
-          "score": 0
+          "score": 1
         },
         {
           "id": "819",
           "homeAway": "away",
           "abbreviation": "FLA",
           "displayName": "Flamengo",
-          "score": 0
+          "score": 1
         }
       ]
     },
