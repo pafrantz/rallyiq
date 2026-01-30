@@ -1,42 +1,15 @@
 {
-  "ts": "2026-01-30T00:50:06.035Z",
+  "ts": "2026-01-30T01:22:07.010Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401840975",
-      "shortName": "VAS @ MIR",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "87'",
-      "start": "2026-01-29T23:00Z",
-      "teams": [
-        {
-          "id": "9169",
-          "homeAway": "home",
-          "abbreviation": "MIR",
-          "displayName": "Mirassol",
-          "score": 2
-        },
-        {
-          "id": "3454",
-          "homeAway": "away",
-          "abbreviation": "VAS",
-          "displayName": "Vasco da Gama",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401840809",
       "shortName": "CRU @ BOT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "17'",
+      "clock": "45'+4'",
       "start": "2026-01-30T00:30Z",
       "teams": [
         {
