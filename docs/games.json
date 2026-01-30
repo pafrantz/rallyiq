@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-30T00:16:13.125Z",
+  "ts": "2026-01-30T00:50:06.035Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "52'",
+      "clock": "87'",
       "start": "2026-01-29T23:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "MIR",
           "displayName": "Mirassol",
-          "score": 1
+          "score": 2
         },
         {
           "id": "3454",
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401840809",
       "shortName": "CRU @ BOT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "17'",
       "start": "2026-01-30T00:30Z",
       "teams": [
         {
