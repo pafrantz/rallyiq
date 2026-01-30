@@ -1,33 +1,6 @@
 {
-  "ts": "2026-01-30T02:08:41.660Z",
+  "ts": "2026-01-30T03:08:10.625Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401840809",
-      "shortName": "CRU @ BOT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "74'",
-      "start": "2026-01-30T00:30Z",
-      "teams": [
-        {
-          "id": "6086",
-          "homeAway": "home",
-          "abbreviation": "BOT",
-          "displayName": "Botafogo",
-          "score": 1
-        },
-        {
-          "id": "2022",
-          "homeAway": "away",
-          "abbreviation": "CRU",
-          "displayName": "Cruzeiro",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
