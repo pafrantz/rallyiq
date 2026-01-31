@@ -1,33 +1,6 @@
 {
-  "ts": "2026-01-31T19:24:13.178Z",
+  "ts": "2026-01-31T19:33:56.224Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740835",
-      "shortName": "WHU @ CHE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2026-01-31T17:30Z",
-      "teams": [
-        {
-          "id": "363",
-          "homeAway": "home",
-          "abbreviation": "CHE",
-          "displayName": "Chelsea",
-          "score": 3
-        },
-        {
-          "id": "371",
-          "homeAway": "away",
-          "abbreviation": "WHU",
-          "displayName": "West Ham United",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
