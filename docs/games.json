@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-31T20:59:50.830Z",
+  "ts": "2026-01-31T21:08:54.036Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740834",
       "shortName": "NEW @ LIV",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "47'",
       "start": "2026-01-31T20:00Z",
       "teams": [
         {
