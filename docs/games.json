@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-31T19:12:55.082Z",
+  "ts": "2026-01-31T19:24:13.178Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "81'",
+      "clock": "90'+2'",
       "start": "2026-01-31T17:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CHE",
           "displayName": "Chelsea",
-          "score": 2
+          "score": 3
         },
         {
           "id": "371",
