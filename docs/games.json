@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-31T17:35:44.582Z",
+  "ts": "2026-01-31T17:45:56.440Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "4'",
+      "clock": "15'",
       "start": "2026-01-31T17:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "WHU",
           "displayName": "West Ham United",
-          "score": 0
+          "score": 1
         }
       ]
     },
