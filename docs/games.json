@@ -1,15 +1,15 @@
 {
-  "ts": "2026-01-31T18:26:23.223Z",
+  "ts": "2026-01-31T18:43:37.384Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740835",
       "shortName": "WHU @ CHE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "51'",
       "start": "2026-01-31T17:30Z",
       "teams": [
         {
