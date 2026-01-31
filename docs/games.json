@@ -1,5 +1,5 @@
 {
-  "ts": "2026-01-31T21:19:50.730Z",
+  "ts": "2026-01-31T21:32:00.830Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "59'",
+      "clock": "71'",
       "start": "2026-01-31T20:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "LIV",
           "displayName": "Liverpool",
-          "score": 2
+          "score": 3
         },
         {
           "id": "361",
