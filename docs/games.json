@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-01T16:23:54.450Z",
+  "ts": "2026-02-01T16:39:59.380Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740828",
       "shortName": "MNC @ TOT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "9'",
       "start": "2026-02-01T16:30Z",
       "teams": [
         {
