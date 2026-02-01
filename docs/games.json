@@ -1,12 +1,12 @@
 {
-  "ts": "2026-02-01T14:51:12.321Z",
+  "ts": "2026-02-01T14:59:15.633Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740826",
       "shortName": "BRE @ AVL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
       "clock": "45'+5'",
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740832",
       "shortName": "CRY @ NFO",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+5'",
+      "clock": "45'+7'",
       "start": "2026-02-01T14:00Z",
       "teams": [
         {
