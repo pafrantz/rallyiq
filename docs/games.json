@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-01T04:33:14.901Z",
+  "ts": "2026-02-01T05:11:24.852Z",
   "games": [
     {
       "sport": "football",
@@ -24,6 +24,168 @@
           "homeAway": "away",
           "abbreviation": "NFC",
           "displayName": "NFC",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401840978",
+      "shortName": "INT @ FLA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-04T22:00Z",
+      "teams": [
+        {
+          "id": "819",
+          "homeAway": "home",
+          "abbreviation": "FLA",
+          "displayName": "Flamengo",
+          "score": 0
+        },
+        {
+          "id": "1936",
+          "homeAway": "away",
+          "abbreviation": "INT",
+          "displayName": "Internacional",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401840984",
+      "shortName": "CAM @ BRA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-04T22:00Z",
+      "teams": [
+        {
+          "id": "6079",
+          "homeAway": "home",
+          "abbreviation": "BRA",
+          "displayName": "Red Bull Bragantino",
+          "score": 0
+        },
+        {
+          "id": "7632",
+          "homeAway": "away",
+          "abbreviation": "CAM",
+          "displayName": "Atlético-MG",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401840985",
+      "shortName": "MIR @ REMO",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-04T23:00Z",
+      "teams": [
+        {
+          "id": "4936",
+          "homeAway": "home",
+          "abbreviation": "REMO",
+          "displayName": "Remo",
+          "score": 0
+        },
+        {
+          "id": "9169",
+          "homeAway": "away",
+          "abbreviation": "MIR",
+          "displayName": "Mirassol",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401840986",
+      "shortName": "SAO @ SAN",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-04T23:00Z",
+      "teams": [
+        {
+          "id": "2674",
+          "homeAway": "home",
+          "abbreviation": "SAN",
+          "displayName": "Santos",
+          "score": 0
+        },
+        {
+          "id": "2026",
+          "homeAway": "away",
+          "abbreviation": "SAO",
+          "displayName": "São Paulo",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401840987",
+      "shortName": "BOT @ GRE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-05T00:30Z",
+      "teams": [
+        {
+          "id": "6273",
+          "homeAway": "home",
+          "abbreviation": "GRE",
+          "displayName": "Grêmio",
+          "score": 0
+        },
+        {
+          "id": "6086",
+          "homeAway": "away",
+          "abbreviation": "BOT",
+          "displayName": "Botafogo",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401840983",
+      "shortName": "VIT @ PAL",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-05T00:30Z",
+      "teams": [
+        {
+          "id": "2029",
+          "homeAway": "home",
+          "abbreviation": "PAL",
+          "displayName": "Palmeiras",
+          "score": 0
+        },
+        {
+          "id": "3457",
+          "homeAway": "away",
+          "abbreviation": "VIT",
+          "displayName": "Vitória",
           "score": 0
         }
       ]
