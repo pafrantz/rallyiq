@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-01T17:12:41.819Z",
+  "ts": "2026-02-01T17:24:59.938Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740828",
       "shortName": "MNC @ TOT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "39'",
+      "clock": "45'+5'",
       "start": "2026-02-01T16:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "MNC",
           "displayName": "Manchester City",
-          "score": 1
+          "score": 2
         }
       ]
     },
