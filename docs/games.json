@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-01T13:50:37.041Z",
+  "ts": "2026-02-01T14:01:50.828Z",
   "games": [
     {
       "sport": "soccer",
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740833",
       "shortName": "FUL @ MAN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "1'",
       "start": "2026-02-01T14:00Z",
       "teams": [
         {
@@ -60,9 +60,9 @@
       "league": "eng.1",
       "id": "740832",
       "shortName": "CRY @ NFO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-02-01T14:00Z",
       "teams": [
