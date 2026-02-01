@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-01T15:53:35.688Z",
+  "ts": "2026-02-01T16:00:30.970Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "89'",
+      "clock": "90'+7'",
       "start": "2026-02-01T14:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "90'+1'",
+      "clock": "90'+7'",
       "start": "2026-02-01T14:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "MAN",
           "displayName": "Manchester United",
-          "score": 2
+          "score": 3
         },
         {
           "id": "370",
@@ -52,33 +52,6 @@
           "abbreviation": "FUL",
           "displayName": "Fulham",
           "score": 2
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740832",
-      "shortName": "CRY @ NFO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'",
-      "start": "2026-02-01T14:00Z",
-      "teams": [
-        {
-          "id": "393",
-          "homeAway": "home",
-          "abbreviation": "NFO",
-          "displayName": "Nottingham Forest",
-          "score": 1
-        },
-        {
-          "id": "384",
-          "homeAway": "away",
-          "abbreviation": "CRY",
-          "displayName": "Crystal Palace",
-          "score": 1
         }
       ]
     },
