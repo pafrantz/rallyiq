@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-01T14:01:50.828Z",
+  "ts": "2026-02-01T14:12:56.557Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740826",
       "shortName": "BRE @ AVL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "9'",
       "start": "2026-02-01T14:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "1'",
+      "clock": "12'",
       "start": "2026-02-01T14:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "0'",
+      "clock": "12'",
       "start": "2026-02-01T14:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "NFO",
           "displayName": "Nottingham Forest",
-          "score": 0
+          "score": 1
         },
         {
           "id": "384",
