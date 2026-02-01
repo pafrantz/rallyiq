@@ -1,33 +1,6 @@
 {
-  "ts": "2026-02-01T18:18:56.162Z",
+  "ts": "2026-02-01T18:34:04.773Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740828",
-      "shortName": "MNC @ TOT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "88'",
-      "start": "2026-02-01T16:30Z",
-      "teams": [
-        {
-          "id": "367",
-          "homeAway": "home",
-          "abbreviation": "TOT",
-          "displayName": "Tottenham Hotspur",
-          "score": 2
-        },
-        {
-          "id": "382",
-          "homeAway": "away",
-          "abbreviation": "MNC",
-          "displayName": "Manchester City",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
