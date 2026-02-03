@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-03T05:03:23.582Z",
+  "ts": "2026-02-03T05:30:38.980Z",
   "games": [
     {
       "sport": "football",
@@ -186,6 +186,33 @@
           "homeAway": "away",
           "abbreviation": "VIT",
           "displayName": "Vitória",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740841",
+      "shortName": "NFO @ LEE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-06T20:00Z",
+      "teams": [
+        {
+          "id": "357",
+          "homeAway": "home",
+          "abbreviation": "LEE",
+          "displayName": "Leeds United",
+          "score": 0
+        },
+        {
+          "id": "393",
+          "homeAway": "away",
+          "abbreviation": "NFO",
+          "displayName": "Nottingham Forest",
           "score": 0
         }
       ]
