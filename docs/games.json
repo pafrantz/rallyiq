@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-04T23:24:07.615Z",
+  "ts": "2026-02-04T23:38:10.883Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "60'",
+      "clock": "73'",
       "start": "2026-02-04T22:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "FLA",
           "displayName": "Flamengo",
-          "score": 0
+          "score": 1
         },
         {
           "id": "1936",
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "63'",
+      "clock": "76'",
       "start": "2026-02-04T22:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "23'",
+      "clock": "37'",
       "start": "2026-02-04T23:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "19'",
+      "clock": "34'",
       "start": "2026-02-04T23:00Z",
       "teams": [
         {
