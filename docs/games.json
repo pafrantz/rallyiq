@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-04T21:55:41.379Z",
+  "ts": "2026-02-04T22:02:31.904Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401840978",
       "shortName": "INT @ FLA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "2'",
       "start": "2026-02-04T22:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401840984",
       "shortName": "CAM @ BRA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "2'",
       "start": "2026-02-04T22:00Z",
       "teams": [
         {
