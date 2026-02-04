@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-04T22:59:42.806Z",
+  "ts": "2026-02-04T23:11:52.826Z",
   "sport": "soccer",
   "league": "bra.1",
   "eventId": "401840986",
@@ -7,10 +7,24 @@
     "down": null,
     "distance": null,
     "yardline": null,
-    "quarter": null,
-    "clock_secs": null,
+    "quarter": 1,
+    "clock_secs": 420,
     "score_diff": 0,
-    "recent_gains": [],
-    "recent_clock": []
+    "recent_gains": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "recent_clock": [
+      240,
+      300,
+      300,
+      360,
+      360,
+      420
+    ]
   }
 }

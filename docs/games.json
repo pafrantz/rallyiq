@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-04T22:59:42.109Z",
+  "ts": "2026-02-04T23:11:51.704Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401840978",
       "shortName": "INT @ FLA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+7'",
+      "period": 2,
+      "clock": "47'",
       "start": "2026-02-04T22:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401840984",
       "shortName": "CAM @ BRA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "51'",
       "start": "2026-02-04T22:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "401840985",
       "shortName": "MIR @ REMO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "11'",
       "start": "2026-02-04T23:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "REMO",
           "displayName": "Remo",
-          "score": 0
+          "score": 1
         },
         {
           "id": "9169",
@@ -87,10 +87,10 @@
       "league": "bra.1",
       "id": "401840986",
       "shortName": "SAO @ SAN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "7'",
       "start": "2026-02-04T23:00Z",
       "teams": [
         {
