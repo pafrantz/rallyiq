@@ -1,33 +1,6 @@
 {
-  "ts": "2026-02-04T03:06:18.964Z",
+  "ts": "2026-02-04T03:57:21.725Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401831718",
-      "shortName": "NFC VS AFC",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 3,
-      "clock": "4:28",
-      "start": "2026-02-04T01:00Z",
-      "teams": [
-        {
-          "id": "31",
-          "homeAway": "home",
-          "abbreviation": "AFC",
-          "displayName": "AFC",
-          "score": 52
-        },
-        {
-          "id": "32",
-          "homeAway": "away",
-          "abbreviation": "NFC",
-          "displayName": "NFC",
-          "score": 44
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
