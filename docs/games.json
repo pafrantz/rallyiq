@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-04T22:40:08.737Z",
+  "ts": "2026-02-04T22:51:29.027Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "39'",
+      "clock": "45'+6'",
       "start": "2026-02-04T22:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "INT",
           "displayName": "Internacional",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401840984",
       "shortName": "CAM @ BRA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "38'",
+      "clock": "45'+4'",
       "start": "2026-02-04T22:00Z",
       "teams": [
         {
