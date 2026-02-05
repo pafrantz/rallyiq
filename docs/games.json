@@ -1,69 +1,15 @@
 {
-  "ts": "2026-02-04T23:57:36.148Z",
+  "ts": "2026-02-05T00:30:45.808Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401840978",
-      "shortName": "INT @ FLA",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+3'",
-      "start": "2026-02-04T22:00Z",
-      "teams": [
-        {
-          "id": "819",
-          "homeAway": "home",
-          "abbreviation": "FLA",
-          "displayName": "Flamengo",
-          "score": 1
-        },
-        {
-          "id": "1936",
-          "homeAway": "away",
-          "abbreviation": "INT",
-          "displayName": "Internacional",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401840984",
-      "shortName": "CAM @ BRA",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+5'",
-      "start": "2026-02-04T22:00Z",
-      "teams": [
-        {
-          "id": "6079",
-          "homeAway": "home",
-          "abbreviation": "BRA",
-          "displayName": "Red Bull Bragantino",
-          "score": 1
-        },
-        {
-          "id": "7632",
-          "homeAway": "away",
-          "abbreviation": "CAM",
-          "displayName": "Atlético-MG",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401840985",
       "shortName": "MIR @ REMO",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "68'",
       "start": "2026-02-04T23:00Z",
       "teams": [
         {
@@ -87,10 +33,10 @@
       "league": "bra.1",
       "id": "401840986",
       "shortName": "SAO @ SAN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+7'",
+      "period": 2,
+      "clock": "61'",
       "start": "2026-02-04T23:00Z",
       "teams": [
         {
@@ -141,9 +87,9 @@
       "league": "bra.1",
       "id": "401840983",
       "shortName": "VIT @ PAL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-02-05T00:30Z",
       "teams": [
