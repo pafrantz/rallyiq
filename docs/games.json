@@ -1,60 +1,6 @@
 {
-  "ts": "2026-02-05T02:20:33.930Z",
+  "ts": "2026-02-05T03:18:47.298Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401840987",
-      "shortName": "BOT @ GRE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "84'",
-      "start": "2026-02-05T00:30Z",
-      "teams": [
-        {
-          "id": "6273",
-          "homeAway": "home",
-          "abbreviation": "GRE",
-          "displayName": "Grêmio",
-          "score": 5
-        },
-        {
-          "id": "6086",
-          "homeAway": "away",
-          "abbreviation": "BOT",
-          "displayName": "Botafogo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401840983",
-      "shortName": "VIT @ PAL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "88'",
-      "start": "2026-02-05T00:30Z",
-      "teams": [
-        {
-          "id": "2029",
-          "homeAway": "home",
-          "abbreviation": "PAL",
-          "displayName": "Palmeiras",
-          "score": 5
-        },
-        {
-          "id": "3457",
-          "homeAway": "away",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
