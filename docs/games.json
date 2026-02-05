@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-05T23:45:54.232Z",
+  "ts": "2026-02-05T23:54:25.874Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "78'",
+      "clock": "88'",
       "start": "2026-02-05T22:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401840982",
       "shortName": "CHA @ VAS",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+1'",
+      "clock": "45'+5'",
       "start": "2026-02-05T23:00Z",
       "teams": [
         {
