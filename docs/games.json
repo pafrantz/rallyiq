@@ -1,69 +1,15 @@
 {
-  "ts": "2026-02-05T00:55:29.562Z",
+  "ts": "2026-02-05T01:30:09.251Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401840985",
-      "shortName": "MIR @ REMO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "89'",
-      "start": "2026-02-04T23:00Z",
-      "teams": [
-        {
-          "id": "4936",
-          "homeAway": "home",
-          "abbreviation": "REMO",
-          "displayName": "Remo",
-          "score": 2
-        },
-        {
-          "id": "9169",
-          "homeAway": "away",
-          "abbreviation": "MIR",
-          "displayName": "Mirassol",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401840986",
-      "shortName": "SAO @ SAN",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "87'",
-      "start": "2026-02-04T23:00Z",
-      "teams": [
-        {
-          "id": "2674",
-          "homeAway": "home",
-          "abbreviation": "SAN",
-          "displayName": "Santos",
-          "score": 1
-        },
-        {
-          "id": "2026",
-          "homeAway": "away",
-          "abbreviation": "SAO",
-          "displayName": "São Paulo",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401840987",
       "shortName": "BOT @ GRE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "24'",
+      "clock": "45'+9'",
       "start": "2026-02-05T00:30Z",
       "teams": [
         {
@@ -71,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "GRE",
           "displayName": "Grêmio",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6086",
           "homeAway": "away",
           "abbreviation": "BOT",
           "displayName": "Botafogo",
-          "score": 1
+          "score": 2
         }
       ]
     },
@@ -87,10 +33,10 @@
       "league": "bra.1",
       "id": "401840983",
       "shortName": "VIT @ PAL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "24'",
+      "clock": "45'+6'",
       "start": "2026-02-05T00:30Z",
       "teams": [
         {
@@ -98,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "PAL",
           "displayName": "Palmeiras",
-          "score": 1
+          "score": 3
         },
         {
           "id": "3457",
