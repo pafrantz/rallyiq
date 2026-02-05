@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-05T22:40:42.793Z",
+  "ts": "2026-02-05T22:53:07.115Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401840980",
       "shortName": "FLU @ BAH",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "39'",
+      "clock": "45'+6'",
       "start": "2026-02-05T22:00Z",
       "teams": [
         {
