@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-06T20:59:19.074Z",
+  "ts": "2026-02-06T21:13:38.576Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740841",
       "shortName": "NFO @ LEE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "56'",
       "start": "2026-02-06T20:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "LEE",
           "displayName": "Leeds United",
-          "score": 2
+          "score": 3
         },
         {
           "id": "393",
