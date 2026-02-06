@@ -1,33 +1,6 @@
 {
-  "ts": "2026-02-06T00:44:43.576Z",
+  "ts": "2026-02-06T01:14:28.027Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401840982",
-      "shortName": "CHA @ VAS",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "80'",
-      "start": "2026-02-05T23:00Z",
-      "teams": [
-        {
-          "id": "3454",
-          "homeAway": "home",
-          "abbreviation": "VAS",
-          "displayName": "Vasco da Gama",
-          "score": 1
-        },
-        {
-          "id": "9318",
-          "homeAway": "away",
-          "abbreviation": "CHA",
-          "displayName": "Chapecoense",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "13'",
+      "clock": "44'",
       "start": "2026-02-06T00:30Z",
       "teams": [
         {
@@ -44,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CRU",
           "displayName": "Cruzeiro",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3456",
