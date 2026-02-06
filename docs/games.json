@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-06T20:28:55.870Z",
+  "ts": "2026-02-06T20:46:25.525Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "28'",
+      "clock": "45'+1'",
       "start": "2026-02-06T20:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "LEE",
           "displayName": "Leeds United",
-          "score": 1
+          "score": 2
         },
         {
           "id": "393",
