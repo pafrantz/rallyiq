@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-06T01:14:28.027Z",
+  "ts": "2026-02-06T01:57:37.795Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401840979",
       "shortName": "CFC @ CRU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "44'",
+      "period": 2,
+      "clock": "66'",
       "start": "2026-02-06T00:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "CFC",
           "displayName": "Coritiba",
-          "score": 0
+          "score": 2
         }
       ]
     },
