@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-07T04:55:19.850Z",
+  "ts": "2026-02-07T05:15:22.969Z",
   "games": [
     {
       "sport": "football",
@@ -24,6 +24,33 @@
           "homeAway": "away",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401840993",
+      "shortName": "FLA @ VIT",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-11T00:30Z",
+      "teams": [
+        {
+          "id": "3457",
+          "homeAway": "home",
+          "abbreviation": "VIT",
+          "displayName": "Vitória",
+          "score": 0
+        },
+        {
+          "id": "819",
+          "homeAway": "away",
+          "abbreviation": "FLA",
+          "displayName": "Flamengo",
           "score": 0
         }
       ]
