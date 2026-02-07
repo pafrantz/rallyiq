@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-07T19:11:54.398Z",
+  "ts": "2026-02-07T19:23:31.045Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "80'",
+      "clock": "90'+1'",
       "start": "2026-02-07T17:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BRE",
           "displayName": "Brentford",
-          "score": 2
+          "score": 3
         }
       ]
     },
