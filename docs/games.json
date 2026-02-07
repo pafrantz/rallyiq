@@ -1,33 +1,6 @@
 {
-  "ts": "2026-02-07T19:23:31.045Z",
+  "ts": "2026-02-07T19:34:57.333Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740844",
-      "shortName": "BRE @ NEW",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+1'",
-      "start": "2026-02-07T17:30Z",
-      "teams": [
-        {
-          "id": "361",
-          "homeAway": "home",
-          "abbreviation": "NEW",
-          "displayName": "Newcastle United",
-          "score": 2
-        },
-        {
-          "id": "337",
-          "homeAway": "away",
-          "abbreviation": "BRE",
-          "displayName": "Brentford",
-          "score": 3
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
