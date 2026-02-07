@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-07T17:26:53.040Z",
+  "ts": "2026-02-07T17:40:40.842Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740844",
       "shortName": "BRE @ NEW",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "10'",
       "start": "2026-02-07T17:30Z",
       "teams": [
         {
