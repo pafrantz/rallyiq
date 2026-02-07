@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-07T16:11:48.019Z",
+  "ts": "2026-02-07T16:24:38.873Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "52'",
+      "clock": "65'",
       "start": "2026-02-07T15:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BOU",
           "displayName": "AFC Bournemouth",
-          "score": 0
+          "score": 1
         },
         {
           "id": "362",
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "51'",
+      "clock": "64'",
       "start": "2026-02-07T15:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "50'",
+      "clock": "62'",
       "start": "2026-02-07T15:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "52'",
+      "clock": "66'",
       "start": "2026-02-07T15:00Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "49'",
+      "clock": "62'",
       "start": "2026-02-07T15:00Z",
       "teams": [
         {
@@ -125,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "WOL",
           "displayName": "Wolverhampton Wanderers",
-          "score": 0
+          "score": 1
         },
         {
           "id": "363",
