@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-07T17:51:45.430Z",
+  "ts": "2026-02-07T17:59:22.440Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "21'",
+      "clock": "29'",
       "start": "2026-02-07T17:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "NEW",
           "displayName": "Newcastle United",
-          "score": 0
+          "score": 1
         },
         {
           "id": "337",
