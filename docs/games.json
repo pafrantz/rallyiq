@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-07T12:18:09.992Z",
+  "ts": "2026-02-07T12:34:24.318Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740843",
       "shortName": "TOT @ MAN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "4'",
       "start": "2026-02-07T12:30Z",
       "teams": [
         {
