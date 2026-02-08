@@ -1,6 +1,60 @@
 {
-  "ts": "2026-02-08T08:03:23.161Z",
+  "ts": "2026-02-08T08:15:46.906Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740838",
+      "shortName": "CRY @ BHA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-08T14:00Z",
+      "teams": [
+        {
+          "id": "331",
+          "homeAway": "home",
+          "abbreviation": "BHA",
+          "displayName": "Brighton & Hove Albion",
+          "score": 0
+        },
+        {
+          "id": "384",
+          "homeAway": "away",
+          "abbreviation": "CRY",
+          "displayName": "Crystal Palace",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740845",
+      "shortName": "MNC @ LIV",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-08T16:30Z",
+      "teams": [
+        {
+          "id": "364",
+          "homeAway": "home",
+          "abbreviation": "LIV",
+          "displayName": "Liverpool",
+          "score": 0
+        },
+        {
+          "id": "382",
+          "homeAway": "away",
+          "abbreviation": "MNC",
+          "displayName": "Manchester City",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "football",
       "league": "nfl",
