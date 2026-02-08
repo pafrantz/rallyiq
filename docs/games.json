@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-08T18:14:52.061Z",
+  "ts": "2026-02-08T18:29:18.242Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "86'",
+      "clock": "90'+10'",
       "start": "2026-02-08T16:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "MNC",
           "displayName": "Manchester City",
-          "score": 1
+          "score": 3
         }
       ]
     },
