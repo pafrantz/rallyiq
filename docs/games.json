@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-08T15:01:46.414Z",
+  "ts": "2026-02-08T15:12:14.979Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740838",
       "shortName": "CRY @ BHA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "48'",
       "start": "2026-02-08T14:00Z",
       "teams": [
         {
