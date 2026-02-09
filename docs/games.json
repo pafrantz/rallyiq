@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-09T01:11:17.315Z",
+  "ts": "2026-02-09T01:53:19.339Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772988",
       "shortName": "SEA VS NE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "9:20",
       "start": "2026-02-08T23:30Z",
       "teams": [
         {
