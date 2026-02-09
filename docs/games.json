@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-09T00:42:22.023Z",
+  "ts": "2026-02-09T01:11:17.315Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401772988",
       "shortName": "SEA VS NE",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "4:58",
+      "clock": "0:00",
       "start": "2026-02-08T23:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 6
+          "score": 9
         }
       ]
     },
