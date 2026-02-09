@@ -1,6 +1,114 @@
 {
-  "ts": "2026-02-09T04:36:59.880Z",
+  "ts": "2026-02-09T05:16:24.299Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740848",
+      "shortName": "LEE @ CHE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-10T19:30Z",
+      "teams": [
+        {
+          "id": "363",
+          "homeAway": "home",
+          "abbreviation": "CHE",
+          "displayName": "Chelsea",
+          "score": 0
+        },
+        {
+          "id": "357",
+          "homeAway": "away",
+          "abbreviation": "LEE",
+          "displayName": "Leeds United",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740852",
+      "shortName": "BOU @ EVE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-10T19:30Z",
+      "teams": [
+        {
+          "id": "368",
+          "homeAway": "home",
+          "abbreviation": "EVE",
+          "displayName": "Everton",
+          "score": 0
+        },
+        {
+          "id": "349",
+          "homeAway": "away",
+          "abbreviation": "BOU",
+          "displayName": "AFC Bournemouth",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740854",
+      "shortName": "NEW @ TOT",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-10T19:30Z",
+      "teams": [
+        {
+          "id": "367",
+          "homeAway": "home",
+          "abbreviation": "TOT",
+          "displayName": "Tottenham Hotspur",
+          "score": 0
+        },
+        {
+          "id": "361",
+          "homeAway": "away",
+          "abbreviation": "NEW",
+          "displayName": "Newcastle United",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740855",
+      "shortName": "MAN @ WHU",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-10T20:15Z",
+      "teams": [
+        {
+          "id": "371",
+          "homeAway": "home",
+          "abbreviation": "WHU",
+          "displayName": "West Ham United",
+          "score": 0
+        },
+        {
+          "id": "360",
+          "homeAway": "away",
+          "abbreviation": "MAN",
+          "displayName": "Manchester United",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "soccer",
       "league": "bra.1",
