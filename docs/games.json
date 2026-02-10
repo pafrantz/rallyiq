@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-10T19:31:14.744Z",
+  "ts": "2026-02-10T19:54:21.493Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "0'",
+      "clock": "22'",
       "start": "2026-02-10T19:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740852",
       "shortName": "BOU @ EVE",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "0'",
+      "clock": "23'",
       "start": "2026-02-10T19:30Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "0'",
+      "clock": "23'",
       "start": "2026-02-10T19:30Z",
       "teams": [
         {
