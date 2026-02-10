@@ -1,14 +1,14 @@
 {
-  "ts": "2026-02-10T19:00:59.229Z",
+  "ts": "2026-02-10T19:31:14.744Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740848",
       "shortName": "LEE @ CHE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-02-10T19:30Z",
       "teams": [
@@ -33,9 +33,9 @@
       "league": "eng.1",
       "id": "740852",
       "shortName": "BOU @ EVE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-02-10T19:30Z",
       "teams": [
@@ -60,9 +60,9 @@
       "league": "eng.1",
       "id": "740854",
       "shortName": "NEW @ TOT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-02-10T19:30Z",
       "teams": [
