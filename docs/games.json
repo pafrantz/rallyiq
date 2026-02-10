@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-10T20:45:10.749Z",
+  "ts": "2026-02-10T21:02:35.839Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "54'",
+      "clock": "71'",
       "start": "2026-02-10T19:30Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "CHE",
           "displayName": "Chelsea",
-          "score": 1
+          "score": 2
         },
         {
           "id": "357",
           "homeAway": "away",
           "abbreviation": "LEE",
           "displayName": "Leeds United",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "54'",
+      "clock": "71'",
       "start": "2026-02-10T19:30Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "BOU",
           "displayName": "AFC Bournemouth",
-          "score": 0
+          "score": 2
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "51'",
+      "clock": "68'",
       "start": "2026-02-10T19:30Z",
       "teams": [
         {
@@ -71,14 +71,14 @@
           "homeAway": "home",
           "abbreviation": "TOT",
           "displayName": "Tottenham Hotspur",
-          "score": 0
+          "score": 1
         },
         {
           "id": "361",
           "homeAway": "away",
           "abbreviation": "NEW",
           "displayName": "Newcastle United",
-          "score": 1
+          "score": 2
         }
       ]
     },
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740855",
       "shortName": "MAN @ WHU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "23'",
+      "clock": "45'+1'",
       "start": "2026-02-10T20:15Z",
       "teams": [
         {
