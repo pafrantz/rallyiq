@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-11T21:51:55.908Z",
+  "ts": "2026-02-11T22:01:53.130Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "88'",
       "start": "2026-02-11T20:15Z",
       "teams": [
         {
@@ -33,9 +33,9 @@
       "league": "bra.1",
       "id": "401840989",
       "shortName": "CFC @ CHA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-02-11T22:00Z",
       "teams": [
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "401840996",
       "shortName": "CRU @ MIR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "1'",
       "start": "2026-02-11T22:00Z",
       "teams": [
         {
