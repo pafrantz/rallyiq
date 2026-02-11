@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-11T01:29:13.007Z",
+  "ts": "2026-02-11T02:21:03.437Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401840993",
       "shortName": "FLA @ VIT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "90'",
       "start": "2026-02-11T00:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "VIT",
           "displayName": "Vitória",
-          "score": 0
+          "score": 1
         },
         {
           "id": "819",
