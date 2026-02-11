@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-11T20:53:13.336Z",
+  "ts": "2026-02-11T21:07:52.182Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "64'",
+      "clock": "78'",
       "start": "2026-02-11T19:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "64'",
+      "clock": "78'",
       "start": "2026-02-11T19:30Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "65'",
+      "clock": "80'",
       "start": "2026-02-11T19:30Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "54'",
+      "clock": "68'",
       "start": "2026-02-11T19:40Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "eng.1",
       "id": "740853",
       "shortName": "LIV @ SUN",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "38'",
+      "clock": "45'+2'",
       "start": "2026-02-11T20:15Z",
       "teams": [
         {
