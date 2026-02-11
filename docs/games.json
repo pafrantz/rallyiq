@@ -1,4 +1,275 @@
 {
-  "ts": "2026-02-11T08:06:29.005Z",
-  "games": []
+  "ts": "2026-02-11T08:25:26.198Z",
+  "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740846",
+      "shortName": "BHA @ AVL",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-11T19:30Z",
+      "teams": [
+        {
+          "id": "362",
+          "homeAway": "home",
+          "abbreviation": "AVL",
+          "displayName": "Aston Villa",
+          "score": 0
+        },
+        {
+          "id": "331",
+          "homeAway": "away",
+          "abbreviation": "BHA",
+          "displayName": "Brighton & Hove Albion",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740851",
+      "shortName": "BUR @ CRY",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-11T19:30Z",
+      "teams": [
+        {
+          "id": "384",
+          "homeAway": "home",
+          "abbreviation": "CRY",
+          "displayName": "Crystal Palace",
+          "score": 0
+        },
+        {
+          "id": "379",
+          "homeAway": "away",
+          "abbreviation": "BUR",
+          "displayName": "Burnley",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740849",
+      "shortName": "FUL @ MNC",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-11T19:30Z",
+      "teams": [
+        {
+          "id": "382",
+          "homeAway": "home",
+          "abbreviation": "MNC",
+          "displayName": "Manchester City",
+          "score": 0
+        },
+        {
+          "id": "370",
+          "homeAway": "away",
+          "abbreviation": "FUL",
+          "displayName": "Fulham",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740850",
+      "shortName": "WOL @ NFO",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-11T19:30Z",
+      "teams": [
+        {
+          "id": "393",
+          "homeAway": "home",
+          "abbreviation": "NFO",
+          "displayName": "Nottingham Forest",
+          "score": 0
+        },
+        {
+          "id": "380",
+          "homeAway": "away",
+          "abbreviation": "WOL",
+          "displayName": "Wolverhampton Wanderers",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740853",
+      "shortName": "LIV @ SUN",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-11T20:15Z",
+      "teams": [
+        {
+          "id": "366",
+          "homeAway": "home",
+          "abbreviation": "SUN",
+          "displayName": "Sunderland",
+          "score": 0
+        },
+        {
+          "id": "364",
+          "homeAway": "away",
+          "abbreviation": "LIV",
+          "displayName": "Liverpool",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401840989",
+      "shortName": "CFC @ CHA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-11T22:00Z",
+      "teams": [
+        {
+          "id": "9318",
+          "homeAway": "home",
+          "abbreviation": "CHA",
+          "displayName": "Chapecoense",
+          "score": 0
+        },
+        {
+          "id": "3456",
+          "homeAway": "away",
+          "abbreviation": "CFC",
+          "displayName": "Coritiba",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401840996",
+      "shortName": "CRU @ MIR",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-11T22:00Z",
+      "teams": [
+        {
+          "id": "9169",
+          "homeAway": "home",
+          "abbreviation": "MIR",
+          "displayName": "Mirassol",
+          "score": 0
+        },
+        {
+          "id": "2022",
+          "homeAway": "away",
+          "abbreviation": "CRU",
+          "displayName": "Cruzeiro",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401840990",
+      "shortName": "REMO @ CAM",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-11T23:00Z",
+      "teams": [
+        {
+          "id": "7632",
+          "homeAway": "home",
+          "abbreviation": "CAM",
+          "displayName": "Atlético-MG",
+          "score": 0
+        },
+        {
+          "id": "4936",
+          "homeAway": "away",
+          "abbreviation": "REMO",
+          "displayName": "Remo",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401840995",
+      "shortName": "GRE @ SAO",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-12T00:30Z",
+      "teams": [
+        {
+          "id": "2026",
+          "homeAway": "home",
+          "abbreviation": "SAO",
+          "displayName": "São Paulo",
+          "score": 0
+        },
+        {
+          "id": "6273",
+          "homeAway": "away",
+          "abbreviation": "GRE",
+          "displayName": "Grêmio",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401840994",
+      "shortName": "BAH @ VAS",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-12T00:30Z",
+      "teams": [
+        {
+          "id": "3454",
+          "homeAway": "home",
+          "abbreviation": "VAS",
+          "displayName": "Vasco da Gama",
+          "score": 0
+        },
+        {
+          "id": "9967",
+          "homeAway": "away",
+          "abbreviation": "BAH",
+          "displayName": "Bahia",
+          "score": 0
+        }
+      ]
+    }
+  ]
 }
