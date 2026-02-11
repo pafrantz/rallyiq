@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-11T20:03:21.990Z",
+  "ts": "2026-02-11T20:19:13.719Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "32'",
+      "clock": "45'+3'",
       "start": "2026-02-11T19:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740849",
       "shortName": "FUL @ MNC",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "33'",
+      "clock": "45'+3'",
       "start": "2026-02-11T19:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "MNC",
           "displayName": "Manchester City",
-          "score": 2
+          "score": 3
         },
         {
           "id": "370",
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740850",
       "shortName": "WOL @ NFO",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "33'",
+      "clock": "45'+1'",
       "start": "2026-02-11T19:30Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "17'",
+      "clock": "37'",
       "start": "2026-02-11T19:40Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "CRY",
           "displayName": "Crystal Palace",
-          "score": 1
+          "score": 2
         },
         {
           "id": "379",
@@ -114,10 +114,10 @@
       "league": "eng.1",
       "id": "740853",
       "shortName": "LIV @ SUN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "3'",
       "start": "2026-02-11T20:15Z",
       "teams": [
         {
