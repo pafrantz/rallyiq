@@ -1,33 +1,6 @@
 {
-  "ts": "2026-02-11T22:01:53.130Z",
+  "ts": "2026-02-11T22:14:04.537Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740853",
-      "shortName": "LIV @ SUN",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "88'",
-      "start": "2026-02-11T20:15Z",
-      "teams": [
-        {
-          "id": "366",
-          "homeAway": "home",
-          "abbreviation": "SUN",
-          "displayName": "Sunderland",
-          "score": 0
-        },
-        {
-          "id": "364",
-          "homeAway": "away",
-          "abbreviation": "LIV",
-          "displayName": "Liverpool",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "0'",
+      "clock": "11'",
       "start": "2026-02-11T22:00Z",
       "teams": [
         {
@@ -63,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "1'",
+      "clock": "14'",
       "start": "2026-02-11T22:00Z",
       "teams": [
         {
