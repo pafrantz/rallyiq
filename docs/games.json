@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-11T23:51:11.744Z",
+  "ts": "2026-02-11T23:59:08.951Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "88'",
+      "clock": "90'+6'",
       "start": "2026-02-11T22:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CHA",
           "displayName": "Chapecoense",
-          "score": 2
+          "score": 3
         },
         {
           "id": "3456",
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "85'",
+      "clock": "90'+3'",
       "start": "2026-02-11T22:00Z",
       "teams": [
         {
