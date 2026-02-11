@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-11T19:49:51.797Z",
+  "ts": "2026-02-11T20:03:21.990Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "18'",
+      "clock": "32'",
       "start": "2026-02-11T19:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "17'",
+      "clock": "33'",
       "start": "2026-02-11T19:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "MNC",
           "displayName": "Manchester City",
-          "score": 0
+          "score": 2
         },
         {
           "id": "370",
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "20'",
+      "clock": "33'",
       "start": "2026-02-11T19:30Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "9'",
+      "clock": "17'",
       "start": "2026-02-11T19:40Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "CRY",
           "displayName": "Crystal Palace",
-          "score": 0
+          "score": 1
         },
         {
           "id": "379",
