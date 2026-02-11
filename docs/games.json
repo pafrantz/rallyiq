@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-11T23:10:46.063Z",
+  "ts": "2026-02-11T23:23:23.975Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "47'",
+      "clock": "59'",
       "start": "2026-02-11T22:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "CFC",
           "displayName": "Coritiba",
-          "score": 1
+          "score": 3
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "46'",
+      "clock": "58'",
       "start": "2026-02-11T22:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "MIR",
           "displayName": "Mirassol",
-          "score": 1
+          "score": 2
         },
         {
           "id": "2022",
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "9'",
+      "clock": "22'",
       "start": "2026-02-11T23:00Z",
       "teams": [
         {
