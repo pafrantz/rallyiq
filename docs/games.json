@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-11T00:54:29.596Z",
+  "ts": "2026-02-11T01:29:13.007Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401840993",
       "shortName": "FLA @ VIT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "24'",
+      "clock": "45'+5'",
       "start": "2026-02-11T00:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "FLA",
           "displayName": "Flamengo",
-          "score": 1
+          "score": 2
         }
       ]
     }
