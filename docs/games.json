@@ -1,12 +1,12 @@
 {
-  "ts": "2026-02-11T20:19:13.719Z",
+  "ts": "2026-02-11T20:35:07.837Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740846",
       "shortName": "BHA @ AVL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
       "clock": "45'+3'",
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740849",
       "shortName": "FUL @ MNC",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "45'",
       "start": "2026-02-11T19:30Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740850",
       "shortName": "WOL @ NFO",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+1'",
+      "period": 2,
+      "clock": "46'",
       "start": "2026-02-11T19:30Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740851",
       "shortName": "BUR @ CRY",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "37'",
+      "clock": "45'+4'",
       "start": "2026-02-11T19:40Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "BUR",
           "displayName": "Burnley",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "3'",
+      "clock": "19'",
       "start": "2026-02-11T20:15Z",
       "teams": [
         {
