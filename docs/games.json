@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-11T20:35:07.837Z",
+  "ts": "2026-02-11T20:53:13.336Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740846",
       "shortName": "BHA @ AVL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "64'",
       "start": "2026-02-11T19:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "45'",
+      "clock": "64'",
       "start": "2026-02-11T19:30Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "46'",
+      "clock": "65'",
       "start": "2026-02-11T19:30Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740851",
       "shortName": "BUR @ CRY",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "54'",
       "start": "2026-02-11T19:40Z",
       "teams": [
         {
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "19'",
+      "clock": "38'",
       "start": "2026-02-11T20:15Z",
       "teams": [
         {
