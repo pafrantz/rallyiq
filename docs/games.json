@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-11T21:07:52.182Z",
+  "ts": "2026-02-11T21:21:48.807Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "78'",
+      "clock": "90'+1'",
       "start": "2026-02-11T19:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "AVL",
           "displayName": "Aston Villa",
-          "score": 0
+          "score": 1
         },
         {
           "id": "331",
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "78'",
+      "clock": "90'+1'",
       "start": "2026-02-11T19:30Z",
       "teams": [
         {
@@ -58,39 +58,12 @@
     {
       "sport": "soccer",
       "league": "eng.1",
-      "id": "740850",
-      "shortName": "WOL @ NFO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "80'",
-      "start": "2026-02-11T19:30Z",
-      "teams": [
-        {
-          "id": "393",
-          "homeAway": "home",
-          "abbreviation": "NFO",
-          "displayName": "Nottingham Forest",
-          "score": 0
-        },
-        {
-          "id": "380",
-          "homeAway": "away",
-          "abbreviation": "WOL",
-          "displayName": "Wolverhampton Wanderers",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
       "id": "740851",
       "shortName": "BUR @ CRY",
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "68'",
+      "clock": "83'",
       "start": "2026-02-11T19:40Z",
       "teams": [
         {
@@ -114,10 +87,10 @@
       "league": "eng.1",
       "id": "740853",
       "shortName": "LIV @ SUN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "47'",
       "start": "2026-02-11T20:15Z",
       "teams": [
         {
