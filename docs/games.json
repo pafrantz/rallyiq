@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-11T22:14:04.537Z",
+  "ts": "2026-02-11T22:27:14.612Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "11'",
+      "clock": "25'",
       "start": "2026-02-11T22:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "14'",
+      "clock": "26'",
       "start": "2026-02-11T22:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "CRU",
           "displayName": "Cruzeiro",
-          "score": 0
+          "score": 1
         }
       ]
     },
