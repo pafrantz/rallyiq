@@ -1,69 +1,15 @@
 {
-  "ts": "2026-02-11T23:59:08.951Z",
+  "ts": "2026-02-12T00:47:40.631Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401840989",
-      "shortName": "CFC @ CHA",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+6'",
-      "start": "2026-02-11T22:00Z",
-      "teams": [
-        {
-          "id": "9318",
-          "homeAway": "home",
-          "abbreviation": "CHA",
-          "displayName": "Chapecoense",
-          "score": 3
-        },
-        {
-          "id": "3456",
-          "homeAway": "away",
-          "abbreviation": "CFC",
-          "displayName": "Coritiba",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401840996",
-      "shortName": "CRU @ MIR",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+3'",
-      "start": "2026-02-11T22:00Z",
-      "teams": [
-        {
-          "id": "9169",
-          "homeAway": "home",
-          "abbreviation": "MIR",
-          "displayName": "Mirassol",
-          "score": 2
-        },
-        {
-          "id": "2022",
-          "homeAway": "away",
-          "abbreviation": "CRU",
-          "displayName": "Cruzeiro",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401840990",
       "shortName": "REMO @ CAM",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "85'",
       "start": "2026-02-11T23:00Z",
       "teams": [
         {
@@ -71,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CAM",
           "displayName": "Atlético-MG",
-          "score": 1
+          "score": 2
         },
         {
           "id": "4936",
@@ -87,10 +33,10 @@
       "league": "bra.1",
       "id": "401840995",
       "shortName": "GRE @ SAO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "12'",
       "start": "2026-02-12T00:30Z",
       "teams": [
         {
@@ -114,10 +60,10 @@
       "league": "bra.1",
       "id": "401840994",
       "shortName": "BAH @ VAS",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "16'",
       "start": "2026-02-12T00:30Z",
       "teams": [
         {
