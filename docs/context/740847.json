@@ -1,0 +1,16 @@
+{
+  "ts": "2026-02-12T08:06:09.587Z",
+  "sport": "soccer",
+  "league": "eng.1",
+  "eventId": "740847",
+  "context": {
+    "down": null,
+    "distance": null,
+    "yardline": null,
+    "quarter": null,
+    "clock_secs": null,
+    "score_diff": 0,
+    "recent_gains": [],
+    "recent_clock": []
+  }
+}

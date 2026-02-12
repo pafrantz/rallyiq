@@ -1,4 +1,32 @@
 {
-  "ts": "2026-02-12T07:53:06.255Z",
-  "games": []
+  "ts": "2026-02-12T08:06:08.836Z",
+  "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740847",
+      "shortName": "ARS @ BRE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-12T20:00Z",
+      "teams": [
+        {
+          "id": "337",
+          "homeAway": "home",
+          "abbreviation": "BRE",
+          "displayName": "Brentford",
+          "score": 0
+        },
+        {
+          "id": "359",
+          "homeAway": "away",
+          "abbreviation": "ARS",
+          "displayName": "Arsenal",
+          "score": 0
+        }
+      ]
+    }
+  ]
 }
