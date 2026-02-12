@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-12T08:06:08.836Z",
+  "ts": "2026-02-12T08:24:05.112Z",
   "games": [
     {
       "sport": "soccer",
@@ -24,6 +24,114 @@
           "homeAway": "away",
           "abbreviation": "ARS",
           "displayName": "Arsenal",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401840991",
+      "shortName": "SAN @ CAP",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-12T22:00Z",
+      "teams": [
+        {
+          "id": "3458",
+          "homeAway": "home",
+          "abbreviation": "CAP",
+          "displayName": "Athletico-PR",
+          "score": 0
+        },
+        {
+          "id": "2674",
+          "homeAway": "away",
+          "abbreviation": "SAN",
+          "displayName": "Santos",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401840992",
+      "shortName": "BOT @ FLU",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-12T22:30Z",
+      "teams": [
+        {
+          "id": "3445",
+          "homeAway": "home",
+          "abbreviation": "FLU",
+          "displayName": "Fluminense",
+          "score": 0
+        },
+        {
+          "id": "6086",
+          "homeAway": "away",
+          "abbreviation": "BOT",
+          "displayName": "Botafogo",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401840988",
+      "shortName": "BRA @ COR",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-12T23:00Z",
+      "teams": [
+        {
+          "id": "874",
+          "homeAway": "home",
+          "abbreviation": "COR",
+          "displayName": "Corinthians",
+          "score": 0
+        },
+        {
+          "id": "6079",
+          "homeAway": "away",
+          "abbreviation": "BRA",
+          "displayName": "Red Bull Bragantino",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401840997",
+      "shortName": "PAL @ INT",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-13T00:30Z",
+      "teams": [
+        {
+          "id": "1936",
+          "homeAway": "home",
+          "abbreviation": "INT",
+          "displayName": "Internacional",
+          "score": 0
+        },
+        {
+          "id": "2029",
+          "homeAway": "away",
+          "abbreviation": "PAL",
+          "displayName": "Palmeiras",
           "score": 0
         }
       ]
