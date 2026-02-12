@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-12T23:32:59.361Z",
+  "ts": "2026-02-12T23:46:10.798Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "65'",
+      "clock": "79'",
       "start": "2026-02-12T22:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401840992",
       "shortName": "BOT @ FLU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "52'",
       "start": "2026-02-12T22:30Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "30'",
+      "clock": "43'",
       "start": "2026-02-12T23:00Z",
       "teams": [
         {
