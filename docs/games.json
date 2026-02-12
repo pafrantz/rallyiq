@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-12T23:46:10.798Z",
+  "ts": "2026-02-12T23:56:45.209Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "79'",
+      "clock": "89'",
       "start": "2026-02-12T22:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "52'",
+      "clock": "62'",
       "start": "2026-02-12T22:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "FLU",
           "displayName": "Fluminense",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6086",
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "401840988",
       "shortName": "BRA @ COR",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "43'",
+      "clock": "45'+7'",
       "start": "2026-02-12T23:00Z",
       "teams": [
         {
