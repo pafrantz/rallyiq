@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-12T19:55:10.625Z",
+  "ts": "2026-02-12T20:04:52.010Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740847",
       "shortName": "ARS @ BRE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "4'",
       "start": "2026-02-12T20:00Z",
       "teams": [
         {
