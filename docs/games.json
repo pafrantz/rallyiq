@@ -1,33 +1,6 @@
 {
-  "ts": "2026-02-12T23:56:45.209Z",
+  "ts": "2026-02-13T00:21:18.834Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401840991",
-      "shortName": "SAN @ CAP",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "89'",
-      "start": "2026-02-12T22:00Z",
-      "teams": [
-        {
-          "id": "3458",
-          "homeAway": "home",
-          "abbreviation": "CAP",
-          "displayName": "Athletico-PR",
-          "score": 1
-        },
-        {
-          "id": "2674",
-          "homeAway": "away",
-          "abbreviation": "SAN",
-          "displayName": "Santos",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "62'",
+      "clock": "87'",
       "start": "2026-02-12T22:30Z",
       "teams": [
         {
@@ -60,10 +33,10 @@
       "league": "bra.1",
       "id": "401840988",
       "shortName": "BRA @ COR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+7'",
+      "period": 2,
+      "clock": "54'",
       "start": "2026-02-12T23:00Z",
       "teams": [
         {
@@ -71,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "COR",
           "displayName": "Corinthians",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6079",
