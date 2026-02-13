@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-13T01:32:37.736Z",
+  "ts": "2026-02-13T02:24:31.018Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401840997",
       "shortName": "PAL @ INT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "90'+2'",
       "start": "2026-02-13T00:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "PAL",
           "displayName": "Palmeiras",
-          "score": 1
+          "score": 3
         }
       ]
     }
