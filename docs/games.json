@@ -1,4 +1,32 @@
 {
-  "ts": "2026-02-15T04:49:57.469Z",
-  "games": []
+  "ts": "2026-02-15T05:19:58.915Z",
+  "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740901",
+      "shortName": "ARS @ WOL",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-18T20:00Z",
+      "teams": [
+        {
+          "id": "380",
+          "homeAway": "home",
+          "abbreviation": "WOL",
+          "displayName": "Wolverhampton Wanderers",
+          "score": 0
+        },
+        {
+          "id": "359",
+          "homeAway": "away",
+          "abbreviation": "ARS",
+          "displayName": "Arsenal",
+          "score": 0
+        }
+      ]
+    }
+  ]
 }
