@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-18T21:11:07.481Z",
+  "ts": "2026-02-18T21:24:41.829Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "45'",
+      "clock": "62'",
       "start": "2026-02-18T20:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "WOL",
           "displayName": "Wolverhampton Wanderers",
-          "score": 0
+          "score": 1
         },
         {
           "id": "359",
           "homeAway": "away",
           "abbreviation": "ARS",
           "displayName": "Arsenal",
-          "score": 1
+          "score": 2
         }
       ]
     },
