@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-19T04:45:02.713Z",
+  "ts": "2026-02-19T05:15:29.979Z",
   "games": [
     {
       "sport": "soccer",
@@ -24,6 +24,141 @@
           "homeAway": "away",
           "abbreviation": "COR",
           "displayName": "Corinthians",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740862",
+      "shortName": "LEE @ AVL",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-21T15:00Z",
+      "teams": [
+        {
+          "id": "362",
+          "homeAway": "home",
+          "abbreviation": "AVL",
+          "displayName": "Aston Villa",
+          "score": 0
+        },
+        {
+          "id": "357",
+          "homeAway": "away",
+          "abbreviation": "LEE",
+          "displayName": "Leeds United",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740858",
+      "shortName": "BHA @ BRE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-21T15:00Z",
+      "teams": [
+        {
+          "id": "337",
+          "homeAway": "home",
+          "abbreviation": "BRE",
+          "displayName": "Brentford",
+          "score": 0
+        },
+        {
+          "id": "331",
+          "homeAway": "away",
+          "abbreviation": "BHA",
+          "displayName": "Brighton & Hove Albion",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740864",
+      "shortName": "BUR @ CHE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-21T15:00Z",
+      "teams": [
+        {
+          "id": "363",
+          "homeAway": "home",
+          "abbreviation": "CHE",
+          "displayName": "Chelsea",
+          "score": 0
+        },
+        {
+          "id": "379",
+          "homeAway": "away",
+          "abbreviation": "BUR",
+          "displayName": "Burnley",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740861",
+      "shortName": "BOU @ WHU",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-21T17:30Z",
+      "teams": [
+        {
+          "id": "371",
+          "homeAway": "home",
+          "abbreviation": "WHU",
+          "displayName": "West Ham United",
+          "score": 0
+        },
+        {
+          "id": "349",
+          "homeAway": "away",
+          "abbreviation": "BOU",
+          "displayName": "AFC Bournemouth",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740857",
+      "shortName": "NEW @ MNC",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-21T20:00Z",
+      "teams": [
+        {
+          "id": "382",
+          "homeAway": "home",
+          "abbreviation": "MNC",
+          "displayName": "Manchester City",
+          "score": 0
+        },
+        {
+          "id": "361",
+          "homeAway": "away",
+          "abbreviation": "NEW",
+          "displayName": "Newcastle United",
           "score": 0
         }
       ]
