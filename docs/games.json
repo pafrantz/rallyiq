@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-19T22:26:47.589Z",
+  "ts": "2026-02-19T22:43:15.680Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401840981",
       "shortName": "COR @ CAP",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "11'",
       "start": "2026-02-19T22:30Z",
       "teams": [
         {
