@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-19T23:36:14.145Z",
+  "ts": "2026-02-19T23:48:51.962Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401840981",
       "shortName": "COR @ CAP",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+7'",
+      "period": 2,
+      "clock": "49'",
       "start": "2026-02-19T22:30Z",
       "teams": [
         {
