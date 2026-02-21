@@ -1,33 +1,6 @@
 {
-  "ts": "2026-02-21T19:12:52.480Z",
+  "ts": "2026-02-21T19:24:38.247Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740861",
-      "shortName": "BOU @ WHU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "85'",
-      "start": "2026-02-21T17:30Z",
-      "teams": [
-        {
-          "id": "371",
-          "homeAway": "home",
-          "abbreviation": "WHU",
-          "displayName": "West Ham United",
-          "score": 0
-        },
-        {
-          "id": "349",
-          "homeAway": "away",
-          "abbreviation": "BOU",
-          "displayName": "AFC Bournemouth",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
