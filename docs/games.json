@@ -1,32 +1,4 @@
 {
-  "ts": "2026-02-21T21:50:21.792Z",
-  "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740857",
-      "shortName": "NEW @ MNC",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "89'",
-      "start": "2026-02-21T20:00Z",
-      "teams": [
-        {
-          "id": "382",
-          "homeAway": "home",
-          "abbreviation": "MNC",
-          "displayName": "Manchester City",
-          "score": 2
-        },
-        {
-          "id": "361",
-          "homeAway": "away",
-          "abbreviation": "NEW",
-          "displayName": "Newcastle United",
-          "score": 1
-        }
-      ]
-    }
-  ]
+  "ts": "2026-02-21T21:57:04.584Z",
+  "games": []
 }
