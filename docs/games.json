@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-21T15:58:46.685Z",
+  "ts": "2026-02-21T16:10:08.822Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740862",
       "shortName": "LEE @ AVL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "48'",
       "start": "2026-02-21T15:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740858",
       "shortName": "BHA @ BRE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+8'",
+      "period": 2,
+      "clock": "45'",
       "start": "2026-02-21T15:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740864",
       "shortName": "BUR @ CHE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "51'",
       "start": "2026-02-21T15:00Z",
       "teams": [
         {
