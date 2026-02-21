@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-21T18:15:34.936Z",
+  "ts": "2026-02-21T18:29:47.049Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740861",
       "shortName": "BOU @ WHU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "44'",
+      "clock": "45'+2'",
       "start": "2026-02-21T17:30Z",
       "teams": [
         {
