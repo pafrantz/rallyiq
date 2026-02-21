@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-21T19:58:04.435Z",
+  "ts": "2026-02-21T20:07:34.297Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740857",
       "shortName": "NEW @ MNC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "7'",
       "start": "2026-02-21T20:00Z",
       "teams": [
         {
