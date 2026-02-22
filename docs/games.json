@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-22T17:56:54.602Z",
+  "ts": "2026-02-22T18:07:12.717Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "56'",
+      "clock": "67'",
       "start": "2026-02-22T16:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "ARS",
           "displayName": "Arsenal",
-          "score": 2
+          "score": 3
         }
       ]
     },
