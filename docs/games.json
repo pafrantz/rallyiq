@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-22T17:38:02.754Z",
+  "ts": "2026-02-22T17:48:41.368Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740865",
       "shortName": "ARS @ TOT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+9'",
+      "period": 2,
+      "clock": "49'",
       "start": "2026-02-22T16:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "ARS",
           "displayName": "Arsenal",
-          "score": 1
+          "score": 2
         }
       ]
     },
