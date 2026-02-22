@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-22T14:51:14.885Z",
+  "ts": "2026-02-22T14:59:11.616Z",
   "games": [
     {
       "sport": "soccer",
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740859",
       "shortName": "FUL @ SUN",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+5'",
+      "clock": "45'+8'",
       "start": "2026-02-22T14:00Z",
       "teams": [
         {
