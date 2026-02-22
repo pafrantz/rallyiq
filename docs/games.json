@@ -1,33 +1,6 @@
 {
-  "ts": "2026-02-22T16:00:55.791Z",
+  "ts": "2026-02-22T16:11:59.740Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740859",
-      "shortName": "FUL @ SUN",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+7'",
-      "start": "2026-02-22T14:00Z",
-      "teams": [
-        {
-          "id": "366",
-          "homeAway": "home",
-          "abbreviation": "SUN",
-          "displayName": "Sunderland",
-          "score": 1
-        },
-        {
-          "id": "370",
-          "homeAway": "away",
-          "abbreviation": "FUL",
-          "displayName": "Fulham",
-          "score": 3
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
