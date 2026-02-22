@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-22T16:24:39.702Z",
+  "ts": "2026-02-22T16:40:54.225Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740865",
       "shortName": "ARS @ TOT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "8'",
       "start": "2026-02-22T16:30Z",
       "teams": [
         {
