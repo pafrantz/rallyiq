@@ -1,33 +1,6 @@
 {
-  "ts": "2026-02-22T18:33:38.828Z",
+  "ts": "2026-02-22T18:52:18.308Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740865",
-      "shortName": "ARS @ TOT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2026-02-22T16:30Z",
-      "teams": [
-        {
-          "id": "367",
-          "homeAway": "home",
-          "abbreviation": "TOT",
-          "displayName": "Tottenham Hotspur",
-          "score": 1
-        },
-        {
-          "id": "359",
-          "homeAway": "away",
-          "abbreviation": "ARS",
-          "displayName": "Arsenal",
-          "score": 3
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
