@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-22T15:45:35.357Z",
+  "ts": "2026-02-22T15:53:58.754Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "85'",
+      "clock": "90'+4'",
       "start": "2026-02-22T14:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CRY",
           "displayName": "Crystal Palace",
-          "score": 0
+          "score": 1
         },
         {
           "id": "380",
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "86'",
+      "clock": "90'+4'",
       "start": "2026-02-22T14:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "81'",
+      "clock": "90'",
       "start": "2026-02-22T14:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "FUL",
           "displayName": "Fulham",
-          "score": 2
+          "score": 3
         }
       ]
     },
