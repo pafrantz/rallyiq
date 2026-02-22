@@ -1,4 +1,167 @@
 {
-  "ts": "2026-02-22T04:58:14.053Z",
-  "games": []
+  "ts": "2026-02-22T05:27:25.153Z",
+  "games": [
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841003",
+      "shortName": "CAP @ BRA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-25T22:00Z",
+      "teams": [
+        {
+          "id": "6079",
+          "homeAway": "home",
+          "abbreviation": "BRA",
+          "displayName": "Red Bull Bragantino",
+          "score": 0
+        },
+        {
+          "id": "3458",
+          "homeAway": "away",
+          "abbreviation": "CAP",
+          "displayName": "Athletico-PR",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841007",
+      "shortName": "INT @ REMO",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-25T22:00Z",
+      "teams": [
+        {
+          "id": "4936",
+          "homeAway": "home",
+          "abbreviation": "REMO",
+          "displayName": "Remo",
+          "score": 0
+        },
+        {
+          "id": "1936",
+          "homeAway": "away",
+          "abbreviation": "INT",
+          "displayName": "Internacional",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841000",
+      "shortName": "SAO @ CFC",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-25T22:30Z",
+      "teams": [
+        {
+          "id": "3456",
+          "homeAway": "home",
+          "abbreviation": "CFC",
+          "displayName": "Coritiba",
+          "score": 0
+        },
+        {
+          "id": "2026",
+          "homeAway": "away",
+          "abbreviation": "SAO",
+          "displayName": "São Paulo",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841001",
+      "shortName": "COR @ CRU",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-25T23:00Z",
+      "teams": [
+        {
+          "id": "2022",
+          "homeAway": "home",
+          "abbreviation": "CRU",
+          "displayName": "Cruzeiro",
+          "score": 0
+        },
+        {
+          "id": "874",
+          "homeAway": "away",
+          "abbreviation": "COR",
+          "displayName": "Corinthians",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841005",
+      "shortName": "CAM @ GRE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-26T00:30Z",
+      "teams": [
+        {
+          "id": "6273",
+          "homeAway": "home",
+          "abbreviation": "GRE",
+          "displayName": "Grêmio",
+          "score": 0
+        },
+        {
+          "id": "7632",
+          "homeAway": "away",
+          "abbreviation": "CAM",
+          "displayName": "Atlético-MG",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841004",
+      "shortName": "FLU @ PAL",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-26T00:30Z",
+      "teams": [
+        {
+          "id": "2029",
+          "homeAway": "home",
+          "abbreviation": "PAL",
+          "displayName": "Palmeiras",
+          "score": 0
+        },
+        {
+          "id": "3445",
+          "homeAway": "away",
+          "abbreviation": "FLU",
+          "displayName": "Fluminense",
+          "score": 0
+        }
+      ]
+    }
+  ]
 }
