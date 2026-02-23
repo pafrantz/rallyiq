@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-23T19:45:46.125Z",
+  "ts": "2026-02-23T20:04:04.738Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740856",
       "shortName": "MAN @ EVE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "4'",
       "start": "2026-02-23T20:00Z",
       "teams": [
         {
