@@ -1,6 +1,33 @@
 {
-  "ts": "2026-02-23T07:57:09.475Z",
+  "ts": "2026-02-23T08:15:41.545Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740856",
+      "shortName": "MAN @ EVE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-23T20:00Z",
+      "teams": [
+        {
+          "id": "368",
+          "homeAway": "home",
+          "abbreviation": "EVE",
+          "displayName": "Everton",
+          "score": 0
+        },
+        {
+          "id": "360",
+          "homeAway": "away",
+          "abbreviation": "MAN",
+          "displayName": "Manchester United",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "soccer",
       "league": "bra.1",
