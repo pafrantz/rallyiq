@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-26T22:14:30.039Z",
+  "ts": "2026-02-26T22:27:46.357Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "13'",
+      "clock": "26'",
       "start": "2026-02-26T22:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "SAN",
           "displayName": "Santos",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3454",
