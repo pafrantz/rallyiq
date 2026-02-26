@@ -1,6 +1,33 @@
 {
-  "ts": "2026-02-26T07:57:27.276Z",
+  "ts": "2026-02-26T08:15:49.658Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841002",
+      "shortName": "VAS @ SAN",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-02-26T22:00Z",
+      "teams": [
+        {
+          "id": "2674",
+          "homeAway": "home",
+          "abbreviation": "SAN",
+          "displayName": "Santos",
+          "score": 0
+        },
+        {
+          "id": "3454",
+          "homeAway": "away",
+          "abbreviation": "VAS",
+          "displayName": "Vasco da Gama",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "soccer",
       "league": "eng.1",
