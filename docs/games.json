@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-26T21:59:56.148Z",
+  "ts": "2026-02-26T22:14:30.039Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841002",
       "shortName": "VAS @ SAN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "13'",
       "start": "2026-02-26T22:00Z",
       "teams": [
         {
