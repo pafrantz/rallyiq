@@ -1,15 +1,15 @@
 {
-  "ts": "2026-02-26T01:15:57.055Z",
+  "ts": "2026-02-26T01:59:50.854Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841005",
       "shortName": "CAM @ GRE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "44'",
+      "period": 2,
+      "clock": "66'",
       "start": "2026-02-26T00:30Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "GRE",
           "displayName": "Grêmio",
-          "score": 0
+          "score": 1
         },
         {
           "id": "7632",
           "homeAway": "away",
           "abbreviation": "CAM",
           "displayName": "Atlético-MG",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841004",
       "shortName": "FLU @ PAL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'",
+      "period": 2,
+      "clock": "61'",
       "start": "2026-02-26T00:30Z",
       "teams": [
         {
