@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-28T16:10:47.543Z",
+  "ts": "2026-02-28T16:22:08.531Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "49'",
+      "clock": "60'",
       "start": "2026-02-28T15:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BUR",
           "displayName": "Burnley",
-          "score": 2
+          "score": 3
         },
         {
           "id": "337",
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "49'",
+      "clock": "62'",
       "start": "2026-02-28T15:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "49'",
+      "clock": "61'",
       "start": "2026-02-28T15:00Z",
       "teams": [
         {
