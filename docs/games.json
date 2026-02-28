@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-28T15:16:26.521Z",
+  "ts": "2026-02-28T15:29:11.189Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "13'",
+      "clock": "28'",
       "start": "2026-02-28T15:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BRE",
           "displayName": "Brentford",
-          "score": 1
+          "score": 2
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "16'",
+      "clock": "28'",
       "start": "2026-02-28T15:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "LIV",
           "displayName": "Liverpool",
-          "score": 1
+          "score": 2
         },
         {
           "id": "371",
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "15'",
+      "clock": "27'",
       "start": "2026-02-28T15:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "EVE",
           "displayName": "Everton",
-          "score": 0
+          "score": 1
         }
       ]
     },
