@@ -1,32 +1,4 @@
 {
-  "ts": "2026-02-28T19:21:55.222Z",
-  "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740869",
-      "shortName": "MNC @ LEE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2026-02-28T17:30Z",
-      "teams": [
-        {
-          "id": "357",
-          "homeAway": "home",
-          "abbreviation": "LEE",
-          "displayName": "Leeds United",
-          "score": 0
-        },
-        {
-          "id": "382",
-          "homeAway": "away",
-          "abbreviation": "MNC",
-          "displayName": "Manchester City",
-          "score": 1
-        }
-      ]
-    }
-  ]
+  "ts": "2026-02-28T19:31:15.653Z",
+  "games": []
 }
