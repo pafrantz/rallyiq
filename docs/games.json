@@ -1,33 +1,6 @@
 {
-  "ts": "2026-02-28T17:00:44.603Z",
+  "ts": "2026-02-28T17:09:05.394Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740867",
-      "shortName": "BRE @ BUR",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+8'",
-      "start": "2026-02-28T15:00Z",
-      "teams": [
-        {
-          "id": "379",
-          "homeAway": "home",
-          "abbreviation": "BUR",
-          "displayName": "Burnley",
-          "score": 4
-        },
-        {
-          "id": "337",
-          "homeAway": "away",
-          "abbreviation": "BRE",
-          "displayName": "Brentford",
-          "score": 4
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
