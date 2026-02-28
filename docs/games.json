@@ -1,14 +1,14 @@
 {
-  "ts": "2026-02-28T12:17:11.751Z",
+  "ts": "2026-02-28T12:32:24.965Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740873",
       "shortName": "SUN @ BOU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-02-28T12:30Z",
       "teams": [
