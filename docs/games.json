@@ -1,14 +1,14 @@
 {
-  "ts": "2026-02-28T17:19:21.756Z",
+  "ts": "2026-02-28T17:31:17.861Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740869",
       "shortName": "MNC @ LEE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-02-28T17:30Z",
       "teams": [
