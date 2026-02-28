@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-28T15:39:10.802Z",
+  "ts": "2026-02-28T15:47:07.316Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "36'",
+      "clock": "45'+1'",
       "start": "2026-02-28T15:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "38'",
+      "clock": "45'+1'",
       "start": "2026-02-28T15:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "LIV",
           "displayName": "Liverpool",
-          "score": 2
+          "score": 3
         },
         {
           "id": "371",
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "38'",
+      "clock": "45'+1'",
       "start": "2026-02-28T15:00Z",
       "teams": [
         {
