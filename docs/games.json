@@ -1,5 +1,5 @@
 {
-  "ts": "2026-02-28T16:54:54.810Z",
+  "ts": "2026-02-28T17:00:44.603Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "90'+3'",
+      "clock": "90'+8'",
       "start": "2026-02-28T15:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BUR",
           "displayName": "Burnley",
-          "score": 3
+          "score": 4
         },
         {
           "id": "337",
@@ -25,60 +25,6 @@
           "abbreviation": "BRE",
           "displayName": "Brentford",
           "score": 4
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740872",
-      "shortName": "WHU @ LIV",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2026-02-28T15:00Z",
-      "teams": [
-        {
-          "id": "364",
-          "homeAway": "home",
-          "abbreviation": "LIV",
-          "displayName": "Liverpool",
-          "score": 5
-        },
-        {
-          "id": "371",
-          "homeAway": "away",
-          "abbreviation": "WHU",
-          "displayName": "West Ham United",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740874",
-      "shortName": "EVE @ NEW",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2026-02-28T15:00Z",
-      "teams": [
-        {
-          "id": "361",
-          "homeAway": "home",
-          "abbreviation": "NEW",
-          "displayName": "Newcastle United",
-          "score": 2
-        },
-        {
-          "id": "368",
-          "homeAway": "away",
-          "abbreviation": "EVE",
-          "displayName": "Everton",
-          "score": 3
         }
       ]
     },
