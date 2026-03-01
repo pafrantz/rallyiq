@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-01T14:07:26.887Z",
+  "ts": "2026-03-01T14:18:09.968Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "5'",
+      "clock": "16'",
       "start": "2026-03-01T14:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "BHA",
           "displayName": "Brighton & Hove Albion",
-          "score": 0
+          "score": 2
         },
         {
           "id": "393",
           "homeAway": "away",
           "abbreviation": "NFO",
           "displayName": "Nottingham Forest",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "6'",
+      "clock": "17'",
       "start": "2026-03-01T14:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "FUL",
           "displayName": "Fulham",
-          "score": 0
+          "score": 1
         },
         {
           "id": "367",
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "6'",
+      "clock": "16'",
       "start": "2026-03-01T14:00Z",
       "teams": [
         {
