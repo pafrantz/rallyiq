@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-01T14:59:16.680Z",
+  "ts": "2026-03-01T15:09:14.965Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740866",
       "shortName": "NFO @ BHA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "48'",
       "start": "2026-03-01T14:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740870",
       "shortName": "TOT @ FUL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "49'",
       "start": "2026-03-01T14:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740875",
       "shortName": "CRY @ MAN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "50'",
       "start": "2026-03-01T14:00Z",
       "teams": [
         {
