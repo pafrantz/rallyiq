@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-01T14:31:19.051Z",
+  "ts": "2026-03-01T14:43:25.350Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "30'",
+      "clock": "42'",
       "start": "2026-03-01T14:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "29'",
+      "clock": "43'",
       "start": "2026-03-01T14:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "FUL",
           "displayName": "Fulham",
-          "score": 1
+          "score": 2
         },
         {
           "id": "367",
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "29'",
+      "clock": "42'",
       "start": "2026-03-01T14:00Z",
       "teams": [
         {
