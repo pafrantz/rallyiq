@@ -1,32 +1,4 @@
 {
-  "ts": "2026-03-01T18:23:12.574Z",
-  "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740871",
-      "shortName": "CHE @ ARS",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+1'",
-      "start": "2026-03-01T16:30Z",
-      "teams": [
-        {
-          "id": "359",
-          "homeAway": "home",
-          "abbreviation": "ARS",
-          "displayName": "Arsenal",
-          "score": 2
-        },
-        {
-          "id": "363",
-          "homeAway": "away",
-          "abbreviation": "CHE",
-          "displayName": "Chelsea",
-          "score": 1
-        }
-      ]
-    }
-  ]
+  "ts": "2026-03-01T18:39:33.521Z",
+  "games": []
 }
