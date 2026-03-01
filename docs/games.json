@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-01T16:27:09.416Z",
+  "ts": "2026-03-01T16:41:56.314Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740871",
       "shortName": "CHE @ ARS",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "10'",
       "start": "2026-03-01T16:30Z",
       "teams": [
         {
