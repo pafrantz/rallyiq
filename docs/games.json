@@ -1,32 +1,4 @@
 {
-  "ts": "2026-03-03T22:07:31.999Z",
-  "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740885",
-      "shortName": "LIV @ WOL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2026-03-03T20:15Z",
-      "teams": [
-        {
-          "id": "380",
-          "homeAway": "home",
-          "abbreviation": "WOL",
-          "displayName": "Wolverhampton Wanderers",
-          "score": 2
-        },
-        {
-          "id": "364",
-          "homeAway": "away",
-          "abbreviation": "LIV",
-          "displayName": "Liverpool",
-          "score": 1
-        }
-      ]
-    }
-  ]
+  "ts": "2026-03-03T22:18:40.435Z",
+  "games": []
 }
