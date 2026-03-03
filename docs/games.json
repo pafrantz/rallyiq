@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-03T19:26:07.867Z",
+  "ts": "2026-03-03T19:55:39.308Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740877",
       "shortName": "BRE @ BOU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "25'",
       "start": "2026-03-03T19:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740879",
       "shortName": "BUR @ EVE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "25'",
       "start": "2026-03-03T19:30Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740881",
       "shortName": "SUN @ LEE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "25'",
       "start": "2026-03-03T19:30Z",
       "teams": [
         {
