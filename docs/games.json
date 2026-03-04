@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-04T21:14:54.291Z",
+  "ts": "2026-03-04T21:28:46.572Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "75'",
+      "clock": "89'",
       "start": "2026-03-04T19:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "83'",
+      "clock": "90'+6'",
       "start": "2026-03-04T19:30Z",
       "teams": [
         {
@@ -58,39 +58,12 @@
     {
       "sport": "soccer",
       "league": "eng.1",
-      "id": "740880",
-      "shortName": "WHU @ FUL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "85'",
-      "start": "2026-03-04T19:30Z",
-      "teams": [
-        {
-          "id": "370",
-          "homeAway": "home",
-          "abbreviation": "FUL",
-          "displayName": "Fulham",
-          "score": 0
-        },
-        {
-          "id": "371",
-          "homeAway": "away",
-          "abbreviation": "WHU",
-          "displayName": "West Ham United",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
       "id": "740882",
       "shortName": "NFO @ MNC",
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "84'",
+      "clock": "90'+8'",
       "start": "2026-03-04T19:30Z",
       "teams": [
         {
@@ -114,10 +87,10 @@
       "league": "eng.1",
       "id": "740883",
       "shortName": "MAN @ NEW",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+10'",
+      "period": 2,
+      "clock": "46'",
       "start": "2026-03-04T20:15Z",
       "teams": [
         {
