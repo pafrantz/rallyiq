@@ -1,6 +1,141 @@
 {
-  "ts": "2026-03-04T07:57:33.505Z",
+  "ts": "2026-03-04T08:12:11.453Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740876",
+      "shortName": "CHE @ AVL",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-03-04T19:30Z",
+      "teams": [
+        {
+          "id": "362",
+          "homeAway": "home",
+          "abbreviation": "AVL",
+          "displayName": "Aston Villa",
+          "score": 0
+        },
+        {
+          "id": "363",
+          "homeAway": "away",
+          "abbreviation": "CHE",
+          "displayName": "Chelsea",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740878",
+      "shortName": "ARS @ BHA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-03-04T19:30Z",
+      "teams": [
+        {
+          "id": "331",
+          "homeAway": "home",
+          "abbreviation": "BHA",
+          "displayName": "Brighton & Hove Albion",
+          "score": 0
+        },
+        {
+          "id": "359",
+          "homeAway": "away",
+          "abbreviation": "ARS",
+          "displayName": "Arsenal",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740880",
+      "shortName": "WHU @ FUL",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-03-04T19:30Z",
+      "teams": [
+        {
+          "id": "370",
+          "homeAway": "home",
+          "abbreviation": "FUL",
+          "displayName": "Fulham",
+          "score": 0
+        },
+        {
+          "id": "371",
+          "homeAway": "away",
+          "abbreviation": "WHU",
+          "displayName": "West Ham United",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740882",
+      "shortName": "NFO @ MNC",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-03-04T19:30Z",
+      "teams": [
+        {
+          "id": "382",
+          "homeAway": "home",
+          "abbreviation": "MNC",
+          "displayName": "Manchester City",
+          "score": 0
+        },
+        {
+          "id": "393",
+          "homeAway": "away",
+          "abbreviation": "NFO",
+          "displayName": "Nottingham Forest",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740883",
+      "shortName": "MAN @ NEW",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-03-04T20:15Z",
+      "teams": [
+        {
+          "id": "361",
+          "homeAway": "home",
+          "abbreviation": "NEW",
+          "displayName": "Newcastle United",
+          "score": 0
+        },
+        {
+          "id": "360",
+          "homeAway": "away",
+          "abbreviation": "MAN",
+          "displayName": "Manchester United",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "soccer",
       "league": "bra.1",
