@@ -1,6 +1,33 @@
 {
-  "ts": "2026-03-05T07:47:28.197Z",
+  "ts": "2026-03-05T08:00:41.979Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740884",
+      "shortName": "CRY @ TOT",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-03-05T20:00Z",
+      "teams": [
+        {
+          "id": "367",
+          "homeAway": "home",
+          "abbreviation": "TOT",
+          "displayName": "Tottenham Hotspur",
+          "score": 0
+        },
+        {
+          "id": "384",
+          "homeAway": "away",
+          "abbreviation": "CRY",
+          "displayName": "Crystal Palace",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "soccer",
       "league": "bra.1",
