@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-05T19:46:50.445Z",
+  "ts": "2026-03-05T20:02:34.002Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740884",
       "shortName": "CRY @ TOT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "1'",
       "start": "2026-03-05T20:00Z",
       "teams": [
         {
