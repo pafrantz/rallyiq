@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-11T01:14:58.463Z",
+  "ts": "2026-03-11T01:58:02.044Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841010",
       "shortName": "SAN @ MIR",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "44'",
+      "period": 2,
+      "clock": "66'",
       "start": "2026-03-11T00:30Z",
       "teams": [
         {
