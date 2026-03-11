@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-11T00:45:16.135Z",
+  "ts": "2026-03-11T01:14:58.463Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "14'",
+      "clock": "44'",
       "start": "2026-03-11T00:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "MIR",
           "displayName": "Mirassol",
-          "score": 0
+          "score": 1
         },
         {
           "id": "2674",
