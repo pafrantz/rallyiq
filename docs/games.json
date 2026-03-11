@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-11T22:58:24.240Z",
+  "ts": "2026-03-11T23:09:34.564Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841015",
       "shortName": "INT @ CAM",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "47'",
       "start": "2026-03-11T22:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841014",
       "shortName": "VIT @ BAH",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "8'",
       "start": "2026-03-11T23:00Z",
       "teams": [
         {
