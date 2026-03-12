@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-12T21:56:44.484Z",
+  "ts": "2026-03-12T22:05:34.194Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841009",
       "shortName": "FLU @ REMO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "5'",
       "start": "2026-03-12T22:00Z",
       "teams": [
         {
