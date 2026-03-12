@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-12T23:50:07.314Z",
+  "ts": "2026-03-12T23:58:14.738Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "87'",
+      "clock": "90'+6'",
       "start": "2026-03-12T22:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "59'",
+      "clock": "66'",
       "start": "2026-03-12T22:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "VAS",
           "displayName": "Vasco da Gama",
-          "score": 0
+          "score": 1
         },
         {
           "id": "2029",
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "401841008",
       "shortName": "CHA @ SAO",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+2'",
+      "clock": "45'+4'",
       "start": "2026-03-12T23:00Z",
       "teams": [
         {
