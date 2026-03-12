@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-12T23:26:17.817Z",
+  "ts": "2026-03-12T23:39:57.188Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "63'",
+      "clock": "77'",
       "start": "2026-03-12T22:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841012",
       "shortName": "PAL @ VAS",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "48'",
       "start": "2026-03-12T22:30Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "24'",
+      "clock": "37'",
       "start": "2026-03-12T23:00Z",
       "teams": [
         {
