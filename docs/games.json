@@ -1,33 +1,6 @@
 {
-  "ts": "2026-03-14T21:51:45.992Z",
+  "ts": "2026-03-14T21:58:58.369Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740895",
-      "shortName": "MNC @ WHU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+3'",
-      "start": "2026-03-14T20:00Z",
-      "teams": [
-        {
-          "id": "371",
-          "homeAway": "home",
-          "abbreviation": "WHU",
-          "displayName": "West Ham United",
-          "score": 1
-        },
-        {
-          "id": "382",
-          "homeAway": "away",
-          "abbreviation": "MNC",
-          "displayName": "Manchester City",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "19'",
+      "clock": "27'",
       "start": "2026-03-14T21:30Z",
       "teams": [
         {
@@ -44,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "VIT",
           "displayName": "Vitória",
-          "score": 0
+          "score": 1
         },
         {
           "id": "7632",
