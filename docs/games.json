@@ -1,14 +1,14 @@
 {
-  "ts": "2026-03-14T17:18:48.722Z",
+  "ts": "2026-03-14T17:32:33.883Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740886",
       "shortName": "EVE @ ARS",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-03-14T17:30Z",
       "teams": [
@@ -33,9 +33,9 @@
       "league": "eng.1",
       "id": "740889",
       "shortName": "NEW @ CHE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-03-14T17:30Z",
       "teams": [
