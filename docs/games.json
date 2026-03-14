@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-14T20:46:52.091Z",
+  "ts": "2026-03-14T20:56:26.770Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740895",
       "shortName": "MNC @ WHU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+3'",
       "start": "2026-03-14T20:00Z",
       "teams": [
         {
