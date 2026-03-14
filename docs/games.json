@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-14T14:56:09.647Z",
+  "ts": "2026-03-14T15:05:22.643Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740888",
       "shortName": "BOU @ BUR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "4'",
       "start": "2026-03-14T15:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740894",
       "shortName": "BHA @ SUN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "5'",
       "start": "2026-03-14T15:00Z",
       "teams": [
         {
