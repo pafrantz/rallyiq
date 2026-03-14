@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-14T22:57:26.003Z",
+  "ts": "2026-03-14T23:08:40.251Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "60'",
+      "clock": "71'",
       "start": "2026-03-14T21:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "VIT",
           "displayName": "Vitória",
-          "score": 1
+          "score": 2
         },
         {
           "id": "7632",
