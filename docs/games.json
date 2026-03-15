@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-15T15:34:44.748Z",
+  "ts": "2026-03-15T15:46:44.549Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "70'",
+      "clock": "83'",
       "start": "2026-03-15T14:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "89'",
       "start": "2026-03-15T14:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "MAN",
           "displayName": "Manchester United",
-          "score": 2
+          "score": 3
         },
         {
           "id": "362",
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "75'",
+      "clock": "88'",
       "start": "2026-03-15T14:00Z",
       "teams": [
         {
