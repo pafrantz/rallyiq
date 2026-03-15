@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-15T15:08:47.604Z",
+  "ts": "2026-03-15T15:20:13.045Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740890",
       "shortName": "LEE @ CRY",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+7'",
+      "period": 2,
+      "clock": "56'",
       "start": "2026-03-15T14:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "51'",
+      "clock": "62'",
       "start": "2026-03-15T14:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "MAN",
           "displayName": "Manchester United",
-          "score": 0
+          "score": 1
         },
         {
           "id": "362",
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "46'",
+      "clock": "60'",
       "start": "2026-03-15T14:00Z",
       "teams": [
         {
