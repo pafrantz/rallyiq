@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-15T15:20:13.045Z",
+  "ts": "2026-03-15T15:34:44.748Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "56'",
+      "clock": "70'",
       "start": "2026-03-15T14:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "62'",
+      "clock": "77'",
       "start": "2026-03-15T14:00Z",
       "teams": [
         {
@@ -44,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "MAN",
           "displayName": "Manchester United",
-          "score": 1
+          "score": 2
         },
         {
           "id": "362",
           "homeAway": "away",
           "abbreviation": "AVL",
           "displayName": "Aston Villa",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "60'",
+      "clock": "75'",
       "start": "2026-03-15T14:00Z",
       "teams": [
         {
