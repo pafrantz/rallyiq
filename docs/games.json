@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-15T14:45:43.909Z",
+  "ts": "2026-03-15T14:57:21.014Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740890",
       "shortName": "LEE @ CRY",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "44'",
+      "clock": "45'+7'",
       "start": "2026-03-15T14:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740892",
       "shortName": "AVL @ MAN",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "44'",
+      "clock": "45'+2'",
       "start": "2026-03-15T14:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740893",
       "shortName": "FUL @ NFO",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "44'",
+      "clock": "45'+4'",
       "start": "2026-03-15T14:00Z",
       "teams": [
         {
