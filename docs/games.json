@@ -1,32 +1,4 @@
 {
-  "ts": "2026-03-15T01:32:29.238Z",
-  "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841026",
-      "shortName": "FLA @ BOT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+3'",
-      "start": "2026-03-14T23:30Z",
-      "teams": [
-        {
-          "id": "6086",
-          "homeAway": "home",
-          "abbreviation": "BOT",
-          "displayName": "Botafogo",
-          "score": 0
-        },
-        {
-          "id": "819",
-          "homeAway": "away",
-          "abbreviation": "FLA",
-          "displayName": "Flamengo",
-          "score": 3
-        }
-      ]
-    }
-  ]
+  "ts": "2026-03-15T02:24:28.868Z",
+  "games": []
 }
