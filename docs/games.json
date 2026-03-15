@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-15T19:31:11.974Z",
+  "ts": "2026-03-15T19:43:47.717Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "31'",
+      "clock": "43'",
       "start": "2026-03-15T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "FLU",
           "displayName": "Fluminense",
-          "score": 1
+          "score": 2
         },
         {
           "id": "3458",
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "31'",
+      "clock": "43'",
       "start": "2026-03-15T19:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "27'",
+      "clock": "40'",
       "start": "2026-03-15T19:00Z",
       "teams": [
         {
