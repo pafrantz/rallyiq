@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-15T00:02:04.897Z",
+  "ts": "2026-03-15T00:56:09.177Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841026",
       "shortName": "FLA @ BOT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "32'",
+      "period": 2,
+      "clock": "57'",
       "start": "2026-03-14T23:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "FLA",
           "displayName": "Flamengo",
-          "score": 1
+          "score": 3
         }
       ]
     }
