@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-16T20:52:38.758Z",
+  "ts": "2026-03-16T21:07:33.406Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740887",
       "shortName": "WOL @ BRE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "47'",
       "start": "2026-03-16T20:00Z",
       "teams": [
         {
