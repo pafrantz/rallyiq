@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-15T23:57:14.375Z",
+  "ts": "2026-03-16T00:29:31.317Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841023",
       "shortName": "VAS @ CRU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "27'",
+      "clock": "45'+6'",
       "start": "2026-03-15T23:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841019",
       "shortName": "SAO @ BRA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "25'",
+      "clock": "45'+8'",
       "start": "2026-03-15T23:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "BRA",
           "displayName": "Red Bull Bragantino",
-          "score": 0
+          "score": 1
         },
         {
           "id": "2026",
