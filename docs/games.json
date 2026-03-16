@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-16T21:07:33.406Z",
+  "ts": "2026-03-16T21:23:19.125Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "47'",
+      "clock": "63'",
       "start": "2026-03-16T20:00Z",
       "teams": [
         {
