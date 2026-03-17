@@ -1,32 +1,4 @@
 {
-  "ts": "2026-03-17T00:47:10.303Z",
-  "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841025",
-      "shortName": "GRE @ CHA",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "80'",
-      "start": "2026-03-16T23:00Z",
-      "teams": [
-        {
-          "id": "9318",
-          "homeAway": "home",
-          "abbreviation": "CHA",
-          "displayName": "Chapecoense",
-          "score": 1
-        },
-        {
-          "id": "6273",
-          "homeAway": "away",
-          "abbreviation": "GRE",
-          "displayName": "Grêmio",
-          "score": 1
-        }
-      ]
-    }
-  ]
+  "ts": "2026-03-17T01:17:54.411Z",
+  "games": []
 }
