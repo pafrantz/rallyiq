@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-18T22:46:30.939Z",
+  "ts": "2026-03-18T22:58:43.241Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841037",
       "shortName": "BRA @ BAH",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+6'",
       "start": "2026-03-18T22:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841032",
       "shortName": "BOT @ PAL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'",
+      "clock": "45'+5'",
       "start": "2026-03-18T22:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "4'",
+      "clock": "14'",
       "start": "2026-03-18T22:30Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "CAP",
           "displayName": "Athletico-PR",
-          "score": 1
+          "score": 2
         },
         {
           "id": "2022",
