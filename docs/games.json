@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-19T21:59:22.958Z",
+  "ts": "2026-03-19T22:11:31.686Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841034",
       "shortName": "VIT @ GRE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "11'",
       "start": "2026-03-19T22:00Z",
       "teams": [
         {
