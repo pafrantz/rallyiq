@@ -1,6 +1,87 @@
 {
-  "ts": "2026-03-19T06:56:21.388Z",
+  "ts": "2026-03-19T07:20:12.895Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841034",
+      "shortName": "VIT @ GRE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-03-19T22:00Z",
+      "teams": [
+        {
+          "id": "6273",
+          "homeAway": "home",
+          "abbreviation": "GRE",
+          "displayName": "Grêmio",
+          "score": 0
+        },
+        {
+          "id": "3457",
+          "homeAway": "away",
+          "abbreviation": "VIT",
+          "displayName": "Vitória",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841035",
+      "shortName": "REMO @ FLA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-03-19T23:00Z",
+      "teams": [
+        {
+          "id": "819",
+          "homeAway": "home",
+          "abbreviation": "FLA",
+          "displayName": "Flamengo",
+          "score": 0
+        },
+        {
+          "id": "4936",
+          "homeAway": "away",
+          "abbreviation": "REMO",
+          "displayName": "Remo",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841036",
+      "shortName": "COR @ CHA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-03-20T00:30Z",
+      "teams": [
+        {
+          "id": "9318",
+          "homeAway": "home",
+          "abbreviation": "CHA",
+          "displayName": "Chapecoense",
+          "score": 0
+        },
+        {
+          "id": "874",
+          "homeAway": "away",
+          "abbreviation": "COR",
+          "displayName": "Corinthians",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "soccer",
       "league": "eng.1",
