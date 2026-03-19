@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-19T22:51:39.194Z",
+  "ts": "2026-03-19T23:01:24.137Z",
   "games": [
     {
       "sport": "soccer",
@@ -33,9 +33,9 @@
       "league": "bra.1",
       "id": "401841035",
       "shortName": "REMO @ FLA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-03-19T23:00Z",
       "teams": [
