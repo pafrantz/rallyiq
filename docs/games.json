@@ -1,33 +1,6 @@
 {
-  "ts": "2026-03-20T21:57:02.551Z",
+  "ts": "2026-03-20T22:06:40.286Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740897",
-      "shortName": "MAN @ BOU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+9'",
-      "start": "2026-03-20T20:00Z",
-      "teams": [
-        {
-          "id": "349",
-          "homeAway": "home",
-          "abbreviation": "BOU",
-          "displayName": "AFC Bournemouth",
-          "score": 2
-        },
-        {
-          "id": "360",
-          "homeAway": "away",
-          "abbreviation": "MAN",
-          "displayName": "Manchester United",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
