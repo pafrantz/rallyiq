@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-20T20:00:34.408Z",
+  "ts": "2026-03-20T20:14:08.353Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740897",
       "shortName": "MAN @ BOU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "14'",
       "start": "2026-03-20T20:00Z",
       "teams": [
         {
