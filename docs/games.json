@@ -1,42 +1,15 @@
 {
-  "ts": "2026-03-20T00:00:40.368Z",
+  "ts": "2026-03-20T00:47:54.265Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841034",
-      "shortName": "VIT @ GRE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+7'",
-      "start": "2026-03-19T22:00Z",
-      "teams": [
-        {
-          "id": "6273",
-          "homeAway": "home",
-          "abbreviation": "GRE",
-          "displayName": "Grêmio",
-          "score": 2
-        },
-        {
-          "id": "3457",
-          "homeAway": "away",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841035",
       "shortName": "REMO @ FLA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "86'",
       "start": "2026-03-19T23:00Z",
       "teams": [
         {
@@ -44,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "FLA",
           "displayName": "Flamengo",
-          "score": 1
+          "score": 3
         },
         {
           "id": "4936",
@@ -60,10 +33,10 @@
       "league": "bra.1",
       "id": "401841036",
       "shortName": "COR @ CHA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "17'",
       "start": "2026-03-20T00:30Z",
       "teams": [
         {
