@@ -1,33 +1,6 @@
 {
-  "ts": "2026-03-20T00:47:54.265Z",
+  "ts": "2026-03-20T01:18:54.527Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841035",
-      "shortName": "REMO @ FLA",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "86'",
-      "start": "2026-03-19T23:00Z",
-      "teams": [
-        {
-          "id": "819",
-          "homeAway": "home",
-          "abbreviation": "FLA",
-          "displayName": "Flamengo",
-          "score": 3
-        },
-        {
-          "id": "4936",
-          "homeAway": "away",
-          "abbreviation": "REMO",
-          "displayName": "Remo",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "17'",
+      "clock": "45'+3'",
       "start": "2026-03-20T00:30Z",
       "teams": [
         {
