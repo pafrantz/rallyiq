@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-20T01:18:54.527Z",
+  "ts": "2026-03-20T02:04:00.155Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841036",
       "shortName": "COR @ CHA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "71'",
       "start": "2026-03-20T00:30Z",
       "teams": [
         {
