@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-21T18:49:42.810Z",
+  "ts": "2026-03-21T19:01:26.913Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "61'",
+      "clock": "72'",
       "start": "2026-03-21T17:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "EVE",
           "displayName": "Everton",
-          "score": 1
+          "score": 2
         },
         {
           "id": "363",
@@ -33,9 +33,9 @@
       "league": "bra.1",
       "id": "401841047",
       "shortName": "BOT @ BRA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-03-21T19:00Z",
       "teams": [
