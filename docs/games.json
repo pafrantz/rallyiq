@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-21T19:57:19.248Z",
+  "ts": "2026-03-21T20:05:59.638Z",
   "games": [
     {
       "sport": "soccer",
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740900",
       "shortName": "BRE @ LEE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "5'",
       "start": "2026-03-21T20:00Z",
       "teams": [
         {
