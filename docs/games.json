@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-21T12:34:49.265Z",
+  "ts": "2026-03-21T12:56:55.832Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740898",
       "shortName": "LIV @ BHA",
-      "status": "STATUS_DELAYED",
+      "status": "STATUS_FIRST_HALF",
       "state": "IN",
-      "period": null,
-      "clock": "0'",
+      "period": 1,
+      "clock": "12'",
       "start": "2026-03-21T12:45Z",
       "teams": [
         {
