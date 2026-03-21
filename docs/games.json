@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-21T14:01:27.050Z",
+  "ts": "2026-03-21T14:12:35.765Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "54'",
+      "clock": "65'",
       "start": "2026-03-21T12:45Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BHA",
           "displayName": "Brighton & Hove Albion",
-          "score": 1
+          "score": 2
         },
         {
           "id": "364",
