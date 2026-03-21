@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-21T16:11:50.747Z",
+  "ts": "2026-03-21T16:23:51.352Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "51'",
+      "clock": "63'",
       "start": "2026-03-21T15:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BUR",
           "displayName": "Burnley",
-          "score": 0
+          "score": 1
         }
       ]
     },
