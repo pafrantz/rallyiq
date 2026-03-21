@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-21T20:29:05.716Z",
+  "ts": "2026-03-21T20:42:24.696Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "61'",
+      "clock": "74'",
       "start": "2026-03-21T19:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BOT",
           "displayName": "Botafogo",
-          "score": 1
+          "score": 2
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "27'",
+      "clock": "42'",
       "start": "2026-03-21T20:00Z",
       "teams": [
         {
