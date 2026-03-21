@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-21T15:59:49.306Z",
+  "ts": "2026-03-21T16:11:50.747Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740905",
       "shortName": "BUR @ FUL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "51'",
       "start": "2026-03-21T15:00Z",
       "teams": [
         {
