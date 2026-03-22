@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-22T22:36:46.697Z",
+  "ts": "2026-03-22T22:47:58.532Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841043",
       "shortName": "CHA @ INT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'",
+      "period": 2,
+      "clock": "56'",
       "start": "2026-03-22T21:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "INT",
           "displayName": "Internacional",
-          "score": 1
+          "score": 2
         },
         {
           "id": "9318",
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841042",
       "shortName": "MIR @ VIT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+10'",
+      "period": 2,
+      "clock": "49'",
       "start": "2026-03-22T21:30Z",
       "teams": [
         {
