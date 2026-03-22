@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-22T00:51:42.999Z",
+  "ts": "2026-03-22T01:24:34.083Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841040",
       "shortName": "PAL @ SAO",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "58'",
       "start": "2026-03-22T00:00Z",
       "teams": [
         {
