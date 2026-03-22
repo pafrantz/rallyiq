@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-22T19:04:47.960Z",
+  "ts": "2026-03-22T19:15:34.244Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "2'",
+      "clock": "14'",
       "start": "2026-03-22T19:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "2'",
+      "clock": "12'",
       "start": "2026-03-22T19:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "0'",
+      "clock": "11'",
       "start": "2026-03-22T19:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "0'",
+      "clock": "14'",
       "start": "2026-03-22T19:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "VAS",
           "displayName": "Vasco da Gama",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6273",
