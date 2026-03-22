@@ -1,33 +1,6 @@
 {
-  "ts": "2026-03-22T21:10:04.297Z",
+  "ts": "2026-03-22T21:21:17.644Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841041",
-      "shortName": "BAH @ REMO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+8'",
-      "start": "2026-03-22T19:00Z",
-      "teams": [
-        {
-          "id": "4936",
-          "homeAway": "home",
-          "abbreviation": "REMO",
-          "displayName": "Remo",
-          "score": 4
-        },
-        {
-          "id": "9967",
-          "homeAway": "away",
-          "abbreviation": "BAH",
-          "displayName": "Bahia",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
