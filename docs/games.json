@@ -1,60 +1,6 @@
 {
-  "ts": "2026-03-22T16:01:44.386Z",
+  "ts": "2026-03-22T16:12:52.145Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740896",
-      "shortName": "WHU @ AVL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "85'",
-      "start": "2026-03-22T14:15Z",
-      "teams": [
-        {
-          "id": "362",
-          "homeAway": "home",
-          "abbreviation": "AVL",
-          "displayName": "Aston Villa",
-          "score": 2
-        },
-        {
-          "id": "371",
-          "homeAway": "away",
-          "abbreviation": "WHU",
-          "displayName": "West Ham United",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740904",
-      "shortName": "NFO @ TOT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "84'",
-      "start": "2026-03-22T14:15Z",
-      "teams": [
-        {
-          "id": "367",
-          "homeAway": "home",
-          "abbreviation": "TOT",
-          "displayName": "Tottenham Hotspur",
-          "score": 0
-        },
-        {
-          "id": "393",
-          "homeAway": "away",
-          "abbreviation": "NFO",
-          "displayName": "Nottingham Forest",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
