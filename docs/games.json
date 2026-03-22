@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-22T15:01:06.931Z",
+  "ts": "2026-03-22T15:11:58.830Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740896",
       "shortName": "WHU @ AVL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "44'",
+      "clock": "45'+4'",
       "start": "2026-03-22T14:15Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740904",
       "shortName": "NFO @ TOT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "44'",
+      "clock": "45'+4'",
       "start": "2026-03-22T14:15Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "NFO",
           "displayName": "Nottingham Forest",
-          "score": 0
+          "score": 1
         }
       ]
     },
