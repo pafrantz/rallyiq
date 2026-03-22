@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-22T20:11:31.330Z",
+  "ts": "2026-03-22T20:23:25.299Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "47'",
+      "clock": "58'",
       "start": "2026-03-22T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CAP",
           "displayName": "Athletico-PR",
-          "score": 1
+          "score": 2
         },
         {
           "id": "3456",
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "47'",
+      "clock": "59'",
       "start": "2026-03-22T19:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "401841041",
       "shortName": "BAH @ REMO",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+10'",
+      "period": 2,
+      "clock": "52'",
       "start": "2026-03-22T19:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "REMO",
           "displayName": "Remo",
-          "score": 1
+          "score": 2
         },
         {
           "id": "9967",
@@ -87,10 +87,10 @@
       "league": "bra.1",
       "id": "401841039",
       "shortName": "GRE @ VAS",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+8'",
+      "period": 2,
+      "clock": "56'",
       "start": "2026-03-22T19:00Z",
       "teams": [
         {
