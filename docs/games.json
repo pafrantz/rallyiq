@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-22T19:40:01.175Z",
+  "ts": "2026-03-22T19:48:31.835Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "38'",
+      "clock": "45'",
       "start": "2026-03-22T19:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "36'",
+      "clock": "44'",
       "start": "2026-03-22T19:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "36'",
+      "clock": "41'",
       "start": "2026-03-22T19:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "34'",
+      "clock": "45'",
       "start": "2026-03-22T19:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "GRE",
           "displayName": "Grêmio",
-          "score": 0
+          "score": 1
         }
       ]
     },
