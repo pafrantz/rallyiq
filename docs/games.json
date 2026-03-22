@@ -1,32 +1,4 @@
 {
-  "ts": "2026-03-22T01:24:34.083Z",
-  "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841040",
-      "shortName": "PAL @ SAO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "58'",
-      "start": "2026-03-22T00:00Z",
-      "teams": [
-        {
-          "id": "2026",
-          "homeAway": "home",
-          "abbreviation": "SAO",
-          "displayName": "São Paulo",
-          "score": 0
-        },
-        {
-          "id": "2029",
-          "homeAway": "away",
-          "abbreviation": "PAL",
-          "displayName": "Palmeiras",
-          "score": 1
-        }
-      ]
-    }
-  ]
+  "ts": "2026-03-22T02:12:22.666Z",
+  "games": []
 }
