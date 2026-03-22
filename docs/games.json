@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-22T22:22:23.478Z",
+  "ts": "2026-03-22T22:36:46.697Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+4'",
+      "clock": "45'",
       "start": "2026-03-22T21:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841042",
       "shortName": "MIR @ VIT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+6'",
+      "clock": "45'+10'",
       "start": "2026-03-22T21:30Z",
       "teams": [
         {
