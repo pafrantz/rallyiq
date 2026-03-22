@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-22T20:49:42.997Z",
+  "ts": "2026-03-22T20:58:34.134Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "86'",
+      "clock": "90'+4'",
       "start": "2026-03-22T19:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "85'",
+      "clock": "90'+5'",
       "start": "2026-03-22T19:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "76'",
+      "clock": "86'",
       "start": "2026-03-22T19:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "REMO",
           "displayName": "Remo",
-          "score": 3
+          "score": 4
         },
         {
           "id": "9967",
@@ -90,7 +90,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "82'",
+      "clock": "90'",
       "start": "2026-03-22T19:00Z",
       "teams": [
         {
