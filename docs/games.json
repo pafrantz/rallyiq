@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-22T23:46:24.339Z",
+  "ts": "2026-03-22T23:56:13.290Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "15'",
+      "clock": "25'",
       "start": "2026-03-22T23:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "COR",
           "displayName": "Corinthians",
-          "score": 0
+          "score": 1
         },
         {
           "id": "819",
