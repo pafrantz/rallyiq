@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-22T18:53:42.487Z",
+  "ts": "2026-03-22T19:04:47.960Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841038",
       "shortName": "CFC @ CAP",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "2'",
       "start": "2026-03-22T19:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841045",
       "shortName": "SAN @ CRU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "2'",
       "start": "2026-03-22T19:00Z",
       "teams": [
         {
@@ -60,9 +60,9 @@
       "league": "bra.1",
       "id": "401841041",
       "shortName": "BAH @ REMO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-03-22T19:00Z",
       "teams": [
@@ -87,9 +87,9 @@
       "league": "bra.1",
       "id": "401841039",
       "shortName": "GRE @ VAS",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-03-22T19:00Z",
       "teams": [
