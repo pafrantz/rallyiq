@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-22T00:00:43.474Z",
+  "ts": "2026-03-22T00:51:42.999Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841040",
       "shortName": "PAL @ SAO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "45'+2'",
       "start": "2026-03-22T00:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "PAL",
           "displayName": "Palmeiras",
-          "score": 0
+          "score": 1
         }
       ]
     }
