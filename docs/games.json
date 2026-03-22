@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-22T13:14:07.744Z",
+  "ts": "2026-03-22T13:33:05.355Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "56'",
+      "clock": "75'",
       "start": "2026-03-22T12:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "SUN",
           "displayName": "Sunderland",
-          "score": 0
+          "score": 1
         }
       ]
     },
