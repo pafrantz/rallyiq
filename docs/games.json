@@ -1,5 +1,5 @@
 {
-  "ts": "2026-03-22T15:37:11.221Z",
+  "ts": "2026-03-22T15:46:57.128Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "62'",
+      "clock": "72'",
       "start": "2026-03-22T14:15Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "AVL",
           "displayName": "Aston Villa",
-          "score": 1
+          "score": 2
         },
         {
           "id": "371",
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "60'",
+      "clock": "68'",
       "start": "2026-03-22T14:15Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "NFO",
           "displayName": "Nottingham Forest",
-          "score": 1
+          "score": 2
         }
       ]
     },
