@@ -1,32 +1,4 @@
 {
-  "ts": "2026-03-23T01:32:29.039Z",
-  "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841046",
-      "shortName": "FLA @ COR",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+5'",
-      "start": "2026-03-22T23:30Z",
-      "teams": [
-        {
-          "id": "874",
-          "homeAway": "home",
-          "abbreviation": "COR",
-          "displayName": "Corinthians",
-          "score": 1
-        },
-        {
-          "id": "819",
-          "homeAway": "away",
-          "abbreviation": "FLA",
-          "displayName": "Flamengo",
-          "score": 1
-        }
-      ]
-    }
-  ]
+  "ts": "2026-03-23T02:24:10.302Z",
+  "games": []
 }
