@@ -1,15 +1,15 @@
 {
-  "ts": "2026-03-29T22:27:24.938Z",
+  "ts": "2026-03-29T22:43:57.094Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841016",
       "shortName": "BOT @ CAP",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "12'",
       "start": "2026-03-29T22:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CAP",
           "displayName": "Athletico-PR",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6086",
