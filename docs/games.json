@@ -1,32 +1,4 @@
 {
-  "ts": "2026-03-30T00:02:01.113Z",
-  "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841016",
-      "shortName": "BOT @ CAP",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "68'",
-      "start": "2026-03-29T22:30Z",
-      "teams": [
-        {
-          "id": "3458",
-          "homeAway": "home",
-          "abbreviation": "CAP",
-          "displayName": "Athletico-PR",
-          "score": 3
-        },
-        {
-          "id": "6086",
-          "homeAway": "away",
-          "abbreviation": "BOT",
-          "displayName": "Botafogo",
-          "score": 1
-        }
-      ]
-    }
-  ]
+  "ts": "2026-03-30T00:56:22.756Z",
+  "games": []
 }
