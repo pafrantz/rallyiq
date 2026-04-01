@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-01T23:18:26.286Z",
+  "ts": "2026-04-01T23:33:43.113Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841057",
       "shortName": "MIR @ BOT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+3'",
+      "clock": "45'+7'",
       "start": "2026-04-01T22:30Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "15'",
+      "clock": "31'",
       "start": "2026-04-01T23:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "17'",
+      "clock": "32'",
       "start": "2026-04-01T23:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "bra.1",
       "id": "401841048",
       "shortName": "VAS @ CFC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "1'",
       "start": "2026-04-01T23:30Z",
       "teams": [
         {
