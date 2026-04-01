@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-01T23:33:43.113Z",
+  "ts": "2026-04-01T23:49:32.442Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841057",
       "shortName": "MIR @ BOT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+7'",
+      "period": 2,
+      "clock": "54'",
       "start": "2026-04-01T22:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841053",
       "shortName": "SAO @ INT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "60'",
       "start": "2026-04-01T22:30Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "31'",
+      "clock": "45'+2'",
       "start": "2026-04-01T23:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "BAH",
           "displayName": "Bahia",
-          "score": 1
+          "score": 2
         },
         {
           "id": "3458",
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "32'",
+      "clock": "45'+2'",
       "start": "2026-04-01T23:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "CRU",
           "displayName": "Cruzeiro",
-          "score": 0
+          "score": 3
         },
         {
           "id": "3457",
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "1'",
+      "clock": "16'",
       "start": "2026-04-01T23:30Z",
       "teams": [
         {
