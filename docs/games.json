@@ -1,42 +1,15 @@
 {
-  "ts": "2026-04-02T01:23:06.041Z",
+  "ts": "2026-04-02T02:10:24.051Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841048",
-      "shortName": "VAS @ CFC",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "89'",
-      "start": "2026-04-01T23:30Z",
-      "teams": [
-        {
-          "id": "3456",
-          "homeAway": "home",
-          "abbreviation": "CFC",
-          "displayName": "Coritiba",
-          "score": 0
-        },
-        {
-          "id": "3454",
-          "homeAway": "away",
-          "abbreviation": "VAS",
-          "displayName": "Vasco da Gama",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841054",
       "shortName": "COR @ FLU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "77'",
       "start": "2026-04-02T00:30Z",
       "teams": [
         {
