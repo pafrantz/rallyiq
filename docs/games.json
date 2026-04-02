@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-02T23:32:04.822Z",
+  "ts": "2026-04-02T23:49:12.370Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "67'",
+      "clock": "84'",
       "start": "2026-04-02T22:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "68'",
+      "clock": "86'",
       "start": "2026-04-02T22:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "SAN",
           "displayName": "Santos",
-          "score": 1
+          "score": 2
         },
         {
           "id": "4936",
