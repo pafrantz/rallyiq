@@ -1,60 +1,6 @@
 {
-  "ts": "2026-04-02T00:50:33.292Z",
+  "ts": "2026-04-02T01:23:06.041Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841056",
-      "shortName": "CAP @ BAH",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "82'",
-      "start": "2026-04-01T23:00Z",
-      "teams": [
-        {
-          "id": "9967",
-          "homeAway": "home",
-          "abbreviation": "BAH",
-          "displayName": "Bahia",
-          "score": 2
-        },
-        {
-          "id": "3458",
-          "homeAway": "away",
-          "abbreviation": "CAP",
-          "displayName": "Athletico-PR",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841055",
-      "shortName": "VIT @ CRU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "84'",
-      "start": "2026-04-01T23:00Z",
-      "teams": [
-        {
-          "id": "2022",
-          "homeAway": "home",
-          "abbreviation": "CRU",
-          "displayName": "Cruzeiro",
-          "score": 3
-        },
-        {
-          "id": "3457",
-          "homeAway": "away",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -63,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "56'",
+      "clock": "89'",
       "start": "2026-04-01T23:30Z",
       "teams": [
         {
@@ -87,10 +33,10 @@
       "league": "bra.1",
       "id": "401841054",
       "shortName": "COR @ FLU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "18'",
+      "clock": "45'+4'",
       "start": "2026-04-02T00:30Z",
       "teams": [
         {
@@ -98,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "FLU",
           "displayName": "Fluminense",
-          "score": 0
+          "score": 2
         },
         {
           "id": "874",
