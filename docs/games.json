@@ -1,14 +1,14 @@
 {
-  "ts": "2026-04-02T21:51:38.884Z",
+  "ts": "2026-04-02T22:04:05.898Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841049",
       "shortName": "CAM @ CHA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-04-02T22:00Z",
       "teams": [
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841050",
       "shortName": "REMO @ SAN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "2'",
       "start": "2026-04-02T22:00Z",
       "teams": [
         {
