@@ -1,6 +1,87 @@
 {
-  "ts": "2026-04-03T03:26:25.037Z",
+  "ts": "2026-04-03T04:17:17.028Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841059",
+      "shortName": "CRU @ SAO",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-04-04T21:30Z",
+      "teams": [
+        {
+          "id": "2026",
+          "homeAway": "home",
+          "abbreviation": "SAO",
+          "displayName": "São Paulo",
+          "score": 0
+        },
+        {
+          "id": "2022",
+          "homeAway": "away",
+          "abbreviation": "CRU",
+          "displayName": "Cruzeiro",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841063",
+      "shortName": "FLU @ CFC",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-04-04T23:30Z",
+      "teams": [
+        {
+          "id": "3456",
+          "homeAway": "home",
+          "abbreviation": "CFC",
+          "displayName": "Coritiba",
+          "score": 0
+        },
+        {
+          "id": "3445",
+          "homeAway": "away",
+          "abbreviation": "FLU",
+          "displayName": "Fluminense",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841062",
+      "shortName": "BOT @ VAS",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-04-05T00:00Z",
+      "teams": [
+        {
+          "id": "3454",
+          "homeAway": "home",
+          "abbreviation": "VAS",
+          "displayName": "Vasco da Gama",
+          "score": 0
+        },
+        {
+          "id": "6086",
+          "homeAway": "away",
+          "abbreviation": "BOT",
+          "displayName": "Botafogo",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "soccer",
       "league": "eng.1",
