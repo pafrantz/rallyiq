@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-03T00:53:41.310Z",
+  "ts": "2026-04-03T01:27:42.942Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841052",
       "shortName": "GRE @ PAL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "22'",
+      "clock": "45'+3'",
       "start": "2026-04-03T00:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "PAL",
           "displayName": "Palmeiras",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6273",
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841051",
       "shortName": "FLA @ BRA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "23'",
+      "clock": "45'+4'",
       "start": "2026-04-03T00:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "BRA",
           "displayName": "Red Bull Bragantino",
-          "score": 1
+          "score": 2
         },
         {
           "id": "819",
