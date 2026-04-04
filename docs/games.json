@@ -1,12 +1,12 @@
 {
-  "ts": "2026-04-04T22:25:34.509Z",
+  "ts": "2026-04-04T22:41:18.562Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841059",
       "shortName": "CRU @ SAO",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
       "clock": "45'+7'",
