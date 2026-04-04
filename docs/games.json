@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-04T22:41:18.562Z",
+  "ts": "2026-04-04T22:53:53.063Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841059",
       "shortName": "CRU @ SAO",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+7'",
+      "period": 2,
+      "clock": "58'",
       "start": "2026-04-04T21:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "CRU",
           "displayName": "Cruzeiro",
-          "score": 0
+          "score": 1
         }
       ]
     },
