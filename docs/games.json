@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-05T20:01:05.810Z",
+  "ts": "2026-04-05T20:14:18.820Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841065",
       "shortName": "VIT @ CHA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+10'",
+      "period": 2,
+      "clock": "45'",
       "start": "2026-04-05T19:00Z",
       "teams": [
         {
