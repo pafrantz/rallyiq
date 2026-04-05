@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-05T00:18:58.149Z",
+  "ts": "2026-04-05T01:01:56.243Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841063",
       "shortName": "FLU @ CFC",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "69'",
       "start": "2026-04-04T23:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841062",
       "shortName": "BOT @ VAS",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "17'",
+      "clock": "45'+5'",
       "start": "2026-04-05T00:00Z",
       "teams": [
         {
