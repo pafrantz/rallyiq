@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-05T22:55:25.595Z",
+  "ts": "2026-04-05T23:06:08.477Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "23'",
+      "clock": "34'",
       "start": "2026-04-05T22:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "24'",
+      "clock": "35'",
       "start": "2026-04-05T22:30Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "401841060",
       "shortName": "BRA @ MIR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "5'",
       "start": "2026-04-05T23:00Z",
       "teams": [
         {
