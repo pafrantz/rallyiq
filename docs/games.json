@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-05T21:23:36.103Z",
+  "ts": "2026-04-05T21:39:17.420Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841058",
       "shortName": "CAP @ CAM",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+1'",
+      "period": 2,
+      "clock": "46'",
       "start": "2026-04-05T20:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841067",
       "shortName": "SAN @ FLA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "45'",
       "start": "2026-04-05T20:30Z",
       "teams": [
         {
