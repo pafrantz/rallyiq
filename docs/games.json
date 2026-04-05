@@ -1,42 +1,15 @@
 {
-  "ts": "2026-04-05T01:01:56.243Z",
+  "ts": "2026-04-05T01:41:58.493Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841063",
-      "shortName": "FLU @ CFC",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "69'",
-      "start": "2026-04-04T23:30Z",
-      "teams": [
-        {
-          "id": "3456",
-          "homeAway": "home",
-          "abbreviation": "CFC",
-          "displayName": "Coritiba",
-          "score": 0
-        },
-        {
-          "id": "3445",
-          "homeAway": "away",
-          "abbreviation": "FLU",
-          "displayName": "Fluminense",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841062",
       "shortName": "BOT @ VAS",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "76'",
       "start": "2026-04-05T00:00Z",
       "teams": [
         {
@@ -44,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "VAS",
           "displayName": "Vasco da Gama",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6086",
           "homeAway": "away",
           "abbreviation": "BOT",
           "displayName": "Botafogo",
-          "score": 0
+          "score": 1
         }
       ]
     },
