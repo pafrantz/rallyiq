@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-04T23:56:18.543Z",
+  "ts": "2026-04-05T00:18:58.149Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "24'",
+      "clock": "45'+3'",
       "start": "2026-04-04T23:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841062",
       "shortName": "BOT @ VAS",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "17'",
       "start": "2026-04-05T00:00Z",
       "teams": [
         {
