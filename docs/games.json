@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-05T22:00:10.012Z",
+  "ts": "2026-04-05T22:13:04.667Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "70'",
+      "clock": "83'",
       "start": "2026-04-05T20:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CAM",
           "displayName": "Atlético-MG",
-          "score": 1
+          "score": 2
         },
         {
           "id": "3458",
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "67'",
+      "clock": "81'",
       "start": "2026-04-05T20:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "FLA",
           "displayName": "Flamengo",
-          "score": 1
+          "score": 2
         },
         {
           "id": "2674",
