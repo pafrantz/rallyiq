@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-05T23:33:58.890Z",
+  "ts": "2026-04-05T23:49:10.261Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841066",
       "shortName": "PAL @ BAH",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "55'",
       "start": "2026-04-05T22:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841064",
       "shortName": "INT @ COR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "54'",
       "start": "2026-04-05T22:30Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "33'",
+      "clock": "45'+3'",
       "start": "2026-04-05T23:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "2'",
+      "clock": "18'",
       "start": "2026-04-05T23:30Z",
       "teams": [
         {
