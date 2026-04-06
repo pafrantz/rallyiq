@@ -1,69 +1,15 @@
 {
-  "ts": "2026-04-06T00:01:12.624Z",
+  "ts": "2026-04-06T00:56:21.051Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841066",
-      "shortName": "PAL @ BAH",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "68'",
-      "start": "2026-04-05T22:30Z",
-      "teams": [
-        {
-          "id": "9967",
-          "homeAway": "home",
-          "abbreviation": "BAH",
-          "displayName": "Bahia",
-          "score": 1
-        },
-        {
-          "id": "2029",
-          "homeAway": "away",
-          "abbreviation": "PAL",
-          "displayName": "Palmeiras",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841064",
-      "shortName": "INT @ COR",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "65'",
-      "start": "2026-04-05T22:30Z",
-      "teams": [
-        {
-          "id": "874",
-          "homeAway": "home",
-          "abbreviation": "COR",
-          "displayName": "Corinthians",
-          "score": 0
-        },
-        {
-          "id": "1936",
-          "homeAway": "away",
-          "abbreviation": "INT",
-          "displayName": "Internacional",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841060",
       "shortName": "BRA @ MIR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "90'+4'",
       "start": "2026-04-05T23:00Z",
       "teams": [
         {
@@ -78,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BRA",
           "displayName": "Red Bull Bragantino",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -87,10 +33,10 @@
       "league": "bra.1",
       "id": "401841061",
       "shortName": "REMO @ GRE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "29'",
+      "period": 2,
+      "clock": "61'",
       "start": "2026-04-05T23:30Z",
       "teams": [
         {
