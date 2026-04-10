@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-10T20:33:01.435Z",
+  "ts": "2026-04-10T20:51:29.968Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "74'",
+      "clock": "90'+3'",
       "start": "2026-04-10T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "WHU",
           "displayName": "West Ham United",
-          "score": 3
+          "score": 4
         },
         {
           "id": "380",
