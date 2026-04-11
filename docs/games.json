@@ -1,33 +1,6 @@
 {
-  "ts": "2026-04-11T21:56:44.180Z",
+  "ts": "2026-04-11T22:06:55.081Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841075",
-      "shortName": "VAS @ REMO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+6'",
-      "start": "2026-04-11T19:30Z",
-      "teams": [
-        {
-          "id": "4936",
-          "homeAway": "home",
-          "abbreviation": "REMO",
-          "displayName": "Remo",
-          "score": 1
-        },
-        {
-          "id": "3454",
-          "homeAway": "away",
-          "abbreviation": "VAS",
-          "displayName": "Vasco da Gama",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "26'",
+      "clock": "32'",
       "start": "2026-04-11T21:30Z",
       "teams": [
         {
