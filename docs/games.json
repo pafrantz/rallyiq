@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-11T19:55:48.713Z",
+  "ts": "2026-04-11T20:04:50.793Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841075",
       "shortName": "VAS @ REMO",
-      "status": "STATUS_DELAYED",
+      "status": "STATUS_FIRST_HALF",
       "state": "IN",
-      "period": null,
-      "clock": "0'",
+      "period": 1,
+      "clock": "5'",
       "start": "2026-04-11T19:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "22'",
+      "clock": "33'",
       "start": "2026-04-11T19:30Z",
       "teams": [
         {
