@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-11T14:24:40.810Z",
+  "ts": "2026-04-11T14:41:14.634Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "23'",
+      "clock": "40'",
       "start": "2026-04-11T14:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "EVE",
           "displayName": "Everton",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "21'",
+      "clock": "39'",
       "start": "2026-04-11T14:00Z",
       "teams": [
         {
