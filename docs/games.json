@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-11T21:14:41.345Z",
+  "ts": "2026-04-11T21:28:16.555Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "54'",
+      "clock": "68'",
       "start": "2026-04-11T19:30Z",
       "teams": [
         {
@@ -24,34 +24,7 @@
           "homeAway": "away",
           "abbreviation": "VAS",
           "displayName": "Vasco da Gama",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841073",
-      "shortName": "SAO @ VIT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "83'",
-      "start": "2026-04-11T19:30Z",
-      "teams": [
-        {
-          "id": "3457",
-          "homeAway": "home",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
           "score": 1
-        },
-        {
-          "id": "2026",
-          "homeAway": "away",
-          "abbreviation": "SAO",
-          "displayName": "São Paulo",
-          "score": 0
         }
       ]
     },
