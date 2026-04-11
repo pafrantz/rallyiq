@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-11T12:08:29.860Z",
+  "ts": "2026-04-11T12:23:46.625Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740908",
       "shortName": "BOU @ ARS",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "37'",
+      "clock": "45'+3'",
       "start": "2026-04-11T11:30Z",
       "teams": [
         {
