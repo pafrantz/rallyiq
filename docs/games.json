@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-12T14:36:40.648Z",
+  "ts": "2026-04-12T14:55:12.455Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "90'+5'",
       "start": "2026-04-12T13:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CRY",
           "displayName": "Crystal Palace",
-          "score": 0
+          "score": 2
         },
         {
           "id": "361",
@@ -31,39 +31,12 @@
     {
       "sport": "soccer",
       "league": "eng.1",
-      "id": "740914",
-      "shortName": "AVL @ NFO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "77'",
-      "start": "2026-04-12T13:00Z",
-      "teams": [
-        {
-          "id": "393",
-          "homeAway": "home",
-          "abbreviation": "NFO",
-          "displayName": "Nottingham Forest",
-          "score": 1
-        },
-        {
-          "id": "362",
-          "homeAway": "away",
-          "abbreviation": "AVL",
-          "displayName": "Aston Villa",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
       "id": "740915",
       "shortName": "TOT @ SUN",
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "75'",
+      "clock": "90'+4'",
       "start": "2026-04-12T13:00Z",
       "teams": [
         {
@@ -87,10 +60,10 @@
       "league": "bra.1",
       "id": "401841071",
       "shortName": "CHA @ CAP",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "33'",
+      "clock": "45'+6'",
       "start": "2026-04-12T14:00Z",
       "teams": [
         {
