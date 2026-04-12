@@ -1,33 +1,6 @@
 {
-  "ts": "2026-04-12T22:46:42.758Z",
+  "ts": "2026-04-12T23:01:41.207Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841072",
-      "shortName": "FLA @ FLU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "85'",
-      "start": "2026-04-12T21:00Z",
-      "teams": [
-        {
-          "id": "3445",
-          "homeAway": "home",
-          "abbreviation": "FLU",
-          "displayName": "Fluminense",
-          "score": 1
-        },
-        {
-          "id": "819",
-          "homeAway": "away",
-          "abbreviation": "FLA",
-          "displayName": "Flamengo",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "55'",
+      "clock": "68'",
       "start": "2026-04-12T21:30Z",
       "teams": [
         {
@@ -63,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "56'",
+      "clock": "71'",
       "start": "2026-04-12T21:30Z",
       "teams": [
         {
