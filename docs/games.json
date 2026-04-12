@@ -1,4 +1,113 @@
 {
-  "ts": "2026-04-12T06:45:36.935Z",
-  "games": []
+  "ts": "2026-04-12T07:13:58.537Z",
+  "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740910",
+      "shortName": "NEW @ CRY",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-04-12T13:00Z",
+      "teams": [
+        {
+          "id": "384",
+          "homeAway": "home",
+          "abbreviation": "CRY",
+          "displayName": "Crystal Palace",
+          "score": 0
+        },
+        {
+          "id": "361",
+          "homeAway": "away",
+          "abbreviation": "NEW",
+          "displayName": "Newcastle United",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740914",
+      "shortName": "AVL @ NFO",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-04-12T13:00Z",
+      "teams": [
+        {
+          "id": "393",
+          "homeAway": "home",
+          "abbreviation": "NFO",
+          "displayName": "Nottingham Forest",
+          "score": 0
+        },
+        {
+          "id": "362",
+          "homeAway": "away",
+          "abbreviation": "AVL",
+          "displayName": "Aston Villa",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740915",
+      "shortName": "TOT @ SUN",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-04-12T13:00Z",
+      "teams": [
+        {
+          "id": "366",
+          "homeAway": "home",
+          "abbreviation": "SUN",
+          "displayName": "Sunderland",
+          "score": 0
+        },
+        {
+          "id": "367",
+          "homeAway": "away",
+          "abbreviation": "TOT",
+          "displayName": "Tottenham Hotspur",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740909",
+      "shortName": "MNC @ CHE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-04-12T15:30Z",
+      "teams": [
+        {
+          "id": "363",
+          "homeAway": "home",
+          "abbreviation": "CHE",
+          "displayName": "Chelsea",
+          "score": 0
+        },
+        {
+          "id": "382",
+          "homeAway": "away",
+          "abbreviation": "MNC",
+          "displayName": "Manchester City",
+          "score": 0
+        }
+      ]
+    }
+  ]
 }
