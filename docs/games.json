@@ -1,69 +1,15 @@
 {
-  "ts": "2026-04-12T14:55:12.455Z",
+  "ts": "2026-04-12T15:09:22.548Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740910",
-      "shortName": "NEW @ CRY",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+5'",
-      "start": "2026-04-12T13:00Z",
-      "teams": [
-        {
-          "id": "384",
-          "homeAway": "home",
-          "abbreviation": "CRY",
-          "displayName": "Crystal Palace",
-          "score": 2
-        },
-        {
-          "id": "361",
-          "homeAway": "away",
-          "abbreviation": "NEW",
-          "displayName": "Newcastle United",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740915",
-      "shortName": "TOT @ SUN",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2026-04-12T13:00Z",
-      "teams": [
-        {
-          "id": "366",
-          "homeAway": "home",
-          "abbreviation": "SUN",
-          "displayName": "Sunderland",
-          "score": 1
-        },
-        {
-          "id": "367",
-          "homeAway": "away",
-          "abbreviation": "TOT",
-          "displayName": "Tottenham Hotspur",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841071",
       "shortName": "CHA @ CAP",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "48'",
       "start": "2026-04-12T14:00Z",
       "teams": [
         {
