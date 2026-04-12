@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-12T20:17:25.559Z",
+  "ts": "2026-04-12T20:32:08.517Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "52'",
+      "clock": "68'",
       "start": "2026-04-12T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BOT",
           "displayName": "Botafogo",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3456",
