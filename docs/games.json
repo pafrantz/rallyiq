@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-12T15:23:03.569Z",
+  "ts": "2026-04-12T15:39:23.327Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "61'",
+      "clock": "78'",
       "start": "2026-04-12T14:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740909",
       "shortName": "MNC @ CHE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "9'",
       "start": "2026-04-12T15:30Z",
       "teams": [
         {
