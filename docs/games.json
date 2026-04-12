@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-12T16:05:14.626Z",
+  "ts": "2026-04-12T16:19:13.867Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740909",
       "shortName": "MNC @ CHE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "34'",
+      "clock": "45'+2'",
       "start": "2026-04-12T15:30Z",
       "teams": [
         {
