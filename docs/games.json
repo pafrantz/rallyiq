@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-12T19:23:56.628Z",
+  "ts": "2026-04-12T19:40:49.667Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "20'",
+      "clock": "37'",
       "start": "2026-04-12T19:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "CFC",
           "displayName": "Coritiba",
-          "score": 0
+          "score": 1
         }
       ]
     },
