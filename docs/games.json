@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-12T00:00:17.663Z",
+  "ts": "2026-04-12T00:58:42.448Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841074",
       "shortName": "CAM @ SAN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "89'",
       "start": "2026-04-11T23:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "SAN",
           "displayName": "Santos",
-          "score": 0
+          "score": 1
         },
         {
           "id": "7632",
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841077",
       "shortName": "GRE @ INT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "27'",
+      "period": 2,
+      "clock": "67'",
       "start": "2026-04-11T23:30Z",
       "teams": [
         {
