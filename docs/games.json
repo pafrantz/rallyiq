@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-18T12:01:45.114Z",
+  "ts": "2026-04-18T12:23:27.484Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740921",
       "shortName": "FUL @ BRE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "30'",
+      "clock": "45'+3'",
       "start": "2026-04-18T11:30Z",
       "teams": [
         {
