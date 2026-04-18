@@ -1,33 +1,6 @@
 {
-  "ts": "2026-04-18T23:32:23.561Z",
+  "ts": "2026-04-18T23:49:03.771Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841081",
-      "shortName": "SAO @ VAS",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+8'",
-      "start": "2026-04-18T21:30Z",
-      "teams": [
-        {
-          "id": "3454",
-          "homeAway": "home",
-          "abbreviation": "VAS",
-          "displayName": "Vasco da Gama",
-          "score": 2
-        },
-        {
-          "id": "2026",
-          "homeAway": "away",
-          "abbreviation": "SAO",
-          "displayName": "São Paulo",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "29'",
+      "clock": "45'+1'",
       "start": "2026-04-18T23:00Z",
       "teams": [
         {
@@ -63,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "1'",
+      "clock": "18'",
       "start": "2026-04-18T23:30Z",
       "teams": [
         {
