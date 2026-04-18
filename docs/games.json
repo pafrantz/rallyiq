@@ -1,33 +1,6 @@
 {
-  "ts": "2026-04-18T13:08:01.942Z",
+  "ts": "2026-04-18T13:37:18.501Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740921",
-      "shortName": "FUL @ BRE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "79'",
-      "start": "2026-04-18T11:30Z",
-      "teams": [
-        {
-          "id": "337",
-          "homeAway": "home",
-          "abbreviation": "BRE",
-          "displayName": "Brentford",
-          "score": 0
-        },
-        {
-          "id": "370",
-          "homeAway": "away",
-          "abbreviation": "FUL",
-          "displayName": "Fulham",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
