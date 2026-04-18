@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-18T19:43:17.424Z",
+  "ts": "2026-04-18T19:56:48.025Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740922",
       "shortName": "MAN @ CHE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "43'",
+      "clock": "45'+6'",
       "start": "2026-04-18T19:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "MAN",
           "displayName": "Manchester United",
-          "score": 0
+          "score": 1
         }
       ]
     },
