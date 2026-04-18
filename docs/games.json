@@ -1,33 +1,6 @@
 {
-  "ts": "2026-04-18T18:24:07.251Z",
+  "ts": "2026-04-18T18:42:31.913Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740920",
-      "shortName": "BHA @ TOT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2026-04-18T16:30Z",
-      "teams": [
-        {
-          "id": "367",
-          "homeAway": "home",
-          "abbreviation": "TOT",
-          "displayName": "Tottenham Hotspur",
-          "score": 2
-        },
-        {
-          "id": "331",
-          "homeAway": "away",
-          "abbreviation": "BHA",
-          "displayName": "Brighton & Hove Albion",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
