@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-18T18:42:31.913Z",
+  "ts": "2026-04-18T19:05:37.768Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740922",
       "shortName": "MAN @ CHE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "5'",
       "start": "2026-04-18T19:00Z",
       "teams": [
         {
