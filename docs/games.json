@@ -1,14 +1,14 @@
 {
-  "ts": "2026-04-19T18:41:21.916Z",
+  "ts": "2026-04-19T19:04:39.402Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841079",
       "shortName": "CAM @ CFC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-04-19T19:00Z",
       "teams": [
