@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-19T20:10:41.985Z",
+  "ts": "2026-04-19T20:23:49.874Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "47'",
+      "clock": "58'",
       "start": "2026-04-19T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CFC",
           "displayName": "Coritiba",
-          "score": 1
+          "score": 2
         },
         {
           "id": "7632",
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841082",
       "shortName": "FLU @ SAN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "53'",
       "start": "2026-04-19T19:00Z",
       "teams": [
         {
