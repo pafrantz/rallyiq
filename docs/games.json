@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-19T19:25:34.453Z",
+  "ts": "2026-04-19T19:42:54.312Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "24'",
+      "clock": "41'",
       "start": "2026-04-19T19:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "16'",
+      "clock": "33'",
       "start": "2026-04-19T19:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "FLU",
           "displayName": "Fluminense",
-          "score": 0
+          "score": 1
         }
       ]
     },
