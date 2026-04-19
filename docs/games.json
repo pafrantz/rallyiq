@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-19T14:37:20.255Z",
+  "ts": "2026-04-19T14:56:15.164Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "78'",
+      "clock": "90'+7'",
       "start": "2026-04-19T13:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "AVL",
           "displayName": "Aston Villa",
-          "score": 3
+          "score": 4
         },
         {
           "id": "366",
           "homeAway": "away",
           "abbreviation": "SUN",
           "displayName": "Sunderland",
-          "score": 1
+          "score": 3
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "78'",
+      "clock": "90'+5'",
       "start": "2026-04-19T13:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "90'+6'",
       "start": "2026-04-19T13:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "bra.1",
       "id": "401841085",
       "shortName": "MIR @ INT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "36'",
+      "clock": "45'+7'",
       "start": "2026-04-19T14:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "MIR",
           "displayName": "Mirassol",
-          "score": 1
+          "score": 2
         }
       ]
     },
