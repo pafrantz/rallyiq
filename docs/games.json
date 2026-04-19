@@ -1,33 +1,6 @@
 {
-  "ts": "2026-04-19T17:20:55.931Z",
+  "ts": "2026-04-19T17:36:33.156Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740916",
-      "shortName": "ARS @ MNC",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+1'",
-      "start": "2026-04-19T15:30Z",
-      "teams": [
-        {
-          "id": "382",
-          "homeAway": "home",
-          "abbreviation": "MNC",
-          "displayName": "Manchester City",
-          "score": 2
-        },
-        {
-          "id": "359",
-          "homeAway": "away",
-          "abbreviation": "ARS",
-          "displayName": "Arsenal",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
