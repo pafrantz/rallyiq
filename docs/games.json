@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-19T12:42:59.198Z",
+  "ts": "2026-04-19T13:09:15.576Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740919",
       "shortName": "SUN @ AVL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "8'",
       "start": "2026-04-19T13:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "AVL",
           "displayName": "Aston Villa",
-          "score": 0
+          "score": 1
         },
         {
           "id": "366",
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740925",
       "shortName": "LIV @ EVE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "7'",
       "start": "2026-04-19T13:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740917",
       "shortName": "BUR @ NFO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "9'",
       "start": "2026-04-19T13:00Z",
       "teams": [
         {
