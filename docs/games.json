@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-19T19:04:39.402Z",
+  "ts": "2026-04-19T19:25:34.453Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "0'",
+      "clock": "24'",
       "start": "2026-04-19T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CFC",
           "displayName": "Coritiba",
-          "score": 0
+          "score": 1
         },
         {
           "id": "7632",
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841082",
       "shortName": "FLU @ SAN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "16'",
       "start": "2026-04-19T19:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "SAN",
           "displayName": "Santos",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3445",
