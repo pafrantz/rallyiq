@@ -1,32 +1,4 @@
 {
-  "ts": "2026-04-19T01:01:55.656Z",
-  "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841087",
-      "shortName": "GRE @ CRU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "66'",
-      "start": "2026-04-18T23:30Z",
-      "teams": [
-        {
-          "id": "2022",
-          "homeAway": "home",
-          "abbreviation": "CRU",
-          "displayName": "Cruzeiro",
-          "score": 2
-        },
-        {
-          "id": "6273",
-          "homeAway": "away",
-          "abbreviation": "GRE",
-          "displayName": "Grêmio",
-          "score": 0
-        }
-      ]
-    }
-  ]
+  "ts": "2026-04-19T01:42:03.084Z",
+  "games": []
 }
