@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-19T16:30:24.542Z",
+  "ts": "2026-04-19T16:49:55.950Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740916",
       "shortName": "ARS @ MNC",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "62'",
       "start": "2026-04-19T15:30Z",
       "teams": [
         {
