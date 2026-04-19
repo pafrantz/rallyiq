@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-18T23:49:03.771Z",
+  "ts": "2026-04-19T00:02:16.390Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841080",
       "shortName": "COR @ VIT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+1'",
+      "clock": "45'+5'",
       "start": "2026-04-18T23:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "18'",
+      "clock": "31'",
       "start": "2026-04-18T23:30Z",
       "teams": [
         {
