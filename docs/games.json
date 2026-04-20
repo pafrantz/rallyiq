@@ -1,32 +1,4 @@
 {
-  "ts": "2026-04-20T00:05:22.092Z",
-  "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841086",
-      "shortName": "BAH @ FLA",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "74'",
-      "start": "2026-04-19T22:30Z",
-      "teams": [
-        {
-          "id": "819",
-          "homeAway": "home",
-          "abbreviation": "FLA",
-          "displayName": "Flamengo",
-          "score": 1
-        },
-        {
-          "id": "9967",
-          "homeAway": "away",
-          "abbreviation": "BAH",
-          "displayName": "Bahia",
-          "score": 0
-        }
-      ]
-    }
-  ]
+  "ts": "2026-04-20T01:01:33.649Z",
+  "games": []
 }
