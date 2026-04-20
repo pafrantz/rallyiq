@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-20T19:53:32.993Z",
+  "ts": "2026-04-20T20:10:02.191Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740923",
       "shortName": "WHU @ CRY",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "50'",
       "start": "2026-04-20T19:00Z",
       "teams": [
         {
