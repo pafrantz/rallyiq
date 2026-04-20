@@ -1,32 +1,4 @@
 {
-  "ts": "2026-04-20T20:46:24.057Z",
-  "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740923",
-      "shortName": "WHU @ CRY",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "86'",
-      "start": "2026-04-20T19:00Z",
-      "teams": [
-        {
-          "id": "384",
-          "homeAway": "home",
-          "abbreviation": "CRY",
-          "displayName": "Crystal Palace",
-          "score": 0
-        },
-        {
-          "id": "371",
-          "homeAway": "away",
-          "abbreviation": "WHU",
-          "displayName": "West Ham United",
-          "score": 0
-        }
-      ]
-    }
-  ]
+  "ts": "2026-04-20T21:04:02.413Z",
+  "games": []
 }
