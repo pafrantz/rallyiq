@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-21T20:02:36.104Z",
+  "ts": "2026-04-21T20:26:02.952Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740928",
       "shortName": "CHE @ BHA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+1'",
+      "period": 2,
+      "clock": "67'",
       "start": "2026-04-21T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BHA",
           "displayName": "Brighton & Hove Albion",
-          "score": 1
+          "score": 2
         },
         {
           "id": "363",
