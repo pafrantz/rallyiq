@@ -1,6 +1,33 @@
 {
-  "ts": "2026-04-23T03:50:23.233Z",
+  "ts": "2026-04-23T04:50:38.397Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740933",
+      "shortName": "NFO @ SUN",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-04-24T19:00Z",
+      "teams": [
+        {
+          "id": "366",
+          "homeAway": "home",
+          "abbreviation": "SUN",
+          "displayName": "Sunderland",
+          "score": 0
+        },
+        {
+          "id": "393",
+          "homeAway": "away",
+          "abbreviation": "NFO",
+          "displayName": "Nottingham Forest",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "soccer",
       "league": "bra.1",
