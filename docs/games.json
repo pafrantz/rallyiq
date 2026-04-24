@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-24T20:01:57.576Z",
+  "ts": "2026-04-24T20:23:53.709Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740933",
       "shortName": "NFO @ SUN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "65'",
       "start": "2026-04-24T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "SUN",
           "displayName": "Sunderland",
-          "score": 0
+          "score": 1
         },
         {
           "id": "393",
