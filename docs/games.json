@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-24T19:43:12.900Z",
+  "ts": "2026-04-24T20:01:57.576Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740933",
       "shortName": "NFO @ SUN",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "43'",
+      "clock": "45'+4'",
       "start": "2026-04-24T19:00Z",
       "teams": [
         {
