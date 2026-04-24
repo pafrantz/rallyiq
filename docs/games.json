@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-24T18:59:21.237Z",
+  "ts": "2026-04-24T19:24:04.187Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740933",
       "shortName": "NFO @ SUN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "23'",
       "start": "2026-04-24T19:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "NFO",
           "displayName": "Nottingham Forest",
-          "score": 0
+          "score": 1
         }
       ]
     },
