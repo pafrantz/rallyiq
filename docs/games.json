@@ -1,6 +1,141 @@
 {
-  "ts": "2026-04-25T06:38:59.736Z",
+  "ts": "2026-04-25T07:05:42.244Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740935",
+      "shortName": "AVL @ FUL",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-04-25T11:30Z",
+      "teams": [
+        {
+          "id": "370",
+          "homeAway": "home",
+          "abbreviation": "FUL",
+          "displayName": "Fulham",
+          "score": 0
+        },
+        {
+          "id": "362",
+          "homeAway": "away",
+          "abbreviation": "AVL",
+          "displayName": "Aston Villa",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740927",
+      "shortName": "CRY @ LIV",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-04-25T14:00Z",
+      "teams": [
+        {
+          "id": "364",
+          "homeAway": "home",
+          "abbreviation": "LIV",
+          "displayName": "Liverpool",
+          "score": 0
+        },
+        {
+          "id": "384",
+          "homeAway": "away",
+          "abbreviation": "CRY",
+          "displayName": "Crystal Palace",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740930",
+      "shortName": "EVE @ WHU",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-04-25T14:00Z",
+      "teams": [
+        {
+          "id": "371",
+          "homeAway": "home",
+          "abbreviation": "WHU",
+          "displayName": "West Ham United",
+          "score": 0
+        },
+        {
+          "id": "368",
+          "homeAway": "away",
+          "abbreviation": "EVE",
+          "displayName": "Everton",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740934",
+      "shortName": "TOT @ WOL",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-04-25T14:00Z",
+      "teams": [
+        {
+          "id": "380",
+          "homeAway": "home",
+          "abbreviation": "WOL",
+          "displayName": "Wolverhampton Wanderers",
+          "score": 0
+        },
+        {
+          "id": "367",
+          "homeAway": "away",
+          "abbreviation": "TOT",
+          "displayName": "Tottenham Hotspur",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740931",
+      "shortName": "NEW @ ARS",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-04-25T16:30Z",
+      "teams": [
+        {
+          "id": "359",
+          "homeAway": "home",
+          "abbreviation": "ARS",
+          "displayName": "Arsenal",
+          "score": 0
+        },
+        {
+          "id": "361",
+          "homeAway": "away",
+          "abbreviation": "NEW",
+          "displayName": "Newcastle United",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "soccer",
       "league": "bra.1",
