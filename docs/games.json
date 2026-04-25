@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-25T15:03:14.386Z",
+  "ts": "2026-04-25T15:22:06.833Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740927",
       "shortName": "CRY @ LIV",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "62'",
       "start": "2026-04-25T14:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740930",
       "shortName": "EVE @ WHU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "63'",
       "start": "2026-04-25T14:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "WHU",
           "displayName": "West Ham United",
-          "score": 0
+          "score": 1
         },
         {
           "id": "368",
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740934",
       "shortName": "TOT @ WOL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "61'",
       "start": "2026-04-25T14:00Z",
       "teams": [
         {
