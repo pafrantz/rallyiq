@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-25T13:48:56.036Z",
+  "ts": "2026-04-25T14:08:47.174Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740927",
       "shortName": "CRY @ LIV",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "8'",
       "start": "2026-04-25T14:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740930",
       "shortName": "EVE @ WHU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "4'",
       "start": "2026-04-25T14:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740934",
       "shortName": "TOT @ WOL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "8'",
       "start": "2026-04-25T14:00Z",
       "teams": [
         {
