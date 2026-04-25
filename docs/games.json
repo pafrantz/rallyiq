@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-25T11:56:57.183Z",
+  "ts": "2026-04-25T12:14:44.115Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "26'",
+      "clock": "44'",
       "start": "2026-04-25T11:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "FUL",
           "displayName": "Fulham",
-          "score": 0
+          "score": 1
         },
         {
           "id": "362",
