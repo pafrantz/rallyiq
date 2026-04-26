@@ -1,32 +1,4 @@
 {
-  "ts": "2026-04-26T01:49:31.614Z",
-  "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841092",
-      "shortName": "MIR @ SAO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "87'",
-      "start": "2026-04-26T00:00Z",
-      "teams": [
-        {
-          "id": "2026",
-          "homeAway": "home",
-          "abbreviation": "SAO",
-          "displayName": "São Paulo",
-          "score": 1
-        },
-        {
-          "id": "9169",
-          "homeAway": "away",
-          "abbreviation": "MIR",
-          "displayName": "Mirassol",
-          "score": 0
-        }
-      ]
-    }
-  ]
+  "ts": "2026-04-26T02:49:39.320Z",
+  "games": []
 }
