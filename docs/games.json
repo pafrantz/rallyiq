@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-26T01:08:11.553Z",
+  "ts": "2026-04-26T01:49:31.614Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "45'",
+      "clock": "87'",
       "start": "2026-04-26T00:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "SAO",
           "displayName": "São Paulo",
-          "score": 0
+          "score": 1
         },
         {
           "id": "9169",
