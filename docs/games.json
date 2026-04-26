@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-26T21:55:13.757Z",
+  "ts": "2026-04-26T22:07:27.726Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "24'",
+      "clock": "37'",
       "start": "2026-04-26T21:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CAP",
           "displayName": "Athletico-PR",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3457",
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "23'",
+      "clock": "35'",
       "start": "2026-04-26T21:30Z",
       "teams": [
         {
