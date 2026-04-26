@@ -1,4 +1,32 @@
 {
-  "ts": "2026-04-26T04:03:45.839Z",
-  "games": []
+  "ts": "2026-04-26T05:10:52.735Z",
+  "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740932",
+      "shortName": "BRE @ MAN",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-04-27T19:00Z",
+      "teams": [
+        {
+          "id": "360",
+          "homeAway": "home",
+          "abbreviation": "MAN",
+          "displayName": "Manchester United",
+          "score": 0
+        },
+        {
+          "id": "337",
+          "homeAway": "away",
+          "abbreviation": "BRE",
+          "displayName": "Brentford",
+          "score": 0
+        }
+      ]
+    }
+  ]
 }
