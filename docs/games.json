@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-26T19:49:21.215Z",
+  "ts": "2026-04-26T20:03:20.662Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841089",
       "shortName": "VAS @ COR",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+1'",
+      "clock": "45'+9'",
       "start": "2026-04-26T19:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841091",
       "shortName": "CFC @ GRE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+2'",
+      "clock": "45'+11'",
       "start": "2026-04-26T19:00Z",
       "teams": [
         {
