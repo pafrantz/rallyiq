@@ -1,5 +1,5 @@
 {
-  "ts": "2026-04-26T22:37:44.816Z",
+  "ts": "2026-04-26T22:56:30.433Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "45'",
+      "clock": "64'",
       "start": "2026-04-26T21:30Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "47'",
+      "clock": "65'",
       "start": "2026-04-26T21:30Z",
       "teams": [
         {
