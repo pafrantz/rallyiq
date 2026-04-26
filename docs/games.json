@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-26T22:07:27.726Z",
+  "ts": "2026-04-26T22:21:34.336Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841088",
       "shortName": "VIT @ CAP",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "37'",
+      "clock": "45'+6'",
       "start": "2026-04-26T21:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841097",
       "shortName": "PAL @ BRA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "35'",
+      "clock": "45'+4'",
       "start": "2026-04-26T21:30Z",
       "teams": [
         {
