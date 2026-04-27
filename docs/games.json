@@ -1,15 +1,15 @@
 {
-  "ts": "2026-04-27T19:17:22.222Z",
+  "ts": "2026-04-27T19:50:25.925Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740932",
       "shortName": "BRE @ MAN",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "17'",
+      "clock": "45'+3'",
       "start": "2026-04-27T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "MAN",
           "displayName": "Manchester United",
-          "score": 1
+          "score": 2
         },
         {
           "id": "337",
