@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-01T18:56:35.722Z",
+  "ts": "2026-05-01T19:28:01.006Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740942",
       "shortName": "BUR @ LEE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "27'",
       "start": "2026-05-01T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "LEE",
           "displayName": "Leeds United",
-          "score": 0
+          "score": 1
         },
         {
           "id": "379",
