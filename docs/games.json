@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-01T20:12:49.752Z",
+  "ts": "2026-05-01T20:32:35.711Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "55'",
+      "clock": "75'",
       "start": "2026-05-01T19:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "LEE",
           "displayName": "Leeds United",
-          "score": 2
+          "score": 3
         },
         {
           "id": "379",
           "homeAway": "away",
           "abbreviation": "BUR",
           "displayName": "Burnley",
-          "score": 0
+          "score": 1
         }
       ]
     },
