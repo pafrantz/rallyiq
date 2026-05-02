@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-02T22:12:27.361Z",
+  "ts": "2026-05-02T22:26:17.463Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841102",
       "shortName": "SAN @ PAL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "39'",
+      "clock": "45'+4'",
       "start": "2026-05-02T21:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841100",
       "shortName": "CFC @ VIT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "41'",
+      "clock": "45'+5'",
       "start": "2026-05-02T21:30Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "CFC",
           "displayName": "Coritiba",
-          "score": 0
+          "score": 1
         }
       ]
     },
