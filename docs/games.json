@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-02T21:21:24.713Z",
+  "ts": "2026-05-02T21:37:49.321Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841102",
       "shortName": "SAN @ PAL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "4'",
       "start": "2026-05-02T21:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841100",
       "shortName": "CFC @ VIT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "5'",
       "start": "2026-05-02T21:30Z",
       "teams": [
         {
