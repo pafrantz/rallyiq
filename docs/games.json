@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-02T19:56:59.442Z",
+  "ts": "2026-05-02T20:12:48.240Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841107",
       "shortName": "REMO @ BOT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "50'",
       "start": "2026-05-02T19:00Z",
       "teams": [
         {
