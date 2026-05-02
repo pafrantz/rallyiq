@@ -1,33 +1,6 @@
 {
-  "ts": "2026-05-02T20:45:27.451Z",
+  "ts": "2026-05-02T21:02:25.215Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841107",
-      "shortName": "REMO @ BOT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "82'",
-      "start": "2026-05-02T19:00Z",
-      "teams": [
-        {
-          "id": "6086",
-          "homeAway": "home",
-          "abbreviation": "BOT",
-          "displayName": "Botafogo",
-          "score": 1
-        },
-        {
-          "id": "4936",
-          "homeAway": "away",
-          "abbreviation": "REMO",
-          "displayName": "Remo",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
