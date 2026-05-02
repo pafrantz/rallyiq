@@ -1,33 +1,6 @@
 {
-  "ts": "2026-05-02T18:03:41.201Z",
+  "ts": "2026-05-02T18:28:34.255Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740936",
-      "shortName": "FUL @ ARS",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "72'",
-      "start": "2026-05-02T16:30Z",
-      "teams": [
-        {
-          "id": "359",
-          "homeAway": "home",
-          "abbreviation": "ARS",
-          "displayName": "Arsenal",
-          "score": 3
-        },
-        {
-          "id": "370",
-          "homeAway": "away",
-          "abbreviation": "FUL",
-          "displayName": "Fulham",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
