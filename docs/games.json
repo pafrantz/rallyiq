@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-02T14:32:23.603Z",
+  "ts": "2026-05-02T14:53:04.245Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740939",
       "shortName": "WHU @ BRE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "31'",
+      "clock": "45'+4'",
       "start": "2026-05-02T14:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740944",
       "shortName": "BHA @ NEW",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "31'",
+      "clock": "45'+5'",
       "start": "2026-05-02T14:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740945",
       "shortName": "SUN @ WOL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "31'",
+      "clock": "45'+5'",
       "start": "2026-05-02T14:00Z",
       "teams": [
         {
