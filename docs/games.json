@@ -1,69 +1,15 @@
 {
-  "ts": "2026-05-02T23:22:45.042Z",
+  "ts": "2026-05-02T23:39:51.886Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841102",
-      "shortName": "SAN @ PAL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'",
-      "start": "2026-05-02T21:30Z",
-      "teams": [
-        {
-          "id": "2029",
-          "homeAway": "home",
-          "abbreviation": "PAL",
-          "displayName": "Palmeiras",
-          "score": 1
-        },
-        {
-          "id": "2674",
-          "homeAway": "away",
-          "abbreviation": "SAN",
-          "displayName": "Santos",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841100",
-      "shortName": "CFC @ VIT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "89'",
-      "start": "2026-05-02T21:30Z",
-      "teams": [
-        {
-          "id": "3457",
-          "homeAway": "home",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 4
-        },
-        {
-          "id": "3456",
-          "homeAway": "away",
-          "abbreviation": "CFC",
-          "displayName": "Coritiba",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841106",
       "shortName": "GRE @ CAP",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "8'",
       "start": "2026-05-02T23:30Z",
       "teams": [
         {
