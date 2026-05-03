@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-03T14:34:19.724Z",
+  "ts": "2026-05-03T14:55:42.271Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "73'",
+      "clock": "90'+4'",
       "start": "2026-05-03T13:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BOU",
           "displayName": "AFC Bournemouth",
-          "score": 2
+          "score": 3
         },
         {
           "id": "384",
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "3'",
+      "clock": "24'",
       "start": "2026-05-03T14:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "MAN",
           "displayName": "Manchester United",
-          "score": 0
+          "score": 2
         },
         {
           "id": "364",
