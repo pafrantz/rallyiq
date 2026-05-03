@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-03T17:49:28.226Z",
+  "ts": "2026-05-03T18:06:41.468Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740937",
       "shortName": "TOT @ AVL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "4'",
       "start": "2026-05-03T18:00Z",
       "teams": [
         {
