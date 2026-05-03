@@ -1,33 +1,6 @@
 {
-  "ts": "2026-05-03T14:55:42.271Z",
+  "ts": "2026-05-03T15:12:50.280Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740938",
-      "shortName": "CRY @ BOU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2026-05-03T13:00Z",
-      "teams": [
-        {
-          "id": "349",
-          "homeAway": "home",
-          "abbreviation": "BOU",
-          "displayName": "AFC Bournemouth",
-          "score": 3
-        },
-        {
-          "id": "384",
-          "homeAway": "away",
-          "abbreviation": "CRY",
-          "displayName": "Crystal Palace",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "24'",
+      "clock": "41'",
       "start": "2026-05-03T14:30Z",
       "teams": [
         {
