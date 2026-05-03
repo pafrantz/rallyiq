@@ -1,32 +1,4 @@
 {
-  "ts": "2026-05-03T01:43:57.148Z",
-  "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841098",
-      "shortName": "CAM @ CRU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "80'",
-      "start": "2026-05-03T00:00Z",
-      "teams": [
-        {
-          "id": "2022",
-          "homeAway": "home",
-          "abbreviation": "CRU",
-          "displayName": "Cruzeiro",
-          "score": 0
-        },
-        {
-          "id": "7632",
-          "homeAway": "away",
-          "abbreviation": "CAM",
-          "displayName": "Atlético-MG",
-          "score": 3
-        }
-      ]
-    }
-  ]
+  "ts": "2026-05-03T02:41:57.926Z",
+  "games": []
 }
