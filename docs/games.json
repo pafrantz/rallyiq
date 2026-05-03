@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-03T12:51:18.850Z",
+  "ts": "2026-05-03T13:21:48.321Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740938",
       "shortName": "CRY @ BOU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "21'",
       "start": "2026-05-03T13:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BOU",
           "displayName": "AFC Bournemouth",
-          "score": 0
+          "score": 1
         },
         {
           "id": "384",
