@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-04T19:53:40.349Z",
+  "ts": "2026-05-04T20:23:18.241Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740941",
       "shortName": "MNC @ EVE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "64'",
       "start": "2026-05-04T19:00Z",
       "teams": [
         {
