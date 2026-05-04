@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-03T23:57:21.282Z",
+  "ts": "2026-05-04T00:41:48.680Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841103",
       "shortName": "COR @ MIR",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "21'",
+      "period": 2,
+      "clock": "45'",
       "start": "2026-05-03T23:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "MIR",
           "displayName": "Mirassol",
-          "score": 0
+          "score": 2
         },
         {
           "id": "874",
