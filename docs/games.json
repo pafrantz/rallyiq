@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-04T20:23:18.241Z",
+  "ts": "2026-05-04T20:49:38.241Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "64'",
+      "clock": "90'",
       "start": "2026-05-04T19:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "EVE",
           "displayName": "Everton",
-          "score": 0
+          "score": 3
         },
         {
           "id": "382",
           "homeAway": "away",
           "abbreviation": "MNC",
           "displayName": "Manchester City",
-          "score": 1
+          "score": 2
         }
       ]
     }
