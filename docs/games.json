@@ -1,33 +1,6 @@
 {
-  "ts": "2026-05-04T15:46:24.194Z",
+  "ts": "2026-05-04T16:22:35.403Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740940",
-      "shortName": "NFO @ CHE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "75'",
-      "start": "2026-05-04T14:00Z",
-      "teams": [
-        {
-          "id": "363",
-          "homeAway": "home",
-          "abbreviation": "CHE",
-          "displayName": "Chelsea",
-          "score": 0
-        },
-        {
-          "id": "393",
-          "homeAway": "away",
-          "abbreviation": "NFO",
-          "displayName": "Nottingham Forest",
-          "score": 3
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
