@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-04T14:14:51.761Z",
+  "ts": "2026-05-04T14:58:19.813Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "14'",
+      "clock": "45'+12'",
       "start": "2026-05-04T14:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "NFO",
           "displayName": "Nottingham Forest",
-          "score": 1
+          "score": 2
         }
       ]
     },
