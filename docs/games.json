@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-04T14:58:19.813Z",
+  "ts": "2026-05-04T15:46:24.194Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740940",
       "shortName": "NFO @ CHE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+12'",
+      "period": 2,
+      "clock": "75'",
       "start": "2026-05-04T14:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "NFO",
           "displayName": "Nottingham Forest",
-          "score": 2
+          "score": 3
         }
       ]
     },
