@@ -1,32 +1,4 @@
 {
-  "ts": "2026-05-04T20:49:38.241Z",
-  "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740941",
-      "shortName": "MNC @ EVE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'",
-      "start": "2026-05-04T19:00Z",
-      "teams": [
-        {
-          "id": "368",
-          "homeAway": "home",
-          "abbreviation": "EVE",
-          "displayName": "Everton",
-          "score": 3
-        },
-        {
-          "id": "382",
-          "homeAway": "away",
-          "abbreviation": "MNC",
-          "displayName": "Manchester City",
-          "score": 2
-        }
-      ]
-    }
-  ]
+  "ts": "2026-05-04T21:16:34.218Z",
+  "games": []
 }
