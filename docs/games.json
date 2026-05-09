@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-09T12:31:45.302Z",
+  "ts": "2026-05-09T12:54:37.150Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740950",
       "shortName": "CHE @ LIV",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "66'",
       "start": "2026-05-09T11:30Z",
       "teams": [
         {
