@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-09T17:43:49.491Z",
+  "ts": "2026-05-09T18:04:01.629Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "55'",
+      "clock": "77'",
       "start": "2026-05-09T16:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "MNC",
           "displayName": "Manchester City",
-          "score": 0
+          "score": 2
         },
         {
           "id": "337",
