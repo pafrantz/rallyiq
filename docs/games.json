@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-09T20:22:15.995Z",
+  "ts": "2026-05-09T20:39:28.604Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "55'",
+      "clock": "72'",
       "start": "2026-05-09T19:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "INT",
           "displayName": "Internacional",
-          "score": 0
+          "score": 1
         }
       ]
     },
