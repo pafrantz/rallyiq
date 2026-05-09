@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-09T14:51:00.975Z",
+  "ts": "2026-05-09T15:13:42.658Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740946",
       "shortName": "WOL @ BHA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "56'",
       "start": "2026-05-09T14:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740949",
       "shortName": "BOU @ FUL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "50'",
       "start": "2026-05-09T14:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740953",
       "shortName": "MAN @ SUN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "56'",
       "start": "2026-05-09T14:00Z",
       "teams": [
         {
