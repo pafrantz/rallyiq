@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-09T22:34:56.537Z",
+  "ts": "2026-05-09T22:56:18.411Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "73'",
+      "clock": "90'+5'",
       "start": "2026-05-09T21:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "FLU",
           "displayName": "Fluminense",
-          "score": 1
+          "score": 2
         },
         {
           "id": "3457",
