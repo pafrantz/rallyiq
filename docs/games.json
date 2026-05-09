@@ -1,33 +1,6 @@
 {
-  "ts": "2026-05-09T22:56:18.411Z",
+  "ts": "2026-05-09T23:16:04.851Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841113",
-      "shortName": "VIT @ FLU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+5'",
-      "start": "2026-05-09T21:00Z",
-      "teams": [
-        {
-          "id": "3445",
-          "homeAway": "home",
-          "abbreviation": "FLU",
-          "displayName": "Fluminense",
-          "score": 2
-        },
-        {
-          "id": "3457",
-          "homeAway": "away",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
