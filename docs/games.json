@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-09T19:42:38.482Z",
+  "ts": "2026-05-09T20:01:29.098Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841114",
       "shortName": "INT @ CFC",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "41'",
+      "clock": "45'+6'",
       "start": "2026-05-09T19:00Z",
       "teams": [
         {
