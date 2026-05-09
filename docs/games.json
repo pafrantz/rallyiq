@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-09T21:58:10.621Z",
+  "ts": "2026-05-09T22:18:55.220Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841113",
       "shortName": "VIT @ FLU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "58'",
       "start": "2026-05-09T21:00Z",
       "teams": [
         {
