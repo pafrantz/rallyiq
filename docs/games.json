@@ -1,32 +1,4 @@
 {
-  "ts": "2026-05-10T01:59:22.052Z",
-  "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841116",
-      "shortName": "CRU @ BAH",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2026-05-10T00:00Z",
-      "teams": [
-        {
-          "id": "9967",
-          "homeAway": "home",
-          "abbreviation": "BAH",
-          "displayName": "Bahia",
-          "score": 1
-        },
-        {
-          "id": "2022",
-          "homeAway": "away",
-          "abbreviation": "CRU",
-          "displayName": "Cruzeiro",
-          "score": 2
-        }
-      ]
-    }
-  ]
+  "ts": "2026-05-10T03:18:31.083Z",
+  "games": []
 }
