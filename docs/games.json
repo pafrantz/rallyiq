@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-10T16:24:05.899Z",
+  "ts": "2026-05-10T16:42:52.032Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740955",
       "shortName": "ARS @ WHU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "52'",
       "start": "2026-05-10T15:30Z",
       "teams": [
         {
