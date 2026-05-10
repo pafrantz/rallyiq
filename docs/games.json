@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-10T13:26:47.035Z",
+  "ts": "2026-05-10T13:59:53.886Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740947",
       "shortName": "AVL @ BUR",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "23'",
+      "clock": "45'+4'",
       "start": "2026-05-10T13:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "AVL",
           "displayName": "Aston Villa",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740948",
       "shortName": "EVE @ CRY",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "24'",
+      "clock": "45'+2'",
       "start": "2026-05-10T13:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "CRY",
           "displayName": "Crystal Palace",
-          "score": 0
+          "score": 1
         },
         {
           "id": "368",
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740952",
       "shortName": "NEW @ NFO",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "26'",
+      "clock": "45'+3'",
       "start": "2026-05-10T13:00Z",
       "teams": [
         {
