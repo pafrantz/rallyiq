@@ -1,33 +1,6 @@
 {
-  "ts": "2026-05-10T17:29:51.796Z",
+  "ts": "2026-05-10T17:50:43.734Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740955",
-      "shortName": "ARS @ WHU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+8'",
-      "start": "2026-05-10T15:30Z",
-      "teams": [
-        {
-          "id": "371",
-          "homeAway": "home",
-          "abbreviation": "WHU",
-          "displayName": "West Ham United",
-          "score": 1
-        },
-        {
-          "id": "359",
-          "homeAway": "away",
-          "abbreviation": "ARS",
-          "displayName": "Arsenal",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
