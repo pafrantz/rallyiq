@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-10T20:24:33.340Z",
+  "ts": "2026-05-10T20:42:32.730Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "63'",
+      "clock": "80'",
       "start": "2026-05-10T19:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841110",
       "shortName": "PAL @ REMO",
-      "status": "STATUS_DELAYED",
+      "status": "STATUS_FIRST_HALF",
       "state": "IN",
-      "period": null,
-      "clock": "0'",
+      "period": 1,
+      "clock": "2'",
       "start": "2026-05-10T19:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "REMO",
           "displayName": "Remo",
-          "score": 0
+          "score": 1
         },
         {
           "id": "2029",
