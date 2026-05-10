@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-10T22:41:49.354Z",
+  "ts": "2026-05-10T23:03:24.203Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841115",
       "shortName": "SAO @ COR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+16'",
+      "period": 2,
+      "clock": "52'",
       "start": "2026-05-10T21:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "COR",
           "displayName": "Corinthians",
-          "score": 1
+          "score": 2
         },
         {
           "id": "2026",
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "48'",
+      "clock": "67'",
       "start": "2026-05-10T21:30Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "48'",
+      "clock": "69'",
       "start": "2026-05-10T21:30Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "10'",
+      "clock": "31'",
       "start": "2026-05-10T22:30Z",
       "teams": [
         {
