@@ -1,33 +1,6 @@
 {
-  "ts": "2026-05-10T20:42:32.730Z",
+  "ts": "2026-05-10T21:03:26.871Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841108",
-      "shortName": "BOT @ CAM",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "80'",
-      "start": "2026-05-10T19:00Z",
-      "teams": [
-        {
-          "id": "7632",
-          "homeAway": "home",
-          "abbreviation": "CAM",
-          "displayName": "Atlético-MG",
-          "score": 1
-        },
-        {
-          "id": "6086",
-          "homeAway": "away",
-          "abbreviation": "BOT",
-          "displayName": "Botafogo",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "2'",
+      "clock": "24'",
       "start": "2026-05-10T19:00Z",
       "teams": [
         {
@@ -51,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "PAL",
           "displayName": "Palmeiras",
-          "score": 0
+          "score": 1
         }
       ]
     },
