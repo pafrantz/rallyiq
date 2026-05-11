@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-11T18:28:35.628Z",
+  "ts": "2026-05-11T19:10:20.140Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740954",
       "shortName": "LEE @ TOT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "9'",
       "start": "2026-05-11T19:00Z",
       "teams": [
         {
