@@ -1,32 +1,4 @@
 {
-  "ts": "2026-05-11T01:13:00.046Z",
-  "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841112",
-      "shortName": "CAP @ VAS",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "79'",
-      "start": "2026-05-10T23:30Z",
-      "teams": [
-        {
-          "id": "3454",
-          "homeAway": "home",
-          "abbreviation": "VAS",
-          "displayName": "Vasco da Gama",
-          "score": 1
-        },
-        {
-          "id": "3458",
-          "homeAway": "away",
-          "abbreviation": "CAP",
-          "displayName": "Athletico-PR",
-          "score": 0
-        }
-      ]
-    }
-  ]
+  "ts": "2026-05-11T01:56:58.539Z",
+  "games": []
 }
