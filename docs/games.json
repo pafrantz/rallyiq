@@ -1,42 +1,15 @@
 {
-  "ts": "2026-05-11T00:06:09.512Z",
+  "ts": "2026-05-11T01:13:00.046Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841117",
-      "shortName": "FLA @ GRE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "72'",
-      "start": "2026-05-10T22:30Z",
-      "teams": [
-        {
-          "id": "6273",
-          "homeAway": "home",
-          "abbreviation": "GRE",
-          "displayName": "Grêmio",
-          "score": 0
-        },
-        {
-          "id": "819",
-          "homeAway": "away",
-          "abbreviation": "FLA",
-          "displayName": "Flamengo",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841112",
       "shortName": "CAP @ VAS",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "32'",
+      "period": 2,
+      "clock": "79'",
       "start": "2026-05-10T23:30Z",
       "teams": [
         {
@@ -44,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "VAS",
           "displayName": "Vasco da Gama",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3458",
