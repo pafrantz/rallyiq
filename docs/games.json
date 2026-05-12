@@ -1,4 +1,32 @@
 {
-  "ts": "2026-05-12T03:19:25.461Z",
-  "games": []
+  "ts": "2026-05-12T04:34:57.252Z",
+  "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "740902",
+      "shortName": "CRY @ MNC",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-05-13T19:00Z",
+      "teams": [
+        {
+          "id": "382",
+          "homeAway": "home",
+          "abbreviation": "MNC",
+          "displayName": "Manchester City",
+          "score": 0
+        },
+        {
+          "id": "384",
+          "homeAway": "away",
+          "abbreviation": "CRY",
+          "displayName": "Crystal Palace",
+          "score": 0
+        }
+      ]
+    }
+  ]
 }
