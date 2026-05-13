@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-13T18:49:59.695Z",
+  "ts": "2026-05-13T19:25:26.876Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740902",
       "shortName": "CRY @ MNC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "25'",
       "start": "2026-05-13T19:00Z",
       "teams": [
         {
