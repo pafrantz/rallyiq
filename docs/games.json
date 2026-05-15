@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-15T20:07:51.355Z",
+  "ts": "2026-05-15T20:36:03.162Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "45'",
+      "clock": "76'",
       "start": "2026-05-15T19:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "AVL",
           "displayName": "Aston Villa",
-          "score": 1
+          "score": 3
         },
         {
           "id": "364",
           "homeAway": "away",
           "abbreviation": "LIV",
           "displayName": "Liverpool",
-          "score": 0
+          "score": 1
         }
       ]
     },
