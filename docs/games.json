@@ -1,14 +1,14 @@
 {
-  "ts": "2026-05-15T18:26:42.939Z",
+  "ts": "2026-05-15T19:01:50.159Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740957",
       "shortName": "LIV @ AVL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
       "clock": "0'",
       "start": "2026-05-15T19:00Z",
       "teams": [
