@@ -1,33 +1,6 @@
 {
-  "ts": "2026-05-15T20:36:03.162Z",
+  "ts": "2026-05-15T20:59:22.169Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740957",
-      "shortName": "LIV @ AVL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "76'",
-      "start": "2026-05-15T19:00Z",
-      "teams": [
-        {
-          "id": "362",
-          "homeAway": "home",
-          "abbreviation": "AVL",
-          "displayName": "Aston Villa",
-          "score": 3
-        },
-        {
-          "id": "364",
-          "homeAway": "away",
-          "abbreviation": "LIV",
-          "displayName": "Liverpool",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
