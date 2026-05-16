@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-16T22:40:43.200Z",
+  "ts": "2026-05-16T23:02:39.199Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "51'",
+      "clock": "71'",
       "start": "2026-05-16T21:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CAM",
           "displayName": "Atlético-MG",
-          "score": 1
+          "score": 2
         },
         {
           "id": "9169",
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "49'",
+      "clock": "70'",
       "start": "2026-05-16T21:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "INT",
           "displayName": "Internacional",
-          "score": 2
+          "score": 3
         },
         {
           "id": "3454",
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "401841127",
       "shortName": "SAO @ FLU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "40'",
+      "clock": "45'+5'",
       "start": "2026-05-16T22:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "FLU",
           "displayName": "Fluminense",
-          "score": 1
+          "score": 2
         },
         {
           "id": "2026",
