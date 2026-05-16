@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-16T21:42:08.338Z",
+  "ts": "2026-05-16T22:02:28.303Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "12'",
+      "clock": "32'",
       "start": "2026-05-16T21:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CAM",
           "displayName": "Atlético-MG",
-          "score": 0
+          "score": 1
         },
         {
           "id": "9169",
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "12'",
+      "clock": "32'",
       "start": "2026-05-16T21:30Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "INT",
           "displayName": "Internacional",
-          "score": 0
+          "score": 2
         },
         {
           "id": "3454",
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "401841127",
       "shortName": "SAO @ FLU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "2'",
       "start": "2026-05-16T22:00Z",
       "teams": [
         {
