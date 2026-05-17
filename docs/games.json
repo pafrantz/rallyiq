@@ -1,33 +1,6 @@
 {
-  "ts": "2026-05-17T01:57:46.010Z",
+  "ts": "2026-05-17T03:12:10.958Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841125",
-      "shortName": "CRU @ PAL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+5'",
-      "start": "2026-05-17T00:00Z",
-      "teams": [
-        {
-          "id": "2029",
-          "homeAway": "home",
-          "abbreviation": "PAL",
-          "displayName": "Palmeiras",
-          "score": 1
-        },
-        {
-          "id": "2022",
-          "homeAway": "away",
-          "abbreviation": "CRU",
-          "displayName": "Cruzeiro",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
