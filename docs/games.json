@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-17T20:32:26.673Z",
+  "ts": "2026-05-17T20:53:46.659Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "69'",
+      "clock": "90'+1'",
       "start": "2026-05-17T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BAH",
           "displayName": "Bahia",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6273",
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "68'",
+      "clock": "90'",
       "start": "2026-05-17T19:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "BOT",
           "displayName": "Botafogo",
-          "score": 2
+          "score": 3
         },
         {
           "id": "874",
