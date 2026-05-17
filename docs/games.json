@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-17T16:13:42.336Z",
+  "ts": "2026-05-17T16:35:44.775Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740964",
       "shortName": "WHU @ NEW",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "3'",
       "start": "2026-05-17T16:30Z",
       "teams": [
         {
