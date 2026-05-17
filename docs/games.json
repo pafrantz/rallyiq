@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-17T15:02:59.218Z",
+  "ts": "2026-05-17T15:30:07.780Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841123",
       "shortName": "CFC @ SAN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "61'",
       "start": "2026-05-17T14:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740959",
       "shortName": "CRY @ BRE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "64'",
       "start": "2026-05-17T14:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "CRY",
           "displayName": "Crystal Palace",
-          "score": 1
+          "score": 2
         }
       ]
     },
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740961",
       "shortName": "SUN @ EVE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "69'",
       "start": "2026-05-17T14:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "SUN",
           "displayName": "Sunderland",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740962",
       "shortName": "BHA @ LEE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "71'",
       "start": "2026-05-17T14:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "eng.1",
       "id": "740965",
       "shortName": "FUL @ WOL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "70'",
       "start": "2026-05-17T14:00Z",
       "teams": [
         {
