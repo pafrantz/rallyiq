@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-17T20:13:21.404Z",
+  "ts": "2026-05-17T20:32:26.673Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "51'",
+      "clock": "69'",
       "start": "2026-05-17T19:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "GRE",
           "displayName": "Grêmio",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "48'",
+      "clock": "68'",
       "start": "2026-05-17T19:00Z",
       "teams": [
         {
