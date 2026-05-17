@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-17T12:33:43.462Z",
+  "ts": "2026-05-17T12:57:43.301Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740963",
       "shortName": "NFO @ MAN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+1'",
+      "period": 2,
+      "clock": "68'",
       "start": "2026-05-17T11:30Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "MAN",
           "displayName": "Manchester United",
-          "score": 1
+          "score": 2
         },
         {
           "id": "393",
           "homeAway": "away",
           "abbreviation": "NFO",
           "displayName": "Nottingham Forest",
-          "score": 0
+          "score": 1
         }
       ]
     },
