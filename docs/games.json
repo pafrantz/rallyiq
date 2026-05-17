@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-17T11:22:29.428Z",
+  "ts": "2026-05-17T11:45:21.555Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740963",
       "shortName": "NFO @ MAN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "9'",
       "start": "2026-05-17T11:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "MAN",
           "displayName": "Manchester United",
-          "score": 0
+          "score": 1
         },
         {
           "id": "393",
