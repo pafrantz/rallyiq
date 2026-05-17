@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-17T17:46:45.182Z",
+  "ts": "2026-05-17T18:08:54.850Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "55'",
+      "clock": "78'",
       "start": "2026-05-17T16:30Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "NEW",
           "displayName": "Newcastle United",
-          "score": 2
+          "score": 3
         },
         {
           "id": "371",
           "homeAway": "away",
           "abbreviation": "WHU",
           "displayName": "West Ham United",
-          "score": 0
+          "score": 1
         }
       ]
     },
