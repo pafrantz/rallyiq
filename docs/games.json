@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-17T14:39:08.923Z",
+  "ts": "2026-05-17T15:02:59.218Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841123",
       "shortName": "CFC @ SAN",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "34'",
+      "clock": "45'+4'",
       "start": "2026-05-17T14:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "CFC",
           "displayName": "Coritiba",
-          "score": 2
+          "score": 3
         }
       ]
     },
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740959",
       "shortName": "CRY @ BRE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "38'",
+      "clock": "45'+5'",
       "start": "2026-05-17T14:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "BRE",
           "displayName": "Brentford",
-          "score": 0
+          "score": 1
         },
         {
           "id": "384",
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740961",
       "shortName": "SUN @ EVE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "37'",
+      "clock": "45'+3'",
       "start": "2026-05-17T14:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "EVE",
           "displayName": "Everton",
-          "score": 0
+          "score": 1
         },
         {
           "id": "366",
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740962",
       "shortName": "BHA @ LEE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "38'",
+      "clock": "45'+2'",
       "start": "2026-05-17T14:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "eng.1",
       "id": "740965",
       "shortName": "FUL @ WOL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "38'",
+      "clock": "45'+5'",
       "start": "2026-05-17T14:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "FUL",
           "displayName": "Fulham",
-          "score": 0
+          "score": 1
         }
       ]
     },
