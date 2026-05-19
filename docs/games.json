@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-19T18:18:03.849Z",
+  "ts": "2026-05-19T19:02:29.693Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740958",
       "shortName": "MNC @ BOU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "32'",
       "start": "2026-05-19T18:30Z",
       "teams": [
         {
