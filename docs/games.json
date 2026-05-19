@@ -1,33 +1,6 @@
 {
-  "ts": "2026-05-19T20:52:14.470Z",
+  "ts": "2026-05-19T21:22:59.885Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "740960",
-      "shortName": "TOT @ CHE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "80'",
-      "start": "2026-05-19T19:15Z",
-      "teams": [
-        {
-          "id": "363",
-          "homeAway": "home",
-          "abbreviation": "CHE",
-          "displayName": "Chelsea",
-          "score": 2
-        },
-        {
-          "id": "367",
-          "homeAway": "away",
-          "abbreviation": "TOT",
-          "displayName": "Tottenham Hotspur",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
