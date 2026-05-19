@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-19T19:41:16.310Z",
+  "ts": "2026-05-19T20:17:45.230Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "52'",
+      "clock": "89'",
       "start": "2026-05-19T18:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740960",
       "shortName": "TOT @ CHE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "25'",
+      "period": 2,
+      "clock": "45'",
       "start": "2026-05-19T19:15Z",
       "teams": [
         {
