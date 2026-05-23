@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-23T23:15:42.660Z",
+  "ts": "2026-05-23T23:38:43.772Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "52'",
+      "clock": "75'",
       "start": "2026-05-23T22:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "GRE",
           "displayName": "Grêmio",
-          "score": 1
+          "score": 3
         },
         {
           "id": "2674",
           "homeAway": "away",
           "abbreviation": "SAN",
           "displayName": "Santos",
-          "score": 1
+          "score": 2
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "48'",
+      "clock": "73'",
       "start": "2026-05-23T22:00Z",
       "teams": [
         {
