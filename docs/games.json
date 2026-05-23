@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-23T20:11:33.388Z",
+  "ts": "2026-05-23T20:30:28.879Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "8'",
+      "clock": "25'",
       "start": "2026-05-23T20:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "9'",
+      "clock": "29'",
       "start": "2026-05-23T20:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "VIT",
           "displayName": "Vitória",
-          "score": 0
+          "score": 1
         },
         {
           "id": "1936",
