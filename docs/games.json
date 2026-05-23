@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-23T20:51:12.693Z",
+  "ts": "2026-05-23T21:10:29.546Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841132",
       "shortName": "BOT @ SAO",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "45'",
       "start": "2026-05-23T20:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841130",
       "shortName": "INT @ VIT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "45'",
       "start": "2026-05-23T20:00Z",
       "teams": [
         {
