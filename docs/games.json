@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-23T22:33:48.465Z",
+  "ts": "2026-05-23T22:55:29.185Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841135",
       "shortName": "SAN @ GRE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "32'",
+      "clock": "45'+6'",
       "start": "2026-05-23T22:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "GRE",
           "displayName": "Grêmio",
-          "score": 0
+          "score": 1
         },
         {
           "id": "2674",
           "homeAway": "away",
           "abbreviation": "SAN",
           "displayName": "Santos",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841134",
       "shortName": "FLU @ MIR",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "33'",
+      "clock": "45'+9'",
       "start": "2026-05-23T22:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "MIR",
           "displayName": "Mirassol",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3445",
