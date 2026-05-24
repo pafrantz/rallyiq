@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-24T19:30:36.985Z",
+  "ts": "2026-05-24T19:55:16.221Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841137",
       "shortName": "CHA @ CRU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "30'",
+      "clock": "45'+4'",
       "start": "2026-05-24T19:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "26'",
+      "clock": "45'+7'",
       "start": "2026-05-24T19:00Z",
       "teams": [
         {
