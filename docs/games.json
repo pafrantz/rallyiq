@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-24T18:57:08.857Z",
+  "ts": "2026-05-24T19:30:36.985Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841137",
       "shortName": "CHA @ CRU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "30'",
       "start": "2026-05-24T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CRU",
           "displayName": "Cruzeiro",
-          "score": 0
+          "score": 1
         },
         {
           "id": "9318",
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841133",
       "shortName": "CAP @ REMO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "26'",
       "start": "2026-05-24T19:00Z",
       "teams": [
         {
@@ -44,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "REMO",
           "displayName": "Remo",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3458",
           "homeAway": "away",
           "abbreviation": "CAP",
           "displayName": "Athletico-PR",
-          "score": 0
+          "score": 1
         }
       ]
     },
