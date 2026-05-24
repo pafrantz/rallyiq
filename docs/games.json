@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-24T16:04:47.780Z",
+  "ts": "2026-05-24T16:30:05.613Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740966",
       "shortName": "MAN @ BHA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "69'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "MAN",
           "displayName": "Manchester United",
-          "score": 2
+          "score": 3
         }
       ]
     },
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740967",
       "shortName": "WOL @ BUR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+11'",
+      "period": 2,
+      "clock": "62'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "BUR",
           "displayName": "Burnley",
-          "score": 0
+          "score": 1
         },
         {
           "id": "380",
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740968",
       "shortName": "ARS @ CRY",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "68'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "ARS",
           "displayName": "Arsenal",
-          "score": 1
+          "score": 2
         }
       ]
     },
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740969",
       "shortName": "NEW @ FUL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
+      "period": 2,
+      "clock": "68'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "eng.1",
       "id": "740975",
       "shortName": "BRE @ LIV",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "68'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -125,14 +125,14 @@
           "homeAway": "home",
           "abbreviation": "LIV",
           "displayName": "Liverpool",
-          "score": 0
+          "score": 1
         },
         {
           "id": "337",
           "homeAway": "away",
           "abbreviation": "BRE",
           "displayName": "Brentford",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -141,10 +141,10 @@
       "league": "eng.1",
       "id": "740970",
       "shortName": "AVL @ MNC",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'",
+      "period": 2,
+      "clock": "68'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -159,7 +159,7 @@
           "homeAway": "away",
           "abbreviation": "AVL",
           "displayName": "Aston Villa",
-          "score": 0
+          "score": 2
         }
       ]
     },
@@ -168,10 +168,10 @@
       "league": "eng.1",
       "id": "740972",
       "shortName": "BOU @ NFO",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "69'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -186,7 +186,7 @@
           "homeAway": "away",
           "abbreviation": "BOU",
           "displayName": "AFC Bournemouth",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -195,10 +195,10 @@
       "league": "eng.1",
       "id": "740973",
       "shortName": "CHE @ SUN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "69'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -206,14 +206,14 @@
           "homeAway": "home",
           "abbreviation": "SUN",
           "displayName": "Sunderland",
-          "score": 1
+          "score": 2
         },
         {
           "id": "363",
           "homeAway": "away",
           "abbreviation": "CHE",
           "displayName": "Chelsea",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -222,10 +222,10 @@
       "league": "eng.1",
       "id": "740974",
       "shortName": "EVE @ TOT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
+      "period": 2,
+      "clock": "63'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -249,10 +249,10 @@
       "league": "eng.1",
       "id": "740971",
       "shortName": "LEE @ WHU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "67'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -260,7 +260,7 @@
           "homeAway": "home",
           "abbreviation": "WHU",
           "displayName": "West Ham United",
-          "score": 0
+          "score": 1
         },
         {
           "id": "357",

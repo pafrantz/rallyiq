@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-24T16:04:48.681Z",
+  "ts": "2026-05-24T16:30:06.962Z",
   "sport": "soccer",
   "league": "eng.1",
   "eventId": "740972",
@@ -7,9 +7,9 @@
     "down": null,
     "distance": null,
     "yardline": null,
-    "quarter": 1,
-    "clock_secs": 2940,
-    "score_diff": 1,
+    "quarter": 2,
+    "clock_secs": 4140,
+    "score_diff": 0,
     "recent_gains": [
       0,
       0,
@@ -19,12 +19,12 @@
       0
     ],
     "recent_clock": [
-      2700,
-      2880,
-      2880,
-      2940,
-      2940,
-      2940
+      4020,
+      4020,
+      4080,
+      4080,
+      4140,
+      4140
     ]
   }
 }
