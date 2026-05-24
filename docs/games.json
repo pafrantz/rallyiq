@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-24T14:45:33.097Z",
+  "ts": "2026-05-24T15:12:13.245Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "740966",
       "shortName": "MAN @ BHA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "11'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "740967",
       "shortName": "WOL @ BUR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "10'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "WOL",
           "displayName": "Wolverhampton Wanderers",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "740968",
       "shortName": "ARS @ CRY",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "10'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -87,10 +87,10 @@
       "league": "eng.1",
       "id": "740969",
       "shortName": "NEW @ FUL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "11'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -114,10 +114,10 @@
       "league": "eng.1",
       "id": "740975",
       "shortName": "BRE @ LIV",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "9'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -141,10 +141,10 @@
       "league": "eng.1",
       "id": "740970",
       "shortName": "AVL @ MNC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "11'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -168,10 +168,10 @@
       "league": "eng.1",
       "id": "740972",
       "shortName": "BOU @ NFO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "11'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -195,10 +195,10 @@
       "league": "eng.1",
       "id": "740973",
       "shortName": "CHE @ SUN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "11'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -222,10 +222,10 @@
       "league": "eng.1",
       "id": "740974",
       "shortName": "EVE @ TOT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "10'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -249,10 +249,10 @@
       "league": "eng.1",
       "id": "740971",
       "shortName": "LEE @ WHU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "10'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
