@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-24T15:12:13.245Z",
+  "ts": "2026-05-24T15:40:26.804Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "11'",
+      "clock": "37'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "MAN",
           "displayName": "Manchester United",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "10'",
+      "clock": "38'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "10'",
+      "clock": "38'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "11'",
+      "clock": "39'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "FUL",
           "displayName": "Fulham",
-          "score": 0
+          "score": 1
         },
         {
           "id": "361",
@@ -117,7 +117,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "9'",
+      "clock": "39'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -144,7 +144,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "11'",
+      "clock": "39'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -152,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "MNC",
           "displayName": "Manchester City",
-          "score": 0
+          "score": 1
         },
         {
           "id": "362",
@@ -171,7 +171,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "11'",
+      "clock": "39'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -179,7 +179,7 @@
           "homeAway": "home",
           "abbreviation": "NFO",
           "displayName": "Nottingham Forest",
-          "score": 0
+          "score": 1
         },
         {
           "id": "349",
@@ -198,7 +198,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "11'",
+      "clock": "39'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -206,7 +206,7 @@
           "homeAway": "home",
           "abbreviation": "SUN",
           "displayName": "Sunderland",
-          "score": 0
+          "score": 1
         },
         {
           "id": "363",
@@ -225,7 +225,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "10'",
+      "clock": "39'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
@@ -252,7 +252,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "10'",
+      "clock": "38'",
       "start": "2026-05-24T15:00Z",
       "teams": [
         {
