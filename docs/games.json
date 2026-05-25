@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-25T00:02:44.359Z",
+  "ts": "2026-05-25T01:17:08.367Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841131",
       "shortName": "BRA @ VAS",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "30'",
+      "period": 2,
+      "clock": "86'",
       "start": "2026-05-24T23:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BRA",
           "displayName": "Red Bull Bragantino",
-          "score": 0
+          "score": 3
         }
       ]
     },
