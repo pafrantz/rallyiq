@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-25T23:18:26.792Z",
+  "ts": "2026-05-25T23:42:46.712Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "13'",
+      "clock": "37'",
       "start": "2026-05-25T23:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BAH",
           "displayName": "Bahia",
-          "score": 0
+          "score": 1
         }
       ]
     },
