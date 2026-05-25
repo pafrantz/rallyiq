@@ -1,33 +1,6 @@
 {
-  "ts": "2026-05-25T01:17:08.367Z",
+  "ts": "2026-05-25T02:03:29.881Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841131",
-      "shortName": "BRA @ VAS",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "86'",
-      "start": "2026-05-24T23:30Z",
-      "teams": [
-        {
-          "id": "3454",
-          "homeAway": "home",
-          "abbreviation": "VAS",
-          "displayName": "Vasco da Gama",
-          "score": 0
-        },
-        {
-          "id": "6079",
-          "homeAway": "away",
-          "abbreviation": "BRA",
-          "displayName": "Red Bull Bragantino",
-          "score": 3
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
