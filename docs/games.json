@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-25T23:42:46.712Z",
+  "ts": "2026-05-26T00:08:48.061Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841129",
       "shortName": "BAH @ CFC",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "37'",
+      "clock": "45'+8'",
       "start": "2026-05-25T23:00Z",
       "teams": [
         {
