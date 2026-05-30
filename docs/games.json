@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-30T22:02:40.251Z",
+  "ts": "2026-05-30T22:28:42.132Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "65'",
+      "clock": "90'+1'",
       "start": "2026-05-30T20:30Z",
       "teams": [
         {
@@ -25,33 +25,6 @@
           "abbreviation": "BOT",
           "displayName": "Botafogo",
           "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841139",
-      "shortName": "COR @ GRE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "71'",
-      "start": "2026-05-30T20:30Z",
-      "teams": [
-        {
-          "id": "6273",
-          "homeAway": "home",
-          "abbreviation": "GRE",
-          "displayName": "Grêmio",
-          "score": 1
-        },
-        {
-          "id": "874",
-          "homeAway": "away",
-          "abbreviation": "COR",
-          "displayName": "Corinthians",
-          "score": 3
         }
       ]
     },
