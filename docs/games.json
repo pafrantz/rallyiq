@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-30T21:38:15.779Z",
+  "ts": "2026-05-30T22:02:40.251Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841146",
       "shortName": "BOT @ BAH",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+10'",
+      "period": 2,
+      "clock": "65'",
       "start": "2026-05-30T20:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BAH",
           "displayName": "Bahia",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6086",
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "47'",
+      "clock": "71'",
       "start": "2026-05-30T20:30Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "COR",
           "displayName": "Corinthians",
-          "score": 1
+          "score": 3
         }
       ]
     },
