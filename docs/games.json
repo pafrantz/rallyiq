@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-30T19:08:11.475Z",
+  "ts": "2026-05-30T19:40:29.396Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "7'",
+      "clock": "40'",
       "start": "2026-05-30T19:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "7'",
+      "clock": "40'",
       "start": "2026-05-30T19:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "FLA",
           "displayName": "Flamengo",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3456",
