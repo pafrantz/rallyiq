@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-30T20:31:38.892Z",
+  "ts": "2026-05-30T20:53:05.365Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "71'",
+      "clock": "90'+2'",
       "start": "2026-05-30T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CAP",
           "displayName": "Athletico-PR",
-          "score": 0
+          "score": 1
         },
         {
           "id": "9169",
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "67'",
+      "clock": "89'",
       "start": "2026-05-30T19:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "FLA",
           "displayName": "Flamengo",
-          "score": 2
+          "score": 3
         },
         {
           "id": "3456",
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "401841146",
       "shortName": "BOT @ BAH",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "21'",
       "start": "2026-05-30T20:30Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "BOT",
           "displayName": "Botafogo",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "1'",
+      "clock": "23'",
       "start": "2026-05-30T20:30Z",
       "teams": [
         {
@@ -98,7 +98,7 @@
           "homeAway": "home",
           "abbreviation": "GRE",
           "displayName": "Grêmio",
-          "score": 0
+          "score": 1
         },
         {
           "id": "874",
