@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-31T20:36:42.247Z",
+  "ts": "2026-05-31T21:00:15.770Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "75'",
+      "clock": "90'+8'",
       "start": "2026-05-31T19:00Z",
       "teams": [
         {
@@ -24,33 +24,6 @@
           "homeAway": "away",
           "abbreviation": "CHA",
           "displayName": "Chapecoense",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841142",
-      "shortName": "CAM @ VAS",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "77'",
-      "start": "2026-05-31T19:00Z",
-      "teams": [
-        {
-          "id": "3454",
-          "homeAway": "home",
-          "abbreviation": "VAS",
-          "displayName": "Vasco da Gama",
-          "score": 0
-        },
-        {
-          "id": "7632",
-          "homeAway": "away",
-          "abbreviation": "CAM",
-          "displayName": "Atlético-MG",
           "score": 1
         }
       ]
