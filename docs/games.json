@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-31T19:43:45.015Z",
+  "ts": "2026-05-31T20:10:28.531Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841140",
       "shortName": "CHA @ PAL",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "43'",
+      "period": 2,
+      "clock": "48'",
       "start": "2026-05-31T19:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841142",
       "shortName": "CAM @ VAS",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "43'",
+      "period": 2,
+      "clock": "50'",
       "start": "2026-05-31T19:00Z",
       "teams": [
         {
