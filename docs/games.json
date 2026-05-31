@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-31T13:19:28.303Z",
+  "ts": "2026-05-31T14:03:15.676Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841141",
       "shortName": "INT @ BRA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "3'",
       "start": "2026-05-31T14:00Z",
       "teams": [
         {
