@@ -1,15 +1,15 @@
 {
-  "ts": "2026-05-30T23:37:15.933Z",
+  "ts": "2026-05-31T00:01:02.374Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841143",
       "shortName": "VIT @ SAN",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "36'",
+      "clock": "45'+4'",
       "start": "2026-05-30T23:00Z",
       "teams": [
         {
