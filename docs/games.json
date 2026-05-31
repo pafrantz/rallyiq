@@ -1,33 +1,6 @@
 {
-  "ts": "2026-05-31T00:01:02.374Z",
+  "ts": "2026-05-31T01:19:54.748Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841143",
-      "shortName": "VIT @ SAN",
-      "status": "STATUS_HALFTIME",
-      "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
-      "start": "2026-05-30T23:00Z",
-      "teams": [
-        {
-          "id": "2674",
-          "homeAway": "home",
-          "abbreviation": "SAN",
-          "displayName": "Santos",
-          "score": 1
-        },
-        {
-          "id": "3457",
-          "homeAway": "away",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
