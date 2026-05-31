@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-31T19:12:52.991Z",
+  "ts": "2026-05-31T19:43:45.015Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "12'",
+      "clock": "43'",
       "start": "2026-05-31T19:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "13'",
+      "clock": "43'",
       "start": "2026-05-31T19:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "CAM",
           "displayName": "Atlético-MG",
-          "score": 0
+          "score": 1
         }
       ]
     },
