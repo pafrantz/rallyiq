@@ -1,33 +1,6 @@
 {
-  "ts": "2026-05-31T21:00:15.770Z",
+  "ts": "2026-05-31T21:27:37.751Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841140",
-      "shortName": "CHA @ PAL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+8'",
-      "start": "2026-05-31T19:00Z",
-      "teams": [
-        {
-          "id": "2029",
-          "homeAway": "home",
-          "abbreviation": "PAL",
-          "displayName": "Palmeiras",
-          "score": 1
-        },
-        {
-          "id": "9318",
-          "homeAway": "away",
-          "abbreviation": "CHA",
-          "displayName": "Chapecoense",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
