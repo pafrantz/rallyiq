@@ -1,6 +1,141 @@
 {
-  "ts": "2026-05-31T06:29:26.375Z",
+  "ts": "2026-05-31T07:48:31.073Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841141",
+      "shortName": "INT @ BRA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-05-31T14:00Z",
+      "teams": [
+        {
+          "id": "6079",
+          "homeAway": "home",
+          "abbreviation": "BRA",
+          "displayName": "Red Bull Bragantino",
+          "score": 0
+        },
+        {
+          "id": "1936",
+          "homeAway": "away",
+          "abbreviation": "INT",
+          "displayName": "Internacional",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841140",
+      "shortName": "CHA @ PAL",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-05-31T19:00Z",
+      "teams": [
+        {
+          "id": "2029",
+          "homeAway": "home",
+          "abbreviation": "PAL",
+          "displayName": "Palmeiras",
+          "score": 0
+        },
+        {
+          "id": "9318",
+          "homeAway": "away",
+          "abbreviation": "CHA",
+          "displayName": "Chapecoense",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841142",
+      "shortName": "CAM @ VAS",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-05-31T19:00Z",
+      "teams": [
+        {
+          "id": "3454",
+          "homeAway": "home",
+          "abbreviation": "VAS",
+          "displayName": "Vasco da Gama",
+          "score": 0
+        },
+        {
+          "id": "7632",
+          "homeAway": "away",
+          "abbreviation": "CAM",
+          "displayName": "Atlético-MG",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841145",
+      "shortName": "FLU @ CRU",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-05-31T23:30Z",
+      "teams": [
+        {
+          "id": "2022",
+          "homeAway": "home",
+          "abbreviation": "CRU",
+          "displayName": "Cruzeiro",
+          "score": 0
+        },
+        {
+          "id": "3445",
+          "homeAway": "away",
+          "abbreviation": "FLU",
+          "displayName": "Fluminense",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841147",
+      "shortName": "SAO @ REMO",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-05-31T23:30Z",
+      "teams": [
+        {
+          "id": "4936",
+          "homeAway": "home",
+          "abbreviation": "REMO",
+          "displayName": "Remo",
+          "score": 0
+        },
+        {
+          "id": "2026",
+          "homeAway": "away",
+          "abbreviation": "SAO",
+          "displayName": "São Paulo",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "football",
       "league": "nfl",
