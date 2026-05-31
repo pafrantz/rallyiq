@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-31T14:03:15.676Z",
+  "ts": "2026-05-31T14:41:02.250Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "3'",
+      "clock": "40'",
       "start": "2026-05-31T14:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BRA",
           "displayName": "Red Bull Bragantino",
-          "score": 0
+          "score": 1
         },
         {
           "id": "1936",
