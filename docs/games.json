@@ -1,15 +1,15 @@
 {
-  "ts": "2026-06-01T00:15:22.091Z",
+  "ts": "2026-06-01T01:29:04.925Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841145",
       "shortName": "FLU @ CRU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "44'",
+      "period": 2,
+      "clock": "90'+7'",
       "start": "2026-05-31T23:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CRU",
           "displayName": "Cruzeiro",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3445",
@@ -25,33 +25,6 @@
           "abbreviation": "FLU",
           "displayName": "Fluminense",
           "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841147",
-      "shortName": "SAO @ REMO",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 1,
-      "clock": "45'",
-      "start": "2026-05-31T23:30Z",
-      "teams": [
-        {
-          "id": "4936",
-          "homeAway": "home",
-          "abbreviation": "REMO",
-          "displayName": "Remo",
-          "score": 0
-        },
-        {
-          "id": "2026",
-          "homeAway": "away",
-          "abbreviation": "SAO",
-          "displayName": "São Paulo",
-          "score": 0
         }
       ]
     },
