@@ -1,6 +1,33 @@
 {
-  "ts": "2026-06-19T09:09:39.308Z",
+  "ts": "2026-06-19T10:48:39.882Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401879301",
+      "shortName": "COV @ ARS",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-08-21T19:00Z",
+      "teams": [
+        {
+          "id": "359",
+          "homeAway": "home",
+          "abbreviation": "ARS",
+          "displayName": "Arsenal",
+          "score": 0
+        },
+        {
+          "id": "388",
+          "homeAway": "away",
+          "abbreviation": "COV",
+          "displayName": "Coventry City",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "football",
       "league": "nfl",
