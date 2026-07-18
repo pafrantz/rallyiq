@@ -1,6 +1,33 @@
 {
-  "ts": "2026-07-18T01:24:58.760Z",
+  "ts": "2026-07-18T04:17:01.951Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841148",
+      "shortName": "BAH @ CAM",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-07-21T22:30Z",
+      "teams": [
+        {
+          "id": "7632",
+          "homeAway": "home",
+          "abbreviation": "CAM",
+          "displayName": "Atlético-MG",
+          "score": 0
+        },
+        {
+          "id": "9967",
+          "homeAway": "away",
+          "abbreviation": "BAH",
+          "displayName": "Bahia",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "soccer",
       "league": "eng.1",
