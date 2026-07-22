@@ -1,15 +1,15 @@
 {
-  "ts": "2026-07-22T22:38:51.666Z",
+  "ts": "2026-07-22T23:35:07.946Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841152",
       "shortName": "PAL @ CFC",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "6'",
+      "clock": "45'+5'",
       "start": "2026-07-22T22:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "PAL",
           "displayName": "Palmeiras",
-          "score": 0
+          "score": 2
         }
       ]
     },
