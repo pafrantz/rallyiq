@@ -1,15 +1,15 @@
 {
-  "ts": "2026-07-25T22:13:24.698Z",
+  "ts": "2026-07-25T23:10:21.260Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841158",
       "shortName": "INT @ CAP",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "42'",
+      "period": 2,
+      "clock": "81'",
       "start": "2026-07-25T21:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CAP",
           "displayName": "Athletico-PR",
-          "score": 0
+          "score": 2
         },
         {
           "id": "1936",
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841161",
       "shortName": "CHA @ SAN",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "44'",
+      "period": 2,
+      "clock": "81'",
       "start": "2026-07-25T21:30Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "CHA",
           "displayName": "Chapecoense",
-          "score": 0
+          "score": 2
         }
       ]
     },
