@@ -1,33 +1,6 @@
 {
-  "ts": "2026-07-26T00:09:55.079Z",
+  "ts": "2026-07-26T03:50:06.847Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841160",
-      "shortName": "MIR @ VAS",
-      "status": "STATUS_FIRST_HALF",
-      "state": "IN",
-      "period": 1,
-      "clock": "38'",
-      "start": "2026-07-25T23:30Z",
-      "teams": [
-        {
-          "id": "3454",
-          "homeAway": "home",
-          "abbreviation": "VAS",
-          "displayName": "Vasco da Gama",
-          "score": 0
-        },
-        {
-          "id": "9169",
-          "homeAway": "away",
-          "abbreviation": "MIR",
-          "displayName": "Mirassol",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
