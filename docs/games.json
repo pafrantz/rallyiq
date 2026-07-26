@@ -1,15 +1,15 @@
 {
-  "ts": "2026-07-26T18:10:46.145Z",
+  "ts": "2026-07-26T19:31:29.986Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841159",
       "shortName": "COR @ BAH",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "28'",
       "start": "2026-07-26T19:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "COR",
           "displayName": "Corinthians",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841167",
       "shortName": "BOT @ CRU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "30'",
       "start": "2026-07-26T19:00Z",
       "teams": [
         {
