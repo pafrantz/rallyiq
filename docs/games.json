@@ -1,60 +1,6 @@
 {
-  "ts": "2026-07-26T20:29:28.022Z",
+  "ts": "2026-07-26T21:25:33.876Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841159",
-      "shortName": "COR @ BAH",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "56'",
-      "start": "2026-07-26T19:00Z",
-      "teams": [
-        {
-          "id": "9967",
-          "homeAway": "home",
-          "abbreviation": "BAH",
-          "displayName": "Bahia",
-          "score": 1
-        },
-        {
-          "id": "874",
-          "homeAway": "away",
-          "abbreviation": "COR",
-          "displayName": "Corinthians",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841167",
-      "shortName": "BOT @ CRU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "66'",
-      "start": "2026-07-26T19:00Z",
-      "teams": [
-        {
-          "id": "2022",
-          "homeAway": "home",
-          "abbreviation": "CRU",
-          "displayName": "Cruzeiro",
-          "score": 0
-        },
-        {
-          "id": "6086",
-          "homeAway": "away",
-          "abbreviation": "BOT",
-          "displayName": "Botafogo",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
