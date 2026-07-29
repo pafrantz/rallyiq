@@ -1,15 +1,15 @@
 {
-  "ts": "2026-07-29T22:36:02.652Z",
+  "ts": "2026-07-29T23:34:44.197Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841171",
       "shortName": "FLA @ INT",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "4'",
+      "clock": "45'+5'",
       "start": "2026-07-29T22:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "INT",
           "displayName": "Internacional",
-          "score": 0
+          "score": 1
         },
         {
           "id": "819",
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841170",
       "shortName": "REMO @ MIR",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "2'",
+      "clock": "45'+3'",
       "start": "2026-07-29T22:30Z",
       "teams": [
         {
@@ -44,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "MIR",
           "displayName": "Mirassol",
-          "score": 0
+          "score": 1
         },
         {
           "id": "4936",
           "homeAway": "away",
           "abbreviation": "REMO",
           "displayName": "Remo",
-          "score": 0
+          "score": 1
         }
       ]
     },
