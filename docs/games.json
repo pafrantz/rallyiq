@@ -1,33 +1,6 @@
 {
-  "ts": "2026-07-31T01:06:24.683Z",
+  "ts": "2026-07-31T04:31:55.428Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841173",
-      "shortName": "CRU @ CFC",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 1,
-      "clock": "32'",
-      "start": "2026-07-31T00:30Z",
-      "teams": [
-        {
-          "id": "3456",
-          "homeAway": "home",
-          "abbreviation": "CFC",
-          "displayName": "Coritiba",
-          "score": 0
-        },
-        {
-          "id": "2022",
-          "homeAway": "away",
-          "abbreviation": "CRU",
-          "displayName": "Cruzeiro",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
