@@ -1,42 +1,15 @@
 {
-  "ts": "2026-07-30T23:32:23.145Z",
+  "ts": "2026-07-31T01:06:24.683Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841174",
-      "shortName": "CAP @ COR",
-      "status": "STATUS_HALFTIME",
-      "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
-      "start": "2026-07-30T22:30Z",
-      "teams": [
-        {
-          "id": "874",
-          "homeAway": "home",
-          "abbreviation": "COR",
-          "displayName": "Corinthians",
-          "score": 0
-        },
-        {
-          "id": "3458",
-          "homeAway": "away",
-          "abbreviation": "CAP",
-          "displayName": "Athletico-PR",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841173",
       "shortName": "CRU @ CFC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "32'",
       "start": "2026-07-31T00:30Z",
       "teams": [
         {
