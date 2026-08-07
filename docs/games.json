@@ -1,33 +1,6 @@
 {
-  "ts": "2026-08-07T00:26:19.492Z",
+  "ts": "2026-08-07T03:22:46.221Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873271",
-      "shortName": "CAR VS ARI",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 1,
-      "clock": "7:12",
-      "start": "2026-08-07T00:00Z",
-      "teams": [
-        {
-          "id": "22",
-          "homeAway": "home",
-          "abbreviation": "ARI",
-          "displayName": "Arizona Cardinals",
-          "score": 0
-        },
-        {
-          "id": "29",
-          "homeAway": "away",
-          "abbreviation": "CAR",
-          "displayName": "Carolina Panthers",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
