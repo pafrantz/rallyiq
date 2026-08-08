@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-08T20:04:54.048Z",
+  "ts": "2026-08-08T20:40:13.340Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841181",
       "shortName": "SAO @ GRE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "76'",
       "start": "2026-08-08T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "GRE",
           "displayName": "Grêmio",
-          "score": 0
+          "score": 1
         },
         {
           "id": "2026",
