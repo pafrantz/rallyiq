@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-08T22:50:46.042Z",
+  "ts": "2026-08-08T23:11:50.925Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "61'",
+      "clock": "81'",
       "start": "2026-08-08T21:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "REMO",
           "displayName": "Remo",
-          "score": 1
+          "score": 2
         },
         {
           "id": "7632",
