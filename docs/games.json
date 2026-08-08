@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-08T19:24:22.244Z",
+  "ts": "2026-08-08T19:48:14.354Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841181",
       "shortName": "SAO @ GRE",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "23'",
+      "clock": "45'+2'",
       "start": "2026-08-08T19:00Z",
       "teams": [
         {
