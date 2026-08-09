@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-09T18:50:28.554Z",
+  "ts": "2026-08-09T19:21:10.402Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841186",
       "shortName": "VAS @ BAH",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "20'",
       "start": "2026-08-09T19:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841180",
       "shortName": "INT @ PAL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "20'",
       "start": "2026-08-09T19:00Z",
       "teams": [
         {
