@@ -1,33 +1,6 @@
 {
-  "ts": "2026-08-09T01:46:48.292Z",
+  "ts": "2026-08-09T03:20:35.983Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841185",
-      "shortName": "FLU @ BOT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "85'",
-      "start": "2026-08-09T00:00Z",
-      "teams": [
-        {
-          "id": "6086",
-          "homeAway": "home",
-          "abbreviation": "BOT",
-          "displayName": "Botafogo",
-          "score": 1
-        },
-        {
-          "id": "3445",
-          "homeAway": "away",
-          "abbreviation": "FLU",
-          "displayName": "Fluminense",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
