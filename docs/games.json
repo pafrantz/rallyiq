@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-09T14:05:09.152Z",
+  "ts": "2026-08-09T14:43:42.646Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "4'",
+      "clock": "42'",
       "start": "2026-08-09T14:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "CRU",
           "displayName": "Cruzeiro",
-          "score": 0
+          "score": 1
         },
         {
           "id": "9169",
           "homeAway": "away",
           "abbreviation": "MIR",
           "displayName": "Mirassol",
-          "score": 0
+          "score": 1
         }
       ]
     },
