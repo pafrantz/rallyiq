@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-08T23:42:08.894Z",
+  "ts": "2026-08-09T00:00:37.129Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841184",
       "shortName": "CHA @ CFC",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "11'",
+      "clock": "29'",
       "start": "2026-08-08T23:30Z",
       "teams": [
         {
