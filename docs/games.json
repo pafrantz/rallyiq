@@ -1,42 +1,15 @@
 {
-  "ts": "2026-08-09T00:00:37.129Z",
+  "ts": "2026-08-09T01:46:48.292Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841184",
-      "shortName": "CHA @ CFC",
-      "status": "STATUS_FIRST_HALF",
-      "state": "IN",
-      "period": 1,
-      "clock": "29'",
-      "start": "2026-08-08T23:30Z",
-      "teams": [
-        {
-          "id": "3456",
-          "homeAway": "home",
-          "abbreviation": "CFC",
-          "displayName": "Coritiba",
-          "score": 0
-        },
-        {
-          "id": "9318",
-          "homeAway": "away",
-          "abbreviation": "CHA",
-          "displayName": "Chapecoense",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841185",
       "shortName": "FLU @ BOT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "85'",
       "start": "2026-08-09T00:00Z",
       "teams": [
         {
@@ -44,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "BOT",
           "displayName": "Botafogo",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3445",
           "homeAway": "away",
           "abbreviation": "FLU",
           "displayName": "Fluminense",
-          "score": 0
+          "score": 1
         }
       ]
     },
