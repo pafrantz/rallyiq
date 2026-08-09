@@ -1,69 +1,15 @@
 {
-  "ts": "2026-08-09T23:04:56.723Z",
+  "ts": "2026-08-09T23:39:17.498Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841179",
-      "shortName": "COR @ BRA",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "72'",
-      "start": "2026-08-09T21:30Z",
-      "teams": [
-        {
-          "id": "6079",
-          "homeAway": "home",
-          "abbreviation": "BRA",
-          "displayName": "Red Bull Bragantino",
-          "score": 0
-        },
-        {
-          "id": "874",
-          "homeAway": "away",
-          "abbreviation": "COR",
-          "displayName": "Corinthians",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841182",
-      "shortName": "CAP @ SAN",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "74'",
-      "start": "2026-08-09T21:30Z",
-      "teams": [
-        {
-          "id": "2674",
-          "homeAway": "home",
-          "abbreviation": "SAN",
-          "displayName": "Santos",
-          "score": 0
-        },
-        {
-          "id": "3458",
-          "homeAway": "away",
-          "abbreviation": "CAP",
-          "displayName": "Athletico-PR",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841187",
       "shortName": "VIT @ FLA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "34'",
+      "period": 2,
+      "clock": "50'",
       "start": "2026-08-09T22:30Z",
       "teams": [
         {
