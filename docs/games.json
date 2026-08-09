@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-09T15:39:31.762Z",
+  "ts": "2026-08-09T16:01:36.412Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "73'",
+      "clock": "90'+6'",
       "start": "2026-08-09T14:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CRU",
           "displayName": "Cruzeiro",
-          "score": 1
+          "score": 3
         },
         {
           "id": "9169",
