@@ -1,33 +1,6 @@
 {
-  "ts": "2026-08-10T00:01:47.768Z",
+  "ts": "2026-08-10T02:05:21.784Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841187",
-      "shortName": "VIT @ FLA",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "72'",
-      "start": "2026-08-09T22:30Z",
-      "teams": [
-        {
-          "id": "819",
-          "homeAway": "home",
-          "abbreviation": "FLA",
-          "displayName": "Flamengo",
-          "score": 1
-        },
-        {
-          "id": "3457",
-          "homeAway": "away",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
