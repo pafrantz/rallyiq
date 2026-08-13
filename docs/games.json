@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-13T22:56:21.797Z",
+  "ts": "2026-08-13T23:29:50.165Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401873272",
       "shortName": "DET @ CIN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "5:06",
       "start": "2026-08-13T23:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401873275",
       "shortName": "GB @ PIT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "6:59",
       "start": "2026-08-13T23:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 0
+          "score": 3
         }
       ]
     },
