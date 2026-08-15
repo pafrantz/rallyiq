@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-15T18:50:04.826Z",
+  "ts": "2026-08-15T19:08:27.839Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "8:33",
+      "clock": "1:29",
       "start": "2026-08-15T17:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 13
+          "score": 16
         },
         {
           "id": "29",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "13:05",
+      "clock": "4:28",
       "start": "2026-08-15T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "8:02",
+      "clock": "2:39",
       "start": "2026-08-15T17:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "MIN",
           "displayName": "Minnesota Vikings",
-          "score": 6
+          "score": 13
         }
       ]
     },
