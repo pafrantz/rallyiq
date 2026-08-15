@@ -1,33 +1,6 @@
 {
-  "ts": "2026-08-15T19:54:39.296Z",
+  "ts": "2026-08-15T20:02:29.089Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873282",
-      "shortName": "CAR @ BUF",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:00",
-      "start": "2026-08-15T17:00Z",
-      "teams": [
-        {
-          "id": "2",
-          "homeAway": "home",
-          "abbreviation": "BUF",
-          "displayName": "Buffalo Bills",
-          "score": 29
-        },
-        {
-          "id": "29",
-          "homeAway": "away",
-          "abbreviation": "CAR",
-          "displayName": "Carolina Panthers",
-          "score": 7
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -36,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "3:35",
+      "clock": "1:42",
       "start": "2026-08-15T17:00Z",
       "teams": [
         {
@@ -44,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 27
+          "score": 34
         },
         {
           "id": "5",
@@ -56,33 +29,6 @@
       ]
     },
     {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873280",
-      "shortName": "MIN @ NYG",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:00",
-      "start": "2026-08-15T17:00Z",
-      "teams": [
-        {
-          "id": "19",
-          "homeAway": "home",
-          "abbreviation": "NYG",
-          "displayName": "New York Giants",
-          "score": 10
-        },
-        {
-          "id": "16",
-          "homeAway": "away",
-          "abbreviation": "MIN",
-          "displayName": "Minnesota Vikings",
-          "score": 13
-        }
-      ]
-    },
-    {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841192",
@@ -90,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "24'",
+      "clock": "32'",
       "start": "2026-08-15T19:30Z",
       "teams": [
         {
