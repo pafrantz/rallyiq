@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-15T21:49:08.666Z",
+  "ts": "2026-08-15T21:58:46.860Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:32",
+      "clock": "4:45",
       "start": "2026-08-15T20:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401873281",
       "shortName": "JAX @ NO",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "12:21",
       "start": "2026-08-15T20:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "17'",
+      "clock": "26'",
       "start": "2026-08-15T21:30Z",
       "teams": [
         {
