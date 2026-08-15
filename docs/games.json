@@ -1,33 +1,6 @@
 {
-  "ts": "2026-08-15T22:53:20.258Z",
+  "ts": "2026-08-15T23:02:57.849Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873283",
-      "shortName": "LAR @ KC",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:58",
-      "start": "2026-08-15T20:00Z",
-      "teams": [
-        {
-          "id": "12",
-          "homeAway": "home",
-          "abbreviation": "KC",
-          "displayName": "Kansas City Chiefs",
-          "score": 9
-        },
-        {
-          "id": "14",
-          "homeAway": "away",
-          "abbreviation": "LAR",
-          "displayName": "Los Angeles Rams",
-          "score": 20
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -36,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "3:47",
+      "clock": "2:00",
       "start": "2026-08-15T20:00Z",
       "teams": [
         {
@@ -63,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "61'",
+      "clock": "71'",
       "start": "2026-08-15T21:30Z",
       "teams": [
         {
@@ -78,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "BRA",
           "displayName": "Red Bull Bragantino",
-          "score": 0
+          "score": 1
         }
       ]
     },
