@@ -1,42 +1,15 @@
 {
-  "ts": "2026-08-15T20:02:29.089Z",
+  "ts": "2026-08-15T20:28:08.948Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401874393",
-      "shortName": "CLE @ CHI",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:42",
-      "start": "2026-08-15T17:00Z",
-      "teams": [
-        {
-          "id": "3",
-          "homeAway": "home",
-          "abbreviation": "CHI",
-          "displayName": "Chicago Bears",
-          "score": 34
-        },
-        {
-          "id": "5",
-          "homeAway": "away",
-          "abbreviation": "CLE",
-          "displayName": "Cleveland Browns",
-          "score": 10
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841192",
       "shortName": "PAL @ FLU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "32'",
+      "clock": "45'+3'",
       "start": "2026-08-15T19:30Z",
       "teams": [
         {
@@ -44,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "FLU",
           "displayName": "Fluminense",
-          "score": 0
+          "score": 1
         },
         {
           "id": "2029",
@@ -60,10 +33,10 @@
       "league": "nfl",
       "id": "401873283",
       "shortName": "LAR @ KC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "2:54",
       "start": "2026-08-15T20:00Z",
       "teams": [
         {
@@ -78,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -87,10 +60,10 @@
       "league": "nfl",
       "id": "401873281",
       "shortName": "JAX @ NO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "7:04",
       "start": "2026-08-15T20:00Z",
       "teams": [
         {
@@ -98,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "NO",
           "displayName": "New Orleans Saints",
-          "score": 0
+          "score": 7
         },
         {
           "id": "30",
