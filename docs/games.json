@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-15T00:01:33.512Z",
+  "ts": "2026-08-15T01:23:33.486Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "DEN @ ATL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "10:08",
+      "period": 3,
+      "clock": "1:58",
       "start": "2026-08-14T23:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 0
+          "score": 7
         },
         {
           "id": "7",
           "homeAway": "away",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 17
+          "score": 24
         }
       ]
     },
@@ -35,8 +35,8 @@
       "shortName": "TB @ NYJ",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "8:43",
+      "period": 4,
+      "clock": "13:06",
       "start": "2026-08-14T23:00Z",
       "teams": [
         {
@@ -44,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "NYJ",
           "displayName": "New York Jets",
-          "score": 10
+          "score": 13
         },
         {
           "id": "27",
           "homeAway": "away",
           "abbreviation": "TB",
           "displayName": "Tampa Bay Buccaneers",
-          "score": 3
+          "score": 17
         }
       ]
     },
@@ -62,8 +62,8 @@
       "shortName": "MIA @ WSH",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "10:13",
+      "period": 3,
+      "clock": "1:29",
       "start": "2026-08-14T23:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "WSH",
           "displayName": "Washington Commanders",
-          "score": 3
+          "score": 17
         },
         {
           "id": "15",
