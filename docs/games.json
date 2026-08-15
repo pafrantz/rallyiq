@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-15T20:28:08.948Z",
+  "ts": "2026-08-15T20:45:22.197Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841192",
       "shortName": "PAL @ FLU",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "54'",
       "start": "2026-08-15T19:30Z",
       "teams": [
         {
@@ -35,8 +35,8 @@
       "shortName": "LAR @ KC",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "2:54",
+      "period": 2,
+      "clock": "11:45",
       "start": "2026-08-15T20:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "7:04",
+      "clock": "0:44",
       "start": "2026-08-15T20:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 0
+          "score": 3
         }
       ]
     },
