@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-15T18:21:50.867Z",
+  "ts": "2026-08-15T18:50:04.826Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "CAR @ BUF",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:13",
+      "period": 3,
+      "clock": "8:33",
       "start": "2026-08-15T17:00Z",
       "teams": [
         {
@@ -35,8 +35,8 @@
       "shortName": "CLE @ CHI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "1:24",
+      "period": 3,
+      "clock": "13:05",
       "start": "2026-08-15T17:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 7
+          "score": 17
         },
         {
           "id": "5",
@@ -62,8 +62,8 @@
       "shortName": "MIN @ NYG",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "8:02",
       "start": "2026-08-15T17:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "MIN",
           "displayName": "Minnesota Vikings",
-          "score": 3
+          "score": 6
         }
       ]
     },
