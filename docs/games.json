@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-15T17:33:11.797Z",
+  "ts": "2026-08-15T17:48:44.529Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "CAR @ BUF",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "3:34",
+      "period": 2,
+      "clock": "12:16",
       "start": "2026-08-15T17:00Z",
       "teams": [
         {
@@ -35,8 +35,8 @@
       "shortName": "CLE @ CHI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "3:21",
+      "period": 2,
+      "clock": "13:52",
       "start": "2026-08-15T17:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "CLE",
           "displayName": "Cleveland Browns",
-          "score": 3
+          "score": 10
         }
       ]
     },
@@ -62,8 +62,8 @@
       "shortName": "MIN @ NYG",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "2:24",
+      "period": 2,
+      "clock": "11:32",
       "start": "2026-08-15T17:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "NYG",
           "displayName": "New York Giants",
-          "score": 0
+          "score": 7
         },
         {
           "id": "16",
