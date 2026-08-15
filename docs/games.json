@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-15T16:57:14.281Z",
+  "ts": "2026-08-15T17:12:49.640Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401873282",
       "shortName": "CAR @ BUF",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "10:44",
       "start": "2026-08-15T17:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 0
+          "score": 3
         },
         {
           "id": "29",
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401874393",
       "shortName": "CLE @ CHI",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "11:40",
       "start": "2026-08-15T17:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401873280",
       "shortName": "MIN @ NYG",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "10:50",
       "start": "2026-08-15T17:00Z",
       "teams": [
         {
