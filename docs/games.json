@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-15T21:58:46.860Z",
+  "ts": "2026-08-15T22:16:20.413Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "LAR @ KC",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "4:45",
+      "period": 4,
+      "clock": "15:00",
       "start": "2026-08-15T20:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "KC",
           "displayName": "Kansas City Chiefs",
-          "score": 6
+          "score": 9
         },
         {
           "id": "14",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "12:21",
+      "clock": "3:20",
       "start": "2026-08-15T20:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 6
+          "score": 14
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "26'",
+      "clock": "44'",
       "start": "2026-08-15T21:30Z",
       "teams": [
         {
