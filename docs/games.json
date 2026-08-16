@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-15T23:53:09.689Z",
+  "ts": "2026-08-16T00:00:47.540Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "12:03",
+      "clock": "9:24",
       "start": "2026-08-15T23:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 0
+          "score": 7
         },
         {
           "id": "21",
