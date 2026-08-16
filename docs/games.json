@@ -1,42 +1,15 @@
 {
-  "ts": "2026-08-16T23:21:31.475Z",
+  "ts": "2026-08-16T23:37:36.805Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841197",
-      "shortName": "BOT @ VIT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "89'",
-      "start": "2026-08-16T21:30Z",
-      "teams": [
-        {
-          "id": "3457",
-          "homeAway": "home",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 1
-        },
-        {
-          "id": "6086",
-          "homeAway": "away",
-          "abbreviation": "BOT",
-          "displayName": "Botafogo",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841193",
       "shortName": "CRU @ COR",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "46'",
       "start": "2026-08-16T22:30Z",
       "teams": [
         {
