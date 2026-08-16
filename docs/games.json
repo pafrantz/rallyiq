@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-16T19:41:22.140Z",
+  "ts": "2026-08-16T19:51:47.990Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841195",
       "shortName": "GRE @ CAM",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "40'",
+      "clock": "45'+3'",
       "start": "2026-08-16T19:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841188",
       "shortName": "SAN @ VAS",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "41'",
+      "clock": "45'+5'",
       "start": "2026-08-16T19:00Z",
       "teams": [
         {
