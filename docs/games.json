@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-16T13:59:30.750Z",
+  "ts": "2026-08-16T14:19:30.222Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841194",
       "shortName": "BAH @ CHA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "17'",
       "start": "2026-08-16T14:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BAH",
           "displayName": "Bahia",
-          "score": 0
+          "score": 1
         }
       ]
     },
