@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-16T00:00:47.540Z",
+  "ts": "2026-08-16T01:21:18.767Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "PHI @ BAL",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "9:24",
+      "period": 4,
+      "clock": "11:24",
       "start": "2026-08-15T23:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 7
+          "score": 17
         },
         {
           "id": "21",
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401873279",
       "shortName": "DAL @ SEA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 2,
+      "clock": "0:32",
       "start": "2026-08-16T00:00Z",
       "teams": [
         {
@@ -44,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 0
+          "score": 7
         },
         {
           "id": "6",
           "homeAway": "away",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 0
+          "score": 10
         }
       ]
     },
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "401841189",
       "shortName": "CFC @ SAO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "61'",
       "start": "2026-08-16T00:00Z",
       "teams": [
         {
@@ -71,14 +71,14 @@
           "homeAway": "home",
           "abbreviation": "SAO",
           "displayName": "São Paulo",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3456",
           "homeAway": "away",
           "abbreviation": "CFC",
           "displayName": "Coritiba",
-          "score": 0
+          "score": 1
         }
       ]
     },
