@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-16T14:56:55.150Z",
+  "ts": "2026-08-16T15:11:57.920Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841194",
       "shortName": "BAH @ CHA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "49'",
       "start": "2026-08-16T14:00Z",
       "teams": [
         {
