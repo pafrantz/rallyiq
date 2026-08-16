@@ -1,60 +1,6 @@
 {
-  "ts": "2026-08-16T20:54:18.268Z",
+  "ts": "2026-08-16T21:05:02.873Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841195",
-      "shortName": "GRE @ CAM",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+3'",
-      "start": "2026-08-16T19:00Z",
-      "teams": [
-        {
-          "id": "7632",
-          "homeAway": "home",
-          "abbreviation": "CAM",
-          "displayName": "Atlético-MG",
-          "score": 3
-        },
-        {
-          "id": "6273",
-          "homeAway": "away",
-          "abbreviation": "GRE",
-          "displayName": "Grêmio",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841188",
-      "shortName": "SAN @ VAS",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2026-08-16T19:00Z",
-      "teams": [
-        {
-          "id": "3454",
-          "homeAway": "home",
-          "abbreviation": "VAS",
-          "displayName": "Vasco da Gama",
-          "score": 0
-        },
-        {
-          "id": "2674",
-          "homeAway": "away",
-          "abbreviation": "SAN",
-          "displayName": "Santos",
-          "score": 3
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
