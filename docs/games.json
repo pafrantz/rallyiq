@@ -1,33 +1,6 @@
 {
-  "ts": "2026-08-16T02:35:26.897Z",
+  "ts": "2026-08-16T03:28:17.098Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873279",
-      "shortName": "DAL @ SEA",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "8:44",
-      "start": "2026-08-16T00:00Z",
-      "teams": [
-        {
-          "id": "26",
-          "homeAway": "home",
-          "abbreviation": "SEA",
-          "displayName": "Seattle Seahawks",
-          "score": 7
-        },
-        {
-          "id": "6",
-          "homeAway": "away",
-          "abbreviation": "DAL",
-          "displayName": "Dallas Cowboys",
-          "score": 17
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
