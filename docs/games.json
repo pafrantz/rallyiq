@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-16T22:53:59.571Z",
+  "ts": "2026-08-16T23:01:21.195Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "63'",
+      "clock": "71'",
       "start": "2026-08-16T21:30Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "FLA",
           "displayName": "Flamengo",
-          "score": 3
+          "score": 4
         }
       ]
     },
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "61'",
+      "clock": "68'",
       "start": "2026-08-16T21:30Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "22'",
+      "clock": "29'",
       "start": "2026-08-16T22:30Z",
       "teams": [
         {
