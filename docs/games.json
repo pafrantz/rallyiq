@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-16T19:05:28.567Z",
+  "ts": "2026-08-16T19:27:37.384Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "5'",
+      "clock": "27'",
       "start": "2026-08-16T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CAM",
           "displayName": "Atlético-MG",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6273",
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841188",
       "shortName": "SAN @ VAS",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "5'",
+      "clock": "27'",
       "start": "2026-08-16T19:00Z",
       "teams": [
         {
