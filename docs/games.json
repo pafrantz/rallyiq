@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-16T20:39:40.245Z",
+  "ts": "2026-08-16T20:54:18.268Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "78'",
+      "clock": "90'+3'",
       "start": "2026-08-16T19:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841188",
       "shortName": "SAN @ VAS",
-      "status": "STATUS_SECOND_HALF",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "90'+2'",
       "start": "2026-08-16T19:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "SAN",
           "displayName": "Santos",
-          "score": 1
+          "score": 3
         }
       ]
     },
