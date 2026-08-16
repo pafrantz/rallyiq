@@ -1,33 +1,6 @@
 {
-  "ts": "2026-08-16T23:01:21.195Z",
+  "ts": "2026-08-16T23:21:31.475Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841190",
-      "shortName": "FLA @ MIR",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "71'",
-      "start": "2026-08-16T21:30Z",
-      "teams": [
-        {
-          "id": "9169",
-          "homeAway": "home",
-          "abbreviation": "MIR",
-          "displayName": "Mirassol",
-          "score": 0
-        },
-        {
-          "id": "819",
-          "homeAway": "away",
-          "abbreviation": "FLA",
-          "displayName": "Flamengo",
-          "score": 4
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "68'",
+      "clock": "89'",
       "start": "2026-08-16T21:30Z",
       "teams": [
         {
@@ -60,10 +33,10 @@
       "league": "bra.1",
       "id": "401841193",
       "shortName": "CRU @ COR",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "29'",
+      "clock": "45'+3'",
       "start": "2026-08-16T22:30Z",
       "teams": [
         {
@@ -78,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "CRU",
           "displayName": "Cruzeiro",
-          "score": 0
+          "score": 1
         }
       ]
     },
