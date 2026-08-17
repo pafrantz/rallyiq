@@ -1,6 +1,33 @@
 {
-  "ts": "2026-08-17T06:23:27.498Z",
+  "ts": "2026-08-17T07:26:58.408Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841191",
+      "shortName": "REMO @ INT",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-08-17T23:00Z",
+      "teams": [
+        {
+          "id": "1936",
+          "homeAway": "home",
+          "abbreviation": "INT",
+          "displayName": "Internacional",
+          "score": 0
+        },
+        {
+          "id": "4936",
+          "homeAway": "away",
+          "abbreviation": "REMO",
+          "displayName": "Remo",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "soccer",
       "league": "eng.1",
