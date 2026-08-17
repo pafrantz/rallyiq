@@ -1,33 +1,6 @@
 {
-  "ts": "2026-08-16T23:59:38.013Z",
+  "ts": "2026-08-17T01:08:26.526Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841193",
-      "shortName": "CRU @ COR",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "67'",
-      "start": "2026-08-16T22:30Z",
-      "teams": [
-        {
-          "id": "874",
-          "homeAway": "home",
-          "abbreviation": "COR",
-          "displayName": "Corinthians",
-          "score": 1
-        },
-        {
-          "id": "2022",
-          "homeAway": "away",
-          "abbreviation": "CRU",
-          "displayName": "Cruzeiro",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
