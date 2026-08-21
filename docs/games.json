@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-21T04:08:57.140Z",
+  "ts": "2026-08-21T04:49:54.380Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "SF @ LAC",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "9:20",
+      "period": 4,
+      "clock": "9:25",
       "start": "2026-08-21T02:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 20
+          "score": 41
         }
       ]
     },
