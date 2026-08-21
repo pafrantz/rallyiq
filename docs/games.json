@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-20T23:59:09.111Z",
+  "ts": "2026-08-21T01:05:43.208Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401873286",
       "shortName": "LV @ HOU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 2,
+      "clock": "8:01",
       "start": "2026-08-21T00:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 0
+          "score": 17
         },
         {
           "id": "13",
           "homeAway": "away",
           "abbreviation": "LV",
           "displayName": "Las Vegas Raiders",
-          "score": 0
+          "score": 3
         }
       ]
     },
