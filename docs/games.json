@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-21T23:40:35.563Z",
+  "ts": "2026-08-21T23:56:07.966Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "15:00",
+      "clock": "6:59",
       "start": "2026-08-21T23:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "13:38",
+      "clock": "7:34",
       "start": "2026-08-21T23:30Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "CAR",
           "displayName": "Carolina Panthers",
-          "score": 0
+          "score": 7
         }
       ]
     },
