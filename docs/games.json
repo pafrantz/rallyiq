@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-21T18:38:59.639Z",
+  "ts": "2026-08-21T19:08:46.255Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "401879301",
       "shortName": "COV @ ARS",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "9'",
       "start": "2026-08-21T19:00Z",
       "teams": [
         {
