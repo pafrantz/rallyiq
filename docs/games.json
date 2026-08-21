@@ -1,4 +1,464 @@
 {
-  "ts": "2026-08-21T21:57:58.964Z",
-  "games": []
+  "ts": "2026-08-21T22:16:28.848Z",
+  "games": [
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401873288",
+      "shortName": "NYJ @ PIT",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2026-08-21T23:00Z",
+      "teams": [
+        {
+          "id": "23",
+          "homeAway": "home",
+          "abbreviation": "PIT",
+          "displayName": "Pittsburgh Steelers",
+          "score": 0
+        },
+        {
+          "id": "20",
+          "homeAway": "away",
+          "abbreviation": "NYJ",
+          "displayName": "New York Jets",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401873287",
+      "shortName": "CAR @ JAX",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2026-08-21T23:30Z",
+      "teams": [
+        {
+          "id": "30",
+          "homeAway": "home",
+          "abbreviation": "JAX",
+          "displayName": "Jacksonville Jaguars",
+          "score": 0
+        },
+        {
+          "id": "29",
+          "homeAway": "away",
+          "abbreviation": "CAR",
+          "displayName": "Carolina Panthers",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401873613",
+      "shortName": "GB @ DEN",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2026-08-22T01:00Z",
+      "teams": [
+        {
+          "id": "7",
+          "homeAway": "home",
+          "abbreviation": "DEN",
+          "displayName": "Denver Broncos",
+          "score": 0
+        },
+        {
+          "id": "9",
+          "homeAway": "away",
+          "abbreviation": "GB",
+          "displayName": "Green Bay Packers",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401873601",
+      "shortName": "WSH @ DET",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2026-08-22T16:00Z",
+      "teams": [
+        {
+          "id": "8",
+          "homeAway": "home",
+          "abbreviation": "DET",
+          "displayName": "Detroit Lions",
+          "score": 0
+        },
+        {
+          "id": "28",
+          "homeAway": "away",
+          "abbreviation": "WSH",
+          "displayName": "Washington Commanders",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401873294",
+      "shortName": "BUF @ CLE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2026-08-22T17:00Z",
+      "teams": [
+        {
+          "id": "5",
+          "homeAway": "home",
+          "abbreviation": "CLE",
+          "displayName": "Cleveland Browns",
+          "score": 0
+        },
+        {
+          "id": "2",
+          "homeAway": "away",
+          "abbreviation": "BUF",
+          "displayName": "Buffalo Bills",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401873295",
+      "shortName": "ATL @ IND",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2026-08-22T17:00Z",
+      "teams": [
+        {
+          "id": "11",
+          "homeAway": "home",
+          "abbreviation": "IND",
+          "displayName": "Indianapolis Colts",
+          "score": 0
+        },
+        {
+          "id": "1",
+          "homeAway": "away",
+          "abbreviation": "ATL",
+          "displayName": "Atlanta Falcons",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401873291",
+      "shortName": "BAL @ MIN",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2026-08-22T17:00Z",
+      "teams": [
+        {
+          "id": "16",
+          "homeAway": "home",
+          "abbreviation": "MIN",
+          "displayName": "Minnesota Vikings",
+          "score": 0
+        },
+        {
+          "id": "33",
+          "homeAway": "away",
+          "abbreviation": "BAL",
+          "displayName": "Baltimore Ravens",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841205",
+      "shortName": "REMO @ FLU",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-08-22T19:00Z",
+      "teams": [
+        {
+          "id": "3445",
+          "homeAway": "home",
+          "abbreviation": "FLU",
+          "displayName": "Fluminense",
+          "score": 0
+        },
+        {
+          "id": "4936",
+          "homeAway": "away",
+          "abbreviation": "REMO",
+          "displayName": "Remo",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401873290",
+      "shortName": "NO @ LAR",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2026-08-22T20:00Z",
+      "teams": [
+        {
+          "id": "14",
+          "homeAway": "home",
+          "abbreviation": "LAR",
+          "displayName": "Los Angeles Rams",
+          "score": 0
+        },
+        {
+          "id": "18",
+          "homeAway": "away",
+          "abbreviation": "NO",
+          "displayName": "New Orleans Saints",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401873292",
+      "shortName": "NYG @ MIA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2026-08-22T20:00Z",
+      "teams": [
+        {
+          "id": "15",
+          "homeAway": "home",
+          "abbreviation": "MIA",
+          "displayName": "Miami Dolphins",
+          "score": 0
+        },
+        {
+          "id": "19",
+          "homeAway": "away",
+          "abbreviation": "NYG",
+          "displayName": "New York Giants",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841204",
+      "shortName": "CAM @ INT",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-08-22T21:30Z",
+      "teams": [
+        {
+          "id": "1936",
+          "homeAway": "home",
+          "abbreviation": "INT",
+          "displayName": "Internacional",
+          "score": 0
+        },
+        {
+          "id": "7632",
+          "homeAway": "away",
+          "abbreviation": "CAM",
+          "displayName": "Atlético-MG",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401873289",
+      "shortName": "CHI @ CIN",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2026-08-22T23:00Z",
+      "teams": [
+        {
+          "id": "4",
+          "homeAway": "home",
+          "abbreviation": "CIN",
+          "displayName": "Cincinnati Bengals",
+          "score": 0
+        },
+        {
+          "id": "3",
+          "homeAway": "away",
+          "abbreviation": "CHI",
+          "displayName": "Chicago Bears",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401873293",
+      "shortName": "PHI @ NE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2026-08-22T23:00Z",
+      "teams": [
+        {
+          "id": "17",
+          "homeAway": "home",
+          "abbreviation": "NE",
+          "displayName": "New England Patriots",
+          "score": 0
+        },
+        {
+          "id": "21",
+          "homeAway": "away",
+          "abbreviation": "PHI",
+          "displayName": "Philadelphia Eagles",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401873296",
+      "shortName": "KC @ TB",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2026-08-22T23:30Z",
+      "teams": [
+        {
+          "id": "27",
+          "homeAway": "home",
+          "abbreviation": "TB",
+          "displayName": "Tampa Bay Buccaneers",
+          "score": 0
+        },
+        {
+          "id": "12",
+          "homeAway": "away",
+          "abbreviation": "KC",
+          "displayName": "Kansas City Chiefs",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841206",
+      "shortName": "FLA @ CRU",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-08-22T23:30Z",
+      "teams": [
+        {
+          "id": "2022",
+          "homeAway": "home",
+          "abbreviation": "CRU",
+          "displayName": "Cruzeiro",
+          "score": 0
+        },
+        {
+          "id": "819",
+          "homeAway": "away",
+          "abbreviation": "FLA",
+          "displayName": "Flamengo",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401874101",
+      "shortName": "DAL @ ARI",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2026-08-23T02:00Z",
+      "teams": [
+        {
+          "id": "22",
+          "homeAway": "home",
+          "abbreviation": "ARI",
+          "displayName": "Arizona Cardinals",
+          "score": 0
+        },
+        {
+          "id": "6",
+          "homeAway": "away",
+          "abbreviation": "DAL",
+          "displayName": "Dallas Cowboys",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401873297",
+      "shortName": "SEA @ TEN",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": 0,
+      "clock": "0:00",
+      "start": "2026-08-24T00:00Z",
+      "teams": [
+        {
+          "id": "10",
+          "homeAway": "home",
+          "abbreviation": "TEN",
+          "displayName": "Tennessee Titans",
+          "score": 0
+        },
+        {
+          "id": "26",
+          "homeAway": "away",
+          "abbreviation": "SEA",
+          "displayName": "Seattle Seahawks",
+          "score": 0
+        }
+      ]
+    }
+  ]
 }
