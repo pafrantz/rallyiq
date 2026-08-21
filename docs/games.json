@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-21T03:30:40.913Z",
+  "ts": "2026-08-21T04:08:57.140Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "SF @ LAC",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "1:02",
+      "period": 3,
+      "clock": "9:20",
       "start": "2026-08-21T02:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 3
+          "score": 9
         },
         {
           "id": "25",
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 17
+          "score": 20
         }
       ]
     },
