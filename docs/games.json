@@ -1,33 +1,6 @@
 {
-  "ts": "2026-08-21T02:34:18.615Z",
+  "ts": "2026-08-21T03:30:40.913Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873286",
-      "shortName": "LV @ HOU",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "7:53",
-      "start": "2026-08-21T00:00Z",
-      "teams": [
-        {
-          "id": "34",
-          "homeAway": "home",
-          "abbreviation": "HOU",
-          "displayName": "Houston Texans",
-          "score": 20
-        },
-        {
-          "id": "13",
-          "homeAway": "away",
-          "abbreviation": "LV",
-          "displayName": "Las Vegas Raiders",
-          "score": 10
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -36,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "15:00",
+      "clock": "1:02",
       "start": "2026-08-21T02:00Z",
       "teams": [
         {
@@ -44,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 0
+          "score": 3
         },
         {
           "id": "25",
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 0
+          "score": 17
         }
       ]
     },
