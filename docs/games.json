@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-21T22:58:09.468Z",
+  "ts": "2026-08-21T23:17:10.921Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401873288",
       "shortName": "NYJ @ PIT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "9:04",
       "start": "2026-08-21T23:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "NYJ",
           "displayName": "New York Jets",
-          "score": 0
+          "score": 7
         }
       ]
     },
