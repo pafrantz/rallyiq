@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-21T19:08:46.255Z",
+  "ts": "2026-08-21T19:32:48.711Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "9'",
+      "clock": "32'",
       "start": "2026-08-21T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "ARS",
           "displayName": "Arsenal",
-          "score": 0
+          "score": 2
         },
         {
           "id": "388",
