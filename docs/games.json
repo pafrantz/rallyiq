@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-21T20:00:03.872Z",
+  "ts": "2026-08-21T20:23:49.859Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "401879301",
       "shortName": "COV @ ARS",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "66'",
       "start": "2026-08-21T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "ARS",
           "displayName": "Arsenal",
-          "score": 2
+          "score": 3
         },
         {
           "id": "388",
