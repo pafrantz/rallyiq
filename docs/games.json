@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-22T11:23:10.070Z",
+  "ts": "2026-08-22T11:40:05.061Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "401879322",
       "shortName": "MAN @ HUL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "10'",
       "start": "2026-08-22T11:30Z",
       "teams": [
         {
