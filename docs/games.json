@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-22T15:30:36.953Z",
+  "ts": "2026-08-22T15:46:12.376Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "70'",
+      "clock": "85'",
       "start": "2026-08-22T14:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "401879299",
       "shortName": "SUN @ IPS",
-      "status": "STATUS_SECOND_HALF",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "72'",
+      "clock": "88'",
       "start": "2026-08-22T14:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "72'",
+      "clock": "88'",
       "start": "2026-08-22T14:00Z",
       "teams": [
         {
