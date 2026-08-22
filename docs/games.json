@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-22T02:52:23.192Z",
+  "ts": "2026-08-22T03:28:15.498Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401873613",
       "shortName": "GB @ DEN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 4,
+      "clock": "15:00",
       "start": "2026-08-22T01:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 10
+          "score": 13
         },
         {
           "id": "9",
