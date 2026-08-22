@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-22T13:59:23.849Z",
+  "ts": "2026-08-22T14:18:06.315Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "401879300",
       "shortName": "CRY @ EVE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "18'",
       "start": "2026-08-22T14:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "401879299",
       "shortName": "SUN @ IPS",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "18'",
       "start": "2026-08-22T14:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "401879298",
       "shortName": "LEE @ NFO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "17'",
       "start": "2026-08-22T14:00Z",
       "teams": [
         {
