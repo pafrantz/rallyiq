@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-22T17:48:28.942Z",
+  "ts": "2026-08-22T17:59:14.855Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "8:45",
+      "clock": "5:39",
       "start": "2026-08-22T16:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "61'",
+      "clock": "72'",
       "start": "2026-08-22T16:30Z",
       "teams": [
         {
@@ -89,8 +89,8 @@
       "shortName": "ATL @ IND",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "0:27",
+      "period": 2,
+      "clock": "10:20",
       "start": "2026-08-22T17:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 10
+          "score": 16
         }
       ]
     },
@@ -117,7 +117,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "12:19",
+      "clock": "7:22",
       "start": "2026-08-22T17:00Z",
       "teams": [
         {
@@ -132,7 +132,7 @@
           "homeAway": "away",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 0
+          "score": 3
         }
       ]
     },
