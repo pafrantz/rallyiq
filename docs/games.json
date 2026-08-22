@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-22T16:13:22.142Z",
+  "ts": "2026-08-22T16:38:28.081Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "14:06",
+      "clock": "3:11",
       "start": "2026-08-22T16:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 0
+          "score": 7
         },
         {
           "id": "28",
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "401879321",
       "shortName": "TOT @ BRE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "8'",
       "start": "2026-08-22T16:30Z",
       "teams": [
         {
