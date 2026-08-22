@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-22T03:28:15.498Z",
+  "ts": "2026-08-22T04:03:26.195Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "15:00",
+      "clock": "1:05",
       "start": "2026-08-22T01:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 23
+          "score": 33
         }
       ]
     },
