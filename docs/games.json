@@ -1,33 +1,6 @@
 {
-  "ts": "2026-08-22T04:03:26.195Z",
+  "ts": "2026-08-22T04:40:34.605Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873613",
-      "shortName": "GB @ DEN",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "1:05",
-      "start": "2026-08-22T01:00Z",
-      "teams": [
-        {
-          "id": "7",
-          "homeAway": "home",
-          "abbreviation": "DEN",
-          "displayName": "Denver Broncos",
-          "score": 13
-        },
-        {
-          "id": "9",
-          "homeAway": "away",
-          "abbreviation": "GB",
-          "displayName": "Green Bay Packers",
-          "score": 33
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
