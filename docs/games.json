@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-22T11:54:15.402Z",
+  "ts": "2026-08-22T12:10:09.812Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "24'",
+      "clock": "40'",
       "start": "2026-08-22T11:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "HUL",
           "displayName": "Hull City",
-          "score": 1
+          "score": 2
         },
         {
           "id": "360",
