@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-22T15:46:12.376Z",
+  "ts": "2026-08-22T15:57:13.826Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "85'",
+      "clock": "90'+6'",
       "start": "2026-08-22T14:00Z",
       "teams": [
         {
@@ -24,60 +24,6 @@
           "homeAway": "away",
           "abbreviation": "CRY",
           "displayName": "Crystal Palace",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "401879299",
-      "shortName": "SUN @ IPS",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "88'",
-      "start": "2026-08-22T14:00Z",
-      "teams": [
-        {
-          "id": "373",
-          "homeAway": "home",
-          "abbreviation": "IPS",
-          "displayName": "Ipswich Town",
-          "score": 1
-        },
-        {
-          "id": "366",
-          "homeAway": "away",
-          "abbreviation": "SUN",
-          "displayName": "Sunderland",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "401879298",
-      "shortName": "LEE @ NFO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "88'",
-      "start": "2026-08-22T14:00Z",
-      "teams": [
-        {
-          "id": "393",
-          "homeAway": "home",
-          "abbreviation": "NFO",
-          "displayName": "Nottingham Forest",
-          "score": 0
-        },
-        {
-          "id": "357",
-          "homeAway": "away",
-          "abbreviation": "LEE",
-          "displayName": "Leeds United",
           "score": 0
         }
       ]
