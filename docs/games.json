@@ -1,33 +1,6 @@
 {
-  "ts": "2026-08-22T20:53:37.425Z",
+  "ts": "2026-08-22T21:07:44.242Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841205",
-      "shortName": "REMO @ FLU",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2026-08-22T19:00Z",
-      "teams": [
-        {
-          "id": "3445",
-          "homeAway": "home",
-          "abbreviation": "FLU",
-          "displayName": "Fluminense",
-          "score": 2
-        },
-        {
-          "id": "4936",
-          "homeAway": "away",
-          "abbreviation": "REMO",
-          "displayName": "Remo",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -36,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "9:56",
+      "clock": "5:32",
       "start": "2026-08-22T20:00Z",
       "teams": [
         {
@@ -63,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "13:25",
+      "clock": "7:25",
       "start": "2026-08-22T20:00Z",
       "teams": [
         {
@@ -78,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "NYG",
           "displayName": "New York Giants",
-          "score": 7
+          "score": 10
         }
       ]
     },
