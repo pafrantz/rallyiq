@@ -1,42 +1,15 @@
 {
-  "ts": "2026-08-22T02:00:00.390Z",
+  "ts": "2026-08-22T02:52:23.192Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873287",
-      "shortName": "CAR @ JAX",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "14:21",
-      "start": "2026-08-21T23:30Z",
-      "teams": [
-        {
-          "id": "30",
-          "homeAway": "home",
-          "abbreviation": "JAX",
-          "displayName": "Jacksonville Jaguars",
-          "score": 6
-        },
-        {
-          "id": "29",
-          "homeAway": "away",
-          "abbreviation": "CAR",
-          "displayName": "Carolina Panthers",
-          "score": 27
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
       "id": "401873613",
       "shortName": "GB @ DEN",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "12:04",
+      "clock": "0:00",
       "start": "2026-08-22T01:00Z",
       "teams": [
         {
@@ -51,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 10
+          "score": 23
         }
       ]
     },
