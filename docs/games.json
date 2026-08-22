@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-22T21:58:15.679Z",
+  "ts": "2026-08-22T22:15:18.054Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "9:06",
+      "clock": "3:08",
       "start": "2026-08-22T20:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 3,
-      "clock": "10:46",
+      "clock": "4:00",
       "start": "2026-08-22T20:00Z",
       "teams": [
         {
@@ -51,7 +51,7 @@
           "homeAway": "away",
           "abbreviation": "NYG",
           "displayName": "New York Giants",
-          "score": 20
+          "score": 23
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "28'",
+      "clock": "45'",
       "start": "2026-08-22T21:30Z",
       "teams": [
         {
