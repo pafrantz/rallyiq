@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-22T14:18:06.315Z",
+  "ts": "2026-08-22T14:40:30.280Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "18'",
+      "clock": "40'",
       "start": "2026-08-22T14:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "18'",
+      "clock": "40'",
       "start": "2026-08-22T14:00Z",
       "teams": [
         {
@@ -44,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "IPS",
           "displayName": "Ipswich Town",
-          "score": 0
+          "score": 1
         },
         {
           "id": "366",
           "homeAway": "away",
           "abbreviation": "SUN",
           "displayName": "Sunderland",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "17'",
+      "clock": "40'",
       "start": "2026-08-22T14:00Z",
       "teams": [
         {
