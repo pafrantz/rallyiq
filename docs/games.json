@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-22T18:24:32.673Z",
+  "ts": "2026-08-22T18:52:50.001Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "12:02",
+      "clock": "2:08",
       "start": "2026-08-22T16:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 14
+          "score": 17
         },
         {
           "id": "28",
@@ -35,8 +35,8 @@
       "shortName": "BUF @ CLE",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "8:18",
+      "period": 2,
+      "clock": "10:25",
       "start": "2026-08-22T17:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "CLE",
           "displayName": "Cleveland Browns",
-          "score": 0
+          "score": 7
         },
         {
           "id": "2",
@@ -62,8 +62,8 @@
       "shortName": "ATL @ IND",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "2:00",
+      "period": 3,
+      "clock": "13:04",
       "start": "2026-08-22T17:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 17
+          "score": 31
         }
       ]
     },
@@ -87,10 +87,10 @@
       "league": "nfl",
       "id": "401873291",
       "shortName": "BAL @ MIN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "9:32",
       "start": "2026-08-22T17:00Z",
       "teams": [
         {
