@@ -1,33 +1,6 @@
 {
-  "ts": "2026-08-22T13:24:05.340Z",
+  "ts": "2026-08-22T13:47:30.924Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "401879322",
-      "shortName": "MAN @ HUL",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+6'",
-      "start": "2026-08-22T11:30Z",
-      "teams": [
-        {
-          "id": "306",
-          "homeAway": "home",
-          "abbreviation": "HUL",
-          "displayName": "Hull City",
-          "score": 2
-        },
-        {
-          "id": "360",
-          "homeAway": "away",
-          "abbreviation": "MAN",
-          "displayName": "Manchester United",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
