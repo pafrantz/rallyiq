@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-22T19:31:30.026Z",
+  "ts": "2026-08-22T19:46:24.783Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401873294",
       "shortName": "BUF @ CLE",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "0:00",
+      "period": 3,
+      "clock": "9:48",
       "start": "2026-08-22T17:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "13:33",
+      "clock": "6:13",
       "start": "2026-08-22T17:00Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 4,
-      "clock": "10:01",
+      "clock": "4:36",
       "start": "2026-08-22T17:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 10
+          "score": 13
         }
       ]
     },
@@ -90,7 +90,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "30'",
+      "clock": "45'+1'",
       "start": "2026-08-22T19:00Z",
       "teams": [
         {
@@ -105,7 +105,7 @@
           "homeAway": "away",
           "abbreviation": "REMO",
           "displayName": "Remo",
-          "score": 0
+          "score": 1
         }
       ]
     },
