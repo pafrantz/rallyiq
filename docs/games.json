@@ -1,33 +1,6 @@
 {
-  "ts": "2026-08-22T20:36:51.043Z",
+  "ts": "2026-08-22T20:53:37.425Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873294",
-      "shortName": "BUF @ CLE",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "6:03",
-      "start": "2026-08-22T17:00Z",
-      "teams": [
-        {
-          "id": "5",
-          "homeAway": "home",
-          "abbreviation": "CLE",
-          "displayName": "Cleveland Browns",
-          "score": 7
-        },
-        {
-          "id": "2",
-          "homeAway": "away",
-          "abbreviation": "BUF",
-          "displayName": "Buffalo Bills",
-          "score": 31
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
@@ -36,7 +9,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "90'+4'",
       "start": "2026-08-22T19:00Z",
       "teams": [
         {
@@ -44,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "FLU",
           "displayName": "Fluminense",
-          "score": 1
+          "score": 2
         },
         {
           "id": "4936",
@@ -62,8 +35,8 @@
       "shortName": "NO @ LAR",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "3:48",
+      "period": 2,
+      "clock": "9:56",
       "start": "2026-08-22T20:00Z",
       "teams": [
         {
@@ -71,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "LAR",
           "displayName": "Los Angeles Rams",
-          "score": 3
+          "score": 10
         },
         {
           "id": "18",
@@ -89,8 +62,8 @@
       "shortName": "NYG @ MIA",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "4:08",
+      "period": 2,
+      "clock": "13:25",
       "start": "2026-08-22T20:00Z",
       "teams": [
         {
