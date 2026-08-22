@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-22T17:09:14.924Z",
+  "ts": "2026-08-22T17:32:17.668Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401873601",
       "shortName": "WSH @ DET",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 2,
-      "clock": "2:00",
+      "clock": "0:00",
       "start": "2026-08-22T16:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "401879321",
       "shortName": "TOT @ BRE",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "39'",
+      "clock": "45'+2'",
       "start": "2026-08-22T16:30Z",
       "teams": [
         {
@@ -58,39 +58,12 @@
     {
       "sport": "football",
       "league": "nfl",
-      "id": "401873291",
-      "shortName": "BAL @ MIN",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 1,
-      "clock": "14:20",
-      "start": "2026-08-22T17:00Z",
-      "teams": [
-        {
-          "id": "16",
-          "homeAway": "home",
-          "abbreviation": "MIN",
-          "displayName": "Minnesota Vikings",
-          "score": 0
-        },
-        {
-          "id": "33",
-          "homeAway": "away",
-          "abbreviation": "BAL",
-          "displayName": "Baltimore Ravens",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
       "id": "401873294",
       "shortName": "BUF @ CLE",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_DELAYED",
       "state": "IN",
       "period": 1,
-      "clock": "14:56",
+      "clock": "13:31",
       "start": "2026-08-22T17:00Z",
       "teams": [
         {
@@ -117,7 +90,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 1,
-      "clock": "15:00",
+      "clock": "4:32",
       "start": "2026-08-22T17:00Z",
       "teams": [
         {
@@ -125,13 +98,40 @@
           "homeAway": "home",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 0
+          "score": 3
         },
         {
           "id": "1",
           "homeAway": "away",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "sport": "football",
+      "league": "nfl",
+      "id": "401873291",
+      "shortName": "BAL @ MIN",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "5:01",
+      "start": "2026-08-22T17:00Z",
+      "teams": [
+        {
+          "id": "16",
+          "homeAway": "home",
+          "abbreviation": "MIN",
+          "displayName": "Minnesota Vikings",
+          "score": 0
+        },
+        {
+          "id": "33",
+          "homeAway": "away",
+          "abbreviation": "BAL",
+          "displayName": "Baltimore Ravens",
           "score": 0
         }
       ]
