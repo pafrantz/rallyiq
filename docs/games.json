@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-23T03:12:15.988Z",
+  "ts": "2026-08-23T03:57:34.337Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "DAL @ ARI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 2,
-      "clock": "4:23",
+      "period": 3,
+      "clock": "8:47",
       "start": "2026-08-23T02:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 3
+          "score": 13
         },
         {
           "id": "6",
           "homeAway": "away",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 21
+          "score": 24
         }
       ]
     },
