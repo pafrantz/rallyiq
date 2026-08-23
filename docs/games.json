@@ -1,60 +1,6 @@
 {
-  "ts": "2026-08-23T20:55:55.744Z",
+  "ts": "2026-08-23T21:10:11.168Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841202",
-      "shortName": "GRE @ BRA",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+2'",
-      "start": "2026-08-23T19:00Z",
-      "teams": [
-        {
-          "id": "6079",
-          "homeAway": "home",
-          "abbreviation": "BRA",
-          "displayName": "Red Bull Bragantino",
-          "score": 0
-        },
-        {
-          "id": "6273",
-          "homeAway": "away",
-          "abbreviation": "GRE",
-          "displayName": "Grêmio",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841200",
-      "shortName": "BAH @ VIT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+4'",
-      "start": "2026-08-23T19:00Z",
-      "teams": [
-        {
-          "id": "3457",
-          "homeAway": "home",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 0
-        },
-        {
-          "id": "9967",
-          "homeAway": "away",
-          "abbreviation": "BAH",
-          "displayName": "Bahia",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
