@@ -1,6 +1,249 @@
 {
-  "ts": "2026-08-23T07:01:11.542Z",
+  "ts": "2026-08-23T07:34:10.607Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401879297",
+      "shortName": "AVL @ BHA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-08-23T13:00Z",
+      "teams": [
+        {
+          "id": "331",
+          "homeAway": "home",
+          "abbreviation": "BHA",
+          "displayName": "Brighton & Hove Albion",
+          "score": 0
+        },
+        {
+          "id": "362",
+          "homeAway": "away",
+          "abbreviation": "AVL",
+          "displayName": "Aston Villa",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401879320",
+      "shortName": "BOU @ MNC",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-08-23T13:00Z",
+      "teams": [
+        {
+          "id": "382",
+          "homeAway": "home",
+          "abbreviation": "MNC",
+          "displayName": "Manchester City",
+          "score": 0
+        },
+        {
+          "id": "349",
+          "homeAway": "away",
+          "abbreviation": "BOU",
+          "displayName": "AFC Bournemouth",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401879319",
+      "shortName": "LIV @ NEW",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-08-23T15:30Z",
+      "teams": [
+        {
+          "id": "361",
+          "homeAway": "home",
+          "abbreviation": "NEW",
+          "displayName": "Newcastle United",
+          "score": 0
+        },
+        {
+          "id": "364",
+          "homeAway": "away",
+          "abbreviation": "LIV",
+          "displayName": "Liverpool",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841203",
+      "shortName": "VAS @ PAL",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-08-23T19:00Z",
+      "teams": [
+        {
+          "id": "2029",
+          "homeAway": "home",
+          "abbreviation": "PAL",
+          "displayName": "Palmeiras",
+          "score": 0
+        },
+        {
+          "id": "3454",
+          "homeAway": "away",
+          "abbreviation": "VAS",
+          "displayName": "Vasco da Gama",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841202",
+      "shortName": "GRE @ BRA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-08-23T19:00Z",
+      "teams": [
+        {
+          "id": "6079",
+          "homeAway": "home",
+          "abbreviation": "BRA",
+          "displayName": "Red Bull Bragantino",
+          "score": 0
+        },
+        {
+          "id": "6273",
+          "homeAway": "away",
+          "abbreviation": "GRE",
+          "displayName": "Grêmio",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841200",
+      "shortName": "BAH @ VIT",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-08-23T19:00Z",
+      "teams": [
+        {
+          "id": "3457",
+          "homeAway": "home",
+          "abbreviation": "VIT",
+          "displayName": "Vitória",
+          "score": 0
+        },
+        {
+          "id": "9967",
+          "homeAway": "away",
+          "abbreviation": "BAH",
+          "displayName": "Bahia",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841199",
+      "shortName": "SAO @ CHA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-08-23T21:30Z",
+      "teams": [
+        {
+          "id": "9318",
+          "homeAway": "home",
+          "abbreviation": "CHA",
+          "displayName": "Chapecoense",
+          "score": 0
+        },
+        {
+          "id": "2026",
+          "homeAway": "away",
+          "abbreviation": "SAO",
+          "displayName": "São Paulo",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841201",
+      "shortName": "MIR @ SAN",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-08-23T21:30Z",
+      "teams": [
+        {
+          "id": "2674",
+          "homeAway": "home",
+          "abbreviation": "SAN",
+          "displayName": "Santos",
+          "score": 0
+        },
+        {
+          "id": "9169",
+          "homeAway": "away",
+          "abbreviation": "MIR",
+          "displayName": "Mirassol",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841207",
+      "shortName": "COR @ CFC",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-08-23T22:30Z",
+      "teams": [
+        {
+          "id": "3456",
+          "homeAway": "home",
+          "abbreviation": "CFC",
+          "displayName": "Coritiba",
+          "score": 0
+        },
+        {
+          "id": "874",
+          "homeAway": "away",
+          "abbreviation": "COR",
+          "displayName": "Corinthians",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "football",
       "league": "nfl",
