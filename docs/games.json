@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-23T12:23:25.182Z",
+  "ts": "2026-08-23T13:06:27.584Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "401879297",
       "shortName": "AVL @ BHA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "6'",
       "start": "2026-08-23T13:00Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "eng.1",
       "id": "401879320",
       "shortName": "BOU @ MNC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "3'",
       "start": "2026-08-23T13:00Z",
       "teams": [
         {
