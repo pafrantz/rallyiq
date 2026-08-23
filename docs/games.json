@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-23T19:59:09.477Z",
+  "ts": "2026-08-23T20:17:52.837Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841203",
       "shortName": "VAS @ PAL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
+      "period": 2,
+      "clock": "59'",
       "start": "2026-08-23T19:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "PAL",
           "displayName": "Palmeiras",
-          "score": 0
+          "score": 3
         },
         {
           "id": "3454",
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841202",
       "shortName": "GRE @ BRA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "55'",
       "start": "2026-08-23T19:00Z",
       "teams": [
         {
@@ -60,10 +60,10 @@
       "league": "bra.1",
       "id": "401841200",
       "shortName": "BAH @ VIT",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "56'",
       "start": "2026-08-23T19:00Z",
       "teams": [
         {
