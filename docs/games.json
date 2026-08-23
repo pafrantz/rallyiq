@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-23T19:49:35.634Z",
+  "ts": "2026-08-23T19:59:09.477Z",
   "games": [
     {
       "sport": "soccer",
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841202",
       "shortName": "GRE @ BRA",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "45'+3'",
+      "clock": "45'+4'",
       "start": "2026-08-23T19:00Z",
       "teams": [
         {
