@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-23T14:36:58.700Z",
+  "ts": "2026-08-23T14:54:32.427Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "401879297",
       "shortName": "AVL @ BHA",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "77'",
+      "clock": "90'+4'",
       "start": "2026-08-23T13:00Z",
       "teams": [
         {
@@ -36,7 +36,7 @@
       "status": "STATUS_SECOND_HALF",
       "state": "IN",
       "period": 2,
-      "clock": "76'",
+      "clock": "90'+4'",
       "start": "2026-08-23T13:00Z",
       "teams": [
         {
@@ -44,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "MNC",
           "displayName": "Manchester City",
-          "score": 0
+          "score": 2
         },
         {
           "id": "349",
