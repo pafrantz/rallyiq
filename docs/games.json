@@ -1,87 +1,6 @@
 {
-  "ts": "2026-08-23T02:10:03.541Z",
+  "ts": "2026-08-23T03:12:15.988Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873289",
-      "shortName": "CHI @ CIN",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "2:00",
-      "start": "2026-08-22T23:00Z",
-      "teams": [
-        {
-          "id": "4",
-          "homeAway": "home",
-          "abbreviation": "CIN",
-          "displayName": "Cincinnati Bengals",
-          "score": 27
-        },
-        {
-          "id": "3",
-          "homeAway": "away",
-          "abbreviation": "CHI",
-          "displayName": "Chicago Bears",
-          "score": 9
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873293",
-      "shortName": "PHI @ NE",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:47",
-      "start": "2026-08-22T23:00Z",
-      "teams": [
-        {
-          "id": "17",
-          "homeAway": "home",
-          "abbreviation": "NE",
-          "displayName": "New England Patriots",
-          "score": 24
-        },
-        {
-          "id": "21",
-          "homeAway": "away",
-          "abbreviation": "PHI",
-          "displayName": "Philadelphia Eagles",
-          "score": 21
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873296",
-      "shortName": "KC @ TB",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "10:05",
-      "start": "2026-08-22T23:30Z",
-      "teams": [
-        {
-          "id": "27",
-          "homeAway": "home",
-          "abbreviation": "TB",
-          "displayName": "Tampa Bay Buccaneers",
-          "score": 16
-        },
-        {
-          "id": "12",
-          "homeAway": "away",
-          "abbreviation": "KC",
-          "displayName": "Kansas City Chiefs",
-          "score": 15
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -89,8 +8,8 @@
       "shortName": "DAL @ ARI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "12:47",
+      "period": 2,
+      "clock": "4:23",
       "start": "2026-08-23T02:00Z",
       "teams": [
         {
@@ -98,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 0
+          "score": 3
         },
         {
           "id": "6",
           "homeAway": "away",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 0
+          "score": 21
         }
       ]
     },
