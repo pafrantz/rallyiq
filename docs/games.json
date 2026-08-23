@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-23T22:38:12.642Z",
+  "ts": "2026-08-23T22:53:36.904Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841199",
       "shortName": "SAO @ CHA",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "60'",
       "start": "2026-08-23T21:30Z",
       "teams": [
         {
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841201",
       "shortName": "MIR @ SAN",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
+      "period": 2,
+      "clock": "57'",
       "start": "2026-08-23T21:30Z",
       "teams": [
         {
@@ -63,7 +63,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "8'",
+      "clock": "23'",
       "start": "2026-08-23T22:30Z",
       "teams": [
         {
