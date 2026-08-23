@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-23T03:57:34.337Z",
+  "ts": "2026-08-23T04:28:40.753Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "DAL @ ARI",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 3,
-      "clock": "8:47",
+      "period": 4,
+      "clock": "8:03",
       "start": "2026-08-23T02:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 24
+          "score": 27
         }
       ]
     },
