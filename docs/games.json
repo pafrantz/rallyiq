@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-22T23:55:50.284Z",
+  "ts": "2026-08-23T00:33:41.574Z",
   "games": [
     {
       "sport": "football",
@@ -9,7 +9,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:00",
+      "clock": "0:26",
       "start": "2026-08-22T23:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 3
+          "score": 10
         },
         {
           "id": "3",
@@ -36,7 +36,7 @@
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
       "period": 2,
-      "clock": "11:10",
+      "clock": "0:59",
       "start": "2026-08-22T23:00Z",
       "teams": [
         {
@@ -44,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 3
+          "score": 10
         },
         {
           "id": "21",
           "homeAway": "away",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 7
+          "score": 14
         }
       ]
     },
@@ -62,8 +62,8 @@
       "shortName": "KC @ TB",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "7:17",
+      "period": 2,
+      "clock": "6:16",
       "start": "2026-08-22T23:30Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "KC",
           "displayName": "Kansas City Chiefs",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -87,10 +87,10 @@
       "league": "bra.1",
       "id": "401841206",
       "shortName": "FLA @ CRU",
-      "status": "STATUS_FIRST_HALF",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "25'",
+      "clock": "45'+1'",
       "start": "2026-08-22T23:30Z",
       "teams": [
         {
