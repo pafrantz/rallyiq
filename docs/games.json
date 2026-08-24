@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-24T19:16:27.576Z",
+  "ts": "2026-08-24T19:44:50.206Z",
   "games": [
     {
       "sport": "soccer",
@@ -9,7 +9,7 @@
       "status": "STATUS_FIRST_HALF",
       "state": "IN",
       "period": 1,
-      "clock": "15'",
+      "clock": "44'",
       "start": "2026-08-24T19:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "FUL",
           "displayName": "Fulham",
-          "score": 0
+          "score": 1
         },
         {
           "id": "363",
           "homeAway": "away",
           "abbreviation": "CHE",
           "displayName": "Chelsea",
-          "score": 1
+          "score": 2
         }
       ]
     },
