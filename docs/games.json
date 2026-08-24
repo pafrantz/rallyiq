@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-24T20:01:50.991Z",
+  "ts": "2026-08-24T20:34:12.780Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "401879318",
       "shortName": "CHE @ FUL",
-      "status": "STATUS_HALFTIME",
+      "status": "STATUS_SECOND_HALF",
       "state": "IN",
-      "period": 1,
-      "clock": "45'+3'",
+      "period": 2,
+      "clock": "75'",
       "start": "2026-08-24T19:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "FUL",
           "displayName": "Fulham",
-          "score": 1
+          "score": 2
         },
         {
           "id": "363",
           "homeAway": "away",
           "abbreviation": "CHE",
           "displayName": "Chelsea",
-          "score": 2
+          "score": 3
         }
       ]
     },
