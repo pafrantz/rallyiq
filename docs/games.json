@@ -1,5 +1,5 @@
 {
-  "ts": "2026-08-24T00:37:04.707Z",
+  "ts": "2026-08-24T02:09:11.823Z",
   "games": [
     {
       "sport": "football",
@@ -8,8 +8,8 @@
       "shortName": "SEA @ TEN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "6:40",
+      "period": 3,
+      "clock": "8:57",
       "start": "2026-08-24T00:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 3
+          "score": 9
         },
         {
           "id": "26",
           "homeAway": "away",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 7
+          "score": 16
         }
       ]
     }
