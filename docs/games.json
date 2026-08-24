@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-24T23:36:19.119Z",
+  "ts": "2026-08-24T23:51:58.947Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841198",
       "shortName": "CAP @ BOT",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_HALFTIME",
       "state": "IN",
       "period": 1,
-      "clock": "34'",
+      "clock": "45'+2'",
       "start": "2026-08-24T23:00Z",
       "teams": [
         {
