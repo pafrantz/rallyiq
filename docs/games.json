@@ -1,4 +1,59 @@
 {
-  "ts": "2026-08-24T06:48:37.306Z",
-  "games": []
+  "ts": "2026-08-24T07:44:40.259Z",
+  "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401879318",
+      "shortName": "CHE @ FUL",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-08-24T19:00Z",
+      "teams": [
+        {
+          "id": "370",
+          "homeAway": "home",
+          "abbreviation": "FUL",
+          "displayName": "Fulham",
+          "score": 0
+        },
+        {
+          "id": "363",
+          "homeAway": "away",
+          "abbreviation": "CHE",
+          "displayName": "Chelsea",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841198",
+      "shortName": "CAP @ BOT",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-08-24T23:00Z",
+      "teams": [
+        {
+          "id": "6086",
+          "homeAway": "home",
+          "abbreviation": "BOT",
+          "displayName": "Botafogo",
+          "score": 0
+        },
+        {
+          "id": "3458",
+          "homeAway": "away",
+          "abbreviation": "CAP",
+          "displayName": "Athletico-PR",
+          "score": 0
+        }
+      ]
+    }
+  ]
 }
