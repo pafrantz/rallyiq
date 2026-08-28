@@ -1,33 +1,6 @@
 {
-  "ts": "2026-08-28T11:35:42.159Z",
+  "ts": "2026-08-28T21:29:25.216Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "401879294",
-      "shortName": "MNC @ CRY",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
-      "start": "2026-08-28T19:00Z",
-      "teams": [
-        {
-          "id": "384",
-          "homeAway": "home",
-          "abbreviation": "CRY",
-          "displayName": "Crystal Palace",
-          "score": 0
-        },
-        {
-          "id": "382",
-          "homeAway": "away",
-          "abbreviation": "MNC",
-          "displayName": "Manchester City",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
