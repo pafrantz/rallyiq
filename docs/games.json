@@ -1,14 +1,14 @@
 {
-  "ts": "2026-08-27T15:25:43.161Z",
+  "ts": "2026-08-28T00:27:45.931Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401873298",
       "shortName": "PIT @ BUF",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
+      "status": "STATUS_HALFTIME",
+      "state": "IN",
+      "period": 2,
       "clock": "0:00",
       "start": "2026-08-27T23:00Z",
       "teams": [
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 0
+          "score": 10
         },
         {
           "id": "23",
           "homeAway": "away",
           "abbreviation": "PIT",
           "displayName": "Pittsburgh Steelers",
-          "score": 0
+          "score": 14
         }
       ]
     },
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401873299",
       "shortName": "NE @ CLE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "8:15",
       "start": "2026-08-28T00:00Z",
       "teams": [
         {
@@ -44,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "CLE",
           "displayName": "Cleveland Browns",
-          "score": 0
+          "score": 7
         },
         {
           "id": "17",
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -60,10 +60,10 @@
       "league": "nfl",
       "id": "401873641",
       "shortName": "SF @ LV",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "3:38",
       "start": "2026-08-28T00:00Z",
       "teams": [
         {
@@ -71,7 +71,7 @@
           "homeAway": "home",
           "abbreviation": "LV",
           "displayName": "Las Vegas Raiders",
-          "score": 0
+          "score": 3
         },
         {
           "id": "25",
