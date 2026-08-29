@@ -1,60 +1,6 @@
 {
-  "ts": "2026-08-29T18:04:37.702Z",
+  "ts": "2026-08-29T20:50:59.450Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "401879312",
-      "shortName": "NEW @ TOT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "78'",
-      "start": "2026-08-29T16:30Z",
-      "teams": [
-        {
-          "id": "367",
-          "homeAway": "home",
-          "abbreviation": "TOT",
-          "displayName": "Tottenham Hotspur",
-          "score": 0
-        },
-        {
-          "id": "361",
-          "homeAway": "away",
-          "abbreviation": "NEW",
-          "displayName": "Newcastle United",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873308",
-      "shortName": "DET @ IND",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "6:07",
-      "start": "2026-08-29T17:00Z",
-      "teams": [
-        {
-          "id": "11",
-          "homeAway": "home",
-          "abbreviation": "IND",
-          "displayName": "Indianapolis Colts",
-          "score": 6
-        },
-        {
-          "id": "8",
-          "homeAway": "away",
-          "abbreviation": "DET",
-          "displayName": "Detroit Lions",
-          "score": 13
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
