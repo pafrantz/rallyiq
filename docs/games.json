@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-29T20:50:59.450Z",
+  "ts": "2026-08-29T22:48:57.955Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841216",
       "shortName": "VIT @ CAM",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "60'",
       "start": "2026-08-29T21:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CAM",
           "displayName": "Atlético-MG",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3457",
@@ -33,10 +33,10 @@
       "league": "nfl",
       "id": "401874394",
       "shortName": "CHI @ TEN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 2,
+      "clock": "14:08",
       "start": "2026-08-29T22:00Z",
       "teams": [
         {
@@ -44,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 0
+          "score": 6
         },
         {
           "id": "3",
           "homeAway": "away",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 0
+          "score": 7
         }
       ]
     },
