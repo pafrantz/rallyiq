@@ -1,60 +1,6 @@
 {
-  "ts": "2026-08-30T14:59:08.016Z",
+  "ts": "2026-08-30T18:23:18.264Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841208",
-      "shortName": "FLU @ CAP",
-      "status": "STATUS_HALFTIME",
-      "state": "IN",
-      "period": 1,
-      "clock": "45'+8'",
-      "start": "2026-08-30T14:00Z",
-      "teams": [
-        {
-          "id": "3458",
-          "homeAway": "home",
-          "abbreviation": "CAP",
-          "displayName": "Athletico-PR",
-          "score": 1
-        },
-        {
-          "id": "3445",
-          "homeAway": "away",
-          "abbreviation": "FLU",
-          "displayName": "Fluminense",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "401879293",
-      "shortName": "IPS @ MAN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
-      "start": "2026-08-30T15:30Z",
-      "teams": [
-        {
-          "id": "360",
-          "homeAway": "home",
-          "abbreviation": "MAN",
-          "displayName": "Manchester United",
-          "score": 0
-        },
-        {
-          "id": "373",
-          "homeAway": "away",
-          "abbreviation": "IPS",
-          "displayName": "Ipswich Town",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
