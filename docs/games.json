@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-31T15:03:04.242Z",
+  "ts": "2026-08-31T20:45:03.884Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "401879295",
       "shortName": "ARS @ AVL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "87'",
       "start": "2026-08-31T19:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "ARS",
           "displayName": "Arsenal",
-          "score": 0
+          "score": 1
         }
       ]
     },
