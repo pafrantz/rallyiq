@@ -1,60 +1,6 @@
 {
-  "ts": "2026-08-30T23:29:24.105Z",
+  "ts": "2026-08-31T01:27:07.827Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841211",
-      "shortName": "PAL @ MIR",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+7'",
-      "start": "2026-08-30T21:30Z",
-      "teams": [
-        {
-          "id": "9169",
-          "homeAway": "home",
-          "abbreviation": "MIR",
-          "displayName": "Mirassol",
-          "score": 1
-        },
-        {
-          "id": "2029",
-          "homeAway": "away",
-          "abbreviation": "PAL",
-          "displayName": "Palmeiras",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841215",
-      "shortName": "INT @ BAH",
-      "status": "STATUS_HALFTIME",
-      "state": "IN",
-      "period": 1,
-      "clock": "45'+4'",
-      "start": "2026-08-30T22:30Z",
-      "teams": [
-        {
-          "id": "9967",
-          "homeAway": "home",
-          "abbreviation": "BAH",
-          "displayName": "Bahia",
-          "score": 3
-        },
-        {
-          "id": "1936",
-          "homeAway": "away",
-          "abbreviation": "INT",
-          "displayName": "Internacional",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
