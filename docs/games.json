@@ -1,15 +1,15 @@
 {
-  "ts": "2026-09-02T21:59:21.979Z",
+  "ts": "2026-09-02T23:50:36.178Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401913077",
       "shortName": "MIR @ FLA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "59'",
       "start": "2026-09-02T22:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "FLA",
           "displayName": "Flamengo",
-          "score": 0
+          "score": 2
         },
         {
           "id": "9169",
