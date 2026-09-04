@@ -1,15 +1,15 @@
 {
-  "ts": "2026-09-04T17:06:15.163Z",
+  "ts": "2026-09-04T19:26:17.806Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "401879288",
       "shortName": "LIV @ IPS",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "26'",
       "start": "2026-09-04T19:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "LIV",
           "displayName": "Liverpool",
-          "score": 0
+          "score": 2
         }
       ]
     },
