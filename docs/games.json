@@ -1,33 +1,6 @@
 {
-  "ts": "2026-09-04T19:26:17.806Z",
+  "ts": "2026-09-04T21:35:22.323Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "401879288",
-      "shortName": "LIV @ IPS",
-      "status": "STATUS_FIRST_HALF",
-      "state": "IN",
-      "period": 1,
-      "clock": "26'",
-      "start": "2026-09-04T19:00Z",
-      "teams": [
-        {
-          "id": "373",
-          "homeAway": "home",
-          "abbreviation": "IPS",
-          "displayName": "Ipswich Town",
-          "score": 0
-        },
-        {
-          "id": "364",
-          "homeAway": "away",
-          "abbreviation": "LIV",
-          "displayName": "Liverpool",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
