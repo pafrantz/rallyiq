@@ -1,6 +1,195 @@
 {
-  "ts": "2026-09-05T05:01:15.244Z",
+  "ts": "2026-09-05T08:51:58.762Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401879286",
+      "shortName": "BOU @ NEW",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-09-05T11:30Z",
+      "teams": [
+        {
+          "id": "361",
+          "homeAway": "home",
+          "abbreviation": "NEW",
+          "displayName": "Newcastle United",
+          "score": 0
+        },
+        {
+          "id": "349",
+          "homeAway": "away",
+          "abbreviation": "BOU",
+          "displayName": "AFC Bournemouth",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401879311",
+      "shortName": "SUN @ BRE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-09-05T14:00Z",
+      "teams": [
+        {
+          "id": "337",
+          "homeAway": "home",
+          "abbreviation": "BRE",
+          "displayName": "Brentford",
+          "score": 0
+        },
+        {
+          "id": "366",
+          "homeAway": "away",
+          "abbreviation": "SUN",
+          "displayName": "Sunderland",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401879290",
+      "shortName": "LEE @ BHA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-09-05T14:00Z",
+      "teams": [
+        {
+          "id": "331",
+          "homeAway": "home",
+          "abbreviation": "BHA",
+          "displayName": "Brighton & Hove Albion",
+          "score": 0
+        },
+        {
+          "id": "357",
+          "homeAway": "away",
+          "abbreviation": "LEE",
+          "displayName": "Leeds United",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401879289",
+      "shortName": "CRY @ FUL",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-09-05T14:00Z",
+      "teams": [
+        {
+          "id": "370",
+          "homeAway": "home",
+          "abbreviation": "FUL",
+          "displayName": "Fulham",
+          "score": 0
+        },
+        {
+          "id": "384",
+          "homeAway": "away",
+          "abbreviation": "CRY",
+          "displayName": "Crystal Palace",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401879287",
+      "shortName": "COV @ MNC",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-09-05T14:00Z",
+      "teams": [
+        {
+          "id": "382",
+          "homeAway": "home",
+          "abbreviation": "MNC",
+          "displayName": "Manchester City",
+          "score": 0
+        },
+        {
+          "id": "388",
+          "homeAway": "away",
+          "abbreviation": "COV",
+          "displayName": "Coventry City",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401878780",
+      "shortName": "TOT @ NFO",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-09-05T14:00Z",
+      "teams": [
+        {
+          "id": "393",
+          "homeAway": "home",
+          "abbreviation": "NFO",
+          "displayName": "Nottingham Forest",
+          "score": 0
+        },
+        {
+          "id": "367",
+          "homeAway": "away",
+          "abbreviation": "TOT",
+          "displayName": "Tottenham Hotspur",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401878781",
+      "shortName": "AVL @ HUL",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-09-05T16:30Z",
+      "teams": [
+        {
+          "id": "306",
+          "homeAway": "home",
+          "abbreviation": "HUL",
+          "displayName": "Hull City",
+          "score": 0
+        },
+        {
+          "id": "362",
+          "homeAway": "away",
+          "abbreviation": "AVL",
+          "displayName": "Aston Villa",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "soccer",
       "league": "bra.1",
