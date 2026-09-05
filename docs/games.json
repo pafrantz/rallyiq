@@ -1,42 +1,15 @@
 {
-  "ts": "2026-09-05T17:15:34.863Z",
+  "ts": "2026-09-05T19:01:46.046Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "401878781",
-      "shortName": "AVL @ HUL",
-      "status": "STATUS_FIRST_HALF",
-      "state": "IN",
-      "period": 1,
-      "clock": "45'",
-      "start": "2026-09-05T16:30Z",
-      "teams": [
-        {
-          "id": "306",
-          "homeAway": "home",
-          "abbreviation": "HUL",
-          "displayName": "Hull City",
-          "score": 0
-        },
-        {
-          "id": "362",
-          "homeAway": "away",
-          "abbreviation": "AVL",
-          "displayName": "Aston Villa",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841224",
       "shortName": "BAH @ BRA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "1'",
       "start": "2026-09-05T19:00Z",
       "teams": [
         {
