@@ -1,15 +1,15 @@
 {
-  "ts": "2026-09-05T08:51:58.762Z",
+  "ts": "2026-09-05T12:07:37.579Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "401879286",
       "shortName": "BOU @ NEW",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "38'",
       "start": "2026-09-05T11:30Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "NEW",
           "displayName": "Newcastle United",
-          "score": 0
+          "score": 1
         },
         {
           "id": "349",
           "homeAway": "away",
           "abbreviation": "BOU",
           "displayName": "AFC Bournemouth",
-          "score": 0
+          "score": 2
         }
       ]
     },
