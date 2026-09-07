@@ -1,6 +1,33 @@
 {
-  "ts": "2026-09-07T05:10:06.456Z",
+  "ts": "2026-09-07T10:11:26.390Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841222",
+      "shortName": "GRE @ VIT",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-09-07T23:00Z",
+      "teams": [
+        {
+          "id": "3457",
+          "homeAway": "home",
+          "abbreviation": "VIT",
+          "displayName": "Vitória",
+          "score": 0
+        },
+        {
+          "id": "6273",
+          "homeAway": "away",
+          "abbreviation": "GRE",
+          "displayName": "Grêmio",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "football",
       "league": "nfl",
