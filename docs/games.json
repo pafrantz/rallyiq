@@ -1,33 +1,6 @@
 {
-  "ts": "2026-09-08T00:13:07.527Z",
+  "ts": "2026-09-08T04:31:42.865Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841222",
-      "shortName": "GRE @ VIT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "50'",
-      "start": "2026-09-07T23:00Z",
-      "teams": [
-        {
-          "id": "3457",
-          "homeAway": "home",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 0
-        },
-        {
-          "id": "6273",
-          "homeAway": "away",
-          "abbreviation": "GRE",
-          "displayName": "Grêmio",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -78,6 +51,33 @@
           "homeAway": "away",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841232",
+      "shortName": "CAP @ CFC",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-09-12T00:00Z",
+      "teams": [
+        {
+          "id": "3456",
+          "homeAway": "home",
+          "abbreviation": "CFC",
+          "displayName": "Coritiba",
+          "score": 0
+        },
+        {
+          "id": "3458",
+          "homeAway": "away",
+          "abbreviation": "CAP",
+          "displayName": "Athletico-PR",
           "score": 0
         }
       ]
