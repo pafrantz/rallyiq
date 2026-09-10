@@ -1,33 +1,6 @@
 {
-  "ts": "2026-09-10T01:19:41.321Z",
+  "ts": "2026-09-10T06:02:57.104Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401872656",
-      "shortName": "NE @ SEA",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "4:39",
-      "start": "2026-09-10T00:20Z",
-      "teams": [
-        {
-          "id": "26",
-          "homeAway": "home",
-          "abbreviation": "SEA",
-          "displayName": "Seattle Seahawks",
-          "score": 0
-        },
-        {
-          "id": "17",
-          "homeAway": "away",
-          "abbreviation": "NE",
-          "displayName": "New England Patriots",
-          "score": 7
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
