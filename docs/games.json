@@ -1,15 +1,15 @@
 {
-  "ts": "2026-09-09T23:31:47.741Z",
+  "ts": "2026-09-10T01:19:41.321Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401872656",
       "shortName": "NE @ SEA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 2,
+      "clock": "4:39",
       "start": "2026-09-10T00:20Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 0
+          "score": 7
         }
       ]
     },
