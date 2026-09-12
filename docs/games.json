@@ -1,15 +1,15 @@
 {
-  "ts": "2026-09-12T18:33:21.104Z",
+  "ts": "2026-09-12T20:51:14.990Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841231",
       "shortName": "FLU @ CAM",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "90'+1'",
       "start": "2026-09-12T19:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "CAM",
           "displayName": "Atlético-MG",
-          "score": 0
+          "score": 3
         },
         {
           "id": "3445",
           "homeAway": "away",
           "abbreviation": "FLU",
           "displayName": "Fluminense",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -33,10 +33,10 @@
       "league": "bra.1",
       "id": "401841236",
       "shortName": "VAS @ GRE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "90'",
       "start": "2026-09-12T19:00Z",
       "teams": [
         {
@@ -44,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "GRE",
           "displayName": "Grêmio",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3454",
           "homeAway": "away",
           "abbreviation": "VAS",
           "displayName": "Vasco da Gama",
-          "score": 0
+          "score": 2
         }
       ]
     },
@@ -60,10 +60,10 @@
       "league": "eng.1",
       "id": "401878779",
       "shortName": "ARS @ SUN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "90'+4'",
       "start": "2026-09-12T19:00Z",
       "teams": [
         {
@@ -78,7 +78,7 @@
           "homeAway": "away",
           "abbreviation": "ARS",
           "displayName": "Arsenal",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -87,10 +87,10 @@
       "league": "bra.1",
       "id": "401841228",
       "shortName": "INT @ CHA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "45'+5'",
       "start": "2026-09-12T20:00Z",
       "teams": [
         {
@@ -98,14 +98,14 @@
           "homeAway": "home",
           "abbreviation": "CHA",
           "displayName": "Chapecoense",
-          "score": 0
+          "score": 1
         },
         {
           "id": "1936",
           "homeAway": "away",
           "abbreviation": "INT",
           "displayName": "Internacional",
-          "score": 0
+          "score": 1
         }
       ]
     },
