@@ -1,15 +1,15 @@
 {
-  "ts": "2026-09-11T23:33:48.631Z",
+  "ts": "2026-09-12T01:27:27.612Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841232",
       "shortName": "CAP @ CFC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_HALFTIME",
+      "state": "IN",
+      "period": 1,
+      "clock": "45'+15'",
       "start": "2026-09-12T00:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "CFC",
           "displayName": "Coritiba",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3458",
           "homeAway": "away",
           "abbreviation": "CAP",
           "displayName": "Athletico-PR",
-          "score": 0
+          "score": 2
         }
       ]
     },
