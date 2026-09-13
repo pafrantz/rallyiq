@@ -1,15 +1,15 @@
 {
-  "ts": "2026-09-13T09:45:15.015Z",
+  "ts": "2026-09-13T13:53:16.892Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "401879282",
       "shortName": "BHA @ COV",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_HALFTIME",
+      "state": "IN",
+      "period": 1,
+      "clock": "45'+2'",
       "start": "2026-09-13T13:00Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "BHA",
           "displayName": "Brighton & Hove Albion",
-          "score": 0
+          "score": 1
         }
       ]
     },
