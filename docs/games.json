@@ -1,6 +1,60 @@
 {
-  "ts": "2026-09-13T04:46:32.509Z",
+  "ts": "2026-09-13T09:45:15.015Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401879282",
+      "shortName": "BHA @ COV",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-09-13T13:00Z",
+      "teams": [
+        {
+          "id": "388",
+          "homeAway": "home",
+          "abbreviation": "COV",
+          "displayName": "Coventry City",
+          "score": 0
+        },
+        {
+          "id": "331",
+          "homeAway": "away",
+          "abbreviation": "BHA",
+          "displayName": "Brighton & Hove Albion",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401879278",
+      "shortName": "MNC @ MAN",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-09-13T15:30Z",
+      "teams": [
+        {
+          "id": "360",
+          "homeAway": "home",
+          "abbreviation": "MAN",
+          "displayName": "Manchester United",
+          "score": 0
+        },
+        {
+          "id": "382",
+          "homeAway": "away",
+          "abbreviation": "MNC",
+          "displayName": "Manchester City",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "football",
       "league": "nfl",
@@ -218,6 +272,33 @@
       ]
     },
     {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841235",
+      "shortName": "VIT @ MIR",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-09-13T19:00Z",
+      "teams": [
+        {
+          "id": "9169",
+          "homeAway": "home",
+          "abbreviation": "MIR",
+          "displayName": "Mirassol",
+          "score": 0
+        },
+        {
+          "id": "3457",
+          "homeAway": "away",
+          "abbreviation": "VIT",
+          "displayName": "Vitória",
+          "score": 0
+        }
+      ]
+    },
+    {
       "sport": "football",
       "league": "nfl",
       "id": "401872928",
@@ -321,6 +402,33 @@
           "homeAway": "away",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841237",
+      "shortName": "COR @ FLA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-09-13T20:30Z",
+      "teams": [
+        {
+          "id": "819",
+          "homeAway": "home",
+          "abbreviation": "FLA",
+          "displayName": "Flamengo",
+          "score": 0
+        },
+        {
+          "id": "874",
+          "homeAway": "away",
+          "abbreviation": "COR",
+          "displayName": "Corinthians",
           "score": 0
         }
       ]
