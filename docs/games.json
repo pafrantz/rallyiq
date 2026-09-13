@@ -1,33 +1,6 @@
 {
-  "ts": "2026-09-13T17:04:38.676Z",
+  "ts": "2026-09-13T19:18:56.283Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "401879278",
-      "shortName": "MNC @ MAN",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "77'",
-      "start": "2026-09-13T15:30Z",
-      "teams": [
-        {
-          "id": "360",
-          "homeAway": "home",
-          "abbreviation": "MAN",
-          "displayName": "Manchester United",
-          "score": 0
-        },
-        {
-          "id": "382",
-          "homeAway": "away",
-          "abbreviation": "MNC",
-          "displayName": "Manchester City",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
@@ -35,8 +8,8 @@
       "shortName": "TB @ CIN",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "15:00",
+      "period": 3,
+      "clock": "1:41",
       "start": "2026-09-13T17:00Z",
       "teams": [
         {
@@ -44,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "CIN",
           "displayName": "Cincinnati Bengals",
-          "score": 0
+          "score": 27
         },
         {
           "id": "27",
           "homeAway": "away",
           "abbreviation": "TB",
           "displayName": "Tampa Bay Buccaneers",
-          "score": 0
+          "score": 20
         }
       ]
     },
@@ -60,10 +33,10 @@
       "league": "nfl",
       "id": "401872923",
       "shortName": "NO @ DET",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 3,
+      "clock": "4:27",
       "start": "2026-09-13T17:00Z",
       "teams": [
         {
@@ -71,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "DET",
           "displayName": "Detroit Lions",
-          "score": 0
+          "score": 21
         },
         {
           "id": "18",
           "homeAway": "away",
           "abbreviation": "NO",
           "displayName": "New Orleans Saints",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -87,10 +60,10 @@
       "league": "nfl",
       "id": "401872924",
       "shortName": "NYJ @ TEN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 3,
+      "clock": "1:52",
       "start": "2026-09-13T17:00Z",
       "teams": [
         {
@@ -98,14 +71,14 @@
           "homeAway": "home",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 0
+          "score": 3
         },
         {
           "id": "20",
           "homeAway": "away",
           "abbreviation": "NYJ",
           "displayName": "New York Jets",
-          "score": 0
+          "score": 20
         }
       ]
     },
@@ -114,10 +87,10 @@
       "league": "nfl",
       "id": "401872659",
       "shortName": "BAL @ IND",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 3,
+      "clock": "5:36",
       "start": "2026-09-13T17:00Z",
       "teams": [
         {
@@ -125,14 +98,14 @@
           "homeAway": "home",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 0
+          "score": 16
         },
         {
           "id": "33",
           "homeAway": "away",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 0
+          "score": 31
         }
       ]
     },
@@ -143,8 +116,8 @@
       "shortName": "ATL @ PIT",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "15:00",
+      "period": 3,
+      "clock": "6:04",
       "start": "2026-09-13T17:00Z",
       "teams": [
         {
@@ -152,14 +125,14 @@
           "homeAway": "home",
           "abbreviation": "PIT",
           "displayName": "Pittsburgh Steelers",
-          "score": 0
+          "score": 13
         },
         {
           "id": "1",
           "homeAway": "away",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 0
+          "score": 7
         }
       ]
     },
@@ -168,10 +141,10 @@
       "league": "nfl",
       "id": "401872661",
       "shortName": "CHI @ CAR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 3,
+      "clock": "9:26",
       "start": "2026-09-13T17:00Z",
       "teams": [
         {
@@ -179,14 +152,14 @@
           "homeAway": "home",
           "abbreviation": "CAR",
           "displayName": "Carolina Panthers",
-          "score": 0
+          "score": 24
         },
         {
           "id": "3",
           "homeAway": "away",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 0
+          "score": 31
         }
       ]
     },
@@ -197,8 +170,8 @@
       "shortName": "CLE @ JAX",
       "status": "STATUS_IN_PROGRESS",
       "state": "IN",
-      "period": 1,
-      "clock": "15:00",
+      "period": 4,
+      "clock": "10:50",
       "start": "2026-09-13T17:00Z",
       "teams": [
         {
@@ -206,14 +179,14 @@
           "homeAway": "home",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 0
+          "score": 34
         },
         {
           "id": "5",
           "homeAway": "away",
           "abbreviation": "CLE",
           "displayName": "Cleveland Browns",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -222,10 +195,10 @@
       "league": "nfl",
       "id": "401872660",
       "shortName": "BUF @ HOU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 3,
+      "clock": "4:24",
       "start": "2026-09-13T17:00Z",
       "teams": [
         {
@@ -233,14 +206,14 @@
           "homeAway": "home",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 0
+          "score": 21
         },
         {
           "id": "2",
           "homeAway": "away",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 0
+          "score": 27
         }
       ]
     },
@@ -249,10 +222,10 @@
       "league": "bra.1",
       "id": "401841235",
       "shortName": "VIT @ MIR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "18'",
       "start": "2026-09-13T19:00Z",
       "teams": [
         {
@@ -267,7 +240,7 @@
           "homeAway": "away",
           "abbreviation": "VIT",
           "displayName": "Vitória",
-          "score": 0
+          "score": 2
         }
       ]
     },
