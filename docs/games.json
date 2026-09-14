@@ -1,33 +1,6 @@
 {
-  "ts": "2026-09-14T01:06:02.632Z",
+  "ts": "2026-09-14T06:06:06.334Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401872930",
-      "shortName": "DAL @ NYG",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "12:28",
-      "start": "2026-09-14T00:20Z",
-      "teams": [
-        {
-          "id": "19",
-          "homeAway": "home",
-          "abbreviation": "NYG",
-          "displayName": "New York Giants",
-          "score": 7
-        },
-        {
-          "id": "6",
-          "homeAway": "away",
-          "abbreviation": "DAL",
-          "displayName": "Dallas Cowboys",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
