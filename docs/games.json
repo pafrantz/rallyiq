@@ -1,15 +1,15 @@
 {
-  "ts": "2026-09-16T21:42:28.723Z",
+  "ts": "2026-09-16T23:49:54.760Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841176",
       "shortName": "GRE @ BOT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "58'",
       "start": "2026-09-16T22:30Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "BOT",
           "displayName": "Botafogo",
-          "score": 0
+          "score": 2
         },
         {
           "id": "6273",
           "homeAway": "away",
           "abbreviation": "GRE",
           "displayName": "Grêmio",
-          "score": 0
+          "score": 1
         }
       ]
     },
