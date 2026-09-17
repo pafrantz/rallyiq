@@ -1,33 +1,6 @@
 {
-  "ts": "2026-09-16T23:49:54.760Z",
+  "ts": "2026-09-17T01:45:35.786Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841176",
-      "shortName": "GRE @ BOT",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "58'",
-      "start": "2026-09-16T22:30Z",
-      "teams": [
-        {
-          "id": "6086",
-          "homeAway": "home",
-          "abbreviation": "BOT",
-          "displayName": "Botafogo",
-          "score": 2
-        },
-        {
-          "id": "6273",
-          "homeAway": "away",
-          "abbreviation": "GRE",
-          "displayName": "Grêmio",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
