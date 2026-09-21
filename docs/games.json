@@ -1,33 +1,6 @@
 {
-  "ts": "2026-09-21T01:31:06.537Z",
+  "ts": "2026-09-21T06:50:24.325Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401872945",
-      "shortName": "IND @ KC",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "2:25",
-      "start": "2026-09-21T00:20Z",
-      "teams": [
-        {
-          "id": "12",
-          "homeAway": "home",
-          "abbreviation": "KC",
-          "displayName": "Kansas City Chiefs",
-          "score": 17
-        },
-        {
-          "id": "11",
-          "homeAway": "away",
-          "abbreviation": "IND",
-          "displayName": "Indianapolis Colts",
-          "score": 13
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
