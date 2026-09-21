@@ -1,69 +1,15 @@
 {
-  "ts": "2026-09-20T23:34:01.625Z",
+  "ts": "2026-09-21T01:31:06.537Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401872944",
-      "shortName": "WSH @ DAL",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 4,
-      "clock": "0:37",
-      "start": "2026-09-20T20:25Z",
-      "teams": [
-        {
-          "id": "6",
-          "homeAway": "home",
-          "abbreviation": "DAL",
-          "displayName": "Dallas Cowboys",
-          "score": 37
-        },
-        {
-          "id": "28",
-          "homeAway": "away",
-          "abbreviation": "WSH",
-          "displayName": "Washington Commanders",
-          "score": 20
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841238",
-      "shortName": "BAH @ CAP",
-      "status": "STATUS_HALFTIME",
-      "state": "IN",
-      "period": 1,
-      "clock": "45'+6'",
-      "start": "2026-09-20T22:30Z",
-      "teams": [
-        {
-          "id": "3458",
-          "homeAway": "home",
-          "abbreviation": "CAP",
-          "displayName": "Athletico-PR",
-          "score": 1
-        },
-        {
-          "id": "9967",
-          "homeAway": "away",
-          "abbreviation": "BAH",
-          "displayName": "Bahia",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
       "id": "401872945",
       "shortName": "IND @ KC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 2,
+      "clock": "2:25",
       "start": "2026-09-21T00:20Z",
       "teams": [
         {
@@ -71,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "KC",
           "displayName": "Kansas City Chiefs",
-          "score": 0
+          "score": 17
         },
         {
           "id": "11",
           "homeAway": "away",
           "abbreviation": "IND",
           "displayName": "Indianapolis Colts",
-          "score": 0
+          "score": 13
         }
       ]
     },
