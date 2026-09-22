@@ -1,32 +1,4 @@
 {
-  "ts": "2026-09-22T00:50:45.667Z",
-  "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401872947",
-      "shortName": "NYG @ LAR",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 1,
-      "clock": "0:11",
-      "start": "2026-09-22T00:15Z",
-      "teams": [
-        {
-          "id": "14",
-          "homeAway": "home",
-          "abbreviation": "LAR",
-          "displayName": "Los Angeles Rams",
-          "score": 7
-        },
-        {
-          "id": "19",
-          "homeAway": "away",
-          "abbreviation": "NYG",
-          "displayName": "New York Giants",
-          "score": 0
-        }
-      ]
-    }
-  ]
+  "ts": "2026-09-22T05:27:57.344Z",
+  "games": []
 }
