@@ -1,16 +1,30 @@
 {
-  "ts": "2026-09-27T18:59:44.439Z",
+  "ts": "2026-09-27T21:50:09.410Z",
   "sport": "football",
   "league": "nfl",
   "eventId": "401872958",
   "context": {
-    "down": null,
-    "distance": null,
-    "yardline": null,
-    "quarter": null,
-    "clock_secs": null,
-    "score_diff": 0,
-    "recent_gains": [],
-    "recent_clock": []
+    "down": 0,
+    "distance": 0,
+    "yardline": 50,
+    "quarter": 2,
+    "clock_secs": 0,
+    "score_diff": 11,
+    "recent_gains": [
+      24,
+      34,
+      0,
+      0,
+      57,
+      0
+    ],
+    "recent_clock": [
+      23,
+      17,
+      8,
+      4,
+      0,
+      0
+    ]
   }
 }
