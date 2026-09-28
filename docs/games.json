@@ -1,33 +1,6 @@
 {
-  "ts": "2026-09-28T00:00:33.734Z",
+  "ts": "2026-09-28T04:07:45.429Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401872962",
-      "shortName": "LAR @ DEN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
-      "start": "2026-09-28T00:20Z",
-      "teams": [
-        {
-          "id": "7",
-          "homeAway": "home",
-          "abbreviation": "DEN",
-          "displayName": "Denver Broncos",
-          "score": 0
-        },
-        {
-          "id": "14",
-          "homeAway": "away",
-          "abbreviation": "LAR",
-          "displayName": "Los Angeles Rams",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
