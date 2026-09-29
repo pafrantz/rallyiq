@@ -1,33 +1,6 @@
 {
-  "ts": "2026-09-29T02:35:01.610Z",
+  "ts": "2026-09-29T08:57:50.980Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401872963",
-      "shortName": "PHI @ CHI",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 3,
-      "clock": "1:10",
-      "start": "2026-09-29T00:15Z",
-      "teams": [
-        {
-          "id": "3",
-          "homeAway": "home",
-          "abbreviation": "CHI",
-          "displayName": "Chicago Bears",
-          "score": 20
-        },
-        {
-          "id": "21",
-          "homeAway": "away",
-          "abbreviation": "PHI",
-          "displayName": "Philadelphia Eagles",
-          "score": 7
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
