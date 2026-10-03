@@ -1,33 +1,6 @@
 {
-  "ts": "2026-10-03T00:00:34.721Z",
+  "ts": "2026-10-03T04:10:15.311Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841169",
-      "shortName": "SAN @ SAO",
-      "status": "STATUS_HALFTIME",
-      "state": "IN",
-      "period": 1,
-      "clock": "45'+8'",
-      "start": "2026-10-02T23:00Z",
-      "teams": [
-        {
-          "id": "2026",
-          "homeAway": "home",
-          "abbreviation": "SAO",
-          "displayName": "São Paulo",
-          "score": 1
-        },
-        {
-          "id": "2674",
-          "homeAway": "away",
-          "abbreviation": "SAN",
-          "displayName": "Santos",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
