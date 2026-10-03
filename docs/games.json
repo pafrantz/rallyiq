@@ -1,15 +1,15 @@
 {
-  "ts": "2026-10-03T20:53:18.813Z",
+  "ts": "2026-10-03T23:23:15.759Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841168",
       "shortName": "BRA @ CAM",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "89'",
       "start": "2026-10-03T21:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CAM",
           "displayName": "Atlético-MG",
-          "score": 0
+          "score": 1
         },
         {
           "id": "6079",
