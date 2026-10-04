@@ -1,15 +1,15 @@
 {
-  "ts": "2026-10-04T08:48:08.971Z",
+  "ts": "2026-10-04T14:24:41.082Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401872965",
       "shortName": "IND VS WSH",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 2,
+      "clock": "10:35",
       "start": "2026-10-04T13:30Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "WSH",
           "displayName": "Washington Commanders",
-          "score": 0
+          "score": 6
         },
         {
           "id": "11",
