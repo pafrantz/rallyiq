@@ -1,33 +1,6 @@
 {
-  "ts": "2026-10-06T00:55:34.028Z",
+  "ts": "2026-10-06T06:56:01.105Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401872979",
-      "shortName": "ATL @ NO",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 1,
-      "clock": "3:49",
-      "start": "2026-10-06T00:15Z",
-      "teams": [
-        {
-          "id": "18",
-          "homeAway": "home",
-          "abbreviation": "NO",
-          "displayName": "New Orleans Saints",
-          "score": 0
-        },
-        {
-          "id": "1",
-          "homeAway": "away",
-          "abbreviation": "ATL",
-          "displayName": "Atlanta Falcons",
-          "score": 7
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
