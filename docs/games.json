@@ -1,15 +1,15 @@
 {
-  "ts": "2026-10-05T11:09:25.859Z",
+  "ts": "2026-10-06T00:55:34.028Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401872979",
       "shortName": "ATL @ NO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "3:49",
       "start": "2026-10-06T00:15Z",
       "teams": [
         {
@@ -24,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "ATL",
           "displayName": "Atlanta Falcons",
-          "score": 0
+          "score": 7
         }
       ]
     },
