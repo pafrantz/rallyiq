@@ -1,69 +1,15 @@
 {
-  "ts": "2026-10-11T08:48:37.199Z",
+  "ts": "2026-10-11T15:06:36.262Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "401879266",
-      "shortName": "NFO @ CRY",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
-      "start": "2026-10-11T13:00Z",
-      "teams": [
-        {
-          "id": "384",
-          "homeAway": "home",
-          "abbreviation": "CRY",
-          "displayName": "Crystal Palace",
-          "score": 0
-        },
-        {
-          "id": "393",
-          "homeAway": "away",
-          "abbreviation": "NFO",
-          "displayName": "Nottingham Forest",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "401878774",
-      "shortName": "EVE @ HUL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
-      "start": "2026-10-11T13:00Z",
-      "teams": [
-        {
-          "id": "306",
-          "homeAway": "home",
-          "abbreviation": "HUL",
-          "displayName": "Hull City",
-          "score": 0
-        },
-        {
-          "id": "368",
-          "homeAway": "away",
-          "abbreviation": "EVE",
-          "displayName": "Everton",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
       "id": "401872981",
       "shortName": "PHI VS JAX",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 2,
+      "clock": "0:11",
       "start": "2026-10-11T13:30Z",
       "teams": [
         {
@@ -71,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 0
+          "score": 7
         },
         {
           "id": "21",
           "homeAway": "away",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 0
+          "score": 14
         }
       ]
     },
