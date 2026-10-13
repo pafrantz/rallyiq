@@ -1,57 +1,30 @@
 {
-  "ts": "2026-10-13T00:59:51.023Z",
+  "ts": "2026-10-13T07:22:35.142Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
-      "id": "401841260",
-      "shortName": "CRU @ BRA",
-      "status": "STATUS_HALFTIME",
-      "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
-      "start": "2026-10-13T00:00Z",
+      "id": "401841275",
+      "shortName": "INT @ MIR",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-10-16T23:00Z",
       "teams": [
         {
-          "id": "6079",
+          "id": "9169",
           "homeAway": "home",
-          "abbreviation": "BRA",
-          "displayName": "Red Bull Bragantino",
-          "score": 3
+          "abbreviation": "MIR",
+          "displayName": "Mirassol",
+          "score": 0
         },
         {
-          "id": "2022",
+          "id": "1936",
           "homeAway": "away",
-          "abbreviation": "CRU",
-          "displayName": "Cruzeiro",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401872994",
-      "shortName": "BUF @ LAR",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "8:00",
-      "start": "2026-10-13T00:15Z",
-      "teams": [
-        {
-          "id": "14",
-          "homeAway": "home",
-          "abbreviation": "LAR",
-          "displayName": "Los Angeles Rams",
-          "score": 6
-        },
-        {
-          "id": "2",
-          "homeAway": "away",
-          "abbreviation": "BUF",
-          "displayName": "Buffalo Bills",
-          "score": 6
+          "abbreviation": "INT",
+          "displayName": "Internacional",
+          "score": 0
         }
       ]
     }
