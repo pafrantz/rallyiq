@@ -1,33 +1,6 @@
 {
-  "ts": "2026-10-16T00:31:19.720Z",
+  "ts": "2026-10-16T04:50:44.515Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401872995",
-      "shortName": "SEA @ DEN",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 1,
-      "clock": "8:29",
-      "start": "2026-10-16T00:15Z",
-      "teams": [
-        {
-          "id": "7",
-          "homeAway": "home",
-          "abbreviation": "DEN",
-          "displayName": "Denver Broncos",
-          "score": 0
-        },
-        {
-          "id": "26",
-          "homeAway": "away",
-          "abbreviation": "SEA",
-          "displayName": "Seattle Seahawks",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
