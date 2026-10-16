@@ -1,15 +1,15 @@
 {
-  "ts": "2026-10-15T22:28:06.351Z",
+  "ts": "2026-10-16T00:31:19.720Z",
   "games": [
     {
       "sport": "football",
       "league": "nfl",
       "id": "401872995",
       "shortName": "SEA @ DEN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "8:29",
       "start": "2026-10-16T00:15Z",
       "teams": [
         {
