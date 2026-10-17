@@ -1,69 +1,15 @@
 {
-  "ts": "2026-10-17T15:58:53.821Z",
+  "ts": "2026-10-17T18:07:03.281Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "401879262",
-      "shortName": "LIV @ BRE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+1'",
-      "start": "2026-10-17T14:00Z",
-      "teams": [
-        {
-          "id": "337",
-          "homeAway": "home",
-          "abbreviation": "BRE",
-          "displayName": "Brentford",
-          "score": 1
-        },
-        {
-          "id": "364",
-          "homeAway": "away",
-          "abbreviation": "LIV",
-          "displayName": "Liverpool",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "401879259",
-      "shortName": "IPS @ MNC",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+8'",
-      "start": "2026-10-17T14:00Z",
-      "teams": [
-        {
-          "id": "382",
-          "homeAway": "home",
-          "abbreviation": "MNC",
-          "displayName": "Manchester City",
-          "score": 3
-        },
-        {
-          "id": "373",
-          "homeAway": "away",
-          "abbreviation": "IPS",
-          "displayName": "Ipswich Town",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "401879258",
       "shortName": "AVL @ NEW",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "79'",
       "start": "2026-10-17T16:30Z",
       "teams": [
         {
@@ -78,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "AVL",
           "displayName": "Aston Villa",
-          "score": 0
+          "score": 1
         }
       ]
     },
