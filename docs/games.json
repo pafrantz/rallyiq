@@ -1,33 +1,6 @@
 {
-  "ts": "2026-10-17T18:07:03.281Z",
+  "ts": "2026-10-17T20:29:23.536Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "401879258",
-      "shortName": "AVL @ NEW",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "79'",
-      "start": "2026-10-17T16:30Z",
-      "teams": [
-        {
-          "id": "361",
-          "homeAway": "home",
-          "abbreviation": "NEW",
-          "displayName": "Newcastle United",
-          "score": 0
-        },
-        {
-          "id": "362",
-          "homeAway": "away",
-          "abbreviation": "AVL",
-          "displayName": "Aston Villa",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
