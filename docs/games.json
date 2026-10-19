@@ -1,60 +1,6 @@
 {
-  "ts": "2026-10-19T00:29:06.619Z",
+  "ts": "2026-10-19T05:02:58.387Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841274",
-      "shortName": "BRA @ REMO",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+1'",
-      "start": "2026-10-18T22:30Z",
-      "teams": [
-        {
-          "id": "4936",
-          "homeAway": "home",
-          "abbreviation": "REMO",
-          "displayName": "Remo",
-          "score": 1
-        },
-        {
-          "id": "6079",
-          "homeAway": "away",
-          "abbreviation": "BRA",
-          "displayName": "Red Bull Bragantino",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873007",
-      "shortName": "DAL @ GB",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 1,
-      "clock": "11:13",
-      "start": "2026-10-19T00:20Z",
-      "teams": [
-        {
-          "id": "9",
-          "homeAway": "home",
-          "abbreviation": "GB",
-          "displayName": "Green Bay Packers",
-          "score": 0
-        },
-        {
-          "id": "6",
-          "homeAway": "away",
-          "abbreviation": "DAL",
-          "displayName": "Dallas Cowboys",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
