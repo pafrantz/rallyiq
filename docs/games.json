@@ -1,42 +1,15 @@
 {
-  "ts": "2026-10-24T18:22:58.612Z",
+  "ts": "2026-10-24T20:59:02.343Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "401878767",
-      "shortName": "TOT @ CHE",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "90'+6'",
-      "start": "2026-10-24T16:30Z",
-      "teams": [
-        {
-          "id": "363",
-          "homeAway": "home",
-          "abbreviation": "CHE",
-          "displayName": "Chelsea",
-          "score": 0
-        },
-        {
-          "id": "367",
-          "homeAway": "away",
-          "abbreviation": "TOT",
-          "displayName": "Tottenham Hotspur",
-          "score": 2
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841285",
       "shortName": "BOT @ INT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "65'",
       "start": "2026-10-24T19:30Z",
       "teams": [
         {
@@ -44,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "INT",
           "displayName": "Internacional",
-          "score": 0
+          "score": 2
         },
         {
           "id": "6086",
@@ -60,10 +33,10 @@
       "league": "bra.1",
       "id": "401841284",
       "shortName": "SAO @ MIR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "64'",
       "start": "2026-10-24T19:30Z",
       "teams": [
         {
@@ -71,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "MIR",
           "displayName": "Mirassol",
-          "score": 0
+          "score": 1
         },
         {
           "id": "2026",
           "homeAway": "away",
           "abbreviation": "SAO",
           "displayName": "São Paulo",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -87,10 +60,10 @@
       "league": "bra.1",
       "id": "401841280",
       "shortName": "CAP @ VIT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "66'",
       "start": "2026-10-24T19:30Z",
       "teams": [
         {
@@ -98,14 +71,14 @@
           "homeAway": "home",
           "abbreviation": "VIT",
           "displayName": "Vitória",
-          "score": 0
+          "score": 1
         },
         {
           "id": "3458",
           "homeAway": "away",
           "abbreviation": "CAP",
           "displayName": "Athletico-PR",
-          "score": 0
+          "score": 1
         }
       ]
     },
