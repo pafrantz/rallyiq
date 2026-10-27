@@ -1,30 +1,138 @@
 {
-  "ts": "2026-10-27T02:09:40.459Z",
+  "ts": "2026-10-27T07:43:52.808Z",
   "games": [
     {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873009",
-      "shortName": "DAL @ PHI",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 3,
-      "clock": "9:42",
-      "start": "2026-10-27T00:15Z",
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841289",
+      "shortName": "INT @ FLU",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-10-28T22:30Z",
       "teams": [
         {
-          "id": "21",
+          "id": "3445",
           "homeAway": "home",
-          "abbreviation": "PHI",
-          "displayName": "Philadelphia Eagles",
-          "score": 14
+          "abbreviation": "FLU",
+          "displayName": "Fluminense",
+          "score": 0
         },
         {
-          "id": "6",
+          "id": "1936",
           "homeAway": "away",
-          "abbreviation": "DAL",
-          "displayName": "Dallas Cowboys",
-          "score": 20
+          "abbreviation": "INT",
+          "displayName": "Internacional",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841291",
+      "shortName": "CHA @ BRA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-10-28T22:30Z",
+      "teams": [
+        {
+          "id": "6079",
+          "homeAway": "home",
+          "abbreviation": "BRA",
+          "displayName": "Red Bull Bragantino",
+          "score": 0
+        },
+        {
+          "id": "9318",
+          "homeAway": "away",
+          "abbreviation": "CHA",
+          "displayName": "Chapecoense",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841293",
+      "shortName": "PAL @ SAN",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-10-28T22:30Z",
+      "teams": [
+        {
+          "id": "2674",
+          "homeAway": "home",
+          "abbreviation": "SAN",
+          "displayName": "Santos",
+          "score": 0
+        },
+        {
+          "id": "2029",
+          "homeAway": "away",
+          "abbreviation": "PAL",
+          "displayName": "Palmeiras",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841296",
+      "shortName": "SAO @ BAH",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-10-29T00:30Z",
+      "teams": [
+        {
+          "id": "9967",
+          "homeAway": "home",
+          "abbreviation": "BAH",
+          "displayName": "Bahia",
+          "score": 0
+        },
+        {
+          "id": "2026",
+          "homeAway": "away",
+          "abbreviation": "SAO",
+          "displayName": "São Paulo",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841297",
+      "shortName": "BOT @ REMO",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-10-29T00:30Z",
+      "teams": [
+        {
+          "id": "4936",
+          "homeAway": "home",
+          "abbreviation": "REMO",
+          "displayName": "Remo",
+          "score": 0
+        },
+        {
+          "id": "6086",
+          "homeAway": "away",
+          "abbreviation": "BOT",
+          "displayName": "Botafogo",
+          "score": 0
         }
       ]
     }
