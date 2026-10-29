@@ -1,96 +1,15 @@
 {
-  "ts": "2026-10-28T23:22:02.244Z",
+  "ts": "2026-10-29T02:30:30.761Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841289",
-      "shortName": "INT @ FLU",
-      "status": "STATUS_HALFTIME",
-      "state": "IN",
-      "period": 1,
-      "clock": "45'+5'",
-      "start": "2026-10-28T22:30Z",
-      "teams": [
-        {
-          "id": "3445",
-          "homeAway": "home",
-          "abbreviation": "FLU",
-          "displayName": "Fluminense",
-          "score": 0
-        },
-        {
-          "id": "1936",
-          "homeAway": "away",
-          "abbreviation": "INT",
-          "displayName": "Internacional",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841291",
-      "shortName": "CHA @ BRA",
-      "status": "STATUS_HALFTIME",
-      "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
-      "start": "2026-10-28T22:30Z",
-      "teams": [
-        {
-          "id": "6079",
-          "homeAway": "home",
-          "abbreviation": "BRA",
-          "displayName": "Red Bull Bragantino",
-          "score": 1
-        },
-        {
-          "id": "9318",
-          "homeAway": "away",
-          "abbreviation": "CHA",
-          "displayName": "Chapecoense",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841293",
-      "shortName": "PAL @ SAN",
-      "status": "STATUS_HALFTIME",
-      "state": "IN",
-      "period": 1,
-      "clock": "45'+2'",
-      "start": "2026-10-28T22:30Z",
-      "teams": [
-        {
-          "id": "2674",
-          "homeAway": "home",
-          "abbreviation": "SAN",
-          "displayName": "Santos",
-          "score": 0
-        },
-        {
-          "id": "2029",
-          "homeAway": "away",
-          "abbreviation": "PAL",
-          "displayName": "Palmeiras",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841296",
       "shortName": "SAO @ BAH",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "90'+3'",
       "start": "2026-10-29T00:30Z",
       "teams": [
         {
@@ -98,41 +17,14 @@
           "homeAway": "home",
           "abbreviation": "BAH",
           "displayName": "Bahia",
-          "score": 0
+          "score": 3
         },
         {
           "id": "2026",
           "homeAway": "away",
           "abbreviation": "SAO",
           "displayName": "São Paulo",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841297",
-      "shortName": "BOT @ REMO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
-      "start": "2026-10-29T00:30Z",
-      "teams": [
-        {
-          "id": "4936",
-          "homeAway": "home",
-          "abbreviation": "REMO",
-          "displayName": "Remo",
-          "score": 0
-        },
-        {
-          "id": "6086",
-          "homeAway": "away",
-          "abbreviation": "BOT",
-          "displayName": "Botafogo",
-          "score": 0
+          "score": 2
         }
       ]
     },
