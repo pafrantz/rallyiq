@@ -1,15 +1,15 @@
 {
-  "ts": "2026-10-30T21:25:40.604Z",
+  "ts": "2026-10-31T00:53:30.655Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841295",
       "shortName": "MIR @ COR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "88'",
       "start": "2026-10-30T23:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "COR",
           "displayName": "Corinthians",
-          "score": 0
+          "score": 2
         },
         {
           "id": "9169",
