@@ -1,30 +1,30 @@
 {
-  "ts": "2026-11-02T02:44:03.256Z",
+  "ts": "2026-11-02T09:57:20.062Z",
   "games": [
     {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873035",
-      "shortName": "PHI @ WSH",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "1:41",
-      "start": "2026-11-02T01:20Z",
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401878762",
+      "shortName": "EVE @ NEW",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-11-02T20:00Z",
       "teams": [
         {
-          "id": "28",
+          "id": "361",
           "homeAway": "home",
-          "abbreviation": "WSH",
-          "displayName": "Washington Commanders",
-          "score": 10
+          "abbreviation": "NEW",
+          "displayName": "Newcastle United",
+          "score": 0
         },
         {
-          "id": "21",
+          "id": "368",
           "homeAway": "away",
-          "abbreviation": "PHI",
-          "displayName": "Philadelphia Eagles",
-          "score": 10
+          "abbreviation": "EVE",
+          "displayName": "Everton",
+          "score": 0
         }
       ]
     },
