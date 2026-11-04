@@ -1,42 +1,15 @@
 {
-  "ts": "2026-11-03T21:53:05.479Z",
+  "ts": "2026-11-04T01:43:30.120Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841304",
-      "shortName": "MIR @ CHA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
-      "start": "2026-11-03T22:30Z",
-      "teams": [
-        {
-          "id": "9318",
-          "homeAway": "home",
-          "abbreviation": "CHA",
-          "displayName": "Chapecoense",
-          "score": 0
-        },
-        {
-          "id": "9169",
-          "homeAway": "away",
-          "abbreviation": "MIR",
-          "displayName": "Mirassol",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841301",
       "shortName": "CFC @ INT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "48'",
       "start": "2026-11-04T00:30Z",
       "teams": [
         {
