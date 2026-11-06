@@ -1,15 +1,15 @@
 {
-  "ts": "2026-11-06T16:52:51.061Z",
+  "ts": "2026-11-06T21:46:43.450Z",
   "games": [
     {
       "sport": "soccer",
       "league": "eng.1",
       "id": "401879242",
       "shortName": "COV @ EVE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "88'",
       "start": "2026-11-06T20:00Z",
       "teams": [
         {
@@ -17,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "EVE",
           "displayName": "Everton",
-          "score": 0
+          "score": 3
         },
         {
           "id": "388",
           "homeAway": "away",
           "abbreviation": "COV",
           "displayName": "Coventry City",
-          "score": 0
+          "score": 1
         }
       ]
     },
