@@ -1,6 +1,114 @@
 {
-  "ts": "2026-11-07T07:09:19.314Z",
+  "ts": "2026-11-07T13:55:54.061Z",
   "games": [
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401878758",
+      "shortName": "TOT @ LEE",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "64'",
+      "start": "2026-11-07T12:30Z",
+      "teams": [
+        {
+          "id": "357",
+          "homeAway": "home",
+          "abbreviation": "LEE",
+          "displayName": "Leeds United",
+          "score": 0
+        },
+        {
+          "id": "367",
+          "homeAway": "away",
+          "abbreviation": "TOT",
+          "displayName": "Tottenham Hotspur",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401878760",
+      "shortName": "HUL @ ARS",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-11-07T15:00Z",
+      "teams": [
+        {
+          "id": "359",
+          "homeAway": "home",
+          "abbreviation": "ARS",
+          "displayName": "Arsenal",
+          "score": 0
+        },
+        {
+          "id": "306",
+          "homeAway": "away",
+          "abbreviation": "HUL",
+          "displayName": "Hull City",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401879241",
+      "shortName": "NEW @ FUL",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-11-07T15:00Z",
+      "teams": [
+        {
+          "id": "370",
+          "homeAway": "home",
+          "abbreviation": "FUL",
+          "displayName": "Fulham",
+          "score": 0
+        },
+        {
+          "id": "361",
+          "homeAway": "away",
+          "abbreviation": "NEW",
+          "displayName": "Newcastle United",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401878757",
+      "shortName": "MNC @ NFO",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-11-07T17:30Z",
+      "teams": [
+        {
+          "id": "393",
+          "homeAway": "home",
+          "abbreviation": "NFO",
+          "displayName": "Nottingham Forest",
+          "score": 0
+        },
+        {
+          "id": "382",
+          "homeAway": "away",
+          "abbreviation": "MNC",
+          "displayName": "Manchester City",
+          "score": 0
+        }
+      ]
+    },
     {
       "sport": "football",
       "league": "nfl",
