@@ -1,60 +1,6 @@
 {
-  "ts": "2026-11-06T21:46:43.450Z",
+  "ts": "2026-11-07T01:14:54.478Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "401879242",
-      "shortName": "COV @ EVE",
-      "status": "STATUS_SECOND_HALF",
-      "state": "IN",
-      "period": 2,
-      "clock": "88'",
-      "start": "2026-11-06T20:00Z",
-      "teams": [
-        {
-          "id": "368",
-          "homeAway": "home",
-          "abbreviation": "EVE",
-          "displayName": "Everton",
-          "score": 3
-        },
-        {
-          "id": "388",
-          "homeAway": "away",
-          "abbreviation": "COV",
-          "displayName": "Coventry City",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841302",
-      "shortName": "FLU @ VIT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
-      "start": "2026-11-06T23:00Z",
-      "teams": [
-        {
-          "id": "3457",
-          "homeAway": "home",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 0
-        },
-        {
-          "id": "3445",
-          "homeAway": "away",
-          "abbreviation": "FLU",
-          "displayName": "Fluminense",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
