@@ -1,204 +1,15 @@
 {
-  "ts": "2026-11-08T18:49:45.825Z",
+  "ts": "2026-11-08T22:30:41.777Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873040",
-      "shortName": "DAL @ IND",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "13:40",
-      "start": "2026-11-08T18:00Z",
-      "teams": [
-        {
-          "id": "11",
-          "homeAway": "home",
-          "abbreviation": "IND",
-          "displayName": "Indianapolis Colts",
-          "score": 7
-        },
-        {
-          "id": "6",
-          "homeAway": "away",
-          "abbreviation": "DAL",
-          "displayName": "Dallas Cowboys",
-          "score": 10
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873045",
-      "shortName": "NYJ @ KC",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "11:29",
-      "start": "2026-11-08T18:00Z",
-      "teams": [
-        {
-          "id": "12",
-          "homeAway": "home",
-          "abbreviation": "KC",
-          "displayName": "Kansas City Chiefs",
-          "score": 7
-        },
-        {
-          "id": "20",
-          "homeAway": "away",
-          "abbreviation": "NYJ",
-          "displayName": "New York Jets",
-          "score": 6
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873042",
-      "shortName": "DET @ MIA",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "9:36",
-      "start": "2026-11-08T18:00Z",
-      "teams": [
-        {
-          "id": "15",
-          "homeAway": "home",
-          "abbreviation": "MIA",
-          "displayName": "Miami Dolphins",
-          "score": 3
-        },
-        {
-          "id": "8",
-          "homeAway": "away",
-          "abbreviation": "DET",
-          "displayName": "Detroit Lions",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873039",
-      "shortName": "CLE @ NO",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "8:53",
-      "start": "2026-11-08T18:00Z",
-      "teams": [
-        {
-          "id": "18",
-          "homeAway": "home",
-          "abbreviation": "NO",
-          "displayName": "New Orleans Saints",
-          "score": 3
-        },
-        {
-          "id": "5",
-          "homeAway": "away",
-          "abbreviation": "CLE",
-          "displayName": "Cleveland Browns",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873044",
-      "shortName": "NYG @ PHI",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "15:00",
-      "start": "2026-11-08T18:00Z",
-      "teams": [
-        {
-          "id": "21",
-          "homeAway": "home",
-          "abbreviation": "PHI",
-          "displayName": "Philadelphia Eagles",
-          "score": 8
-        },
-        {
-          "id": "19",
-          "homeAway": "away",
-          "abbreviation": "NYG",
-          "displayName": "New York Giants",
-          "score": 6
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873043",
-      "shortName": "LAR @ WSH",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "12:25",
-      "start": "2026-11-08T18:00Z",
-      "teams": [
-        {
-          "id": "28",
-          "homeAway": "home",
-          "abbreviation": "WSH",
-          "displayName": "Washington Commanders",
-          "score": 10
-        },
-        {
-          "id": "14",
-          "homeAway": "away",
-          "abbreviation": "LAR",
-          "displayName": "Los Angeles Rams",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873041",
-      "shortName": "DEN @ CAR",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "12:37",
-      "start": "2026-11-08T18:00Z",
-      "teams": [
-        {
-          "id": "29",
-          "homeAway": "home",
-          "abbreviation": "CAR",
-          "displayName": "Carolina Panthers",
-          "score": 0
-        },
-        {
-          "id": "7",
-          "homeAway": "away",
-          "abbreviation": "DEN",
-          "displayName": "Denver Broncos",
-          "score": 10
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
       "id": "401873046",
       "shortName": "HOU @ LAC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 2,
+      "clock": "1:28",
       "start": "2026-11-08T21:05Z",
       "teams": [
         {
@@ -206,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 0
+          "score": 9
         },
         {
           "id": "34",
           "homeAway": "away",
           "abbreviation": "HOU",
           "displayName": "Houston Texans",
-          "score": 0
+          "score": 17
         }
       ]
     },
@@ -222,10 +33,10 @@
       "league": "nfl",
       "id": "401873049",
       "shortName": "GB @ NE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 2,
+      "clock": "8:30",
       "start": "2026-11-08T21:25Z",
       "teams": [
         {
@@ -233,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "NE",
           "displayName": "New England Patriots",
-          "score": 0
+          "score": 7
         },
         {
           "id": "9",
           "homeAway": "away",
           "abbreviation": "GB",
           "displayName": "Green Bay Packers",
-          "score": 0
+          "score": 17
         }
       ]
     },
@@ -249,10 +60,10 @@
       "league": "nfl",
       "id": "401873047",
       "shortName": "LV @ SF",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 2,
+      "clock": "1:12",
       "start": "2026-11-08T21:25Z",
       "teams": [
         {
@@ -260,14 +71,14 @@
           "homeAway": "home",
           "abbreviation": "SF",
           "displayName": "San Francisco 49ers",
-          "score": 0
+          "score": 21
         },
         {
           "id": "13",
           "homeAway": "away",
           "abbreviation": "LV",
           "displayName": "Las Vegas Raiders",
-          "score": 0
+          "score": 10
         }
       ]
     },
@@ -276,10 +87,10 @@
       "league": "nfl",
       "id": "401873048",
       "shortName": "ARI @ SEA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 2,
+      "clock": "5:29",
       "start": "2026-11-08T21:25Z",
       "teams": [
         {
@@ -287,14 +98,14 @@
           "homeAway": "home",
           "abbreviation": "SEA",
           "displayName": "Seattle Seahawks",
-          "score": 0
+          "score": 7
         },
         {
           "id": "22",
           "homeAway": "away",
           "abbreviation": "ARI",
           "displayName": "Arizona Cardinals",
-          "score": 0
+          "score": 3
         }
       ]
     },
