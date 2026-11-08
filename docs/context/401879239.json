@@ -1,0 +1,30 @@
+{
+  "ts": "2026-11-08T14:15:17.779Z",
+  "sport": "soccer",
+  "league": "eng.1",
+  "eventId": "401879239",
+  "context": {
+    "down": null,
+    "distance": null,
+    "yardline": null,
+    "quarter": 1,
+    "clock_secs": 780,
+    "score_diff": 0,
+    "recent_gains": [
+      0,
+      0,
+      0,
+      0,
+      121,
+      0
+    ],
+    "recent_clock": [
+      720,
+      720,
+      780,
+      780,
+      780,
+      780
+    ]
+  }
+}
