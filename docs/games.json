@@ -1,33 +1,6 @@
 {
-  "ts": "2026-11-09T01:50:31.089Z",
+  "ts": "2026-11-09T08:42:27.019Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873050",
-      "shortName": "TB @ CHI",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 1,
-      "clock": "4:08",
-      "start": "2026-11-09T01:20Z",
-      "teams": [
-        {
-          "id": "3",
-          "homeAway": "home",
-          "abbreviation": "CHI",
-          "displayName": "Chicago Bears",
-          "score": 14
-        },
-        {
-          "id": "27",
-          "homeAway": "away",
-          "abbreviation": "TB",
-          "displayName": "Tampa Bay Buccaneers",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
