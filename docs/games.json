@@ -1,123 +1,15 @@
 {
-  "ts": "2026-11-08T22:30:41.777Z",
+  "ts": "2026-11-09T01:50:31.089Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873046",
-      "shortName": "HOU @ LAC",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "1:28",
-      "start": "2026-11-08T21:05Z",
-      "teams": [
-        {
-          "id": "24",
-          "homeAway": "home",
-          "abbreviation": "LAC",
-          "displayName": "Los Angeles Chargers",
-          "score": 9
-        },
-        {
-          "id": "34",
-          "homeAway": "away",
-          "abbreviation": "HOU",
-          "displayName": "Houston Texans",
-          "score": 17
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873049",
-      "shortName": "GB @ NE",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "8:30",
-      "start": "2026-11-08T21:25Z",
-      "teams": [
-        {
-          "id": "17",
-          "homeAway": "home",
-          "abbreviation": "NE",
-          "displayName": "New England Patriots",
-          "score": 7
-        },
-        {
-          "id": "9",
-          "homeAway": "away",
-          "abbreviation": "GB",
-          "displayName": "Green Bay Packers",
-          "score": 17
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873047",
-      "shortName": "LV @ SF",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "1:12",
-      "start": "2026-11-08T21:25Z",
-      "teams": [
-        {
-          "id": "25",
-          "homeAway": "home",
-          "abbreviation": "SF",
-          "displayName": "San Francisco 49ers",
-          "score": 21
-        },
-        {
-          "id": "13",
-          "homeAway": "away",
-          "abbreviation": "LV",
-          "displayName": "Las Vegas Raiders",
-          "score": 10
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873048",
-      "shortName": "ARI @ SEA",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 2,
-      "clock": "5:29",
-      "start": "2026-11-08T21:25Z",
-      "teams": [
-        {
-          "id": "26",
-          "homeAway": "home",
-          "abbreviation": "SEA",
-          "displayName": "Seattle Seahawks",
-          "score": 7
-        },
-        {
-          "id": "22",
-          "homeAway": "away",
-          "abbreviation": "ARI",
-          "displayName": "Arizona Cardinals",
-          "score": 3
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
       "id": "401873050",
       "shortName": "TB @ CHI",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "4:08",
       "start": "2026-11-09T01:20Z",
       "teams": [
         {
@@ -125,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 0
+          "score": 14
         },
         {
           "id": "27",
