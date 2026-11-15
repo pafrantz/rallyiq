@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-15T02:10:52.509Z",
+  "ts": "2026-11-15T09:15:52.919Z",
   "games": [
     {
       "sport": "football",
@@ -348,6 +348,357 @@
           "homeAway": "away",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841315",
+      "shortName": "SAN @ CFC",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-11-18T22:30Z",
+      "teams": [
+        {
+          "id": "3456",
+          "homeAway": "home",
+          "abbreviation": "CFC",
+          "displayName": "Coritiba",
+          "score": 0
+        },
+        {
+          "id": "2674",
+          "homeAway": "away",
+          "abbreviation": "SAN",
+          "displayName": "Santos",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841310",
+      "shortName": "CHA @ REMO",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-11-18T23:00Z",
+      "teams": [
+        {
+          "id": "4936",
+          "homeAway": "home",
+          "abbreviation": "REMO",
+          "displayName": "Remo",
+          "score": 0
+        },
+        {
+          "id": "9318",
+          "homeAway": "away",
+          "abbreviation": "CHA",
+          "displayName": "Chapecoense",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841314",
+      "shortName": "PAL @ CRU",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-11-18T23:30Z",
+      "teams": [
+        {
+          "id": "2022",
+          "homeAway": "home",
+          "abbreviation": "CRU",
+          "displayName": "Cruzeiro",
+          "score": 0
+        },
+        {
+          "id": "2029",
+          "homeAway": "away",
+          "abbreviation": "PAL",
+          "displayName": "Palmeiras",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841313",
+      "shortName": "CAP @ FLA",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-11-18T23:30Z",
+      "teams": [
+        {
+          "id": "819",
+          "homeAway": "home",
+          "abbreviation": "FLA",
+          "displayName": "Flamengo",
+          "score": 0
+        },
+        {
+          "id": "3458",
+          "homeAway": "away",
+          "abbreviation": "CAP",
+          "displayName": "Athletico-PR",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841316",
+      "shortName": "BOT @ COR",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-11-19T00:30Z",
+      "teams": [
+        {
+          "id": "874",
+          "homeAway": "home",
+          "abbreviation": "COR",
+          "displayName": "Corinthians",
+          "score": 0
+        },
+        {
+          "id": "6086",
+          "homeAway": "away",
+          "abbreviation": "BOT",
+          "displayName": "Botafogo",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "bra.1",
+      "id": "401841312",
+      "shortName": "BAH @ GRE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-11-19T00:30Z",
+      "teams": [
+        {
+          "id": "6273",
+          "homeAway": "home",
+          "abbreviation": "GRE",
+          "displayName": "Grêmio",
+          "score": 0
+        },
+        {
+          "id": "9967",
+          "homeAway": "away",
+          "abbreviation": "BAH",
+          "displayName": "Bahia",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401879233",
+      "shortName": "FUL @ MNC",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-11-21T12:30Z",
+      "teams": [
+        {
+          "id": "382",
+          "homeAway": "home",
+          "abbreviation": "MNC",
+          "displayName": "Manchester City",
+          "score": 0
+        },
+        {
+          "id": "370",
+          "homeAway": "away",
+          "abbreviation": "FUL",
+          "displayName": "Fulham",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401879238",
+      "shortName": "NFO @ BOU",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-11-21T15:00Z",
+      "teams": [
+        {
+          "id": "349",
+          "homeAway": "home",
+          "abbreviation": "BOU",
+          "displayName": "AFC Bournemouth",
+          "score": 0
+        },
+        {
+          "id": "393",
+          "homeAway": "away",
+          "abbreviation": "NFO",
+          "displayName": "Nottingham Forest",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401878756",
+      "shortName": "SUN @ AVL",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-11-21T15:00Z",
+      "teams": [
+        {
+          "id": "362",
+          "homeAway": "home",
+          "abbreviation": "AVL",
+          "displayName": "Aston Villa",
+          "score": 0
+        },
+        {
+          "id": "366",
+          "homeAway": "away",
+          "abbreviation": "SUN",
+          "displayName": "Sunderland",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401879236",
+      "shortName": "LEE @ CHE",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-11-21T15:00Z",
+      "teams": [
+        {
+          "id": "363",
+          "homeAway": "home",
+          "abbreviation": "CHE",
+          "displayName": "Chelsea",
+          "score": 0
+        },
+        {
+          "id": "357",
+          "homeAway": "away",
+          "abbreviation": "LEE",
+          "displayName": "Leeds United",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401879235",
+      "shortName": "CRY @ COV",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-11-21T15:00Z",
+      "teams": [
+        {
+          "id": "388",
+          "homeAway": "home",
+          "abbreviation": "COV",
+          "displayName": "Coventry City",
+          "score": 0
+        },
+        {
+          "id": "384",
+          "homeAway": "away",
+          "abbreviation": "CRY",
+          "displayName": "Crystal Palace",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401878754",
+      "shortName": "IPS @ TOT",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-11-21T15:00Z",
+      "teams": [
+        {
+          "id": "367",
+          "homeAway": "home",
+          "abbreviation": "TOT",
+          "displayName": "Tottenham Hotspur",
+          "score": 0
+        },
+        {
+          "id": "373",
+          "homeAway": "away",
+          "abbreviation": "IPS",
+          "displayName": "Ipswich Town",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "sport": "soccer",
+      "league": "eng.1",
+      "id": "401879232",
+      "shortName": "ARS @ NEW",
+      "status": "STATUS_SCHEDULED",
+      "state": "PRE",
+      "period": null,
+      "clock": "0'",
+      "start": "2026-11-21T17:30Z",
+      "teams": [
+        {
+          "id": "361",
+          "homeAway": "home",
+          "abbreviation": "NEW",
+          "displayName": "Newcastle United",
+          "score": 0
+        },
+        {
+          "id": "359",
+          "homeAway": "away",
+          "abbreviation": "ARS",
+          "displayName": "Arsenal",
           "score": 0
         }
       ]
