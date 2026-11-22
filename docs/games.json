@@ -1,231 +1,15 @@
 {
-  "ts": "2026-11-22T18:30:13.145Z",
+  "ts": "2026-11-22T23:43:23.858Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873070",
-      "shortName": "MIA @ BUF",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 1,
-      "clock": "4:35",
-      "start": "2026-11-22T18:00Z",
-      "teams": [
-        {
-          "id": "2",
-          "homeAway": "home",
-          "abbreviation": "BUF",
-          "displayName": "Buffalo Bills",
-          "score": 6
-        },
-        {
-          "id": "15",
-          "homeAway": "away",
-          "abbreviation": "MIA",
-          "displayName": "Miami Dolphins",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873071",
-      "shortName": "NO @ CHI",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 1,
-      "clock": "2:26",
-      "start": "2026-11-22T18:00Z",
-      "teams": [
-        {
-          "id": "3",
-          "homeAway": "home",
-          "abbreviation": "CHI",
-          "displayName": "Chicago Bears",
-          "score": 3
-        },
-        {
-          "id": "18",
-          "homeAway": "away",
-          "abbreviation": "NO",
-          "displayName": "New Orleans Saints",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873073",
-      "shortName": "TEN @ DAL",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 1,
-      "clock": "4:24",
-      "start": "2026-11-22T18:00Z",
-      "teams": [
-        {
-          "id": "6",
-          "homeAway": "home",
-          "abbreviation": "DAL",
-          "displayName": "Dallas Cowboys",
-          "score": 6
-        },
-        {
-          "id": "10",
-          "homeAway": "away",
-          "abbreviation": "TEN",
-          "displayName": "Tennessee Titans",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873072",
-      "shortName": "TB @ DET",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 1,
-      "clock": "1:44",
-      "start": "2026-11-22T18:00Z",
-      "teams": [
-        {
-          "id": "8",
-          "homeAway": "home",
-          "abbreviation": "DET",
-          "displayName": "Detroit Lions",
-          "score": 0
-        },
-        {
-          "id": "27",
-          "homeAway": "away",
-          "abbreviation": "TB",
-          "displayName": "Tampa Bay Buccaneers",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873067",
-      "shortName": "ARI @ KC",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 1,
-      "clock": "2:08",
-      "start": "2026-11-22T18:00Z",
-      "teams": [
-        {
-          "id": "12",
-          "homeAway": "home",
-          "abbreviation": "KC",
-          "displayName": "Kansas City Chiefs",
-          "score": 7
-        },
-        {
-          "id": "22",
-          "homeAway": "away",
-          "abbreviation": "ARI",
-          "displayName": "Arizona Cardinals",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873076",
-      "shortName": "PIT @ PHI",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 1,
-      "clock": "2:49",
-      "start": "2026-11-22T18:00Z",
-      "teams": [
-        {
-          "id": "21",
-          "homeAway": "home",
-          "abbreviation": "PHI",
-          "displayName": "Philadelphia Eagles",
-          "score": 6
-        },
-        {
-          "id": "23",
-          "homeAway": "away",
-          "abbreviation": "PIT",
-          "displayName": "Pittsburgh Steelers",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873068",
-      "shortName": "BAL @ CAR",
-      "status": "STATUS_IN_PROGRESS",
-      "state": "IN",
-      "period": 1,
-      "clock": "5:27",
-      "start": "2026-11-22T18:00Z",
-      "teams": [
-        {
-          "id": "29",
-          "homeAway": "home",
-          "abbreviation": "CAR",
-          "displayName": "Carolina Panthers",
-          "score": 0
-        },
-        {
-          "id": "33",
-          "homeAway": "away",
-          "abbreviation": "BAL",
-          "displayName": "Baltimore Ravens",
-          "score": 9
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841318",
-      "shortName": "REMO @ CAP",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
-      "start": "2026-11-22T19:00Z",
-      "teams": [
-        {
-          "id": "3458",
-          "homeAway": "home",
-          "abbreviation": "CAP",
-          "displayName": "Athletico-PR",
-          "score": 0
-        },
-        {
-          "id": "4936",
-          "homeAway": "away",
-          "abbreviation": "REMO",
-          "displayName": "Remo",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
       "id": "401873074",
       "shortName": "NYJ @ LAC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 4,
+      "clock": "1:37",
       "start": "2026-11-22T21:05Z",
       "teams": [
         {
@@ -233,14 +17,14 @@
           "homeAway": "home",
           "abbreviation": "LAC",
           "displayName": "Los Angeles Chargers",
-          "score": 0
+          "score": 24
         },
         {
           "id": "20",
           "homeAway": "away",
           "abbreviation": "NYJ",
           "displayName": "New York Jets",
-          "score": 0
+          "score": 27
         }
       ]
     },
@@ -249,10 +33,10 @@
       "league": "nfl",
       "id": "401873075",
       "shortName": "LV @ DEN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 3,
+      "clock": "2:33",
       "start": "2026-11-22T21:25Z",
       "teams": [
         {
@@ -260,14 +44,14 @@
           "homeAway": "home",
           "abbreviation": "DEN",
           "displayName": "Denver Broncos",
-          "score": 0
+          "score": 17
         },
         {
           "id": "13",
           "homeAway": "away",
           "abbreviation": "LV",
           "displayName": "Las Vegas Raiders",
-          "score": 0
+          "score": 17
         }
       ]
     },
@@ -276,10 +60,10 @@
       "league": "nfl",
       "id": "401873069",
       "shortName": "JAX @ NYG",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 3,
+      "clock": "1:03",
       "start": "2026-11-22T21:25Z",
       "teams": [
         {
@@ -287,41 +71,14 @@
           "homeAway": "home",
           "abbreviation": "NYG",
           "displayName": "New York Giants",
-          "score": 0
+          "score": 20
         },
         {
           "id": "30",
           "homeAway": "away",
           "abbreviation": "JAX",
           "displayName": "Jacksonville Jaguars",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841324",
-      "shortName": "MIR @ FLU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
-      "start": "2026-11-22T21:30Z",
-      "teams": [
-        {
-          "id": "3445",
-          "homeAway": "home",
-          "abbreviation": "FLU",
-          "displayName": "Fluminense",
-          "score": 0
-        },
-        {
-          "id": "9169",
-          "homeAway": "away",
-          "abbreviation": "MIR",
-          "displayName": "Mirassol",
-          "score": 0
+          "score": 6
         }
       ]
     },
@@ -330,10 +87,10 @@
       "league": "bra.1",
       "id": "401841321",
       "shortName": "VAS @ BRA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "51'",
       "start": "2026-11-22T22:30Z",
       "teams": [
         {
