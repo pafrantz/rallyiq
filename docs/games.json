@@ -1,69 +1,15 @@
 {
-  "ts": "2026-11-22T11:14:59.946Z",
+  "ts": "2026-11-22T18:30:13.145Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "401879234",
-      "shortName": "BHA @ HUL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
-      "start": "2026-11-22T14:00Z",
-      "teams": [
-        {
-          "id": "306",
-          "homeAway": "home",
-          "abbreviation": "HUL",
-          "displayName": "Hull City",
-          "score": 0
-        },
-        {
-          "id": "331",
-          "homeAway": "away",
-          "abbreviation": "BHA",
-          "displayName": "Brighton & Hove Albion",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "401878755",
-      "shortName": "MAN @ LIV",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
-      "start": "2026-11-22T16:30Z",
-      "teams": [
-        {
-          "id": "364",
-          "homeAway": "home",
-          "abbreviation": "LIV",
-          "displayName": "Liverpool",
-          "score": 0
-        },
-        {
-          "id": "360",
-          "homeAway": "away",
-          "abbreviation": "MAN",
-          "displayName": "Manchester United",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
       "id": "401873070",
       "shortName": "MIA @ BUF",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "4:35",
       "start": "2026-11-22T18:00Z",
       "teams": [
         {
@@ -71,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "BUF",
           "displayName": "Buffalo Bills",
-          "score": 0
+          "score": 6
         },
         {
           "id": "15",
@@ -87,10 +33,10 @@
       "league": "nfl",
       "id": "401873071",
       "shortName": "NO @ CHI",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "2:26",
       "start": "2026-11-22T18:00Z",
       "teams": [
         {
@@ -98,7 +44,7 @@
           "homeAway": "home",
           "abbreviation": "CHI",
           "displayName": "Chicago Bears",
-          "score": 0
+          "score": 3
         },
         {
           "id": "18",
@@ -114,10 +60,10 @@
       "league": "nfl",
       "id": "401873073",
       "shortName": "TEN @ DAL",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "4:24",
       "start": "2026-11-22T18:00Z",
       "teams": [
         {
@@ -125,14 +71,14 @@
           "homeAway": "home",
           "abbreviation": "DAL",
           "displayName": "Dallas Cowboys",
-          "score": 0
+          "score": 6
         },
         {
           "id": "10",
           "homeAway": "away",
           "abbreviation": "TEN",
           "displayName": "Tennessee Titans",
-          "score": 0
+          "score": 3
         }
       ]
     },
@@ -141,10 +87,10 @@
       "league": "nfl",
       "id": "401873072",
       "shortName": "TB @ DET",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "1:44",
       "start": "2026-11-22T18:00Z",
       "teams": [
         {
@@ -168,10 +114,10 @@
       "league": "nfl",
       "id": "401873067",
       "shortName": "ARI @ KC",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "2:08",
       "start": "2026-11-22T18:00Z",
       "teams": [
         {
@@ -179,7 +125,7 @@
           "homeAway": "home",
           "abbreviation": "KC",
           "displayName": "Kansas City Chiefs",
-          "score": 0
+          "score": 7
         },
         {
           "id": "22",
@@ -195,10 +141,10 @@
       "league": "nfl",
       "id": "401873076",
       "shortName": "PIT @ PHI",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "2:49",
       "start": "2026-11-22T18:00Z",
       "teams": [
         {
@@ -206,7 +152,7 @@
           "homeAway": "home",
           "abbreviation": "PHI",
           "displayName": "Philadelphia Eagles",
-          "score": 0
+          "score": 6
         },
         {
           "id": "23",
@@ -222,10 +168,10 @@
       "league": "nfl",
       "id": "401873068",
       "shortName": "BAL @ CAR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "5:27",
       "start": "2026-11-22T18:00Z",
       "teams": [
         {
@@ -240,7 +186,7 @@
           "homeAway": "away",
           "abbreviation": "BAL",
           "displayName": "Baltimore Ravens",
-          "score": 0
+          "score": 9
         }
       ]
     },
