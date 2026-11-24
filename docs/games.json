@@ -1,96 +1,15 @@
 {
-  "ts": "2026-11-23T14:01:00.952Z",
+  "ts": "2026-11-24T01:30:14.826Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "401879237",
-      "shortName": "EVE @ BRE",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
-      "start": "2026-11-23T20:00Z",
-      "teams": [
-        {
-          "id": "337",
-          "homeAway": "home",
-          "abbreviation": "BRE",
-          "displayName": "Brentford",
-          "score": 0
-        },
-        {
-          "id": "368",
-          "homeAway": "away",
-          "abbreviation": "EVE",
-          "displayName": "Everton",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841323",
-      "shortName": "VIT @ INT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
-      "start": "2026-11-23T22:30Z",
-      "teams": [
-        {
-          "id": "1936",
-          "homeAway": "home",
-          "abbreviation": "INT",
-          "displayName": "Internacional",
-          "score": 0
-        },
-        {
-          "id": "3457",
-          "homeAway": "away",
-          "abbreviation": "VIT",
-          "displayName": "Vitória",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841326",
-      "shortName": "SAO @ BOT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
-      "start": "2026-11-23T23:00Z",
-      "teams": [
-        {
-          "id": "6086",
-          "homeAway": "home",
-          "abbreviation": "BOT",
-          "displayName": "Botafogo",
-          "score": 0
-        },
-        {
-          "id": "2026",
-          "homeAway": "away",
-          "abbreviation": "SAO",
-          "displayName": "São Paulo",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841320",
       "shortName": "GRE @ SAN",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_SECOND_HALF",
+      "state": "IN",
+      "period": 2,
+      "clock": "63'",
       "start": "2026-11-24T00:00Z",
       "teams": [
         {
@@ -105,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "GRE",
           "displayName": "Grêmio",
-          "score": 0
+          "score": 1
         }
       ]
     },
@@ -114,10 +33,10 @@
       "league": "nfl",
       "id": "401873078",
       "shortName": "CIN @ WSH",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
+      "status": "STATUS_IN_PROGRESS",
+      "state": "IN",
+      "period": 1,
+      "clock": "9:09",
       "start": "2026-11-24T01:15Z",
       "teams": [
         {
