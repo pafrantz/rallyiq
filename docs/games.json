@@ -1,15 +1,15 @@
 {
-  "ts": "2026-11-24T11:25:17.551Z",
+  "ts": "2026-11-24T21:22:38.564Z",
   "games": [
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841335",
       "shortName": "PAL @ CHA",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "21'",
       "start": "2026-11-24T21:00Z",
       "teams": [
         {
@@ -17,7 +17,7 @@
           "homeAway": "home",
           "abbreviation": "CHA",
           "displayName": "Chapecoense",
-          "score": 0
+          "score": 1
         },
         {
           "id": "2029",
