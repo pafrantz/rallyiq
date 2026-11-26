@@ -1,60 +1,6 @@
 {
-  "ts": "2026-11-25T23:14:43.604Z",
+  "ts": "2026-11-26T05:02:36.983Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841319",
-      "shortName": "COR @ CAM",
-      "status": "STATUS_FIRST_HALF",
-      "state": "IN",
-      "period": 1,
-      "clock": "10'",
-      "start": "2026-11-25T23:00Z",
-      "teams": [
-        {
-          "id": "7632",
-          "homeAway": "home",
-          "abbreviation": "CAM",
-          "displayName": "Atlético-MG",
-          "score": 0
-        },
-        {
-          "id": "874",
-          "homeAway": "away",
-          "abbreviation": "COR",
-          "displayName": "Corinthians",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873079",
-      "shortName": "GB @ LAR",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
-      "start": "2026-11-26T01:00Z",
-      "teams": [
-        {
-          "id": "14",
-          "homeAway": "home",
-          "abbreviation": "LAR",
-          "displayName": "Los Angeles Rams",
-          "score": 0
-        },
-        {
-          "id": "9",
-          "homeAway": "away",
-          "abbreviation": "GB",
-          "displayName": "Green Bay Packers",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
