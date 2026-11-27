@@ -1,69 +1,15 @@
 {
-  "ts": "2026-11-27T14:56:51.911Z",
+  "ts": "2026-11-27T23:04:15.465Z",
   "games": [
-    {
-      "sport": "football",
-      "league": "nfl",
-      "id": "401873083",
-      "shortName": "DEN @ PIT",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": 0,
-      "clock": "0:00",
-      "start": "2026-11-27T20:00Z",
-      "teams": [
-        {
-          "id": "23",
-          "homeAway": "home",
-          "abbreviation": "PIT",
-          "displayName": "Pittsburgh Steelers",
-          "score": 0
-        },
-        {
-          "id": "7",
-          "homeAway": "away",
-          "abbreviation": "DEN",
-          "displayName": "Denver Broncos",
-          "score": 0
-        }
-      ]
-    },
-    {
-      "sport": "soccer",
-      "league": "eng.1",
-      "id": "401879225",
-      "shortName": "CHE @ NFO",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
-      "start": "2026-11-27T20:00Z",
-      "teams": [
-        {
-          "id": "393",
-          "homeAway": "home",
-          "abbreviation": "NFO",
-          "displayName": "Nottingham Forest",
-          "score": 0
-        },
-        {
-          "id": "363",
-          "homeAway": "away",
-          "abbreviation": "CHE",
-          "displayName": "Chelsea",
-          "score": 0
-        }
-      ]
-    },
     {
       "sport": "soccer",
       "league": "bra.1",
       "id": "401841337",
       "shortName": "CRU @ FLU",
-      "status": "STATUS_SCHEDULED",
-      "state": "PRE",
-      "period": null,
-      "clock": "0'",
+      "status": "STATUS_FIRST_HALF",
+      "state": "IN",
+      "period": 1,
+      "clock": "4'",
       "start": "2026-11-27T23:00Z",
       "teams": [
         {
@@ -78,7 +24,7 @@
           "homeAway": "away",
           "abbreviation": "CRU",
           "displayName": "Cruzeiro",
-          "score": 0
+          "score": 1
         }
       ]
     },
