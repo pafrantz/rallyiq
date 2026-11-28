@@ -1,33 +1,6 @@
 {
-  "ts": "2026-11-27T23:04:15.465Z",
+  "ts": "2026-11-28T04:39:55.250Z",
   "games": [
-    {
-      "sport": "soccer",
-      "league": "bra.1",
-      "id": "401841337",
-      "shortName": "CRU @ FLU",
-      "status": "STATUS_FIRST_HALF",
-      "state": "IN",
-      "period": 1,
-      "clock": "4'",
-      "start": "2026-11-27T23:00Z",
-      "teams": [
-        {
-          "id": "3445",
-          "homeAway": "home",
-          "abbreviation": "FLU",
-          "displayName": "Fluminense",
-          "score": 0
-        },
-        {
-          "id": "2022",
-          "homeAway": "away",
-          "abbreviation": "CRU",
-          "displayName": "Cruzeiro",
-          "score": 1
-        }
-      ]
-    },
     {
       "sport": "football",
       "league": "nfl",
